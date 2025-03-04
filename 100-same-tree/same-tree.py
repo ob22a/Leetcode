@@ -11,18 +11,8 @@ class Solution(object):
         :type q: Optional[TreeNode]
         :rtype: bool
         """
-        s1,s2=list([p]),list([q])
-        while s1 or s2:
-            node1=s1.pop()
-            node2=s2.pop()
-            if node1 and node2:
-                if node1.val!=node2.val:
-                    return False
-                s1.append(node1.right)
-                s1.append(node1.left)
-                s2.append(node2.right)
-                s2.append(node2.left)
-            else:
-                if node1!=node2:
-                    return False
-        return True
+        if not p and not q:
+            return True
+        elif (not p or not q) or (p.val!=q.val):
+            return False
+        return self.isSameTree(p.left,q.left) and self.isSameTree(p.right,q.right)
