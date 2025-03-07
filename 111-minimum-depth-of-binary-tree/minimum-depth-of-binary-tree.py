@@ -10,8 +10,7 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        if not root:
-            return 0
+        if not root:return 0
         queue=deque([(root,1)])
         while queue:
             node,depth=queue.popleft()
