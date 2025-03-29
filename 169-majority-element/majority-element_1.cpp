@@ -7,7 +7,7 @@ public:
             counter[num]++; //c++ initializes missing keys with 0 by default so no need for if else.
         }
        
-        for(auto pair:counter){
+        for(const auto pair:counter){//adding const avoids copying and improves performance
             if(pair.second>nums.size()/2){
                 return pair.first;
             }
