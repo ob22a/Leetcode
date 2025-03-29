@@ -1,8 +1,6 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int max=0;
-        int sol=0;
         unordered_map<int,int> counter;
         
         for(int num:nums){
@@ -11,12 +9,10 @@ public:
         }
        
         for(auto pair:counter){
-            if(pair.second>max){
-                sol=pair.first;
-                max=pair.second;
-            };
+            if(pair.second>nums.size()/2){
+                return pair.first;
+            }
         }
-        
-        return sol;
+        return -1;
     }
 };
