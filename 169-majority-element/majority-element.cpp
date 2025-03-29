@@ -4,8 +4,7 @@ public:
         unordered_map<int,int> counter;
         
         for(int num:nums){
-            if(counter.count(num)) counter[num]+=1;
-            else counter[num]=1;
+            counter[num]++; //c++ initializes missing keys with 0 by default so no need for if else.
         }
        
         for(auto pair:counter){
