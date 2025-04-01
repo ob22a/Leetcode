@@ -15,7 +15,7 @@ public:
         ListNode* current=head;
 
         while(current){
-            ListNode* next = current->next;
+            ListNode* next = current->next; //This is very critical because when current->next gets modified this modification also occurs at the head
             current->next=prev;
             prev=current;
             current=next;
