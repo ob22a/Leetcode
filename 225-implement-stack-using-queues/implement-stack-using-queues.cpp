@@ -25,7 +25,7 @@ public:
     }
     
     bool empty() {
-        return q.empty();
+        return size==0;
     }
 };
 
