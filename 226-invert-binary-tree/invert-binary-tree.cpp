@@ -12,21 +12,20 @@
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
-        TreeNode* current=root;
-        stack<TreeNode*> s;
-        if(current) s.push(current);
+        stack<TreeNode*> nodeStack;
+        if(root) nodeStack.push(root);
 
-        while(!s.empty()){
-            TreeNode* node=s.top();
-            s.pop();
+        while(!nodeStack.empty()){
+            TreeNode* node=nodeStack.top();
+            nodeStack.pop();
             
             if(!node->left && !node->right) continue;
             TreeNode* temp=node->left;
             node->left=node->right;
             node->right=temp;
 
-            if(node->left) s.push(node->left);
-            if(node->right) s.push(node->right);
+            if(node->left) nodeStack.push(node->left);
+            if(node->right) nodeStack.push(node->right);
         }
         return root;
     }
