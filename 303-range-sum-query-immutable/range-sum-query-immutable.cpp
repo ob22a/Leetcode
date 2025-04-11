@@ -1,17 +1,15 @@
 class NumArray {
 public:
-    vector<int> prefixSum;
+    vector<int> prefixSum={0};
     
     NumArray(vector<int>& nums) {
-        prefixSum.push_back(nums[0]);
-        for(int i=1;i<nums.size();++i){
-            prefixSum.push_back(prefixSum[i-1]+nums[i]);
+        for(int i=0;i<nums.size();++i){
+            prefixSum.push_back(prefixSum[i]+nums[i]);
         }
     }
     
     int sumRange(int left, int right) {
-        if(left>0) return prefixSum[right]-prefixSum[left-1];
-        else return prefixSum[right];
+        return prefixSum[right+1]-prefixSum[left];
     }
 };
 
