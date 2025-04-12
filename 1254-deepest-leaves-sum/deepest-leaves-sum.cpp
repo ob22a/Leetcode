@@ -24,7 +24,7 @@ public:
         while(!s.empty()){
             auto [node,height]=s.top();
             s.pop();
-            if(!node->left && !node->right && height==maxHeight) sum+=node->val;
+            if(height==maxHeight) sum+=node->val;
             if(node->left) s.push({node->left,height+1});
             if(node->right) s.push({node->right,height+1});
         }
