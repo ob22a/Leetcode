@@ -1,0 +1,17 @@
+class Solution {
+public:
+    bool isValidSudoku(vector<vector<char>>& board) {
+        unordered_set<char> row[9],box[9],column[9];
+        for(int i=0;i<9;++i){
+            for(int j=0;j<9;++j){
+                if(board[i][j]!='.'){
+                    if(column[j].count(board[i][j]) || row[i].count(board[i][j]) || box[(i/3)*3+j/3].count(board[i][j])) return false; 
+                row[i].insert(board[i][j]);
+                column[j].insert(board[i][j]);
+                box[(i/3)*3+j/3].insert(board[i][j]);
+                }
+            }
+        }
+        return true;
+    }
+};
