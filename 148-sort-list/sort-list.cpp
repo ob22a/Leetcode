@@ -11,8 +11,8 @@
 class Solution {
 public:
     ListNode* mergeSort(ListNode* &left,ListNode* &right){
-        ListNode* dummy=new ListNode();
-        ListNode* cur=dummy;
+        ListNode dummy;
+        ListNode* cur=&dummy;
         while(left && right){
             if(left->val<right->val){
                 cur->next=left;
@@ -24,10 +24,9 @@ public:
             }
             cur=cur->next;
         }
-        if(right) cur->next=right;
-        if(left) cur->next=left;
+        cur->next=(left)?left:right;
 
-        return dummy->next;
+        return dummy.next;
     }
     ListNode* middle(ListNode* head){
         ListNode *slow=head,*fast=head;
@@ -44,12 +43,10 @@ public:
         ListNode* prev=middle(head);
         ListNode* mid=(prev)?prev->next:nullptr;
         prev->next=nullptr;
-        
-        if(mid!=head){
-            ListNode* left=sortList(head);
-            ListNode* right=sortList(mid);
-            return mergeSort(left,right);
-        }
+
+        ListNode* left=sortList(head);
+        ListNode* right=sortList(mid);
+        return mergeSort(left,right);
 
         return nullptr;
     }
