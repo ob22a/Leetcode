@@ -1,13 +1,12 @@
 class Solution {
 public:
     int numberOfArrays(vector<int>& differences, int lower, int upper) {
-        vector<long long> prefixSum={0};
-        long long minimum=prefixSum[0],maximum=prefixSum[0];
+        long long cur=0;
+        long long minimum=0,maximum=0;
         for(int d:differences){
-            prefixSum.push_back(prefixSum.back()+d);
-            long long last=prefixSum.back();
-            if(minimum>last) minimum=last;
-            if(maximum<last) maximum=last;
+            cur+=d;
+            if(minimum>cur) minimum=cur;
+            if(maximum<cur) maximum=cur;
         }
         long long low=lower-minimum,high=upper-maximum;
         
