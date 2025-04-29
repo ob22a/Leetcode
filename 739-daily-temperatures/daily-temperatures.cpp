@@ -8,10 +8,7 @@ public:
             while(!s.empty() && s.top().first<=temperatures[i]){
                 s.pop();
             }
-            if(s.empty()) sol[i]=0;
-            else{
-                sol[i]=s.top().second-i;
-            } 
+            sol[i]=s.empty() ? 0 : s.top().second-i; 
             s.push({temperatures[i],i});
         }
         return sol;
