@@ -1,11 +1,11 @@
 class Solution {
 public:
     bool selfDivide(int num){
-        if(num<9) return true;
-        string n=to_string(num);
-        for(char c:n){
-            int digit=c-'0';
-            if(digit==0 || num%digit!=0) return false;
+        int n=num;
+        while(n>0){
+            int digit=n%10;
+            n/=10;
+            if(digit==0 || num%digit!=0 ) return false;
         }
         return true;
     }
