@@ -8,9 +8,7 @@ public:
     }
     
     bool addCar(int carType) {
-        if(availableSize[carType-1]<=0) return false;
-        availableSize[carType-1]--;
-        return true;
+        return availableSize[carType-1]-->0;
     }
 };
 
