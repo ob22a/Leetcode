@@ -11,11 +11,10 @@ public:
             seen.insert(nums[i]);
         }
 
-        while(true){
-            if(!seen.count(preSum)) return preSum;
+        while(seen.count(preSum)){
             ++preSum;
         }
         
-        return -1;
+        return preSum;
     }
 };
