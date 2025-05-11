@@ -5,16 +5,13 @@ public:
         for(char c:s) freq[c]++;
         if(freq.size()<=k) return 0;
 
-        vector<int>count;
-        for(const auto& [c,n]:freq){
-            count.push_back(n);
-        }
+        priority_queue<int,vector<int>,greater<int>> minHeap;
+        for(const auto& [c,n]:freq) minHeap.push(n);
 
-        sort(count.begin(),count.end());
-
-        int sol=0;
-        for(int i=0;i<freq.size()-k;++i){
-            sol+=count[i];
+        int sol=0,toDelete=freq.size()-k;
+        while(toDelete--){
+            sol+=minHeap.top();
+            minHeap.pop();
         }
         
         return sol;
