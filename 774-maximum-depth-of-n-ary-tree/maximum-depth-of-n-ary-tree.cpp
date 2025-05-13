@@ -22,7 +22,7 @@ class Solution {
 public:
     int maxDepth(Node* root) {
         if(!root) return 0;
-        
+
         stack<tuple<Node*,int>> s;
         int maxHeight=0;
         s.push({root,1});
@@ -33,8 +33,8 @@ public:
 
             maxHeight=max(maxHeight,height);
 
-            for(int i=0;i<node->children.size();++i){
-                s.push({node->children[i],height+1});
+            for(Node* child:node->children){
+                s.push({child,height+1});
             }
         }
         return maxHeight;
