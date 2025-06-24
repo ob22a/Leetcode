@@ -1,44 +1,2830 @@
-# Leetcode
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0506-relative-ranks](https://github.com/ob22a/Leetcode/tree/master/0506-relative-ranks) |
-## Sorting
-|  |
-| ------- |
-| [0506-relative-ranks](https://github.com/ob22a/Leetcode/tree/master/0506-relative-ranks) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0506-relative-ranks](https://github.com/ob22a/Leetcode/tree/master/0506-relative-ranks) |
-## Hash Table
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/ob22a/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-## Two Pointers
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/ob22a/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-## Tree
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/ob22a/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-## Depth-First Search
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/ob22a/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/ob22a/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/ob22a/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-## Binary Tree
-|  |
-| ------- |
-| [0653-two-sum-iv-input-is-a-bst](https://github.com/ob22a/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
-<!---LeetCode Topics End-->
+# 🧠 My LeetCode Solutions
+
+Welcome to my LeetCode solutions repository!
+
+---
+
+## 🎯 Statistics
+
+**Total Questions:** 292
+
+### Difficulty Distribution
+
+![Difficulty Distribution](![image](https://github.com/user-attachments/assets/859e038d-13fb-4cf4-a6c5-95cab0068d1b))
+
+| Difficulty | Count |
+|------------|-------|
+| <span style='color:green'>Easy</span> | 208 |
+| <span style='color:orange'>Medium</span> | 82 |
+| <span style='color:red'>Hard</span> | 2 |
+
+### Topics Overview
+
+| Topic | Number of Questions |
+|-------|---------------------|
+| [Array](#array) | 125 |
+| [Backtracking](#backtracking) | 7 |
+| [Binary Search](#binary-search) | 16 |
+| [Binary Search Tree](#binary-search-tree) | 8 |
+| [Binary Tree](#binary-tree) | 25 |
+| [Bit Manipulation](#bit-manipulation) | 18 |
+| [Brainteaser](#brainteaser) | 3 |
+| [Breadth-First Search](#breadth-first-search) | 14 |
+| [Bucket Sort](#bucket-sort) | 3 |
+| [Combinatorics](#combinatorics) | 1 |
+| [Counting](#counting) | 21 |
+| [Counting Sort](#counting-sort) | 2 |
+| [Data Stream](#data-stream) | 5 |
+| [Database](#database) | 13 |
+| [Depth-First Search](#depth-first-search) | 24 |
+| [Design](#design) | 18 |
+| [Divide and Conquer](#divide-and-conquer) | 11 |
+| [Doubly-Linked List](#doubly-linked-list) | 1 |
+| [Dynamic Programming](#dynamic-programming) | 13 |
+| [Enumeration](#enumeration) | 5 |
+| [Game Theory](#game-theory) | 2 |
+| [Geometry](#geometry) | 1 |
+| [Graph](#graph) | 3 |
+| [Greedy](#greedy) | 18 |
+| [Hash Function](#hash-function) | 3 |
+| [Hash Table](#hash-table) | 68 |
+| [Heap (Priority Queue)](#heap-(priority-queue)) | 12 |
+| [Interactive](#interactive) | 2 |
+| [Line Sweep](#line-sweep) | 1 |
+| [Linked List](#linked-list) | 24 |
+| [Math](#math) | 62 |
+| [Matrix](#matrix) | 8 |
+| [Memoization](#memoization) | 3 |
+| [Merge Sort](#merge-sort) | 2 |
+| [Monotonic Stack](#monotonic-stack) | 9 |
+| [Number Theory](#number-theory) | 2 |
+| [Ordered Set](#ordered-set) | 1 |
+| [Prefix Sum](#prefix-sum) | 5 |
+| [Queue](#queue) | 5 |
+| [Quickselect](#quickselect) | 2 |
+| [Radix Sort](#radix-sort) | 2 |
+| [Recursion](#recursion) | 12 |
+| [Rolling Hash](#rolling-hash) | 1 |
+| [Simulation](#simulation) | 20 |
+| [Sliding Window](#sliding-window) | 7 |
+| [Sorting](#sorting) | 44 |
+| [Stack](#stack) | 31 |
+| [String](#string) | 67 |
+| [String Matching](#string-matching) | 4 |
+| [Tree](#tree) | 28 |
+| [Trie](#trie) | 2 |
+| [Two Pointers](#two-pointers) | 43 |
+| [Union Find](#union-find) | 1 |
+
+---
+
+<details>
+<summary id="array"><strong>Array</strong> (Total: 125)</summary>
+
+- **506. [Relative Ranks](./0506-relative-ranks)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1. [Two Sum](./1-two-sum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1018. [Largest Perimeter Triangle](./1018-largest-perimeter-triangle)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1019. [Squares of a Sorted Array](./1019-squares-of-a-sorted-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1028. [Interval List Intersections](./1028-interval-list-intersections)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1044. [Find Common Characters](./1044-find-common-characters)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **105. [Construct Binary Tree from Preorder and Inorder Traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **108. [Convert Sorted Array to Binary Search Tree](./108-convert-sorted-array-to-binary-search-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **11. [Container With Most Water](./11-container-with-most-water)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1127. [Last Stone Weight](./1127-last-stone-weight)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **118. [Pascal's Triangle](./118-pascals-triangle)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **119. [Pascal's Triangle II](./119-pascals-triangle-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **121. [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1210. [Mean of Array After Removing Some Elements](./1210-mean-of-array-after-removing-some-elements)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1227. [Number of Equivalent Domino Pairs](./1227-number-of-equivalent-domino-pairs)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1329. [Minimum Cost to Move Chips to The Same Position](./1329-minimum-cost-to-move-chips-to-the-same-position)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1349. [Check If It Is a Straight Line](./1349-check-if-it-is-a-straight-line)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1353. [Find Resultant Array After Removing Anagrams](./1353-find-resultant-array-after-removing-anagrams)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1354. [Find Players With Zero or One Losses](./1354-find-players-with-zero-or-one-losses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **136. [Single Number](./136-single-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1392. [Find the Difference of Two Arrays](./1392-find-the-difference-of-two-arrays)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1468. [Check If N and Its Double Exist](./1468-check-if-n-and-its-double-exist)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1477. [Product of the Last K Numbers](./1477-product-of-the-last-k-numbers)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1497. [Design a Stack With Increment Operation](./1497-design-a-stack-with-increment-operation)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **15. [3Sum](./15-3sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **150. [Evaluate Reverse Polish Notation](./150-evaluate-reverse-polish-notation)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1582. [Design Browser History](./1582-design-browser-history)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1603. [Running Sum of 1d Array](./1603-running-sum-of-1d-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **164. [Maximum Gap](./164-maximum-gap)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1656. [Count Good Triplets](./1656-count-good-triplets)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **167. [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1677. [Matrix Diagonal Sum](./1677-matrix-diagonal-sum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **169. [Majority Element](./169-majority-element)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1720. [Crawler Log Folder](./1720-crawler-log-folder)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1741. [Sort Array by Increasing Frequency](./1741-sort-array-by-increasing-frequency)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1791. [Richest Customer Wealth](./1791-richest-customer-wealth)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1848. [Sum of Unique Elements](./1848-sum-of-unique-elements)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **189. [Rotate Array](./189-rotate-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **198. [House Robber](./198-house-robber)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1993. [Sum of All Subset XOR Totals](./1993-sum-of-all-subset-xor-totals)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **204. [Count Primes](./204-count-primes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2137. [Final Value of Variable After Performing Operations](./2137-final-value-of-variable-after-performing-operations)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2144. [Maximum Difference Between Increasing Elements](./2144-maximum-difference-between-increasing-elements)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **217. [Contains Duplicate](./217-contains-duplicate)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **219. [Contains Duplicate II](./219-contains-duplicate-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2245. [Destroying Asteroids](./2245-destroying-asteroids)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2249. [Count the Hidden Sequences](./2249-count-the-hidden-sequences)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2261. [All Divisions With the Highest Score of a Binary Array](./2261-all-divisions-with-the-highest-score-of-a-binary-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2277. [Count Equal and Divisible Pairs in an Array](./2277-count-equal-and-divisible-pairs-in-an-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **228. [Summary Ranges](./228-summary-ranges)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **229. [Majority Element II](./229-majority-element-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2308. [Divide Array Into Equal Pairs](./2308-divide-array-into-equal-pairs)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2331. [Intersection of Multiple Arrays](./2331-intersection-of-multiple-arrays)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2350. [Find Closest Number to Zero](./2350-find-closest-number-to-zero)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2436. [Make Array Zero by Subtracting Equal Amounts](./2436-make-array-zero-by-subtracting-equal-amounts)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2486. [Most Frequent Even Element](./2486-most-frequent-even-element)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2551. [Apply Operations to an Array](./2551-apply-operations-to-an-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **26. [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2614. [Maximum Count of Positive Integer and Negative Integer](./2614-maximum-count-of-positive-integer-and-negative-integer)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2634. [Minimum Common Value](./2634-minimum-common-value)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **268. [Missing Number](./268-missing-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **27. [Remove Element](./27-remove-element)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **283. [Move Zeroes](./283-move-zeroes)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2836. [Neither Minimum nor Maximum](./2836-neither-minimum-nor-maximum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2876. [Number of Employees Who Met the Target](./2876-number-of-employees-who-met-the-target)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **303. [Range Sum Query - Immutable](./303-range-sum-query-immutable)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3213. [Count Subarrays Where Max Element Appears at Least K Times](./3213-count-subarrays-where-max-element-appears-at-least-k-times)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3234. [Double Modular Exponentiation](./3234-double-modular-exponentiation)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3236. [Smallest Missing Integer Greater Than Sequential Prefix Sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3321. [Type of Triangle](./3321-type-of-triangle)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3367. [Find the Sum of Encrypted Integers](./3367-find-the-sum-of-encrypted-integers)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **349. [Intersection of Two Arrays](./349-intersection-of-two-arrays)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **35. [Search Insert Position](./35-search-insert-position)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **350. [Intersection of Two Arrays II](./350-intersection-of-two-arrays-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3581. [The Two Sneaky Numbers of Digitville](./3581-the-two-sneaky-numbers-of-digitville)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **36. [Valid Sudoku](./36-valid-sudoku)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3656. [Minimum Number of Operations to Make Elements in Array Distinct](./3656-minimum-number-of-operations-to-make-elements-in-array-distinct)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3747. [Maximum Difference Between Adjacent Elements in a Circular Array](./3747-maximum-difference-between-adjacent-elements-in-a-circular-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3778. [Transform Array by Parity](./3778-transform-array-by-parity)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **4. [Median of Two Sorted Arrays](./4-median-of-two-sorted-arrays)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **414. [Third Maximum Number](./414-third-maximum-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **448. [Find All Numbers Disappeared in an Array](./448-find-all-numbers-disappeared-in-an-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **455. [Assign Cookies](./455-assign-cookies)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **46. [Permutations](./46-permutations)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **48. [Rotate Image](./48-rotate-image)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **485. [Max Consecutive Ones](./485-max-consecutive-ones)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **49. [Group Anagrams](./49-group-anagrams)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **495. [Teemo Attacking](./495-teemo-attacking)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **496. [Next Greater Element I](./496-next-greater-element-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **498. [Diagonal Traverse](./498-diagonal-traverse)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **500. [Keyboard Row](./500-keyboard-row)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **503. [Next Greater Element II](./503-next-greater-element-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **506. [Relative Ranks](./506-relative-ranks)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **56. [Merge Intervals](./56-merge-intervals)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **561. [Array Partition](./561-array-partition)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **575. [Distribute Candies](./575-distribute-candies)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **594. [Longest Harmonious Subsequence](./594-longest-harmonious-subsequence)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **598. [Range Addition II](./598-range-addition-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **599. [Minimum Index Sum of Two Lists](./599-minimum-index-sum-of-two-lists)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **605. [Can Place Flowers](./605-can-place-flowers)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **621. [Task Scheduler](./621-task-scheduler)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **643. [Maximum Average Subarray I](./643-maximum-average-subarray-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **66. [Plus One](./66-plus-one)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **682. [Baseball Game](./682-baseball-game)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **735. [Asteroid Collision](./735-asteroid-collision)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **739. [Daily Temperatures](./739-daily-temperatures)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **75. [Sort Colors](./75-sort-colors)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **816. [Design HashSet](./816-design-hashset)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **817. [Design HashMap](./817-design-hashmap)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **822. [Unique Morse Code Words](./822-unique-morse-code-words)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **84. [Largest Rectangle in Histogram](./84-largest-rectangle-in-histogram)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **860. [Design Circular Queue](./860-design-circular-queue)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **861. [Flipping an Image](./861-flipping-an-image)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **88. [Merge Sorted Array](./88-merge-sorted-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **890. [Lemonade Change](./890-lemonade-change)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **898. [Transpose Matrix](./898-transpose-matrix)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **941. [Sort Array By Parity](./941-sort-array-by-parity)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **944. [Smallest Range I](./944-smallest-range-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **948. [Sort an Array](./948-sort-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **958. [Sort Array By Parity II](./958-sort-array-by-parity-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="backtracking"><strong>Backtracking</strong> (Total: 7)</summary>
+
+- **17. [Letter Combinations of a Phone Number](./17-letter-combinations-of-a-phone-number)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1993. [Sum of All Subset XOR Totals](./1993-sum-of-all-subset-xor-totals)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **22. [Generate Parentheses](./22-generate-parentheses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **257. [Binary Tree Paths](./257-binary-tree-paths)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **401. [Binary Watch](./401-binary-watch)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **46. [Permutations](./46-permutations)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 16)</summary>
+
+- **1468. [Check If N and Its Double Exist](./1468-check-if-n-and-its-double-exist)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **167. [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **222. [Count Complete Tree Nodes](./222-count-complete-tree-nodes)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2614. [Maximum Count of Positive Integer and Negative Integer](./2614-maximum-count-of-positive-integer-and-negative-integer)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2634. [Minimum Common Value](./2634-minimum-common-value)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **268. [Missing Number](./268-missing-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **278. [First Bad Version](./278-first-bad-version)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **349. [Intersection of Two Arrays](./349-intersection-of-two-arrays)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **35. [Search Insert Position](./35-search-insert-position)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **350. [Intersection of Two Arrays II](./350-intersection-of-two-arrays-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **367. [Valid Perfect Square](./367-valid-perfect-square)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **374. [Guess Number Higher or Lower](./374-guess-number-higher-or-lower)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **4. [Median of Two Sorted Arrays](./4-median-of-two-sorted-arrays)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **441. [Arranging Coins](./441-arranging-coins)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **633. [Sum of Square Numbers](./633-sum-of-square-numbers)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **69. [Sqrt(x)](./69-sqrtx)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="binary-search-tree"><strong>Binary Search Tree</strong> (Total: 8)</summary>
+
+- **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **108. [Convert Sorted Array to Binary Search Tree](./108-convert-sorted-array-to-binary-search-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **450. [Delete Node in a BST](./450-delete-node-in-a-bst)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **501. [Find Mode in Binary Search Tree](./501-find-mode-in-binary-search-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **975. [Range Sum of BST](./975-range-sum-of-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **98. [Validate Binary Search Tree](./98-validate-binary-search-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="binary-tree"><strong>Binary Tree</strong> (Total: 25)</summary>
+
+- **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **100. [Same Tree](./100-same-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **101. [Symmetric Tree](./101-symmetric-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **104. [Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **105. [Construct Binary Tree from Preorder and Inorder Traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **108. [Convert Sorted Array to Binary Search Tree](./108-convert-sorted-array-to-binary-search-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **110. [Balanced Binary Tree](./110-balanced-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **111. [Minimum Depth of Binary Tree](./111-minimum-depth-of-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **112. [Path Sum](./112-path-sum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **144. [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **145. [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **222. [Count Complete Tree Nodes](./222-count-complete-tree-nodes)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **226. [Invert Binary Tree](./226-invert-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **257. [Binary Tree Paths](./257-binary-tree-paths)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **404. [Sum of Left Leaves](./404-sum-of-left-leaves)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **450. [Delete Node in a BST](./450-delete-node-in-a-bst)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **501. [Find Mode in Binary Search Tree](./501-find-mode-in-binary-search-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **563. [Binary Tree Tilt](./563-binary-tree-tilt)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **94. [Binary Tree Inorder Traversal](./94-binary-tree-inorder-traversal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **975. [Range Sum of BST](./975-range-sum-of-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **98. [Validate Binary Search Tree](./98-validate-binary-search-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 18)</summary>
+
+- **136. [Single Number](./136-single-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **187. [Repeated DNA Sequences](./187-repeated-dna-sequences)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **190. [Reverse Bits](./190-reverse-bits)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **191. [Number of 1 Bits](./191-number-of-1-bits)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1993. [Sum of All Subset XOR Totals](./1993-sum-of-all-subset-xor-totals)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **222. [Count Complete Tree Nodes](./222-count-complete-tree-nodes)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2308. [Divide Array Into Equal Pairs](./2308-divide-array-into-equal-pairs)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **231. [Power of Two](./231-power-of-two)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2323. [Minimum Bit Flips to Convert Number](./2323-minimum-bit-flips-to-convert-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **268. [Missing Number](./268-missing-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **338. [Counting Bits](./338-counting-bits)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **342. [Power of Four](./342-power-of-four)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **389. [Find the Difference](./389-find-the-difference)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **401. [Binary Watch](./401-binary-watch)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **405. [Convert a Number to Hexadecimal](./405-convert-a-number-to-hexadecimal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **461. [Hamming Distance](./461-hamming-distance)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **67. [Add Binary](./67-add-binary)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **861. [Flipping an Image](./861-flipping-an-image)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="brainteaser"><strong>Brainteaser</strong> (Total: 3)</summary>
+
+- **1086. [Divisor Game](./1086-divisor-game)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **292. [Nim Game](./292-nim-game)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **319. [Bulb Switcher](./319-bulb-switcher)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 14)</summary>
+
+- **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **100. [Same Tree](./100-same-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **101. [Symmetric Tree](./101-symmetric-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **104. [Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **111. [Minimum Depth of Binary Tree](./111-minimum-depth-of-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **112. [Path Sum](./112-path-sum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **226. [Invert Binary Tree](./226-invert-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **404. [Sum of Left Leaves](./404-sum-of-left-leaves)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **774. [Maximum Depth of N-ary Tree](./774-maximum-depth-of-n-ary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="bucket-sort"><strong>Bucket Sort</strong> (Total: 3)</summary>
+
+- **164. [Maximum Gap](./164-maximum-gap)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **948. [Sort an Array](./948-sort-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="combinatorics"><strong>Combinatorics</strong> (Total: 1)</summary>
+
+- **1993. [Sum of All Subset XOR Totals](./1993-sum-of-all-subset-xor-totals)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="counting"><strong>Counting</strong> (Total: 21)</summary>
+
+- **1227. [Number of Equivalent Domino Pairs](./1227-number-of-equivalent-domino-pairs)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1354. [Find Players With Zero or One Losses](./1354-find-players-with-zero-or-one-losses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **169. [Majority Element](./169-majority-element)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1708. [Design Parking System](./1708-design-parking-system)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1848. [Sum of Unique Elements](./1848-sum-of-unique-elements)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **229. [Majority Element II](./229-majority-element-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2308. [Divide Array Into Equal Pairs](./2308-divide-array-into-equal-pairs)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2331. [Intersection of Multiple Arrays](./2331-intersection-of-multiple-arrays)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2377. [Check if Number Has Equal Digit Count and Digit Value](./2377-check-if-number-has-equal-digit-count-and-digit-value)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2486. [Most Frequent Even Element](./2486-most-frequent-even-element)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2532. [Remove Letter To Equalize Frequency](./2532-remove-letter-to-equalize-frequency)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2614. [Maximum Count of Positive Integer and Negative Integer](./2614-maximum-count-of-positive-integer-and-negative-integer)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3736. [Find Valid Pair of Adjacent Digits in String](./3736-find-valid-pair-of-adjacent-digits-in-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3753. [Maximum Difference Between Even and Odd Frequency I](./3753-maximum-difference-between-even-and-odd-frequency-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3778. [Transform Array by Parity](./3778-transform-array-by-parity)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **383. [Ransom Note](./383-ransom-note)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **387. [First Unique Character in a String](./387-first-unique-character-in-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3871. [Minimum Deletions for At Most K Distinct Characters](./3871-minimum-deletions-for-at-most-k-distinct-characters)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **594. [Longest Harmonious Subsequence](./594-longest-harmonious-subsequence)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **621. [Task Scheduler](./621-task-scheduler)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="counting-sort"><strong>Counting Sort</strong> (Total: 2)</summary>
+
+- **561. [Array Partition](./561-array-partition)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **948. [Sort an Array](./948-sort-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="data-stream"><strong>Data Stream</strong> (Total: 5)</summary>
+
+- **1477. [Product of the Last K Numbers](./1477-product-of-the-last-k-numbers)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1582. [Design Browser History](./1582-design-browser-history)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **937. [Online Stock Span](./937-online-stock-span)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **969. [Number of Recent Calls](./969-number-of-recent-calls)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="database"><strong>Database</strong> (Total: 13)</summary>
+
+- **1625. [Group Sold Products By The Date](./1625-group-sold-products-by-the-date)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **175. [Combine Two Tables](./175-combine-two-tables)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **176. [Second Highest Salary](./176-second-highest-salary)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **177. [Nth Highest Salary](./177-nth-highest-salary)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **178. [Rank Scores](./178-rank-scores)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **181. [Employees Earning More Than Their Managers](./181-employees-earning-more-than-their-managers)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **182. [Duplicate Emails](./182-duplicate-emails)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **183. [Customers Who Never Order](./183-customers-who-never-order)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1908. [Recyclable and Low Fat Products](./1908-recyclable-and-low-fat-products)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **196. [Delete Duplicate Emails](./196-delete-duplicate-emails)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **577. [Employee Bonus](./577-employee-bonus)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **595. [Big Countries](./595-big-countries)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **620. [Not Boring Movies](./620-not-boring-movies)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 24)</summary>
+
+- **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **100. [Same Tree](./100-same-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **101. [Symmetric Tree](./101-symmetric-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **104. [Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **110. [Balanced Binary Tree](./110-balanced-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **111. [Minimum Depth of Binary Tree](./111-minimum-depth-of-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **112. [Path Sum](./112-path-sum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **144. [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **145. [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **226. [Invert Binary Tree](./226-invert-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **257. [Binary Tree Paths](./257-binary-tree-paths)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **404. [Sum of Left Leaves](./404-sum-of-left-leaves)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **501. [Find Mode in Binary Search Tree](./501-find-mode-in-binary-search-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **563. [Binary Tree Tilt](./563-binary-tree-tilt)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **774. [Maximum Depth of N-ary Tree](./774-maximum-depth-of-n-ary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **775. [N-ary Tree Preorder Traversal](./775-n-ary-tree-preorder-traversal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **776. [N-ary Tree Postorder Traversal](./776-n-ary-tree-postorder-traversal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **94. [Binary Tree Inorder Traversal](./94-binary-tree-inorder-traversal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **975. [Range Sum of BST](./975-range-sum-of-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **98. [Validate Binary Search Tree](./98-validate-binary-search-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="design"><strong>Design</strong> (Total: 18)</summary>
+
+- **1477. [Product of the Last K Numbers](./1477-product-of-the-last-k-numbers)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1497. [Design a Stack With Increment Operation](./1497-design-a-stack-with-increment-operation)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **155. [Min Stack](./155-min-stack)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1582. [Design Browser History](./1582-design-browser-history)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1708. [Design Parking System](./1708-design-parking-system)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **208. [Implement Trie (Prefix Tree)](./208-implement-trie-prefix-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **225. [Implement Stack using Queues](./225-implement-stack-using-queues)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **232. [Implement Queue using Stacks](./232-implement-queue-using-stacks)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **303. [Range Sum Query - Immutable](./303-range-sum-query-immutable)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **355. [Design Twitter](./355-design-twitter)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **816. [Design HashSet](./816-design-hashset)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **817. [Design HashMap](./817-design-hashmap)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **838. [Design Linked List](./838-design-linked-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **860. [Design Circular Queue](./860-design-circular-queue)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **937. [Online Stock Span](./937-online-stock-span)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **969. [Number of Recent Calls](./969-number-of-recent-calls)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="divide-and-conquer"><strong>Divide and Conquer</strong> (Total: 11)</summary>
+
+- **105. [Construct Binary Tree from Preorder and Inorder Traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **108. [Convert Sorted Array to Binary Search Tree](./108-convert-sorted-array-to-binary-search-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **148. [Sort List](./148-sort-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **169. [Majority Element](./169-majority-element)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **190. [Reverse Bits](./190-reverse-bits)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **191. [Number of 1 Bits](./191-number-of-1-bits)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **372. [Super Pow](./372-super-pow)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **4. [Median of Two Sorted Arrays](./4-median-of-two-sorted-arrays)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **948. [Sort an Array](./948-sort-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="doubly-linked-list"><strong>Doubly-Linked List</strong> (Total: 1)</summary>
+
+- **1582. [Design Browser History](./1582-design-browser-history)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 13)</summary>
+
+- **1013. [Fibonacci Number](./1013-fibonacci-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1086. [Divisor Game](./1086-divisor-game)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **118. [Pascal's Triangle](./118-pascals-triangle)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **119. [Pascal's Triangle II](./119-pascals-triangle-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **121. [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1236. [N-th Tribonacci Number](./1236-n-th-tribonacci-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **198. [House Robber](./198-house-robber)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **22. [Generate Parentheses](./22-generate-parentheses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **264. [Ugly Number II](./264-ugly-number-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **338. [Counting Bits](./338-counting-bits)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **392. [Is Subsequence](./392-is-subsequence)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **5. [Longest Palindromic Substring](./5-longest-palindromic-substring)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **70. [Climbing Stairs](./70-climbing-stairs)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="enumeration"><strong>Enumeration</strong> (Total: 5)</summary>
+
+- **1656. [Count Good Triplets](./1656-count-good-triplets)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1993. [Sum of All Subset XOR Totals](./1993-sum-of-all-subset-xor-totals)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **204. [Count Primes](./204-count-primes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2998. [  Count Symmetric Integers](./2998-count-symmetric-integers)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="game-theory"><strong>Game Theory</strong> (Total: 2)</summary>
+
+- **1086. [Divisor Game](./1086-divisor-game)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **292. [Nim Game](./292-nim-game)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="geometry"><strong>Geometry</strong> (Total: 1)</summary>
+
+- **1349. [Check If It Is a Straight Line](./1349-check-if-it-is-a-straight-line)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="graph"><strong>Graph</strong> (Total: 3)</summary>
+
+- **1916. [Find Center of Star Graph](./1916-find-center-of-star-graph)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="greedy"><strong>Greedy</strong> (Total: 18)</summary>
+
+- **1018. [Largest Perimeter Triangle](./1018-largest-perimeter-triangle)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **11. [Container With Most Water](./11-container-with-most-water)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1159. [Smallest Subsequence of Distinct Characters](./1159-smallest-subsequence-of-distinct-characters)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1329. [Minimum Cost to Move Chips to The Same Position](./1329-minimum-cost-to-move-chips-to-the-same-position)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1448. [Maximum 69 Number](./1448-maximum-69-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2245. [Destroying Asteroids](./2245-destroying-asteroids)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2436. [Make Array Zero by Subtracting Equal Amounts](./2436-make-array-zero-by-subtracting-equal-amounts)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2650. [Split With Minimum Sum](./2650-split-with-minimum-sum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **316. [Remove Duplicate Letters](./316-remove-duplicate-letters)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3871. [Minimum Deletions for At Most K Distinct Characters](./3871-minimum-deletions-for-at-most-k-distinct-characters)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **402. [Remove K Digits](./402-remove-k-digits)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **409. [Longest Palindrome](./409-longest-palindrome)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **455. [Assign Cookies](./455-assign-cookies)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **561. [Array Partition](./561-array-partition)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **605. [Can Place Flowers](./605-can-place-flowers)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **621. [Task Scheduler](./621-task-scheduler)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **670. [Maximum Swap](./670-maximum-swap)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **890. [Lemonade Change](./890-lemonade-change)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="hash-function"><strong>Hash Function</strong> (Total: 3)</summary>
+
+- **187. [Repeated DNA Sequences](./187-repeated-dna-sequences)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **816. [Design HashSet](./816-design-hashset)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **817. [Design HashMap](./817-design-hashmap)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 68)</summary>
+
+- **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1. [Two Sum](./1-two-sum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1044. [Find Common Characters](./1044-find-common-characters)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **105. [Construct Binary Tree from Preorder and Inorder Traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **12. [Integer to Roman](./12-integer-to-roman)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1227. [Number of Equivalent Domino Pairs](./1227-number-of-equivalent-domino-pairs)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **13. [Roman to Integer](./13-roman-to-integer)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1353. [Find Resultant Array After Removing Anagrams](./1353-find-resultant-array-after-removing-anagrams)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1354. [Find Players With Zero or One Losses](./1354-find-players-with-zero-or-one-losses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1392. [Find the Difference of Two Arrays](./1392-find-the-difference-of-two-arrays)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **141. [Linked List Cycle](./141-linked-list-cycle)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **142. [Linked List Cycle II](./142-linked-list-cycle-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1468. [Check If N and Its Double Exist](./1468-check-if-n-and-its-double-exist)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1500. [Count Largest Group](./1500-count-largest-group)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **160. [Intersection of Two Linked Lists](./160-intersection-of-two-linked-lists)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **169. [Majority Element](./169-majority-element)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **17. [Letter Combinations of a Phone Number](./17-letter-combinations-of-a-phone-number)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1741. [Sort Array by Increasing Frequency](./1741-sort-array-by-increasing-frequency)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1848. [Sum of Unique Elements](./1848-sum-of-unique-elements)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **187. [Repeated DNA Sequences](./187-repeated-dna-sequences)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **202. [Happy Number](./202-happy-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **205. [Isomorphic Strings](./205-isomorphic-strings)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **208. [Implement Trie (Prefix Tree)](./208-implement-trie-prefix-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **217. [Contains Duplicate](./217-contains-duplicate)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **219. [Contains Duplicate II](./219-contains-duplicate-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **229. [Majority Element II](./229-majority-element-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2308. [Divide Array Into Equal Pairs](./2308-divide-array-into-equal-pairs)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2331. [Intersection of Multiple Arrays](./2331-intersection-of-multiple-arrays)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2377. [Check if Number Has Equal Digit Count and Digit Value](./2377-check-if-number-has-equal-digit-count-and-digit-value)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **242. [Valid Anagram](./242-valid-anagram)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2436. [Make Array Zero by Subtracting Equal Amounts](./2436-make-array-zero-by-subtracting-equal-amounts)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2486. [Most Frequent Even Element](./2486-most-frequent-even-element)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2532. [Remove Letter To Equalize Frequency](./2532-remove-letter-to-equalize-frequency)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2634. [Minimum Common Value](./2634-minimum-common-value)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **264. [Ugly Number II](./264-ugly-number-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **268. [Missing Number](./268-missing-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **290. [Word Pattern](./290-word-pattern)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3. [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3236. [Smallest Missing Integer Greater Than Sequential Prefix Sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **349. [Intersection of Two Arrays](./349-intersection-of-two-arrays)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **350. [Intersection of Two Arrays II](./350-intersection-of-two-arrays-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **355. [Design Twitter](./355-design-twitter)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3581. [The Two Sneaky Numbers of Digitville](./3581-the-two-sneaky-numbers-of-digitville)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **36. [Valid Sudoku](./36-valid-sudoku)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3656. [Minimum Number of Operations to Make Elements in Array Distinct](./3656-minimum-number-of-operations-to-make-elements-in-array-distinct)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3736. [Find Valid Pair of Adjacent Digits in String](./3736-find-valid-pair-of-adjacent-digits-in-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3753. [Maximum Difference Between Even and Odd Frequency I](./3753-maximum-difference-between-even-and-odd-frequency-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **383. [Ransom Note](./383-ransom-note)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **387. [First Unique Character in a String](./387-first-unique-character-in-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3871. [Minimum Deletions for At Most K Distinct Characters](./3871-minimum-deletions-for-at-most-k-distinct-characters)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **389. [Find the Difference](./389-find-the-difference)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **409. [Longest Palindrome](./409-longest-palindrome)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **438. [Find All Anagrams in a String](./438-find-all-anagrams-in-a-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **448. [Find All Numbers Disappeared in an Array](./448-find-all-numbers-disappeared-in-an-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **49. [Group Anagrams](./49-group-anagrams)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **496. [Next Greater Element I](./496-next-greater-element-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **500. [Keyboard Row](./500-keyboard-row)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **575. [Distribute Candies](./575-distribute-candies)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **594. [Longest Harmonious Subsequence](./594-longest-harmonious-subsequence)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **599. [Minimum Index Sum of Two Lists](./599-minimum-index-sum-of-two-lists)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **621. [Task Scheduler](./621-task-scheduler)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **782. [Jewels and Stones](./782-jewels-and-stones)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **816. [Design HashSet](./816-design-hashset)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **817. [Design HashMap](./817-design-hashmap)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **822. [Unique Morse Code Words](./822-unique-morse-code-words)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="heap-(priority-queue)"><strong>Heap (Priority Queue)</strong> (Total: 12)</summary>
+
+- **506. [Relative Ranks](./0506-relative-ranks)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1127. [Last Stone Weight](./1127-last-stone-weight)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2436. [Make Array Zero by Subtracting Equal Amounts](./2436-make-array-zero-by-subtracting-equal-amounts)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **264. [Ugly Number II](./264-ugly-number-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **355. [Design Twitter](./355-design-twitter)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **506. [Relative Ranks](./506-relative-ranks)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **621. [Task Scheduler](./621-task-scheduler)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **948. [Sort an Array](./948-sort-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="interactive"><strong>Interactive</strong> (Total: 2)</summary>
+
+- **278. [First Bad Version](./278-first-bad-version)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **374. [Guess Number Higher or Lower](./374-guess-number-higher-or-lower)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="line-sweep"><strong>Line Sweep</strong> (Total: 1)</summary>
+
+- **1028. [Interval List Intersections](./1028-interval-list-intersections)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="linked-list"><strong>Linked List</strong> (Total: 24)</summary>
+
+- **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **141. [Linked List Cycle](./141-linked-list-cycle)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **142. [Linked List Cycle II](./142-linked-list-cycle-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **143. [Reorder List](./143-reorder-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **148. [Sort List](./148-sort-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1582. [Design Browser History](./1582-design-browser-history)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **160. [Intersection of Two Linked Lists](./160-intersection-of-two-linked-lists)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **19. [Remove Nth Node From End of List](./19-remove-nth-node-from-end-of-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2. [Add Two Numbers](./2-add-two-numbers)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **203. [Remove Linked List Elements](./203-remove-linked-list-elements)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **206. [Reverse Linked List](./206-reverse-linked-list)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **21. [Merge Two Sorted Lists](./21-merge-two-sorted-lists)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **234. [Palindrome Linked List](./234-palindrome-linked-list)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **24. [Swap Nodes in Pairs](./24-swap-nodes-in-pairs)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2871. [Double a Number Represented as a Linked List](./2871-double-a-number-represented-as-a-linked-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **355. [Design Twitter](./355-design-twitter)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **528. [Swapping Nodes in a Linked List](./528-swapping-nodes-in-a-linked-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **61. [Rotate List](./61-rotate-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **816. [Design HashSet](./816-design-hashset)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **817. [Design HashMap](./817-design-hashmap)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **83. [Remove Duplicates from Sorted List](./83-remove-duplicates-from-sorted-list)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **838. [Design Linked List](./838-design-linked-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **860. [Design Circular Queue](./860-design-circular-queue)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **908. [Middle of the Linked List](./908-middle-of-the-linked-list)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="math"><strong>Math</strong> (Total: 62)</summary>
+
+- **1013. [Fibonacci Number](./1013-fibonacci-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1018. [Largest Perimeter Triangle](./1018-largest-perimeter-triangle)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1086. [Divisor Game](./1086-divisor-game)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **12. [Integer to Roman](./12-integer-to-roman)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1236. [N-th Tribonacci Number](./1236-n-th-tribonacci-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **13. [Roman to Integer](./13-roman-to-integer)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1329. [Minimum Cost to Move Chips to The Same Position](./1329-minimum-cost-to-move-chips-to-the-same-position)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1349. [Check If It Is a Straight Line](./1349-check-if-it-is-a-straight-line)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1448. [Maximum 69 Number](./1448-maximum-69-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1477. [Product of the Last K Numbers](./1477-product-of-the-last-k-numbers)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **150. [Evaluate Reverse Polish Notation](./150-evaluate-reverse-polish-notation)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1500. [Count Largest Group](./1500-count-largest-group)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **168. [Excel Sheet Column Title](./168-excel-sheet-column-title)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **171. [Excel Sheet Column Number](./171-excel-sheet-column-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **189. [Rotate Array](./189-rotate-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1965. [Sum of Digits in Base K](./1965-sum-of-digits-in-base-k)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1993. [Sum of All Subset XOR Totals](./1993-sum-of-all-subset-xor-totals)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2. [Add Two Numbers](./2-add-two-numbers)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **202. [Happy Number](./202-happy-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **204. [Count Primes](./204-count-primes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **231. [Power of Two](./231-power-of-two)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2383. [Add Two Integers](./2383-add-two-integers)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **258. [Add Digits](./258-add-digits)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **263. [Ugly Number](./263-ugly-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2630. [Alternating Digit Sum](./2630-alternating-digit-sum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **264. [Ugly Number II](./264-ugly-number-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2650. [Split With Minimum Sum](./2650-split-with-minimum-sum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **268. [Missing Number](./268-missing-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2812. [Find the Maximum Achievable Number](./2812-find-the-maximum-achievable-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2871. [Double a Number Represented as a Linked List](./2871-double-a-number-represented-as-a-linked-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **292. [Nim Game](./292-nim-game)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2998. [  Count Symmetric Integers](./2998-count-symmetric-integers)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **319. [Bulb Switcher](./319-bulb-switcher)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3234. [Double Modular Exponentiation](./3234-double-modular-exponentiation)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **326. [Power of Three](./326-power-of-three)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3321. [Type of Triangle](./3321-type-of-triangle)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3367. [Find the Sum of Encrypted Integers](./3367-find-the-sum-of-encrypted-integers)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **342. [Power of Four](./342-power-of-four)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3581. [The Two Sneaky Numbers of Digitville](./3581-the-two-sneaky-numbers-of-digitville)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3625. [Stone Removal Game](./3625-stone-removal-game)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **367. [Valid Perfect Square](./367-valid-perfect-square)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **372. [Super Pow](./372-super-pow)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **405. [Convert a Number to Hexadecimal](./405-convert-a-number-to-hexadecimal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **412. [Fizz Buzz](./412-fizz-buzz)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **415. [Add Strings](./415-add-strings)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **43. [Multiply Strings](./43-multiply-strings)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **441. [Arranging Coins](./441-arranging-coins)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **48. [Rotate Image](./48-rotate-image)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **492. [Construct the Rectangle](./492-construct-the-rectangle)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **50. [Pow(x, n)](./50-powx-n)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **507. [Perfect Number](./507-perfect-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **598. [Range Addition II](./598-range-addition-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **633. [Sum of Square Numbers](./633-sum-of-square-numbers)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **66. [Plus One](./66-plus-one)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **67. [Add Binary](./67-add-binary)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **670. [Maximum Swap](./670-maximum-swap)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **69. [Sqrt(x)](./69-sqrtx)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **7. [Reverse Integer](./7-reverse-integer)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **70. [Climbing Stairs](./70-climbing-stairs)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **728. [Self Dividing Numbers](./728-self-dividing-numbers)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **9. [Palindrome Number](./9-palindrome-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **944. [Smallest Range I](./944-smallest-range-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="matrix"><strong>Matrix</strong> (Total: 8)</summary>
+
+- **1677. [Matrix Diagonal Sum](./1677-matrix-diagonal-sum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1791. [Richest Customer Wealth](./1791-richest-customer-wealth)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **36. [Valid Sudoku](./36-valid-sudoku)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **48. [Rotate Image](./48-rotate-image)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **498. [Diagonal Traverse](./498-diagonal-traverse)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **861. [Flipping an Image](./861-flipping-an-image)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **898. [Transpose Matrix](./898-transpose-matrix)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="memoization"><strong>Memoization</strong> (Total: 3)</summary>
+
+- **1013. [Fibonacci Number](./1013-fibonacci-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1236. [N-th Tribonacci Number](./1236-n-th-tribonacci-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **70. [Climbing Stairs](./70-climbing-stairs)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="merge-sort"><strong>Merge Sort</strong> (Total: 2)</summary>
+
+- **148. [Sort List](./148-sort-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **948. [Sort an Array](./948-sort-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="monotonic-stack"><strong>Monotonic Stack</strong> (Total: 9)</summary>
+
+- **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1159. [Smallest Subsequence of Distinct Characters](./1159-smallest-subsequence-of-distinct-characters)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **316. [Remove Duplicate Letters](./316-remove-duplicate-letters)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **402. [Remove K Digits](./402-remove-k-digits)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **496. [Next Greater Element I](./496-next-greater-element-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **503. [Next Greater Element II](./503-next-greater-element-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **739. [Daily Temperatures](./739-daily-temperatures)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **84. [Largest Rectangle in Histogram](./84-largest-rectangle-in-histogram)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **937. [Online Stock Span](./937-online-stock-span)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="number-theory"><strong>Number Theory</strong> (Total: 2)</summary>
+
+- **204. [Count Primes](./204-count-primes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **258. [Add Digits](./258-add-digits)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="ordered-set"><strong>Ordered Set</strong> (Total: 1)</summary>
+
+- **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 5)</summary>
+
+- **1477. [Product of the Last K Numbers](./1477-product-of-the-last-k-numbers)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1603. [Running Sum of 1d Array](./1603-running-sum-of-1d-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2249. [Count the Hidden Sequences](./2249-count-the-hidden-sequences)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **303. [Range Sum Query - Immutable](./303-range-sum-query-immutable)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="queue"><strong>Queue</strong> (Total: 5)</summary>
+
+- **225. [Implement Stack using Queues](./225-implement-stack-using-queues)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **232. [Implement Queue using Stacks](./232-implement-queue-using-stacks)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **387. [First Unique Character in a String](./387-first-unique-character-in-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **860. [Design Circular Queue](./860-design-circular-queue)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **969. [Number of Recent Calls](./969-number-of-recent-calls)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="quickselect"><strong>Quickselect</strong> (Total: 2)</summary>
+
+- **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="radix-sort"><strong>Radix Sort</strong> (Total: 2)</summary>
+
+- **164. [Maximum Gap](./164-maximum-gap)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **948. [Sort an Array](./948-sort-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="recursion"><strong>Recursion</strong> (Total: 12)</summary>
+
+- **1013. [Fibonacci Number](./1013-fibonacci-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **143. [Reorder List](./143-reorder-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2. [Add Two Numbers](./2-add-two-numbers)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **203. [Remove Linked List Elements](./203-remove-linked-list-elements)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **206. [Reverse Linked List](./206-reverse-linked-list)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **21. [Merge Two Sorted Lists](./21-merge-two-sorted-lists)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **231. [Power of Two](./231-power-of-two)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **234. [Palindrome Linked List](./234-palindrome-linked-list)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **24. [Swap Nodes in Pairs](./24-swap-nodes-in-pairs)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **326. [Power of Three](./326-power-of-three)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **342. [Power of Four](./342-power-of-four)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **50. [Pow(x, n)](./50-powx-n)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="rolling-hash"><strong>Rolling Hash</strong> (Total: 1)</summary>
+
+- **187. [Repeated DNA Sequences](./187-repeated-dna-sequences)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="simulation"><strong>Simulation</strong> (Total: 20)</summary>
+
+- **1708. [Design Parking System](./1708-design-parking-system)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2137. [Final Value of Variable After Performing Operations](./2137-final-value-of-variable-after-performing-operations)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2436. [Make Array Zero by Subtracting Equal Amounts](./2436-make-array-zero-by-subtracting-equal-amounts)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2470. [Removing Stars From a String](./2470-removing-stars-from-a-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2551. [Apply Operations to an Array](./2551-apply-operations-to-an-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **258. [Add Digits](./258-add-digits)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3234. [Double Modular Exponentiation](./3234-double-modular-exponentiation)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3625. [Stone Removal Game](./3625-stone-removal-game)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3811. [Reverse Degree of a String](./3811-reverse-degree-of-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **412. [Fizz Buzz](./412-fizz-buzz)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **415. [Add Strings](./415-add-strings)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **43. [Multiply Strings](./43-multiply-strings)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **495. [Teemo Attacking](./495-teemo-attacking)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **498. [Diagonal Traverse](./498-diagonal-traverse)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **67. [Add Binary](./67-add-binary)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **682. [Baseball Game](./682-baseball-game)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **735. [Asteroid Collision](./735-asteroid-collision)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **861. [Flipping an Image](./861-flipping-an-image)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **874. [Backspace String Compare](./874-backspace-string-compare)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **898. [Transpose Matrix](./898-transpose-matrix)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 7)</summary>
+
+- **187. [Repeated DNA Sequences](./187-repeated-dna-sequences)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **219. [Contains Duplicate II](./219-contains-duplicate-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3. [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3213. [Count Subarrays Where Max Element Appears at Least K Times](./3213-count-subarrays-where-max-element-appears-at-least-k-times)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **438. [Find All Anagrams in a String](./438-find-all-anagrams-in-a-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **594. [Longest Harmonious Subsequence](./594-longest-harmonious-subsequence)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **643. [Maximum Average Subarray I](./643-maximum-average-subarray-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="sorting"><strong>Sorting</strong> (Total: 44)</summary>
+
+- **506. [Relative Ranks](./0506-relative-ranks)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1018. [Largest Perimeter Triangle](./1018-largest-perimeter-triangle)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1019. [Squares of a Sorted Array](./1019-squares-of-a-sorted-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1210. [Mean of Array After Removing Some Elements](./1210-mean-of-array-after-removing-some-elements)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1353. [Find Resultant Array After Removing Anagrams](./1353-find-resultant-array-after-removing-anagrams)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1354. [Find Players With Zero or One Losses](./1354-find-players-with-zero-or-one-losses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1468. [Check If N and Its Double Exist](./1468-check-if-n-and-its-double-exist)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **148. [Sort List](./148-sort-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **15. [3Sum](./15-3sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **164. [Maximum Gap](./164-maximum-gap)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **169. [Majority Element](./169-majority-element)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1741. [Sort Array by Increasing Frequency](./1741-sort-array-by-increasing-frequency)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1970. [Sorting the Sentence](./1970-sorting-the-sentence)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **217. [Contains Duplicate](./217-contains-duplicate)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2245. [Destroying Asteroids](./2245-destroying-asteroids)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **229. [Majority Element II](./229-majority-element-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2331. [Intersection of Multiple Arrays](./2331-intersection-of-multiple-arrays)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **242. [Valid Anagram](./242-valid-anagram)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2436. [Make Array Zero by Subtracting Equal Amounts](./2436-make-array-zero-by-subtracting-equal-amounts)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2650. [Split With Minimum Sum](./2650-split-with-minimum-sum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **268. [Missing Number](./268-missing-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2836. [Neither Minimum nor Maximum](./2836-neither-minimum-nor-maximum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3236. [Smallest Missing Integer Greater Than Sequential Prefix Sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3321. [Type of Triangle](./3321-type-of-triangle)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **349. [Intersection of Two Arrays](./349-intersection-of-two-arrays)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **350. [Intersection of Two Arrays II](./350-intersection-of-two-arrays-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3778. [Transform Array by Parity](./3778-transform-array-by-parity)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3871. [Minimum Deletions for At Most K Distinct Characters](./3871-minimum-deletions-for-at-most-k-distinct-characters)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **389. [Find the Difference](./389-find-the-difference)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **414. [Third Maximum Number](./414-third-maximum-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **455. [Assign Cookies](./455-assign-cookies)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **49. [Group Anagrams](./49-group-anagrams)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **506. [Relative Ranks](./506-relative-ranks)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **56. [Merge Intervals](./56-merge-intervals)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **561. [Array Partition](./561-array-partition)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **594. [Longest Harmonious Subsequence](./594-longest-harmonious-subsequence)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **621. [Task Scheduler](./621-task-scheduler)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **75. [Sort Colors](./75-sort-colors)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **88. [Merge Sorted Array](./88-merge-sorted-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **941. [Sort Array By Parity](./941-sort-array-by-parity)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **948. [Sort an Array](./948-sort-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **958. [Sort Array By Parity II](./958-sort-array-by-parity-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="stack"><strong>Stack</strong> (Total: 31)</summary>
+
+- **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1128. [Remove All Adjacent Duplicates In String](./1128-remove-all-adjacent-duplicates-in-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1159. [Smallest Subsequence of Distinct Characters](./1159-smallest-subsequence-of-distinct-characters)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1320. [Remove All Adjacent Duplicates in String II](./1320-remove-all-adjacent-duplicates-in-string-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **143. [Reorder List](./143-reorder-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **144. [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **145. [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1497. [Design a Stack With Increment Operation](./1497-design-a-stack-with-increment-operation)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **150. [Evaluate Reverse Polish Notation](./150-evaluate-reverse-polish-notation)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **155. [Min Stack](./155-min-stack)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1582. [Design Browser History](./1582-design-browser-history)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1720. [Crawler Log Folder](./1720-crawler-log-folder)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **20. [Valid Parentheses](./20-valid-parentheses)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **225. [Implement Stack using Queues](./225-implement-stack-using-queues)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **232. [Implement Queue using Stacks](./232-implement-queue-using-stacks)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **234. [Palindrome Linked List](./234-palindrome-linked-list)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2470. [Removing Stars From a String](./2470-removing-stars-from-a-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2871. [Double a Number Represented as a Linked List](./2871-double-a-number-represented-as-a-linked-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **316. [Remove Duplicate Letters](./316-remove-duplicate-letters)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **402. [Remove K Digits](./402-remove-k-digits)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **496. [Next Greater Element I](./496-next-greater-element-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **503. [Next Greater Element II](./503-next-greater-element-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **682. [Baseball Game](./682-baseball-game)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **735. [Asteroid Collision](./735-asteroid-collision)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **739. [Daily Temperatures](./739-daily-temperatures)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **775. [N-ary Tree Preorder Traversal](./775-n-ary-tree-preorder-traversal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **776. [N-ary Tree Postorder Traversal](./776-n-ary-tree-postorder-traversal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **84. [Largest Rectangle in Histogram](./84-largest-rectangle-in-histogram)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **874. [Backspace String Compare](./874-backspace-string-compare)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **937. [Online Stock Span](./937-online-stock-span)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **94. [Binary Tree Inorder Traversal](./94-binary-tree-inorder-traversal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="string"><strong>String</strong> (Total: 67)</summary>
+
+- **1044. [Find Common Characters](./1044-find-common-characters)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1128. [Remove All Adjacent Duplicates In String](./1128-remove-all-adjacent-duplicates-in-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1159. [Smallest Subsequence of Distinct Characters](./1159-smallest-subsequence-of-distinct-characters)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **12. [Integer to Roman](./12-integer-to-roman)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **125. [Valid Palindrome](./125-valid-palindrome)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **13. [Roman to Integer](./13-roman-to-integer)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1320. [Remove All Adjacent Duplicates in String II](./1320-remove-all-adjacent-duplicates-in-string-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1353. [Find Resultant Array After Removing Anagrams](./1353-find-resultant-array-after-removing-anagrams)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **14. [Longest Common Prefix](./14-longest-common-prefix)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **168. [Excel Sheet Column Title](./168-excel-sheet-column-title)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **17. [Letter Combinations of a Phone Number](./17-letter-combinations-of-a-phone-number)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **171. [Excel Sheet Column Number](./171-excel-sheet-column-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1720. [Crawler Log Folder](./1720-crawler-log-folder)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **187. [Repeated DNA Sequences](./187-repeated-dna-sequences)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1894. [Merge Strings Alternately](./1894-merge-strings-alternately)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1970. [Sorting the Sentence](./1970-sorting-the-sentence)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **20. [Valid Parentheses](./20-valid-parentheses)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2010. [Check if Word Equals Summation of Two Words](./2010-check-if-word-equals-summation-of-two-words)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **205. [Isomorphic Strings](./205-isomorphic-strings)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **208. [Implement Trie (Prefix Tree)](./208-implement-trie-prefix-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2137. [Final Value of Variable After Performing Operations](./2137-final-value-of-variable-after-performing-operations)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **22. [Generate Parentheses](./22-generate-parentheses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2377. [Check if Number Has Equal Digit Count and Digit Value](./2377-check-if-number-has-equal-digit-count-and-digit-value)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **242. [Valid Anagram](./242-valid-anagram)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2470. [Removing Stars From a String](./2470-removing-stars-from-a-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2532. [Remove Letter To Equalize Frequency](./2532-remove-letter-to-equalize-frequency)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **257. [Binary Tree Paths](./257-binary-tree-paths)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2580. [Circular Sentence](./2580-circular-sentence)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **28. [Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **290. [Word Pattern](./290-word-pattern)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3. [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **316. [Remove Duplicate Letters](./316-remove-duplicate-letters)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3379. [Score of a String](./3379-score-of-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **344. [Reverse String](./344-reverse-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **345. [Reverse Vowels of a String](./345-reverse-vowels-of-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3736. [Find Valid Pair of Adjacent Digits in String](./3736-find-valid-pair-of-adjacent-digits-in-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3753. [Maximum Difference Between Even and Odd Frequency I](./3753-maximum-difference-between-even-and-odd-frequency-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3811. [Reverse Degree of a String](./3811-reverse-degree-of-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **383. [Ransom Note](./383-ransom-note)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **387. [First Unique Character in a String](./387-first-unique-character-in-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3871. [Minimum Deletions for At Most K Distinct Characters](./3871-minimum-deletions-for-at-most-k-distinct-characters)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **389. [Find the Difference](./389-find-the-difference)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **392. [Is Subsequence](./392-is-subsequence)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **402. [Remove K Digits](./402-remove-k-digits)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **409. [Longest Palindrome](./409-longest-palindrome)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **412. [Fizz Buzz](./412-fizz-buzz)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **415. [Add Strings](./415-add-strings)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **43. [Multiply Strings](./43-multiply-strings)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **434. [Number of Segments in a String](./434-number-of-segments-in-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **438. [Find All Anagrams in a String](./438-find-all-anagrams-in-a-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **459. [Repeated Substring Pattern](./459-repeated-substring-pattern)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **482. [License Key Formatting](./482-license-key-formatting)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **49. [Group Anagrams](./49-group-anagrams)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **5. [Longest Palindromic Substring](./5-longest-palindromic-substring)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **500. [Keyboard Row](./500-keyboard-row)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **58. [Length of Last Word](./58-length-of-last-word)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **599. [Minimum Index Sum of Two Lists](./599-minimum-index-sum-of-two-lists)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **6. [Zigzag Conversion](./6-zigzag-conversion)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **67. [Add Binary](./67-add-binary)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **686. [Repeated String Match](./686-repeated-string-match)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **742. [To Lower Case](./742-to-lower-case)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **782. [Jewels and Stones](./782-jewels-and-stones)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **812. [Rotate String](./812-rotate-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **822. [Unique Morse Code Words](./822-unique-morse-code-words)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **874. [Backspace String Compare](./874-backspace-string-compare)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **961. [Long Pressed Name](./961-long-pressed-name)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="string-matching"><strong>String Matching</strong> (Total: 4)</summary>
+
+- **28. [Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **459. [Repeated Substring Pattern](./459-repeated-substring-pattern)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **686. [Repeated String Match](./686-repeated-string-match)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **812. [Rotate String](./812-rotate-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="tree"><strong>Tree</strong> (Total: 28)</summary>
+
+- **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **100. [Same Tree](./100-same-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **101. [Symmetric Tree](./101-symmetric-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **104. [Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **105. [Construct Binary Tree from Preorder and Inorder Traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **108. [Convert Sorted Array to Binary Search Tree](./108-convert-sorted-array-to-binary-search-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **110. [Balanced Binary Tree](./110-balanced-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **111. [Minimum Depth of Binary Tree](./111-minimum-depth-of-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **112. [Path Sum](./112-path-sum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **144. [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **145. [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **222. [Count Complete Tree Nodes](./222-count-complete-tree-nodes)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **226. [Invert Binary Tree](./226-invert-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **257. [Binary Tree Paths](./257-binary-tree-paths)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **404. [Sum of Left Leaves](./404-sum-of-left-leaves)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **450. [Delete Node in a BST](./450-delete-node-in-a-bst)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **501. [Find Mode in Binary Search Tree](./501-find-mode-in-binary-search-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **563. [Binary Tree Tilt](./563-binary-tree-tilt)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **774. [Maximum Depth of N-ary Tree](./774-maximum-depth-of-n-ary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **775. [N-ary Tree Preorder Traversal](./775-n-ary-tree-preorder-traversal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **776. [N-ary Tree Postorder Traversal](./776-n-ary-tree-postorder-traversal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **94. [Binary Tree Inorder Traversal](./94-binary-tree-inorder-traversal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **975. [Range Sum of BST](./975-range-sum-of-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **98. [Validate Binary Search Tree](./98-validate-binary-search-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="trie"><strong>Trie</strong> (Total: 2)</summary>
+
+- **14. [Longest Common Prefix](./14-longest-common-prefix)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **208. [Implement Trie (Prefix Tree)](./208-implement-trie-prefix-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 43)</summary>
+
+- **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1019. [Squares of a Sorted Array](./1019-squares-of-a-sorted-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1028. [Interval List Intersections](./1028-interval-list-intersections)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **11. [Container With Most Water](./11-container-with-most-water)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **125. [Valid Palindrome](./125-valid-palindrome)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **141. [Linked List Cycle](./141-linked-list-cycle)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **142. [Linked List Cycle II](./142-linked-list-cycle-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **143. [Reorder List](./143-reorder-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1468. [Check If N and Its Double Exist](./1468-check-if-n-and-its-double-exist)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **148. [Sort List](./148-sort-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **15. [3Sum](./15-3sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **160. [Intersection of Two Linked Lists](./160-intersection-of-two-linked-lists)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **167. [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **189. [Rotate Array](./189-rotate-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1894. [Merge Strings Alternately](./1894-merge-strings-alternately)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **19. [Remove Nth Node From End of List](./19-remove-nth-node-from-end-of-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **202. [Happy Number](./202-happy-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **234. [Palindrome Linked List](./234-palindrome-linked-list)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2551. [Apply Operations to an Array](./2551-apply-operations-to-an-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **26. [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2634. [Minimum Common Value](./2634-minimum-common-value)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **27. [Remove Element](./27-remove-element)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **28. [Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **283. [Move Zeroes](./283-move-zeroes)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **344. [Reverse String](./344-reverse-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **345. [Reverse Vowels of a String](./345-reverse-vowels-of-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **349. [Intersection of Two Arrays](./349-intersection-of-two-arrays)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **350. [Intersection of Two Arrays II](./350-intersection-of-two-arrays-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **392. [Is Subsequence](./392-is-subsequence)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **455. [Assign Cookies](./455-assign-cookies)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **5. [Longest Palindromic Substring](./5-longest-palindromic-substring)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **528. [Swapping Nodes in a Linked List](./528-swapping-nodes-in-a-linked-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **61. [Rotate List](./61-rotate-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **633. [Sum of Square Numbers](./633-sum-of-square-numbers)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **75. [Sort Colors](./75-sort-colors)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **861. [Flipping an Image](./861-flipping-an-image)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **874. [Backspace String Compare](./874-backspace-string-compare)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **88. [Merge Sorted Array](./88-merge-sorted-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **908. [Middle of the Linked List](./908-middle-of-the-linked-list)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **941. [Sort Array By Parity](./941-sort-array-by-parity)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **958. [Sort Array By Parity II](./958-sort-array-by-parity-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **961. [Long Pressed Name](./961-long-pressed-name)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="union-find"><strong>Union Find</strong> (Total: 1)</summary>
+
+- **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+---
