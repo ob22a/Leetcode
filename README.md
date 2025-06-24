@@ -10,7 +10,7 @@ Welcome to my LeetCode solutions repository!
 
 ### Difficulty Distribution
 
-(![image](https://github.com/user-attachments/assets/859e038d-13fb-4cf4-a6c5-95cab0068d1b))
+![image](https://github.com/user-attachments/assets/859e038d-13fb-4cf4-a6c5-95cab0068d1b)
 
 | Difficulty | Count |
 |------------|-------|
