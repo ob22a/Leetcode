@@ -6,23 +6,23 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 292
+**Total Questions:** 297
 
 ### Difficulty Distribution
 
-![image](https://github.com/user-attachments/assets/859e038d-13fb-4cf4-a6c5-95cab0068d1b)
+![Difficulty Distribution](./difficulty_chart.png)
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 208 |
-| <span style='color:orange'>Medium</span> | 82 |
+| <span style='color:green'>Easy</span> | 212 |
+| <span style='color:orange'>Medium</span> | 83 |
 | <span style='color:red'>Hard</span> | 2 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 125 |
+| [Array](#array) | 128 |
 | [Backtracking](#backtracking) | 7 |
 | [Binary Search](#binary-search) | 16 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
@@ -32,11 +32,11 @@ Welcome to my LeetCode solutions repository!
 | [Breadth-First Search](#breadth-first-search) | 14 |
 | [Bucket Sort](#bucket-sort) | 3 |
 | [Combinatorics](#combinatorics) | 1 |
-| [Counting](#counting) | 21 |
+| [Counting](#counting) | 22 |
 | [Counting Sort](#counting-sort) | 2 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 13 |
-| [Depth-First Search](#depth-first-search) | 24 |
+| [Depth-First Search](#depth-first-search) | 25 |
 | [Design](#design) | 18 |
 | [Divide and Conquer](#divide-and-conquer) | 11 |
 | [Doubly-Linked List](#doubly-linked-list) | 1 |
@@ -47,7 +47,7 @@ Welcome to my LeetCode solutions repository!
 | [Graph](#graph) | 3 |
 | [Greedy](#greedy) | 18 |
 | [Hash Function](#hash-function) | 3 |
-| [Hash Table](#hash-table) | 68 |
+| [Hash Table](#hash-table) | 69 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 12 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
@@ -59,7 +59,7 @@ Welcome to my LeetCode solutions repository!
 | [Monotonic Stack](#monotonic-stack) | 9 |
 | [Number Theory](#number-theory) | 2 |
 | [Ordered Set](#ordered-set) | 1 |
-| [Prefix Sum](#prefix-sum) | 5 |
+| [Prefix Sum](#prefix-sum) | 6 |
 | [Queue](#queue) | 5 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
@@ -69,17 +69,17 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 7 |
 | [Sorting](#sorting) | 44 |
 | [Stack](#stack) | 31 |
-| [String](#string) | 67 |
+| [String](#string) | 69 |
 | [String Matching](#string-matching) | 4 |
 | [Tree](#tree) | 28 |
-| [Trie](#trie) | 2 |
-| [Two Pointers](#two-pointers) | 43 |
+| [Trie](#trie) | 3 |
+| [Two Pointers](#two-pointers) | 44 |
 | [Union Find](#union-find) | 1 |
 
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 125)</summary>
+<summary id="array"><strong>Array</strong> (Total: 128)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -189,6 +189,9 @@ Welcome to my LeetCode solutions repository!
 - **1741. [Sort Array by Increasing Frequency](./1741-sort-array-by-increasing-frequency)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **1781. [Check If Two String Arrays are Equivalent](./1781-check-if-two-string-arrays-are-equivalent)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **1791. [Richest Customer Wealth](./1791-richest-customer-wealth)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -243,6 +246,9 @@ Welcome to my LeetCode solutions repository!
 - **2308. [Divide Array Into Equal Pairs](./2308-divide-array-into-equal-pairs)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **2320. [Find All K-Distant Indices in an Array](./2320-find-all-k-distant-indices-in-an-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **2331. [Intersection of Multiple Arrays](./2331-intersection-of-multiple-arrays)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -274,6 +280,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **27. [Remove Element](./27-remove-element)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2714. [Left and Right Sum Differences](./2714-left-and-right-sum-differences)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **283. [Move Zeroes](./283-move-zeroes)**  
@@ -789,7 +798,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="counting"><strong>Counting</strong> (Total: 21)</summary>
+<summary id="counting"><strong>Counting</strong> (Total: 22)</summary>
 
 - **1227. [Number of Equivalent Domino Pairs](./1227-number-of-equivalent-domino-pairs)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -846,6 +855,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3871. [Minimum Deletions for At Most K Distinct Characters](./3871-minimum-deletions-for-at-most-k-distinct-characters)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3872. [Find Most Frequent Vowel and Consonant](./3872-find-most-frequent-vowel-and-consonant)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **594. [Longest Harmonious Subsequence](./594-longest-harmonious-subsequence)**  
@@ -932,7 +944,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 24)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 25)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -972,6 +984,9 @@ Welcome to my LeetCode solutions repository!
 
 - **257. [Binary Tree Paths](./257-binary-tree-paths)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **386. [Lexicographical Numbers](./386-lexicographical-numbers)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **404. [Sum of Left Leaves](./404-sum-of-left-leaves)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1284,7 +1299,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 68)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 69)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1440,6 +1455,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3871. [Minimum Deletions for At Most K Distinct Characters](./3871-minimum-deletions-for-at-most-k-distinct-characters)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3872. [Find Most Frequent Vowel and Consonant](./3872-find-most-frequent-vowel-and-consonant)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **389. [Find the Difference](./389-find-the-difference)**  
@@ -1926,7 +1944,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 5)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 6)</summary>
 
 - **1477. [Product of the Last K Numbers](./1477-product-of-the-last-k-numbers)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1936,6 +1954,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2249. [Count the Hidden Sequences](./2249-count-the-hidden-sequences)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2714. [Left and Right Sum Differences](./2714-left-and-right-sum-differences)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **303. [Range Sum Query - Immutable](./303-range-sum-query-immutable)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2363,7 +2384,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 67)</summary>
+<summary id="string"><strong>String</strong> (Total: 69)</summary>
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2402,6 +2423,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1720. [Crawler Log Folder](./1720-crawler-log-folder)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1781. [Check If Two String Arrays are Equivalent](./1781-check-if-two-string-arrays-are-equivalent)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **187. [Repeated DNA Sequences](./187-repeated-dna-sequences)**  
@@ -2489,6 +2513,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3871. [Minimum Deletions for At Most K Distinct Characters](./3871-minimum-deletions-for-at-most-k-distinct-characters)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3872. [Find Most Frequent Vowel and Consonant](./3872-find-most-frequent-vowel-and-consonant)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **389. [Find the Difference](./389-find-the-difference)**  
@@ -2675,7 +2702,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="trie"><strong>Trie</strong> (Total: 2)</summary>
+<summary id="trie"><strong>Trie</strong> (Total: 3)</summary>
 
 - **14. [Longest Common Prefix](./14-longest-common-prefix)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2683,10 +2710,13 @@ Welcome to my LeetCode solutions repository!
 - **208. [Implement Trie (Prefix Tree)](./208-implement-trie-prefix-tree)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **386. [Lexicographical Numbers](./386-lexicographical-numbers)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 43)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 44)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2737,6 +2767,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **202. [Happy Number](./202-happy-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2320. [Find All K-Distant Indices in an Array](./2320-find-all-k-distant-indices-in-an-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **234. [Palindrome Linked List](./234-palindrome-linked-list)**  
