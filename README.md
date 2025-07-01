@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 297
+**Total Questions:** 301
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 212 |
+| <span style='color:green'>Easy</span> | 216 |
 | <span style='color:orange'>Medium</span> | 83 |
 | <span style='color:red'>Hard</span> | 2 |
 
@@ -22,7 +22,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 128 |
+| [Array](#array) | 131 |
 | [Backtracking](#backtracking) | 7 |
 | [Binary Search](#binary-search) | 16 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
@@ -47,12 +47,12 @@ Welcome to my LeetCode solutions repository!
 | [Graph](#graph) | 3 |
 | [Greedy](#greedy) | 18 |
 | [Hash Function](#hash-function) | 3 |
-| [Hash Table](#hash-table) | 69 |
+| [Hash Table](#hash-table) | 70 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 12 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 24 |
-| [Math](#math) | 62 |
+| [Math](#math) | 64 |
 | [Matrix](#matrix) | 8 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 2 |
@@ -65,7 +65,7 @@ Welcome to my LeetCode solutions repository!
 | [Radix Sort](#radix-sort) | 2 |
 | [Recursion](#recursion) | 12 |
 | [Rolling Hash](#rolling-hash) | 1 |
-| [Simulation](#simulation) | 20 |
+| [Simulation](#simulation) | 24 |
 | [Sliding Window](#sliding-window) | 7 |
 | [Sorting](#sorting) | 44 |
 | [Stack](#stack) | 31 |
@@ -79,7 +79,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 128)</summary>
+<summary id="array"><strong>Array</strong> (Total: 131)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -147,6 +147,9 @@ Welcome to my LeetCode solutions repository!
 - **1392. [Find the Difference of Two Arrays](./1392-find-the-difference-of-two-arrays)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **14. [Longest Common Prefix](./14-longest-common-prefix)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **1468. [Check If N and Its Double Exist](./1468-check-if-n-and-its-double-exist)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -178,6 +181,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1677. [Matrix Diagonal Sum](./1677-matrix-diagonal-sum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1682. [Most Visited Sector in  a Circular Track](./1682-most-visited-sector-in-a-circular-track)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **169. [Majority Element](./169-majority-element)**  
@@ -283,6 +289,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2714. [Left and Right Sum Differences](./2714-left-and-right-sum-differences)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2791. [Find the Losers of the Circular Game](./2791-find-the-losers-of-the-circular-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **283. [Move Zeroes](./283-move-zeroes)**  
@@ -1299,7 +1308,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 69)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 70)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1410,6 +1419,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **268. [Missing Number](./268-missing-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2791. [Find the Losers of the Circular Game](./2791-find-the-losers-of-the-circular-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **290. [Word Pattern](./290-word-pattern)**  
@@ -1648,7 +1660,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 62)</summary>
+<summary id="math"><strong>Math</strong> (Total: 64)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1728,6 +1740,9 @@ Welcome to my LeetCode solutions repository!
 - **264. [Ugly Number II](./264-ugly-number-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **2645. [Pass the Pillow](./2645-pass-the-pillow)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **2650. [Split With Minimum Sum](./2650-split-with-minimum-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -1762,6 +1777,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **342. [Power of Four](./342-power-of-four)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3450. [Find the Child Who Has the Ball After K Seconds](./3450-find-the-child-who-has-the-ball-after-k-seconds)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3581. [The Two Sneaky Numbers of Digitville](./3581-the-two-sneaky-numbers-of-digitville)**  
@@ -2058,7 +2076,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 20)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 24)</summary>
+
+- **1682. [Most Visited Sector in  a Circular Track](./1682-most-visited-sector-in-a-circular-track)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1708. [Design Parking System](./1708-design-parking-system)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2078,8 +2099,17 @@ Welcome to my LeetCode solutions repository!
 - **258. [Add Digits](./258-add-digits)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **2645. [Pass the Pillow](./2645-pass-the-pillow)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2791. [Find the Losers of the Circular Game](./2791-find-the-losers-of-the-circular-game)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **3234. [Double Modular Exponentiation](./3234-double-modular-exponentiation)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3450. [Find the Child Who Has the Ball After K Seconds](./3450-find-the-child-who-has-the-ball-after-k-seconds)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3625. [Stone Removal Game](./3625-stone-removal-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
