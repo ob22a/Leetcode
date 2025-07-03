@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 301
+**Total Questions:** 302
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 216 |
+| <span style='color:green'>Easy</span> | 217 |
 | <span style='color:orange'>Medium</span> | 83 |
 | <span style='color:red'>Hard</span> | 2 |
 
@@ -22,7 +22,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 131 |
+| [Array](#array) | 132 |
 | [Backtracking](#backtracking) | 7 |
 | [Binary Search](#binary-search) | 16 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
@@ -79,7 +79,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 131)</summary>
+<summary id="array"><strong>Array</strong> (Total: 132)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -304,6 +304,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **303. [Range Sum Query - Immutable](./303-range-sum-query-immutable)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3154. [Maximum Value of an Ordered Triplet I](./3154-maximum-value-of-an-ordered-triplet-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3213. [Count Subarrays Where Max Element Appears at Least K Times](./3213-count-subarrays-where-max-element-appears-at-least-k-times)**  
