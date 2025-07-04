@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 306
+**Total Questions:** 308
 
 ### Difficulty Distribution
 
@@ -14,15 +14,15 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 218 |
-| <span style='color:orange'>Medium</span> | 86 |
+| <span style='color:green'>Easy</span> | 219 |
+| <span style='color:orange'>Medium</span> | 87 |
 | <span style='color:red'>Hard</span> | 2 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 134 |
+| [Array](#array) | 136 |
 | [Backtracking](#backtracking) | 7 |
 | [Binary Search](#binary-search) | 16 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
@@ -65,21 +65,21 @@ Welcome to my LeetCode solutions repository!
 | [Radix Sort](#radix-sort) | 2 |
 | [Recursion](#recursion) | 13 |
 | [Rolling Hash](#rolling-hash) | 1 |
-| [Simulation](#simulation) | 25 |
+| [Simulation](#simulation) | 26 |
 | [Sliding Window](#sliding-window) | 8 |
 | [Sorting](#sorting) | 46 |
 | [Stack](#stack) | 31 |
-| [String](#string) | 70 |
+| [String](#string) | 71 |
 | [String Matching](#string-matching) | 4 |
 | [Tree](#tree) | 28 |
 | [Trie](#trie) | 3 |
-| [Two Pointers](#two-pointers) | 47 |
+| [Two Pointers](#two-pointers) | 49 |
 | [Union Find](#union-find) | 1 |
 
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 134)</summary>
+<summary id="array"><strong>Array</strong> (Total: 136)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -244,6 +244,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2261. [All Divisions With the Highest Score of a Binary Array](./2261-all-divisions-with-the-highest-score-of-a-binary-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2265. [Partition Array According to Given Pivot](./2265-partition-array-according-to-given-pivot)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2277. [Count Equal and Divisible Pairs in an Array](./2277-count-equal-and-divisible-pairs-in-an-array)**  
@@ -455,6 +458,9 @@ Welcome to my LeetCode solutions repository!
 
 - **84. [Largest Rectangle in Histogram](./84-largest-rectangle-in-histogram)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **841. [Shortest Distance to a Character](./841-shortest-distance-to-a-character)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **860. [Design Circular Queue](./860-design-circular-queue)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2097,7 +2103,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 25)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 26)</summary>
 
 - **1682. [Most Visited Sector in  a Circular Track](./1682-most-visited-sector-in-a-circular-track)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2107,6 +2113,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2137. [Final Value of Variable After Performing Operations](./2137-final-value-of-variable-after-performing-operations)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2265. [Partition Array According to Given Pivot](./2265-partition-array-according-to-given-pivot)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2436. [Make Array Zero by Subtracting Equal Amounts](./2436-make-array-zero-by-subtracting-equal-amounts)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2447,7 +2456,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 70)</summary>
+<summary id="string"><strong>String</strong> (Total: 71)</summary>
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2653,6 +2662,9 @@ Welcome to my LeetCode solutions repository!
 - **822. [Unique Morse Code Words](./822-unique-morse-code-words)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **841. [Shortest Distance to a Character](./841-shortest-distance-to-a-character)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **874. [Backspace String Compare](./874-backspace-string-compare)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -2782,7 +2794,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 47)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 49)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2840,6 +2852,9 @@ Welcome to my LeetCode solutions repository!
 
 - **202. [Happy Number](./202-happy-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2265. [Partition Array According to Given Pivot](./2265-partition-array-according-to-given-pivot)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2320. [Find All K-Distant Indices in an Array](./2320-find-all-k-distant-indices-in-an-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2903,6 +2918,9 @@ Welcome to my LeetCode solutions repository!
 
 - **75. [Sort Colors](./75-sort-colors)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **841. [Shortest Distance to a Character](./841-shortest-distance-to-a-character)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **861. [Flipping an Image](./861-flipping-an-image)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
