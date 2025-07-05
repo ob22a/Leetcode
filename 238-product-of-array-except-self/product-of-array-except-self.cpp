@@ -4,8 +4,7 @@ public:
         vector<int> sol(nums.size());
         vector<int>rpp(nums.size()); // REVERSE PREFIX PRODUCT 
         for(int i=nums.size()-1;i>=0;--i){
-            if(i==nums.size()-1) rpp[i]=nums[i];
-            else rpp[i]=rpp[i+1]*nums[i];
+            rpp[i]=((i==nums.size()-1))?nums[i]:rpp[i+1]*nums[i];
         }
 
         int preProduct=1;
