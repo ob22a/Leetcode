@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 313
+**Total Questions:** 315
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 221 |
+| <span style='color:green'>Easy</span> | 223 |
 | <span style='color:orange'>Medium</span> | 88 |
 | <span style='color:red'>Hard</span> | 4 |
 
@@ -69,11 +69,11 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 9 |
 | [Sorting](#sorting) | 46 |
 | [Stack](#stack) | 33 |
-| [String](#string) | 72 |
+| [String](#string) | 74 |
 | [String Matching](#string-matching) | 4 |
 | [Tree](#tree) | 28 |
 | [Trie](#trie) | 3 |
-| [Two Pointers](#two-pointers) | 51 |
+| [Two Pointers](#two-pointers) | 53 |
 | [Union Find](#union-find) | 1 |
 
 ---
@@ -2507,7 +2507,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 72)</summary>
+<summary id="string"><strong>String</strong> (Total: 74)</summary>
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2686,6 +2686,12 @@ Welcome to my LeetCode solutions repository!
 - **500. [Keyboard Row](./500-keyboard-row)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **541. [Reverse String II](./541-reverse-string-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **557. [Reverse Words in a String III](./557-reverse-words-in-a-string-iii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **567. [Permutation in String](./567-permutation-in-string)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -2848,7 +2854,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 51)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 53)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2963,6 +2969,12 @@ Welcome to my LeetCode solutions repository!
 
 - **528. [Swapping Nodes in a Linked List](./528-swapping-nodes-in-a-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **541. [Reverse String II](./541-reverse-string-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **557. [Reverse Words in a String III](./557-reverse-words-in-a-string-iii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **567. [Permutation in String](./567-permutation-in-string)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
