@@ -4,10 +4,6 @@ public:
         // Thinking in reverse
         int total=0;
         for(int num:nums) total+=num;
-
-        vector<int> preSum(nums.size());
-        preSum[0]=nums[0];
-        for(int i=1;i<nums.size();++i) preSum[i]=preSum[i-1]+nums[i];
         
         int i=0,sum=0,remaining=total-x;
         int len=-1;
