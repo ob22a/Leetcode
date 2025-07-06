@@ -5,12 +5,12 @@ public:
             if(num%2==0) num=0;
             else num=1;
         }
-        unordered_map<int,int> preCount;
+        vector<int> preCount(nums.size()+1);
         preCount[0]=1;
         int sum=0,count=0;
         for(int num:nums){
             sum+=num;
-            if(preCount.find(sum-k)!=preCount.end()){
+            if(sum-k>=0){
                 count+=preCount[sum-k];
             }
             preCount[sum]++;
