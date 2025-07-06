@@ -12,7 +12,7 @@ public:
         long long sol=0;
         if(total%no!=0) return -1;
         while(l<r){
-            if(skill[l]+skill[r]==total/no) sol+=((long long)skill[l]*skill[r]);
+            if(skill[l]+skill[r]==total/no) sol+=(1ll*skill[l]*skill[r]);
             else return -1;
             ++l; --r;
         }
