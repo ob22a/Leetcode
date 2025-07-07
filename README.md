@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 325
+**Total Questions:** 328
 
 ### Difficulty Distribution
 
@@ -14,15 +14,15 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 223 |
-| <span style='color:orange'>Medium</span> | 96 |
-| <span style='color:red'>Hard</span> | 6 |
+| <span style='color:green'>Easy</span> | 224 |
+| <span style='color:orange'>Medium</span> | 97 |
+| <span style='color:red'>Hard</span> | 7 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 149 |
+| [Array](#array) | 150 |
 | [Backtracking](#backtracking) | 7 |
 | [Binary Search](#binary-search) | 19 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
@@ -47,7 +47,7 @@ Welcome to my LeetCode solutions repository!
 | [Graph](#graph) | 3 |
 | [Greedy](#greedy) | 20 |
 | [Hash Function](#hash-function) | 3 |
-| [Hash Table](#hash-table) | 80 |
+| [Hash Table](#hash-table) | 82 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 12 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
@@ -67,10 +67,10 @@ Welcome to my LeetCode solutions repository!
 | [Recursion](#recursion) | 13 |
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Simulation](#simulation) | 26 |
-| [Sliding Window](#sliding-window) | 14 |
+| [Sliding Window](#sliding-window) | 17 |
 | [Sorting](#sorting) | 48 |
 | [Stack](#stack) | 33 |
-| [String](#string) | 75 |
+| [String](#string) | 77 |
 | [String Matching](#string-matching) | 4 |
 | [Tree](#tree) | 28 |
 | [Trie](#trie) | 3 |
@@ -80,7 +80,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 149)</summary>
+<summary id="array"><strong>Array</strong> (Total: 150)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -203,6 +203,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1741. [Sort Array by Increasing Frequency](./1741-sort-array-by-increasing-frequency)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1755. [Defuse the Bomb](./1755-defuse-the-bomb)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1776. [Minimum Operations to Reduce X to Zero](./1776-minimum-operations-to-reduce-x-to-zero)**  
@@ -1393,7 +1396,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 80)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 82)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1512,6 +1515,9 @@ Welcome to my LeetCode solutions repository!
 - **2581. [Divide Players Into Teams of Equal Skill](./2581-divide-players-into-teams-of-equal-skill)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **2599. [Take K of Each Character From Left and Right](./2599-take-k-of-each-character-from-left-and-right)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **2634. [Minimum Common Value](./2634-minimum-common-value)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -1529,6 +1535,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3. [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **30. [Substring with Concatenation of All Words](./30-substring-with-concatenation-of-all-words)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **3236. [Smallest Missing Integer Greater Than Sequential Prefix Sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2321,10 +2330,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 14)</summary>
+<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 17)</summary>
 
 - **1370. [Count Number of Nice Subarrays](./1370-count-number-of-nice-subarrays)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1755. [Defuse the Bomb](./1755-defuse-the-bomb)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1776. [Minimum Operations to Reduce X to Zero](./1776-minimum-operations-to-reduce-x-to-zero)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2344,8 +2356,14 @@ Welcome to my LeetCode solutions repository!
 - **2527. [Count Subarrays With Fixed Bounds](./2527-count-subarrays-with-fixed-bounds)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
+- **2599. [Take K of Each Character From Left and Right](./2599-take-k-of-each-character-from-left-and-right)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **3. [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **30. [Substring with Concatenation of All Words](./30-substring-with-concatenation-of-all-words)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **3213. [Count Subarrays Where Max Element Appears at Least K Times](./3213-count-subarrays-where-max-element-appears-at-least-k-times)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2621,7 +2639,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 75)</summary>
+<summary id="string"><strong>String</strong> (Total: 77)</summary>
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2716,6 +2734,9 @@ Welcome to my LeetCode solutions repository!
 - **2580. [Circular Sentence](./2580-circular-sentence)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **2599. [Take K of Each Character From Left and Right](./2599-take-k-of-each-character-from-left-and-right)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **28. [Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -2724,6 +2745,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3. [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **30. [Substring with Concatenation of All Words](./30-substring-with-concatenation-of-all-words)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **316. [Remove Duplicate Letters](./316-remove-duplicate-letters)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
