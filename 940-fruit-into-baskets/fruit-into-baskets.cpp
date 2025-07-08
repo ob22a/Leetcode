@@ -1,14 +1,14 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        unordered_map<int,int> trees;
-        trees.reserve(3); // Maximum amount of tree type + 1 
+        array<int,100001> trees={}; // For scalability using hash map is better 
+        int types=0;
         int amount=0;
         for(int r=0, l=0;r<fruits.size();++r){
-            trees[fruits[r]]++;
-            while(trees.size()>2){
-                if(--trees[fruits[l]]==0) trees.erase(fruits[l]);
-                ++l;
+            if(++trees[fruits[r]]==1) types++;
+            
+            while(types>2){
+                if(--trees[fruits[l++]]==0) --types;
             }
             amount=max(amount,r-l+1);
         }
