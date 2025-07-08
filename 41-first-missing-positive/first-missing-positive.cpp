@@ -6,8 +6,6 @@ public:
             while(nums[i]>0 && nums[i]<=n && nums[i]!=nums[nums[i]-1]) 
                 swap(nums[i],nums[nums[i]-1]);
         }
-        for(int num:nums) cout<<num<<" ";
-
         int sol=1;
         for(int num:nums){
             if(num==sol) ++sol;
