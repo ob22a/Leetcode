@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 332
+**Total Questions:** 335
 
 ### Difficulty Distribution
 
@@ -14,25 +14,25 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 224 |
+| <span style='color:green'>Easy</span> | 226 |
 | <span style='color:orange'>Medium</span> | 100 |
-| <span style='color:red'>Hard</span> | 8 |
+| <span style='color:red'>Hard</span> | 9 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 154 |
+| [Array](#array) | 157 |
 | [Backtracking](#backtracking) | 7 |
 | [Binary Search](#binary-search) | 20 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
 | [Binary Tree](#binary-tree) | 25 |
-| [Bit Manipulation](#bit-manipulation) | 21 |
+| [Bit Manipulation](#bit-manipulation) | 22 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 14 |
 | [Bucket Sort](#bucket-sort) | 3 |
 | [Combinatorics](#combinatorics) | 1 |
-| [Counting](#counting) | 23 |
+| [Counting](#counting) | 24 |
 | [Counting Sort](#counting-sort) | 2 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 13 |
@@ -47,7 +47,7 @@ Welcome to my LeetCode solutions repository!
 | [Graph](#graph) | 3 |
 | [Greedy](#greedy) | 20 |
 | [Hash Function](#hash-function) | 3 |
-| [Hash Table](#hash-table) | 84 |
+| [Hash Table](#hash-table) | 85 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 12 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
@@ -60,14 +60,14 @@ Welcome to my LeetCode solutions repository!
 | [Monotonic Stack](#monotonic-stack) | 11 |
 | [Number Theory](#number-theory) | 2 |
 | [Ordered Set](#ordered-set) | 1 |
-| [Prefix Sum](#prefix-sum) | 14 |
+| [Prefix Sum](#prefix-sum) | 15 |
 | [Queue](#queue) | 6 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
 | [Recursion](#recursion) | 13 |
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Simulation](#simulation) | 26 |
-| [Sliding Window](#sliding-window) | 20 |
+| [Sliding Window](#sliding-window) | 23 |
 | [Sorting](#sorting) | 48 |
 | [Stack](#stack) | 33 |
 | [String](#string) | 78 |
@@ -80,7 +80,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 154)</summary>
+<summary id="array"><strong>Array</strong> (Total: 157)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -96,6 +96,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1028. [Interval List Intersections](./1028-interval-list-intersections)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -367,6 +370,9 @@ Welcome to my LeetCode solutions repository!
 - **3367. [Find the Sum of Encrypted Integers](./3367-find-the-sum-of-encrypted-integers)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **3381. [Shortest Subarray With OR at Least K I](./3381-shortest-subarray-with-or-at-least-k-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -384,6 +390,9 @@ Welcome to my LeetCode solutions repository!
 
 - **36. [Valid Sudoku](./36-valid-sudoku)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3644. [Minimum Positive Sum Subarray ](./3644-minimum-positive-sum-subarray)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3656. [Minimum Number of Operations to Make Elements in Array Distinct](./3656-minimum-number-of-operations-to-make-elements-in-array-distinct)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -747,7 +756,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 21)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 22)</summary>
 
 - **136. [Single Number](./136-single-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -786,6 +795,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **338. [Counting Bits](./338-counting-bits)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3381. [Shortest Subarray With OR at Least K I](./3381-shortest-subarray-with-or-at-least-k-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **342. [Power of Four](./342-power-of-four)**  
@@ -898,7 +910,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="counting"><strong>Counting</strong> (Total: 23)</summary>
+<summary id="counting"><strong>Counting</strong> (Total: 24)</summary>
+
+- **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1227. [Number of Equivalent Domino Pairs](./1227-number-of-equivalent-domino-pairs)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1414,13 +1429,16 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 84)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 85)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1. [Two Sum](./1-two-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2130,7 +2148,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 14)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 15)</summary>
 
 - **1370. [Count Number of Nice Subarrays](./1370-count-number-of-nice-subarrays)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2160,6 +2178,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **303. [Range Sum Query - Immutable](./303-range-sum-query-immutable)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3644. [Minimum Positive Sum Subarray ](./3644-minimum-positive-sum-subarray)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**  
@@ -2357,7 +2378,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 20)</summary>
+<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 23)</summary>
+
+- **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1370. [Count Number of Nice Subarrays](./1370-count-number-of-nice-subarrays)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2400,6 +2424,12 @@ Welcome to my LeetCode solutions repository!
 
 - **3213. [Count Subarrays Where Max Element Appears at Least K Times](./3213-count-subarrays-where-max-element-appears-at-least-k-times)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3381. [Shortest Subarray With OR at Least K I](./3381-shortest-subarray-with-or-at-least-k-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3644. [Minimum Positive Sum Subarray ](./3644-minimum-positive-sum-subarray)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **438. [Find All Anagrams in a String](./438-find-all-anagrams-in-a-string)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
