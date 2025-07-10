@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 335
+**Total Questions:** 336
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 226 |
-| <span style='color:orange'>Medium</span> | 100 |
+| <span style='color:orange'>Medium</span> | 101 |
 | <span style='color:red'>Hard</span> | 9 |
 
 ### Topics Overview
@@ -47,7 +47,7 @@ Welcome to my LeetCode solutions repository!
 | [Graph](#graph) | 3 |
 | [Greedy](#greedy) | 20 |
 | [Hash Function](#hash-function) | 3 |
-| [Hash Table](#hash-table) | 85 |
+| [Hash Table](#hash-table) | 86 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 12 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
@@ -67,10 +67,10 @@ Welcome to my LeetCode solutions repository!
 | [Recursion](#recursion) | 13 |
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Simulation](#simulation) | 26 |
-| [Sliding Window](#sliding-window) | 23 |
+| [Sliding Window](#sliding-window) | 24 |
 | [Sorting](#sorting) | 48 |
 | [Stack](#stack) | 33 |
-| [String](#string) | 78 |
+| [String](#string) | 79 |
 | [String Matching](#string-matching) | 4 |
 | [Tree](#tree) | 28 |
 | [Trie](#trie) | 3 |
@@ -1429,7 +1429,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 85)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 86)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1625,6 +1625,9 @@ Welcome to my LeetCode solutions repository!
 
 - **41. [First Missing Positive](./41-first-missing-positive)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **424. [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **438. [Find All Anagrams in a String](./438-find-all-anagrams-in-a-string)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2378,7 +2381,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 23)</summary>
+<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 24)</summary>
 
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2430,6 +2433,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3644. [Minimum Positive Sum Subarray ](./3644-minimum-positive-sum-subarray)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **424. [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **438. [Find All Anagrams in a String](./438-find-all-anagrams-in-a-string)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2705,7 +2711,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 78)</summary>
+<summary id="string"><strong>String</strong> (Total: 79)</summary>
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2868,6 +2874,9 @@ Welcome to my LeetCode solutions repository!
 
 - **415. [Add Strings](./415-add-strings)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **424. [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **43. [Multiply Strings](./43-multiply-strings)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
