@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 336
+**Total Questions:** 339
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 226 |
-| <span style='color:orange'>Medium</span> | 101 |
+| <span style='color:orange'>Medium</span> | 104 |
 | <span style='color:red'>Hard</span> | 9 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 157 |
+| [Array](#array) | 160 |
 | [Backtracking](#backtracking) | 7 |
 | [Binary Search](#binary-search) | 20 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
@@ -37,10 +37,10 @@ Welcome to my LeetCode solutions repository!
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 13 |
 | [Depth-First Search](#depth-first-search) | 25 |
-| [Design](#design) | 18 |
+| [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 12 |
 | [Doubly-Linked List](#doubly-linked-list) | 1 |
-| [Dynamic Programming](#dynamic-programming) | 14 |
+| [Dynamic Programming](#dynamic-programming) | 15 |
 | [Enumeration](#enumeration) | 5 |
 | [Game Theory](#game-theory) | 2 |
 | [Geometry](#geometry) | 1 |
@@ -53,24 +53,24 @@ Welcome to my LeetCode solutions repository!
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 24 |
 | [Math](#math) | 66 |
-| [Matrix](#matrix) | 8 |
+| [Matrix](#matrix) | 9 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 2 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
 | [Monotonic Stack](#monotonic-stack) | 11 |
 | [Number Theory](#number-theory) | 2 |
 | [Ordered Set](#ordered-set) | 1 |
-| [Prefix Sum](#prefix-sum) | 15 |
+| [Prefix Sum](#prefix-sum) | 17 |
 | [Queue](#queue) | 6 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
 | [Recursion](#recursion) | 13 |
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Simulation](#simulation) | 26 |
-| [Sliding Window](#sliding-window) | 24 |
+| [Sliding Window](#sliding-window) | 25 |
 | [Sorting](#sorting) | 48 |
 | [Stack](#stack) | 33 |
-| [String](#string) | 79 |
+| [String](#string) | 80 |
 | [String Matching](#string-matching) | 4 |
 | [Tree](#tree) | 28 |
 | [Trie](#trie) | 3 |
@@ -80,7 +80,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 157)</summary>
+<summary id="array"><strong>Array</strong> (Total: 160)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -176,6 +176,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1582. [Design Browser History](./1582-design-browser-history)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1586. [Longest Subarray of 1's After Deleting One Element](./1586-longest-subarray-of-1s-after-deleting-one-element)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **16. [3Sum Closest](./16-3sum-closest)**  
@@ -304,6 +307,9 @@ Welcome to my LeetCode solutions repository!
 - **2436. [Make Array Zero by Subtracting Equal Amounts](./2436-make-array-zero-by-subtracting-equal-amounts)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **2465. [Shifting Letters II](./2465-shifting-letters-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **2478. [Longest Nice Subarray](./2478-longest-nice-subarray)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -351,6 +357,9 @@ Welcome to my LeetCode solutions repository!
 
 - **303. [Range Sum Query - Immutable](./303-range-sum-query-immutable)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **304. [Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3154. [Maximum Value of an Ordered Triplet I](./3154-maximum-value-of-an-ordered-triplet-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1142,7 +1151,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="design"><strong>Design</strong> (Total: 18)</summary>
+<summary id="design"><strong>Design</strong> (Total: 19)</summary>
 
 - **1477. [Product of the Last K Numbers](./1477-product-of-the-last-k-numbers)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1173,6 +1182,9 @@ Welcome to my LeetCode solutions repository!
 
 - **303. [Range Sum Query - Immutable](./303-range-sum-query-immutable)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **304. [Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **355. [Design Twitter](./355-design-twitter)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1250,7 +1262,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 14)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 15)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1269,6 +1281,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1236. [N-th Tribonacci Number](./1236-n-th-tribonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1586. [Longest Subarray of 1's After Deleting One Element](./1586-longest-subarray-of-1s-after-deleting-one-element)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **198. [House Robber](./198-house-robber)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2032,13 +2047,16 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 8)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 9)</summary>
 
 - **1677. [Matrix Diagonal Sum](./1677-matrix-diagonal-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1791. [Richest Customer Wealth](./1791-richest-customer-wealth)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **304. [Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **36. [Valid Sudoku](./36-valid-sudoku)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2151,7 +2169,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 15)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 17)</summary>
 
 - **1370. [Count Number of Nice Subarrays](./1370-count-number-of-nice-subarrays)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2177,11 +2195,17 @@ Welcome to my LeetCode solutions repository!
 - **2394. [Count Subarrays With Score Less Than K](./2394-count-subarrays-with-score-less-than-k)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
+- **2465. [Shifting Letters II](./2465-shifting-letters-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **2714. [Left and Right Sum Differences](./2714-left-and-right-sum-differences)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **303. [Range Sum Query - Immutable](./303-range-sum-query-immutable)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **304. [Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3644. [Minimum Positive Sum Subarray ](./3644-minimum-positive-sum-subarray)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2381,12 +2405,15 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 24)</summary>
+<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 25)</summary>
 
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1370. [Count Number of Nice Subarrays](./1370-count-number-of-nice-subarrays)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1586. [Longest Subarray of 1's After Deleting One Element](./1586-longest-subarray-of-1s-after-deleting-one-element)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1755. [Defuse the Bomb](./1755-defuse-the-bomb)**  
@@ -2711,7 +2738,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 79)</summary>
+<summary id="string"><strong>String</strong> (Total: 80)</summary>
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2792,6 +2819,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2465. [Shifting Letters II](./2465-shifting-letters-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2470. [Removing Stars From a String](./2470-removing-stars-from-a-string)**  
