@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 339
+**Total Questions:** 342
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 226 |
-| <span style='color:orange'>Medium</span> | 104 |
+| <span style='color:orange'>Medium</span> | 107 |
 | <span style='color:red'>Hard</span> | 9 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 160 |
+| [Array](#array) | 163 |
 | [Backtracking](#backtracking) | 7 |
 | [Binary Search](#binary-search) | 20 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
@@ -47,20 +47,20 @@ Welcome to my LeetCode solutions repository!
 | [Graph](#graph) | 3 |
 | [Greedy](#greedy) | 20 |
 | [Hash Function](#hash-function) | 3 |
-| [Hash Table](#hash-table) | 86 |
+| [Hash Table](#hash-table) | 87 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 12 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 24 |
-| [Math](#math) | 66 |
-| [Matrix](#matrix) | 9 |
+| [Math](#math) | 67 |
+| [Matrix](#matrix) | 10 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 2 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
 | [Monotonic Stack](#monotonic-stack) | 11 |
 | [Number Theory](#number-theory) | 2 |
 | [Ordered Set](#ordered-set) | 1 |
-| [Prefix Sum](#prefix-sum) | 17 |
+| [Prefix Sum](#prefix-sum) | 20 |
 | [Queue](#queue) | 6 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
@@ -80,7 +80,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 160)</summary>
+<summary id="array"><strong>Array</strong> (Total: 163)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -132,6 +132,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1227. [Number of Equivalent Domino Pairs](./1227-number-of-equivalent-domino-pairs)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1242. [Matrix Block Sum](./1242-matrix-block-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1329. [Minimum Cost to Move Chips to The Same Position](./1329-minimum-cost-to-move-chips-to-the-same-position)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -219,6 +222,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1781. [Check If Two String Arrays are Equivalent](./1781-check-if-two-string-arrays-are-equivalent)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1787. [Sum of Absolute Differences in a Sorted Array](./1787-sum-of-absolute-differences-in-a-sorted-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1791. [Richest Customer Wealth](./1791-richest-customer-wealth)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -342,6 +348,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2714. [Left and Right Sum Differences](./2714-left-and-right-sum-differences)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2721. [Sum of Distances](./2721-sum-of-distances)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2791. [Find the Losers of the Circular Game](./2791-find-the-losers-of-the-circular-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1444,7 +1453,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 86)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 87)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1577,6 +1586,9 @@ Welcome to my LeetCode solutions repository!
 
 - **268. [Missing Number](./268-missing-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2721. [Sum of Distances](./2721-sum-of-distances)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2791. [Find the Losers of the Circular Game](./2791-find-the-losers-of-the-circular-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1844,7 +1856,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 66)</summary>
+<summary id="math"><strong>Math</strong> (Total: 67)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1890,6 +1902,9 @@ Welcome to my LeetCode solutions repository!
 
 - **171. [Excel Sheet Column Number](./171-excel-sheet-column-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1787. [Sum of Absolute Differences in a Sorted Array](./1787-sum-of-absolute-differences-in-a-sorted-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **189. [Rotate Array](./189-rotate-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2047,7 +2062,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 9)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 10)</summary>
+
+- **1242. [Matrix Block Sum](./1242-matrix-block-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1677. [Matrix Diagonal Sum](./1677-matrix-diagonal-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2169,7 +2187,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 17)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 20)</summary>
+
+- **1242. [Matrix Block Sum](./1242-matrix-block-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1370. [Count Number of Nice Subarrays](./1370-count-number-of-nice-subarrays)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2181,6 +2202,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1776. [Minimum Operations to Reduce X to Zero](./1776-minimum-operations-to-reduce-x-to-zero)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1787. [Sum of Absolute Differences in a Sorted Array](./1787-sum-of-absolute-differences-in-a-sorted-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **209. [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum)**  
@@ -2200,6 +2224,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2714. [Left and Right Sum Differences](./2714-left-and-right-sum-differences)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2721. [Sum of Distances](./2721-sum-of-distances)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **303. [Range Sum Query - Immutable](./303-range-sum-query-immutable)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
