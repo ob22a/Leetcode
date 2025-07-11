@@ -7,9 +7,7 @@ public:
 
         vector<int> sol(n);
         for(int i=0;i<n;++i){
-            int left=i*nums[i]-preSum[i];
-            int right=(preSum[n]-preSum[i+1])-(n-i-1)*nums[i];
-            sol[i]=left+right;
+            sol[i]=(2*(i+1)-n)*nums[i]+preSum[n]-2*preSum[i+1];
         }
         return sol;
     }
