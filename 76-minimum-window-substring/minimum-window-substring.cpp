@@ -4,22 +4,26 @@ public:
         int n=s.size();
         if(n<t.size()) return "";
 
-        unordered_map<char,int> tHash;
-        for(char c:t) tHash[c]++;
+        vector<int> tHash(256,0);
+        int target=0;
+        for(char c:t){
+            if(tHash[c]==0) ++target;
+            tHash[c]++;
+        }
 
-        unordered_map<char,int>window;
-        int formed=0,target=tHash.size();
+        vector<int> window(256,0);
+        int formed=0;
         int start=0,minLen=n+1;
         for(int i=0,j=0;j<n;++j){
             window[s[j]]++;
-            if(tHash.find(s[j])!=tHash.end() && tHash[s[j]]==window[s[j]]) ++formed;
+            if(tHash[s[j]]!=0 && tHash[s[j]]==window[s[j]]) ++formed;
             while(formed==target){
                 if(minLen>j-i+1){
                     start=i;
                     minLen=j-i+1;
                 }
                 window[s[i]]--;
-                if(tHash.find(s[i])!=tHash.end() && tHash[s[i]]>window[s[i]])
+                if(tHash[s[i]]!=0 && tHash[s[i]]>window[s[i]])
                     --formed;
                 ++i;
             }   
