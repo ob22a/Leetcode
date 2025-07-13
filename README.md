@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 342
+**Total Questions:** 343
 
 ### Difficulty Distribution
 
@@ -16,7 +16,7 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 226 |
 | <span style='color:orange'>Medium</span> | 107 |
-| <span style='color:red'>Hard</span> | 9 |
+| <span style='color:red'>Hard</span> | 10 |
 
 ### Topics Overview
 
@@ -47,7 +47,7 @@ Welcome to my LeetCode solutions repository!
 | [Graph](#graph) | 3 |
 | [Greedy](#greedy) | 20 |
 | [Hash Function](#hash-function) | 3 |
-| [Hash Table](#hash-table) | 87 |
+| [Hash Table](#hash-table) | 88 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 12 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
@@ -67,10 +67,10 @@ Welcome to my LeetCode solutions repository!
 | [Recursion](#recursion) | 13 |
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Simulation](#simulation) | 26 |
-| [Sliding Window](#sliding-window) | 25 |
+| [Sliding Window](#sliding-window) | 26 |
 | [Sorting](#sorting) | 48 |
 | [Stack](#stack) | 33 |
-| [String](#string) | 80 |
+| [String](#string) | 81 |
 | [String Matching](#string-matching) | 4 |
 | [Tree](#tree) | 28 |
 | [Trie](#trie) | 3 |
@@ -1453,7 +1453,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 87)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 88)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1694,6 +1694,9 @@ Welcome to my LeetCode solutions repository!
 
 - **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **76. [Minimum Window Substring](./76-minimum-window-substring)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **768. [Partition Labels](./768-partition-labels)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2432,7 +2435,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 25)</summary>
+<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 26)</summary>
 
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2502,6 +2505,9 @@ Welcome to my LeetCode solutions repository!
 
 - **643. [Maximum Average Subarray I](./643-maximum-average-subarray-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **76. [Minimum Window Substring](./76-minimum-window-substring)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **940. [Fruit Into Baskets](./940-fruit-into-baskets)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2765,7 +2771,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 80)</summary>
+<summary id="string"><strong>String</strong> (Total: 81)</summary>
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2985,6 +2991,9 @@ Welcome to my LeetCode solutions repository!
 
 - **742. [To Lower Case](./742-to-lower-case)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **76. [Minimum Window Substring](./76-minimum-window-substring)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **768. [Partition Labels](./768-partition-labels)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
