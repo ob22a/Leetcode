@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 343
+**Total Questions:** 344
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 226 |
+| <span style='color:green'>Easy</span> | 227 |
 | <span style='color:orange'>Medium</span> | 107 |
 | <span style='color:red'>Hard</span> | 10 |
 
@@ -52,7 +52,7 @@ Welcome to my LeetCode solutions repository!
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 24 |
-| [Math](#math) | 67 |
+| [Math](#math) | 68 |
 | [Matrix](#matrix) | 10 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 2 |
@@ -66,7 +66,7 @@ Welcome to my LeetCode solutions repository!
 | [Radix Sort](#radix-sort) | 2 |
 | [Recursion](#recursion) | 13 |
 | [Rolling Hash](#rolling-hash) | 1 |
-| [Simulation](#simulation) | 26 |
+| [Simulation](#simulation) | 27 |
 | [Sliding Window](#sliding-window) | 26 |
 | [Sorting](#sorting) | 48 |
 | [Stack](#stack) | 33 |
@@ -1859,7 +1859,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 67)</summary>
+<summary id="math"><strong>Math</strong> (Total: 68)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1868,6 +1868,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1086. [Divisor Game](./1086-divisor-game)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **12. [Integer to Roman](./12-integer-to-roman)**  
@@ -2352,7 +2355,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 26)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 27)</summary>
+
+- **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1682. [Most Visited Sector in  a Circular Track](./1682-most-visited-sector-in-a-circular-track)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
