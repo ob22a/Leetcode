@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 344
+**Total Questions:** 352
 
 ### Difficulty Distribution
 
@@ -14,17 +14,17 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 227 |
-| <span style='color:orange'>Medium</span> | 107 |
+| <span style='color:green'>Easy</span> | 228 |
+| <span style='color:orange'>Medium</span> | 114 |
 | <span style='color:red'>Hard</span> | 10 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 163 |
+| [Array](#array) | 167 |
 | [Backtracking](#backtracking) | 7 |
-| [Binary Search](#binary-search) | 20 |
+| [Binary Search](#binary-search) | 23 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
 | [Binary Tree](#binary-tree) | 25 |
 | [Bit Manipulation](#bit-manipulation) | 22 |
@@ -47,7 +47,7 @@ Welcome to my LeetCode solutions repository!
 | [Graph](#graph) | 3 |
 | [Greedy](#greedy) | 20 |
 | [Hash Function](#hash-function) | 3 |
-| [Hash Table](#hash-table) | 88 |
+| [Hash Table](#hash-table) | 89 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 12 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
@@ -60,17 +60,17 @@ Welcome to my LeetCode solutions repository!
 | [Monotonic Stack](#monotonic-stack) | 11 |
 | [Number Theory](#number-theory) | 2 |
 | [Ordered Set](#ordered-set) | 1 |
-| [Prefix Sum](#prefix-sum) | 20 |
+| [Prefix Sum](#prefix-sum) | 24 |
 | [Queue](#queue) | 6 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
 | [Recursion](#recursion) | 13 |
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Simulation](#simulation) | 27 |
-| [Sliding Window](#sliding-window) | 26 |
+| [Sliding Window](#sliding-window) | 33 |
 | [Sorting](#sorting) | 48 |
 | [Stack](#stack) | 33 |
-| [String](#string) | 81 |
+| [String](#string) | 85 |
 | [String Matching](#string-matching) | 4 |
 | [Tree](#tree) | 28 |
 | [Trie](#trie) | 3 |
@@ -80,7 +80,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 163)</summary>
+<summary id="array"><strong>Array</strong> (Total: 167)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -102,6 +102,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **105. [Construct Binary Tree from Preorder and Inorder Traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -268,6 +271,9 @@ Welcome to my LeetCode solutions repository!
 - **219. [Contains Duplicate II](./219-contains-duplicate-ii)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **2211. [K Radius Subarray Averages](./2211-k-radius-subarray-averages)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **2245. [Destroying Asteroids](./2245-destroying-asteroids)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -327,6 +333,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2551. [Apply Operations to an Array](./2551-apply-operations-to-an-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2552. [Maximum Sum of Distinct Subarrays With Length K](./2552-maximum-sum-of-distinct-subarrays-with-length-k)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2581. [Divide Players Into Teams of Equal Skill](./2581-divide-players-into-teams-of-equal-skill)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -511,6 +520,9 @@ Welcome to my LeetCode solutions repository!
 - **682. [Baseball Game](./682-baseball-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **724. [Find Pivot Index](./724-find-pivot-index)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **735. [Asteroid Collision](./735-asteroid-collision)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -600,7 +612,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 20)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 23)</summary>
+
+- **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1321. [Get Equal Substrings Within Budget](./1321-get-equal-substrings-within-budget)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1468. [Check If N and Its Double Exist](./1468-check-if-n-and-its-double-exist)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -615,6 +633,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **209. [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2134. [Maximize the Confusion of an Exam](./2134-maximize-the-confusion-of-an-exam)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **222. [Count Complete Tree Nodes](./222-count-complete-tree-nodes)**  
@@ -1453,7 +1474,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 88)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 89)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1571,6 +1592,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2532. [Remove Letter To Equalize Frequency](./2532-remove-letter-to-equalize-frequency)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2552. [Maximum Sum of Distinct Subarrays With Length K](./2552-maximum-sum-of-distinct-subarrays-with-length-k)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2581. [Divide Players Into Teams of Equal Skill](./2581-divide-players-into-teams-of-equal-skill)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2193,9 +2217,15 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 20)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 24)</summary>
+
+- **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1242. [Matrix Block Sum](./1242-matrix-block-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1321. [Get Equal Substrings Within Budget](./1321-get-equal-substrings-within-budget)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1370. [Count Number of Nice Subarrays](./1370-count-number-of-nice-subarrays)**  
@@ -2214,6 +2244,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **209. [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2134. [Maximize the Confusion of an Exam](./2134-maximize-the-confusion-of-an-exam)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2249. [Count the Hidden Sequences](./2249-count-the-hidden-sequences)**  
@@ -2251,6 +2284,9 @@ Welcome to my LeetCode solutions repository!
 
 - **560. [Subarray Sum Equals K](./560-subarray-sum-equals-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **724. [Find Pivot Index](./724-find-pivot-index)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **966. [Binary Subarrays With Sum](./966-binary-subarrays-with-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2441,12 +2477,24 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 26)</summary>
+<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 33)</summary>
 
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
+- **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1321. [Get Equal Substrings Within Budget](./1321-get-equal-substrings-within-budget)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1351. [Replace the Substring for Balanced String](./1351-replace-the-substring-for-balanced-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **1370. [Count Number of Nice Subarrays](./1370-count-number-of-nice-subarrays)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1567. [Maximum Number of Vowels in a Substring of Given Length](./1567-maximum-number-of-vowels-in-a-substring-of-given-length)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1586. [Longest Subarray of 1's After Deleting One Element](./1586-longest-subarray-of-1s-after-deleting-one-element)**  
@@ -2467,8 +2515,14 @@ Welcome to my LeetCode solutions repository!
 - **209. [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **2134. [Maximize the Confusion of an Exam](./2134-maximize-the-confusion-of-an-exam)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **219. [Contains Duplicate II](./219-contains-duplicate-ii)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2211. [K Radius Subarray Averages](./2211-k-radius-subarray-averages)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2394. [Count Subarrays With Score Less Than K](./2394-count-subarrays-with-score-less-than-k)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2478,6 +2532,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2527. [Count Subarrays With Fixed Bounds](./2527-count-subarrays-with-fixed-bounds)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **2552. [Maximum Sum of Distinct Subarrays With Length K](./2552-maximum-sum-of-distinct-subarrays-with-length-k)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2599. [Take K of Each Character From Left and Right](./2599-take-k-of-each-character-from-left-and-right)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2777,7 +2834,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 81)</summary>
+<summary id="string"><strong>String</strong> (Total: 85)</summary>
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2800,11 +2857,20 @@ Welcome to my LeetCode solutions repository!
 - **1320. [Remove All Adjacent Duplicates in String II](./1320-remove-all-adjacent-duplicates-in-string-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **1321. [Get Equal Substrings Within Budget](./1321-get-equal-substrings-within-budget)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1351. [Replace the Substring for Balanced String](./1351-replace-the-substring-for-balanced-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **1353. [Find Resultant Array After Removing Anagrams](./1353-find-resultant-array-after-removing-anagrams)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **14. [Longest Common Prefix](./14-longest-common-prefix)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1567. [Maximum Number of Vowels in a Substring of Given Length](./1567-maximum-number-of-vowels-in-a-substring-of-given-length)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **168. [Excel Sheet Column Title](./168-excel-sheet-column-title)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2843,6 +2909,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **208. [Implement Trie (Prefix Tree)](./208-implement-trie-prefix-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2134. [Maximize the Confusion of an Exam](./2134-maximize-the-confusion-of-an-exam)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2137. [Final Value of Variable After Performing Operations](./2137-final-value-of-variable-after-performing-operations)**  
