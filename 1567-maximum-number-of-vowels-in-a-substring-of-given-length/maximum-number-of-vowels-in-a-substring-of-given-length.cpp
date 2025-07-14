@@ -9,7 +9,7 @@ public:
         int vowels=0;
         for(int i=0,j=0;j<n;++j){
             if(isVowel(s[j])) ++vowels;
-            while(j-i+1>k){
+            if(j-i+1>k){
                 if(isVowel(s[i++])) --vowels;
             }
             maxVowels=max(maxVowels,vowels);
