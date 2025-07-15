@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 352
+**Total Questions:** 363
 
 ### Difficulty Distribution
 
@@ -14,17 +14,17 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 228 |
-| <span style='color:orange'>Medium</span> | 114 |
-| <span style='color:red'>Hard</span> | 10 |
+| <span style='color:green'>Easy</span> | 230 |
+| <span style='color:orange'>Medium</span> | 122 |
+| <span style='color:red'>Hard</span> | 11 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 167 |
+| [Array](#array) | 178 |
 | [Backtracking](#backtracking) | 7 |
-| [Binary Search](#binary-search) | 23 |
+| [Binary Search](#binary-search) | 33 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
 | [Binary Tree](#binary-tree) | 25 |
 | [Bit Manipulation](#bit-manipulation) | 22 |
@@ -38,7 +38,7 @@ Welcome to my LeetCode solutions repository!
 | [Database](#database) | 13 |
 | [Depth-First Search](#depth-first-search) | 25 |
 | [Design](#design) | 19 |
-| [Divide and Conquer](#divide-and-conquer) | 12 |
+| [Divide and Conquer](#divide-and-conquer) | 13 |
 | [Doubly-Linked List](#doubly-linked-list) | 1 |
 | [Dynamic Programming](#dynamic-programming) | 15 |
 | [Enumeration](#enumeration) | 5 |
@@ -48,12 +48,12 @@ Welcome to my LeetCode solutions repository!
 | [Greedy](#greedy) | 20 |
 | [Hash Function](#hash-function) | 3 |
 | [Hash Table](#hash-table) | 89 |
-| [Heap (Priority Queue)](#heap-(priority-queue)) | 12 |
+| [Heap (Priority Queue)](#heap-(priority-queue)) | 13 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 24 |
 | [Math](#math) | 68 |
-| [Matrix](#matrix) | 10 |
+| [Matrix](#matrix) | 12 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 2 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
@@ -67,20 +67,20 @@ Welcome to my LeetCode solutions repository!
 | [Recursion](#recursion) | 13 |
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Simulation](#simulation) | 27 |
-| [Sliding Window](#sliding-window) | 33 |
-| [Sorting](#sorting) | 48 |
+| [Sliding Window](#sliding-window) | 34 |
+| [Sorting](#sorting) | 49 |
 | [Stack](#stack) | 33 |
 | [String](#string) | 85 |
 | [String Matching](#string-matching) | 4 |
 | [Tree](#tree) | 28 |
 | [Trie](#trie) | 3 |
-| [Two Pointers](#two-pointers) | 56 |
+| [Two Pointers](#two-pointers) | 57 |
 | [Union Find](#union-find) | 1 |
 
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 167)</summary>
+<summary id="array"><strong>Array</strong> (Total: 178)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -163,6 +163,9 @@ Welcome to my LeetCode solutions repository!
 - **14. [Longest Common Prefix](./14-longest-common-prefix)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **1408. [Find the Smallest Divisor Given a Threshold](./1408-find-the-smallest-divisor-given-a-threshold)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **1468. [Check If N and Its Double Exist](./1468-check-if-n-and-its-double-exist)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -180,6 +183,12 @@ Welcome to my LeetCode solutions repository!
 
 - **1510. [Find Lucky Integer in an Array](./1510-find-lucky-integer-in-an-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **153. [Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **154. [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1582. [Design Browser History](./1582-design-browser-history)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -236,6 +245,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1848. [Sum of Unique Elements](./1848-sum-of-unique-elements)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1878. [Check if Array Is Sorted and Rotated](./1878-check-if-array-is-sorted-and-rotated)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **189. [Rotate Array](./189-rotate-array)**  
@@ -312,6 +324,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2394. [Count Subarrays With Score Less Than K](./2394-count-subarrays-with-score-less-than-k)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **240. [Search a 2D Matrix II](./240-search-a-2d-matrix-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -391,6 +406,9 @@ Welcome to my LeetCode solutions repository!
 - **3236. [Smallest Missing Integer Greater Than Sequential Prefix Sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **33. [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **3321. [Type of Triangle](./3321-type-of-triangle)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -399,6 +417,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3381. [Shortest Subarray With OR at Least K I](./3381-shortest-subarray-with-or-at-least-k-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **34. [Find First and Last Position of Element in Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -514,6 +535,9 @@ Welcome to my LeetCode solutions repository!
 - **643. [Maximum Average Subarray I](./643-maximum-average-subarray-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **658. [Find K Closest Elements](./658-find-k-closest-elements)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **66. [Plus One](./66-plus-one)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -529,7 +553,16 @@ Welcome to my LeetCode solutions repository!
 - **739. [Daily Temperatures](./739-daily-temperatures)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **74. [Search a 2D Matrix](./74-search-a-2d-matrix)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **75. [Sort Colors](./75-sort-colors)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **792. [Binary Search](./792-binary-search)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **81. [Search in Rotated Sorted Array II](./81-search-in-rotated-sorted-array-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **816. [Design HashSet](./816-design-hashset)**  
@@ -612,7 +645,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 23)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 33)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -620,8 +653,17 @@ Welcome to my LeetCode solutions repository!
 - **1321. [Get Equal Substrings Within Budget](./1321-get-equal-substrings-within-budget)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **1408. [Find the Smallest Divisor Given a Threshold](./1408-find-the-smallest-divisor-given-a-threshold)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **1468. [Check If N and Its Double Exist](./1468-check-if-n-and-its-double-exist)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **153. [Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **154. [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **167. [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -644,6 +686,9 @@ Welcome to my LeetCode solutions repository!
 - **2394. [Count Subarrays With Score Less Than K](./2394-count-subarrays-with-score-less-than-k)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
+- **240. [Search a 2D Matrix II](./240-search-a-2d-matrix-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **2614. [Maximum Count of Positive Integer and Negative Integer](./2614-maximum-count-of-positive-integer-and-negative-integer)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -655,6 +700,12 @@ Welcome to my LeetCode solutions repository!
 
 - **278. [First Bad Version](./278-first-bad-version)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **33. [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **34. [Find First and Last Position of Element in Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **349. [Intersection of Two Arrays](./349-intersection-of-two-arrays)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -680,8 +731,20 @@ Welcome to my LeetCode solutions repository!
 - **633. [Sum of Square Numbers](./633-sum-of-square-numbers)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **658. [Find K Closest Elements](./658-find-k-closest-elements)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **69. [Sqrt(x)](./69-sqrtx)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **74. [Search a 2D Matrix](./74-search-a-2d-matrix)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **792. [Binary Search](./792-binary-search)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **81. [Search in Rotated Sorted Array II](./81-search-in-rotated-sorted-array-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
 
@@ -1243,7 +1306,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="divide-and-conquer"><strong>Divide and Conquer</strong> (Total: 12)</summary>
+<summary id="divide-and-conquer"><strong>Divide and Conquer</strong> (Total: 13)</summary>
 
 - **105. [Construct Binary Tree from Preorder and Inorder Traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1267,6 +1330,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **240. [Search a 2D Matrix II](./240-search-a-2d-matrix-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
@@ -1746,7 +1812,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="heap-(priority-queue)"><strong>Heap (Priority Queue)</strong> (Total: 12)</summary>
+<summary id="heap-(priority-queue)"><strong>Heap (Priority Queue)</strong> (Total: 13)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1776,6 +1842,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **621. [Task Scheduler](./621-task-scheduler)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **658. [Find K Closest Elements](./658-find-k-closest-elements)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
@@ -2092,7 +2161,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 10)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 12)</summary>
 
 - **1242. [Matrix Block Sum](./1242-matrix-block-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2102,6 +2171,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1791. [Richest Customer Wealth](./1791-richest-customer-wealth)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **240. [Search a 2D Matrix II](./240-search-a-2d-matrix-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **304. [Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2116,6 +2188,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **498. [Diagonal Traverse](./498-diagonal-traverse)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **74. [Search a 2D Matrix](./74-search-a-2d-matrix)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **861. [Flipping an Image](./861-flipping-an-image)**  
@@ -2477,7 +2552,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 33)</summary>
+<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 34)</summary>
 
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2569,6 +2644,9 @@ Welcome to my LeetCode solutions repository!
 - **643. [Maximum Average Subarray I](./643-maximum-average-subarray-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **658. [Find K Closest Elements](./658-find-k-closest-elements)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **76. [Minimum Window Substring](./76-minimum-window-substring)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
@@ -2581,7 +2659,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 48)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 49)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2707,6 +2785,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **621. [Task Scheduler](./621-task-scheduler)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **658. [Find K Closest Elements](./658-find-k-closest-elements)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **75. [Sort Colors](./75-sort-colors)**  
@@ -3214,7 +3295,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 56)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 57)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3350,6 +3431,9 @@ Welcome to my LeetCode solutions repository!
 
 - **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **658. [Find K Closest Elements](./658-find-k-closest-elements)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **75. [Sort Colors](./75-sort-colors)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
