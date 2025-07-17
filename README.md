@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 363
+**Total Questions:** 366
 
 ### Difficulty Distribution
 
@@ -15,16 +15,16 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 230 |
-| <span style='color:orange'>Medium</span> | 122 |
+| <span style='color:orange'>Medium</span> | 125 |
 | <span style='color:red'>Hard</span> | 11 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 178 |
+| [Array](#array) | 181 |
 | [Backtracking](#backtracking) | 7 |
-| [Binary Search](#binary-search) | 33 |
+| [Binary Search](#binary-search) | 36 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
 | [Binary Tree](#binary-tree) | 25 |
 | [Bit Manipulation](#bit-manipulation) | 22 |
@@ -60,7 +60,7 @@ Welcome to my LeetCode solutions repository!
 | [Monotonic Stack](#monotonic-stack) | 11 |
 | [Number Theory](#number-theory) | 2 |
 | [Ordered Set](#ordered-set) | 1 |
-| [Prefix Sum](#prefix-sum) | 24 |
+| [Prefix Sum](#prefix-sum) | 25 |
 | [Queue](#queue) | 6 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
@@ -68,19 +68,19 @@ Welcome to my LeetCode solutions repository!
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Simulation](#simulation) | 27 |
 | [Sliding Window](#sliding-window) | 34 |
-| [Sorting](#sorting) | 49 |
+| [Sorting](#sorting) | 50 |
 | [Stack](#stack) | 33 |
 | [String](#string) | 85 |
 | [String Matching](#string-matching) | 4 |
 | [Tree](#tree) | 28 |
 | [Trie](#trie) | 3 |
-| [Two Pointers](#two-pointers) | 57 |
+| [Two Pointers](#two-pointers) | 58 |
 | [Union Find](#union-find) | 1 |
 
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 178)</summary>
+<summary id="array"><strong>Array</strong> (Total: 181)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -202,6 +202,9 @@ Welcome to my LeetCode solutions repository!
 - **1603. [Running Sum of 1d Array](./1603-running-sum-of-1d-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **1615. [Range Sum of Sorted Subarray Sums](./1615-range-sum-of-sorted-subarray-sums)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **164. [Maximum Gap](./164-maximum-gap)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -305,6 +308,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **229. [Majority Element II](./229-majority-element-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2294. [Minimum Time to Complete Trips](./2294-minimum-time-to-complete-trips)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2308. [Divide Array Into Equal Pairs](./2308-divide-array-into-equal-pairs)**  
@@ -595,6 +601,9 @@ Welcome to my LeetCode solutions repository!
 - **898. [Transpose Matrix](./898-transpose-matrix)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **907. [Koko Eating Bananas](./907-koko-eating-bananas)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **917. [Boats to Save People](./917-boats-to-save-people)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -645,7 +654,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 33)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 36)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -665,6 +674,9 @@ Welcome to my LeetCode solutions repository!
 - **154. [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
+- **1615. [Range Sum of Sorted Subarray Sums](./1615-range-sum-of-sorted-subarray-sums)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **167. [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -682,6 +694,9 @@ Welcome to my LeetCode solutions repository!
 
 - **222. [Count Complete Tree Nodes](./222-count-complete-tree-nodes)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2294. [Minimum Time to Complete Trips](./2294-minimum-time-to-complete-trips)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2394. [Count Subarrays With Score Less Than K](./2394-count-subarrays-with-score-less-than-k)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -744,6 +759,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **81. [Search in Rotated Sorted Array II](./81-search-in-rotated-sorted-array-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **907. [Koko Eating Bananas](./907-koko-eating-bananas)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
@@ -2292,7 +2310,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 24)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 25)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2311,6 +2329,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1603. [Running Sum of 1d Array](./1603-running-sum-of-1d-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1615. [Range Sum of Sorted Subarray Sums](./1615-range-sum-of-sorted-subarray-sums)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1776. [Minimum Operations to Reduce X to Zero](./1776-minimum-operations-to-reduce-x-to-zero)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2659,7 +2680,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 49)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 50)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2689,6 +2710,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **16. [3Sum Closest](./16-3sum-closest)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1615. [Range Sum of Sorted Subarray Sums](./1615-range-sum-of-sorted-subarray-sums)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **164. [Maximum Gap](./164-maximum-gap)**  
@@ -3295,7 +3319,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 57)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 58)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3335,6 +3359,9 @@ Welcome to my LeetCode solutions repository!
 
 - **160. [Intersection of Two Linked Lists](./160-intersection-of-two-linked-lists)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1615. [Range Sum of Sorted Subarray Sums](./1615-range-sum-of-sorted-subarray-sums)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **167. [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
