@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 366
+**Total Questions:** 368
 
 ### Difficulty Distribution
 
@@ -15,16 +15,16 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 230 |
-| <span style='color:orange'>Medium</span> | 125 |
+| <span style='color:orange'>Medium</span> | 127 |
 | <span style='color:red'>Hard</span> | 11 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 181 |
+| [Array](#array) | 183 |
 | [Backtracking](#backtracking) | 7 |
-| [Binary Search](#binary-search) | 36 |
+| [Binary Search](#binary-search) | 38 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
 | [Binary Tree](#binary-tree) | 25 |
 | [Bit Manipulation](#bit-manipulation) | 22 |
@@ -80,7 +80,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 181)</summary>
+<summary id="array"><strong>Array</strong> (Total: 183)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -203,6 +203,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1615. [Range Sum of Sorted Subarray Sums](./1615-range-sum-of-sorted-subarray-sums)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **162. [Find Peak Element](./162-find-peak-element)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **164. [Maximum Gap](./164-maximum-gap)**  
@@ -511,6 +514,9 @@ Welcome to my LeetCode solutions repository!
 - **525. [Contiguous Array](./525-contiguous-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **540. [Single Element in a Sorted Array](./540-single-element-in-a-sorted-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **56. [Merge Intervals](./56-merge-intervals)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -654,7 +660,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 36)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 38)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -675,6 +681,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1615. [Range Sum of Sorted Subarray Sums](./1615-range-sum-of-sorted-subarray-sums)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **162. [Find Peak Element](./162-find-peak-element)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **167. [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted)**  
@@ -742,6 +751,9 @@ Welcome to my LeetCode solutions repository!
 
 - **441. [Arranging Coins](./441-arranging-coins)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **540. [Single Element in a Sorted Array](./540-single-element-in-a-sorted-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **633. [Sum of Square Numbers](./633-sum-of-square-numbers)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
