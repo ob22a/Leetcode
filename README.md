@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 368
+**Total Questions:** 369
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 230 |
-| <span style='color:orange'>Medium</span> | 127 |
+| <span style='color:orange'>Medium</span> | 128 |
 | <span style='color:red'>Hard</span> | 11 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 183 |
+| [Array](#array) | 184 |
 | [Backtracking](#backtracking) | 7 |
 | [Binary Search](#binary-search) | 38 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
@@ -47,7 +47,7 @@ Welcome to my LeetCode solutions repository!
 | [Graph](#graph) | 3 |
 | [Greedy](#greedy) | 20 |
 | [Hash Function](#hash-function) | 3 |
-| [Hash Table](#hash-table) | 89 |
+| [Hash Table](#hash-table) | 90 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 13 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
@@ -80,7 +80,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 183)</summary>
+<summary id="array"><strong>Array</strong> (Total: 184)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -474,6 +474,9 @@ Welcome to my LeetCode solutions repository!
 
 - **42. [Trapping Rain Water](./42-trapping-rain-water)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **442. [Find All Duplicates in an Array](./442-find-all-duplicates-in-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **448. [Find All Numbers Disappeared in an Array](./448-find-all-numbers-disappeared-in-an-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1570,7 +1573,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 89)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 90)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1777,6 +1780,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **438. [Find All Anagrams in a String](./438-find-all-anagrams-in-a-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **442. [Find All Duplicates in an Array](./442-find-all-duplicates-in-an-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **448. [Find All Numbers Disappeared in an Array](./448-find-all-numbers-disappeared-in-an-array)**  
