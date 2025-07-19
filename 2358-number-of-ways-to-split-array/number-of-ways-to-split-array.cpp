@@ -2,12 +2,13 @@ class Solution {
 public:
     int waysToSplitArray(vector<int>& nums) {
         int n=nums.size();
-        vector<long long> preSum(n+1,0);
-        for(int i=0;i<n;++i) preSum[i+1]=preSum[i]+nums[i];
+        long long total=accumulate(nums.begin(),nums.end(),0ll);
 
         int count=0;
-        for(int i=1;i<n;i++){
-            if(preSum[i]>=preSum[n]-preSum[i]) count++;
+        long long sum=0;
+        for(int i=0;i<n-1;++i){
+            sum+=nums[i];
+            if(sum>=total-sum) count++;
         }
         return count;
     }
