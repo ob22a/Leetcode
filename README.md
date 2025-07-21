@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 376
+**Total Questions:** 378
 
 ### Difficulty Distribution
 
@@ -15,16 +15,16 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 231 |
-| <span style='color:orange'>Medium</span> | 133 |
+| <span style='color:orange'>Medium</span> | 135 |
 | <span style='color:red'>Hard</span> | 12 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 191 |
+| [Array](#array) | 193 |
 | [Backtracking](#backtracking) | 7 |
-| [Binary Search](#binary-search) | 44 |
+| [Binary Search](#binary-search) | 45 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
 | [Binary Tree](#binary-tree) | 25 |
 | [Bit Manipulation](#bit-manipulation) | 22 |
@@ -40,12 +40,12 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 13 |
 | [Doubly-Linked List](#doubly-linked-list) | 1 |
-| [Dynamic Programming](#dynamic-programming) | 16 |
+| [Dynamic Programming](#dynamic-programming) | 17 |
 | [Enumeration](#enumeration) | 5 |
 | [Game Theory](#game-theory) | 2 |
 | [Geometry](#geometry) | 1 |
 | [Graph](#graph) | 3 |
-| [Greedy](#greedy) | 21 |
+| [Greedy](#greedy) | 22 |
 | [Hash Function](#hash-function) | 3 |
 | [Hash Table](#hash-table) | 90 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 13 |
@@ -60,7 +60,7 @@ Welcome to my LeetCode solutions repository!
 | [Monotonic Stack](#monotonic-stack) | 11 |
 | [Number Theory](#number-theory) | 2 |
 | [Ordered Set](#ordered-set) | 1 |
-| [Prefix Sum](#prefix-sum) | 27 |
+| [Prefix Sum](#prefix-sum) | 29 |
 | [Queue](#queue) | 6 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
@@ -80,7 +80,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 191)</summary>
+<summary id="array"><strong>Array</strong> (Total: 193)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -340,6 +340,9 @@ Welcome to my LeetCode solutions repository!
 - **2331. [Intersection of Multiple Arrays](./2331-intersection-of-multiple-arrays)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **2342. [Minimum Average Difference](./2342-minimum-average-difference)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **2350. [Find Closest Number to Zero](./2350-find-closest-number-to-zero)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -372,6 +375,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2527. [Count Subarrays With Fixed Bounds](./2527-count-subarrays-with-fixed-bounds)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **2530. [Minimize Maximum of Array](./2530-minimize-maximum-of-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2551. [Apply Operations to an Array](./2551-apply-operations-to-an-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -684,7 +690,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 44)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 45)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -750,6 +756,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **240. [Search a 2D Matrix II](./240-search-a-2d-matrix-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2530. [Minimize Maximum of Array](./2530-minimize-maximum-of-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2614. [Maximum Count of Positive Integer and Negative Integer](./2614-maximum-count-of-positive-integer-and-negative-integer)**  
@@ -1430,7 +1439,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 16)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 17)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1457,6 +1466,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **22. [Generate Parentheses](./22-generate-parentheses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2530. [Minimize Maximum of Array](./2530-minimize-maximum-of-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **264. [Ugly Number II](./264-ugly-number-ii)**  
@@ -1536,7 +1548,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 21)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 22)</summary>
 
 - **1018. [Largest Perimeter Triangle](./1018-largest-perimeter-triangle)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1558,6 +1570,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2436. [Make Array Zero by Subtracting Equal Amounts](./2436-make-array-zero-by-subtracting-equal-amounts)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2530. [Minimize Maximum of Array](./2530-minimize-maximum-of-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2650. [Split With Minimum Sum](./2650-split-with-minimum-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2373,7 +2388,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 27)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 29)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2411,6 +2426,9 @@ Welcome to my LeetCode solutions repository!
 - **2249. [Count the Hidden Sequences](./2249-count-the-hidden-sequences)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **2342. [Minimum Average Difference](./2342-minimum-average-difference)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **2358. [Number of Ways to Split Array](./2358-number-of-ways-to-split-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -2421,6 +2439,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2465. [Shifting Letters II](./2465-shifting-letters-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2530. [Minimize Maximum of Array](./2530-minimize-maximum-of-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2714. [Left and Right Sum Differences](./2714-left-and-right-sum-differences)**  
