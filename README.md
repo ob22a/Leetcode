@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 378
+**Total Questions:** 380
 
 ### Difficulty Distribution
 
@@ -15,16 +15,16 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 231 |
-| <span style='color:orange'>Medium</span> | 135 |
+| <span style='color:orange'>Medium</span> | 137 |
 | <span style='color:red'>Hard</span> | 12 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 193 |
+| [Array](#array) | 195 |
 | [Backtracking](#backtracking) | 7 |
-| [Binary Search](#binary-search) | 45 |
+| [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
 | [Binary Tree](#binary-tree) | 25 |
 | [Bit Manipulation](#bit-manipulation) | 22 |
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 24 |
 | [Math](#math) | 68 |
-| [Matrix](#matrix) | 12 |
+| [Matrix](#matrix) | 13 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 2 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
@@ -74,13 +74,13 @@ Welcome to my LeetCode solutions repository!
 | [String Matching](#string-matching) | 4 |
 | [Tree](#tree) | 28 |
 | [Trie](#trie) | 3 |
-| [Two Pointers](#two-pointers) | 58 |
+| [Two Pointers](#two-pointers) | 59 |
 | [Union Find](#union-find) | 1 |
 
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 193)</summary>
+<summary id="array"><strong>Array</strong> (Total: 195)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -286,6 +286,9 @@ Welcome to my LeetCode solutions repository!
 - **204. [Count Primes](./204-count-primes)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **2047. [Find a Peak Element II](./2047-find-a-peak-element-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **209. [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -425,6 +428,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **304. [Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **31. [Next Permutation](./31-next-permutation)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3154. [Maximum Value of an Ordered Triplet I](./3154-maximum-value-of-an-ordered-triplet-i)**  
@@ -690,7 +696,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 45)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 46)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -738,6 +744,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2000. [Minimum Speed to Arrive on Time](./2000-minimum-speed-to-arrive-on-time)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2047. [Find a Peak Element II](./2047-find-a-peak-element-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **209. [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum)**  
@@ -2257,7 +2266,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 12)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 13)</summary>
 
 - **1242. [Matrix Block Sum](./1242-matrix-block-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2267,6 +2276,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1791. [Richest Customer Wealth](./1791-richest-customer-wealth)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2047. [Find a Peak Element II](./2047-find-a-peak-element-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **240. [Search a 2D Matrix II](./240-search-a-2d-matrix-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3412,7 +3424,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 58)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 59)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3506,6 +3518,9 @@ Welcome to my LeetCode solutions repository!
 
 - **283. [Move Zeroes](./283-move-zeroes)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **31. [Next Permutation](./31-next-permutation)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **344. [Reverse String](./344-reverse-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
