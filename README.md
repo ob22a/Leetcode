@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 380
+**Total Questions:** 381
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 231 |
+| <span style='color:green'>Easy</span> | 232 |
 | <span style='color:orange'>Medium</span> | 137 |
 | <span style='color:red'>Hard</span> | 12 |
 
@@ -26,17 +26,17 @@ Welcome to my LeetCode solutions repository!
 | [Backtracking](#backtracking) | 7 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
-| [Binary Tree](#binary-tree) | 25 |
+| [Binary Tree](#binary-tree) | 26 |
 | [Bit Manipulation](#bit-manipulation) | 22 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 14 |
+| [Breadth-First Search](#breadth-first-search) | 15 |
 | [Bucket Sort](#bucket-sort) | 3 |
 | [Combinatorics](#combinatorics) | 1 |
 | [Counting](#counting) | 24 |
 | [Counting Sort](#counting-sort) | 2 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 13 |
-| [Depth-First Search](#depth-first-search) | 25 |
+| [Depth-First Search](#depth-first-search) | 26 |
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 13 |
 | [Doubly-Linked List](#doubly-linked-list) | 1 |
@@ -72,7 +72,7 @@ Welcome to my LeetCode solutions repository!
 | [Stack](#stack) | 33 |
 | [String](#string) | 85 |
 | [String Matching](#string-matching) | 4 |
-| [Tree](#tree) | 28 |
+| [Tree](#tree) | 29 |
 | [Trie](#trie) | 3 |
 | [Two Pointers](#two-pointers) | 59 |
 | [Union Find](#union-find) | 1 |
@@ -868,7 +868,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-tree"><strong>Binary Tree</strong> (Total: 25)</summary>
+<summary id="binary-tree"><strong>Binary Tree</strong> (Total: 26)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -881,6 +881,9 @@ Welcome to my LeetCode solutions repository!
 
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1035. [Cousins in Binary Tree](./1035-cousins-in-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **104. [Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1033,7 +1036,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 14)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 15)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1046,6 +1049,9 @@ Welcome to my LeetCode solutions repository!
 
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1035. [Cousins in Binary Tree](./1035-cousins-in-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **104. [Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1254,7 +1260,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 25)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 26)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1263,6 +1269,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **101. [Symmetric Tree](./101-symmetric-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1035. [Cousins in Binary Tree](./1035-cousins-in-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **104. [Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree)**  
@@ -3321,7 +3330,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="tree"><strong>Tree</strong> (Total: 28)</summary>
+<summary id="tree"><strong>Tree</strong> (Total: 29)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3334,6 +3343,9 @@ Welcome to my LeetCode solutions repository!
 
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1035. [Cousins in Binary Tree](./1035-cousins-in-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **104. [Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
