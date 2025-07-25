@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 381
+**Total Questions:** 382
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 232 |
-| <span style='color:orange'>Medium</span> | 137 |
+| <span style='color:orange'>Medium</span> | 138 |
 | <span style='color:red'>Hard</span> | 12 |
 
 ### Topics Overview
@@ -36,10 +36,10 @@ Welcome to my LeetCode solutions repository!
 | [Counting Sort](#counting-sort) | 2 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 13 |
-| [Depth-First Search](#depth-first-search) | 26 |
+| [Depth-First Search](#depth-first-search) | 27 |
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 13 |
-| [Doubly-Linked List](#doubly-linked-list) | 1 |
+| [Doubly-Linked List](#doubly-linked-list) | 2 |
 | [Dynamic Programming](#dynamic-programming) | 17 |
 | [Enumeration](#enumeration) | 5 |
 | [Game Theory](#game-theory) | 2 |
@@ -51,7 +51,7 @@ Welcome to my LeetCode solutions repository!
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 13 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
-| [Linked List](#linked-list) | 24 |
+| [Linked List](#linked-list) | 25 |
 | [Math](#math) | 68 |
 | [Matrix](#matrix) | 13 |
 | [Memoization](#memoization) | 3 |
@@ -1260,7 +1260,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 26)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 27)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1318,6 +1318,9 @@ Welcome to my LeetCode solutions repository!
 
 - **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **766. [Flatten a Multilevel Doubly Linked List](./766-flatten-a-multilevel-doubly-linked-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **774. [Maximum Depth of N-ary Tree](./774-maximum-depth-of-n-ary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1449,9 +1452,12 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="doubly-linked-list"><strong>Doubly-Linked List</strong> (Total: 1)</summary>
+<summary id="doubly-linked-list"><strong>Doubly-Linked List</strong> (Total: 2)</summary>
 
 - **1582. [Design Browser History](./1582-design-browser-history)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **766. [Flatten a Multilevel Doubly Linked List](./766-flatten-a-multilevel-doubly-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
@@ -1989,7 +1995,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="linked-list"><strong>Linked List</strong> (Total: 24)</summary>
+<summary id="linked-list"><strong>Linked List</strong> (Total: 25)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2043,6 +2049,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **61. [Rotate List](./61-rotate-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **766. [Flatten a Multilevel Doubly Linked List](./766-flatten-a-multilevel-doubly-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **816. [Design HashSet](./816-design-hashset)**  
