@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 382
+**Total Questions:** 383
 
 ### Difficulty Distribution
 
@@ -16,7 +16,7 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 232 |
 | <span style='color:orange'>Medium</span> | 138 |
-| <span style='color:red'>Hard</span> | 12 |
+| <span style='color:red'>Hard</span> | 13 |
 
 ### Topics Overview
 
@@ -38,7 +38,7 @@ Welcome to my LeetCode solutions repository!
 | [Database](#database) | 13 |
 | [Depth-First Search](#depth-first-search) | 27 |
 | [Design](#design) | 19 |
-| [Divide and Conquer](#divide-and-conquer) | 13 |
+| [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
 | [Dynamic Programming](#dynamic-programming) | 17 |
 | [Enumeration](#enumeration) | 5 |
@@ -48,14 +48,14 @@ Welcome to my LeetCode solutions repository!
 | [Greedy](#greedy) | 22 |
 | [Hash Function](#hash-function) | 3 |
 | [Hash Table](#hash-table) | 90 |
-| [Heap (Priority Queue)](#heap-(priority-queue)) | 13 |
+| [Heap (Priority Queue)](#heap-(priority-queue)) | 14 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
-| [Linked List](#linked-list) | 25 |
+| [Linked List](#linked-list) | 26 |
 | [Math](#math) | 68 |
 | [Matrix](#matrix) | 13 |
 | [Memoization](#memoization) | 3 |
-| [Merge Sort](#merge-sort) | 2 |
+| [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
 | [Monotonic Stack](#monotonic-stack) | 11 |
 | [Number Theory](#number-theory) | 2 |
@@ -1408,7 +1408,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="divide-and-conquer"><strong>Divide and Conquer</strong> (Total: 13)</summary>
+<summary id="divide-and-conquer"><strong>Divide and Conquer</strong> (Total: 14)</summary>
 
 - **105. [Construct Binary Tree from Preorder and Inorder Traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1433,6 +1433,9 @@ Welcome to my LeetCode solutions repository!
 
 - **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **23. [Merge k Sorted Lists](./23-merge-k-sorted-lists)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **240. [Search a 2D Matrix II](./240-search-a-2d-matrix-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1932,7 +1935,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="heap-(priority-queue)"><strong>Heap (Priority Queue)</strong> (Total: 13)</summary>
+<summary id="heap-(priority-queue)"><strong>Heap (Priority Queue)</strong> (Total: 14)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1942,6 +1945,9 @@ Welcome to my LeetCode solutions repository!
 
 - **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **23. [Merge k Sorted Lists](./23-merge-k-sorted-lists)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1995,7 +2001,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="linked-list"><strong>Linked List</strong> (Total: 25)</summary>
+<summary id="linked-list"><strong>Linked List</strong> (Total: 26)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2032,6 +2038,9 @@ Welcome to my LeetCode solutions repository!
 
 - **21. [Merge Two Sorted Lists](./21-merge-two-sorted-lists)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **23. [Merge k Sorted Lists](./23-merge-k-sorted-lists)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **234. [Palindrome Linked List](./234-palindrome-linked-list)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2342,10 +2351,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="merge-sort"><strong>Merge Sort</strong> (Total: 2)</summary>
+<summary id="merge-sort"><strong>Merge Sort</strong> (Total: 3)</summary>
 
 - **148. [Sort List](./148-sort-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **23. [Merge k Sorted Lists](./23-merge-k-sorted-lists)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **948. [Sort an Array](./948-sort-an-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
