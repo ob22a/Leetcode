@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 383
+**Total Questions:** 384
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 232 |
-| <span style='color:orange'>Medium</span> | 138 |
+| <span style='color:orange'>Medium</span> | 139 |
 | <span style='color:red'>Hard</span> | 13 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 195 |
+| [Array](#array) | 196 |
 | [Backtracking](#backtracking) | 7 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
@@ -47,12 +47,12 @@ Welcome to my LeetCode solutions repository!
 | [Graph](#graph) | 3 |
 | [Greedy](#greedy) | 22 |
 | [Hash Function](#hash-function) | 3 |
-| [Hash Table](#hash-table) | 90 |
+| [Hash Table](#hash-table) | 91 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 14 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 26 |
-| [Math](#math) | 68 |
+| [Math](#math) | 69 |
 | [Matrix](#matrix) | 13 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -60,7 +60,7 @@ Welcome to my LeetCode solutions repository!
 | [Monotonic Stack](#monotonic-stack) | 11 |
 | [Number Theory](#number-theory) | 2 |
 | [Ordered Set](#ordered-set) | 1 |
-| [Prefix Sum](#prefix-sum) | 29 |
+| [Prefix Sum](#prefix-sum) | 30 |
 | [Queue](#queue) | 6 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
@@ -80,7 +80,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 195)</summary>
+<summary id="array"><strong>Array</strong> (Total: 196)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -546,6 +546,9 @@ Welcome to my LeetCode solutions repository!
 
 - **506. [Relative Ranks](./506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **523. [Continuous Subarray Sum](./523-continuous-subarray-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **525. [Contiguous Array](./525-contiguous-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1660,7 +1663,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 90)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 91)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1884,6 +1887,9 @@ Welcome to my LeetCode solutions repository!
 - **500. [Keyboard Row](./500-keyboard-row)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **523. [Continuous Subarray Sum](./523-continuous-subarray-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **525. [Contiguous Array](./525-contiguous-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -2084,7 +2090,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 68)</summary>
+<summary id="math"><strong>Math</strong> (Total: 69)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2256,6 +2262,9 @@ Welcome to my LeetCode solutions repository!
 
 - **507. [Perfect Number](./507-perfect-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **523. [Continuous Subarray Sum](./523-continuous-subarray-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **598. [Range Addition II](./598-range-addition-ii)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2430,7 +2439,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 29)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 30)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2506,6 +2515,9 @@ Welcome to my LeetCode solutions repository!
 
 - **410. [Split Array Largest Sum](./410-split-array-largest-sum)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **523. [Continuous Subarray Sum](./523-continuous-subarray-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **525. [Contiguous Array](./525-contiguous-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
