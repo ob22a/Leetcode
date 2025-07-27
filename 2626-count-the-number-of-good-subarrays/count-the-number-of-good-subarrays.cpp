@@ -12,7 +12,7 @@ public:
             cout<<pairs;
             while(pairs>=k){
                 sol+=(n-i);
-                pairs-=(freq[nums[j]]-1);
+                pairs+=(1-freq[nums[j]]);
                 freq[nums[j++]]--;
             }
         }
