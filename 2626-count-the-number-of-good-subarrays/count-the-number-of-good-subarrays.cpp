@@ -9,7 +9,7 @@ public:
         for(int i=0,j=0;i<n;++i){
             pairs+=freq[nums[i]];
             freq[nums[i]]++;
-            cout<<pairs;
+
             while(pairs>=k){
                 sol+=(n-i);
                 pairs+=(1-freq[nums[j]]);
