@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 384
+**Total Questions:** 388
 
 ### Difficulty Distribution
 
@@ -14,29 +14,29 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 232 |
-| <span style='color:orange'>Medium</span> | 139 |
+| <span style='color:green'>Easy</span> | 233 |
+| <span style='color:orange'>Medium</span> | 142 |
 | <span style='color:red'>Hard</span> | 13 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 196 |
+| [Array](#array) | 199 |
 | [Backtracking](#backtracking) | 7 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
 | [Binary Tree](#binary-tree) | 26 |
 | [Bit Manipulation](#bit-manipulation) | 22 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 15 |
+| [Breadth-First Search](#breadth-first-search) | 16 |
 | [Bucket Sort](#bucket-sort) | 3 |
 | [Combinatorics](#combinatorics) | 1 |
-| [Counting](#counting) | 24 |
+| [Counting](#counting) | 25 |
 | [Counting Sort](#counting-sort) | 2 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 13 |
-| [Depth-First Search](#depth-first-search) | 27 |
+| [Depth-First Search](#depth-first-search) | 28 |
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
@@ -47,13 +47,13 @@ Welcome to my LeetCode solutions repository!
 | [Graph](#graph) | 3 |
 | [Greedy](#greedy) | 22 |
 | [Hash Function](#hash-function) | 3 |
-| [Hash Table](#hash-table) | 91 |
+| [Hash Table](#hash-table) | 94 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 14 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 26 |
 | [Math](#math) | 69 |
-| [Matrix](#matrix) | 13 |
+| [Matrix](#matrix) | 14 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
@@ -67,10 +67,10 @@ Welcome to my LeetCode solutions repository!
 | [Recursion](#recursion) | 13 |
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Simulation](#simulation) | 27 |
-| [Sliding Window](#sliding-window) | 34 |
+| [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 51 |
 | [Stack](#stack) | 33 |
-| [String](#string) | 85 |
+| [String](#string) | 86 |
 | [String Matching](#string-matching) | 4 |
 | [Tree](#tree) | 29 |
 | [Trie](#trie) | 3 |
@@ -80,7 +80,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 196)</summary>
+<summary id="array"><strong>Array</strong> (Total: 199)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -397,6 +397,9 @@ Welcome to my LeetCode solutions repository!
 - **2614. [Maximum Count of Positive Integer and Negative Integer](./2614-maximum-count-of-positive-integer-and-negative-integer)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **2626. [Count the Number of Good Subarrays](./2626-count-the-number-of-good-subarrays)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **2634. [Minimum Common Value](./2634-minimum-common-value)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -410,6 +413,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2721. [Sum of Distances](./2721-sum-of-distances)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2751. [Sliding Subarray Beauty](./2751-sliding-subarray-beauty)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2791. [Find the Losers of the Circular Game](./2791-find-the-losers-of-the-circular-game)**  
@@ -519,6 +525,9 @@ Welcome to my LeetCode solutions repository!
 
 - **46. [Permutations](./46-permutations)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **463. [Island Perimeter](./463-island-perimeter)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **48. [Rotate Image](./48-rotate-image)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1039,7 +1048,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 15)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 16)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1077,6 +1086,9 @@ Welcome to my LeetCode solutions repository!
 - **404. [Sum of Left Leaves](./404-sum-of-left-leaves)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **463. [Island Perimeter](./463-island-perimeter)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -1111,7 +1123,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="counting"><strong>Counting</strong> (Total: 24)</summary>
+<summary id="counting"><strong>Counting</strong> (Total: 25)</summary>
 
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -1154,6 +1166,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2614. [Maximum Count of Positive Integer and Negative Integer](./2614-maximum-count-of-positive-integer-and-negative-integer)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **299. [Bulls and Cows](./299-bulls-and-cows)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1263,7 +1278,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 27)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 28)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1311,6 +1326,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **404. [Sum of Left Leaves](./404-sum-of-left-leaves)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **463. [Island Perimeter](./463-island-perimeter)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **501. [Find Mode in Binary Search Tree](./501-find-mode-in-binary-search-tree)**  
@@ -1663,7 +1681,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 91)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 94)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1791,6 +1809,9 @@ Welcome to my LeetCode solutions repository!
 - **2599. [Take K of Each Character From Left and Right](./2599-take-k-of-each-character-from-left-and-right)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **2626. [Count the Number of Good Subarrays](./2626-count-the-number-of-good-subarrays)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **2634. [Minimum Common Value](./2634-minimum-common-value)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -1803,11 +1824,17 @@ Welcome to my LeetCode solutions repository!
 - **2721. [Sum of Distances](./2721-sum-of-distances)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **2751. [Sliding Subarray Beauty](./2751-sliding-subarray-beauty)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **2791. [Find the Losers of the Circular Game](./2791-find-the-losers-of-the-circular-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **290. [Word Pattern](./290-word-pattern)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **299. [Bulls and Cows](./299-bulls-and-cows)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3. [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2302,7 +2329,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 13)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 14)</summary>
 
 - **1242. [Matrix Block Sum](./1242-matrix-block-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2327,6 +2354,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **463. [Island Perimeter](./463-island-perimeter)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **48. [Rotate Image](./48-rotate-image)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2717,7 +2747,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 34)</summary>
+<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 36)</summary>
 
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2777,6 +2807,12 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2599. [Take K of Each Character From Left and Right](./2599-take-k-of-each-character-from-left-and-right)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2626. [Count the Number of Good Subarrays](./2626-count-the-number-of-good-subarrays)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2751. [Sliding Subarray Beauty](./2751-sliding-subarray-beauty)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3. [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters)**  
@@ -3086,7 +3122,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 85)</summary>
+<summary id="string"><strong>String</strong> (Total: 86)</summary>
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3204,6 +3240,9 @@ Welcome to my LeetCode solutions repository!
 
 - **290. [Word Pattern](./290-word-pattern)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **299. [Bulls and Cows](./299-bulls-and-cows)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3. [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
