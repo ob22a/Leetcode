@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 388
+**Total Questions:** 390
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 233 |
-| <span style='color:orange'>Medium</span> | 142 |
+| <span style='color:orange'>Medium</span> | 144 |
 | <span style='color:red'>Hard</span> | 13 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 199 |
+| [Array](#array) | 201 |
 | [Backtracking](#backtracking) | 7 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 26 |
 | [Math](#math) | 69 |
-| [Matrix](#matrix) | 14 |
+| [Matrix](#matrix) | 16 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
@@ -66,7 +66,7 @@ Welcome to my LeetCode solutions repository!
 | [Radix Sort](#radix-sort) | 2 |
 | [Recursion](#recursion) | 13 |
 | [Rolling Hash](#rolling-hash) | 1 |
-| [Simulation](#simulation) | 27 |
+| [Simulation](#simulation) | 29 |
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 51 |
 | [Stack](#stack) | 33 |
@@ -80,7 +80,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 199)</summary>
+<summary id="array"><strong>Array</strong> (Total: 201)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -562,6 +562,9 @@ Welcome to my LeetCode solutions repository!
 - **525. [Contiguous Array](./525-contiguous-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **54. [Spiral Matrix](./54-spiral-matrix)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **540. [Single Element in a Sorted Array](./540-single-element-in-a-sorted-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -576,6 +579,9 @@ Welcome to my LeetCode solutions repository!
 
 - **575. [Distribute Candies](./575-distribute-candies)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **59. [Spiral Matrix II](./59-spiral-matrix-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **594. [Longest Harmonious Subsequence](./594-longest-harmonious-subsequence)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2329,7 +2335,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 14)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 16)</summary>
 
 - **1242. [Matrix Block Sum](./1242-matrix-block-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2362,6 +2368,12 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **498. [Diagonal Traverse](./498-diagonal-traverse)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **54. [Spiral Matrix](./54-spiral-matrix)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **59. [Spiral Matrix II](./59-spiral-matrix-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **74. [Search a 2D Matrix](./74-search-a-2d-matrix)**  
@@ -2661,7 +2673,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 27)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 29)</summary>
 
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2724,6 +2736,12 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **498. [Diagonal Traverse](./498-diagonal-traverse)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **54. [Spiral Matrix](./54-spiral-matrix)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **59. [Spiral Matrix II](./59-spiral-matrix-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **67. [Add Binary](./67-add-binary)**  
