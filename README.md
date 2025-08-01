@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 390
+**Total Questions:** 393
 
 ### Difficulty Distribution
 
@@ -14,22 +14,22 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 233 |
-| <span style='color:orange'>Medium</span> | 144 |
+| <span style='color:green'>Easy</span> | 234 |
+| <span style='color:orange'>Medium</span> | 146 |
 | <span style='color:red'>Hard</span> | 13 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 201 |
+| [Array](#array) | 204 |
 | [Backtracking](#backtracking) | 7 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
 | [Binary Tree](#binary-tree) | 26 |
 | [Bit Manipulation](#bit-manipulation) | 22 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 16 |
+| [Breadth-First Search](#breadth-first-search) | 18 |
 | [Bucket Sort](#bucket-sort) | 3 |
 | [Combinatorics](#combinatorics) | 1 |
 | [Counting](#counting) | 25 |
@@ -40,7 +40,7 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 17 |
+| [Dynamic Programming](#dynamic-programming) | 18 |
 | [Enumeration](#enumeration) | 5 |
 | [Game Theory](#game-theory) | 2 |
 | [Geometry](#geometry) | 1 |
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 26 |
 | [Math](#math) | 69 |
-| [Matrix](#matrix) | 16 |
+| [Matrix](#matrix) | 18 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
@@ -66,11 +66,11 @@ Welcome to my LeetCode solutions repository!
 | [Radix Sort](#radix-sort) | 2 |
 | [Recursion](#recursion) | 13 |
 | [Rolling Hash](#rolling-hash) | 1 |
-| [Simulation](#simulation) | 29 |
+| [Simulation](#simulation) | 30 |
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 51 |
 | [Stack](#stack) | 33 |
-| [String](#string) | 86 |
+| [String](#string) | 87 |
 | [String Matching](#string-matching) | 4 |
 | [Tree](#tree) | 29 |
 | [Trie](#trie) | 3 |
@@ -80,7 +80,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 201)</summary>
+<summary id="array"><strong>Array</strong> (Total: 204)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -264,6 +264,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1848. [Sum of Unique Elements](./1848-sum-of-unique-elements)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1876. [Map of Highest Peak](./1876-map-of-highest-peak)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1878. [Check if Array Is Sorted and Rotated](./1878-check-if-array-is-sorted-and-rotated)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -478,6 +481,9 @@ Welcome to my LeetCode solutions repository!
 - **350. [Intersection of Two Arrays II](./350-intersection-of-two-arrays-ii)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **3533. [Snake in Matrix](./3533-snake-in-matrix)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **3581. [The Two Sneaky Numbers of Digitville](./3581-the-two-sneaky-numbers-of-digitville)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -566,6 +572,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **540. [Single Element in a Sorted Array](./540-single-element-in-a-sorted-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **542. [01 Matrix](./542-01-matrix)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **56. [Merge Intervals](./56-merge-intervals)**  
@@ -1054,7 +1063,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 16)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 18)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1083,6 +1092,9 @@ Welcome to my LeetCode solutions repository!
 - **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **1876. [Map of Highest Peak](./1876-map-of-highest-peak)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -1094,6 +1106,9 @@ Welcome to my LeetCode solutions repository!
 
 - **463. [Island Perimeter](./463-island-perimeter)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **542. [01 Matrix](./542-01-matrix)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1493,7 +1508,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 17)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 18)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1541,6 +1556,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **5. [Longest Palindromic Substring](./5-longest-palindromic-substring)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **542. [01 Matrix](./542-01-matrix)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **70. [Climbing Stairs](./70-climbing-stairs)**  
@@ -2335,7 +2353,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 16)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 18)</summary>
 
 - **1242. [Matrix Block Sum](./1242-matrix-block-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2345,6 +2363,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1791. [Richest Customer Wealth](./1791-richest-customer-wealth)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1876. [Map of Highest Peak](./1876-map-of-highest-peak)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2047. [Find a Peak Element II](./2047-find-a-peak-element-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2371,6 +2392,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **54. [Spiral Matrix](./54-spiral-matrix)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **542. [01 Matrix](./542-01-matrix)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **59. [Spiral Matrix II](./59-spiral-matrix-ii)**  
@@ -2673,7 +2697,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 29)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 30)</summary>
 
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2712,6 +2736,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3450. [Find the Child Who Has the Ball After K Seconds](./3450-find-the-child-who-has-the-ball-after-k-seconds)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3533. [Snake in Matrix](./3533-snake-in-matrix)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3600. [Find the K-th Character in String Game I](./3600-find-the-k-th-character-in-string-game-i)**  
@@ -3140,7 +3167,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 86)</summary>
+<summary id="string"><strong>String</strong> (Total: 87)</summary>
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3278,6 +3305,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **345. [Reverse Vowels of a String](./345-reverse-vowels-of-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3533. [Snake in Matrix](./3533-snake-in-matrix)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3736. [Find Valid Pair of Adjacent Digits in String](./3736-find-valid-pair-of-adjacent-digits-in-string)**  
