@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 393
+**Total Questions:** 396
 
 ### Difficulty Distribution
 
@@ -15,28 +15,28 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 234 |
-| <span style='color:orange'>Medium</span> | 146 |
+| <span style='color:orange'>Medium</span> | 149 |
 | <span style='color:red'>Hard</span> | 13 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 204 |
+| [Array](#array) | 207 |
 | [Backtracking](#backtracking) | 7 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
 | [Binary Tree](#binary-tree) | 26 |
 | [Bit Manipulation](#bit-manipulation) | 22 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 18 |
+| [Breadth-First Search](#breadth-first-search) | 21 |
 | [Bucket Sort](#bucket-sort) | 3 |
 | [Combinatorics](#combinatorics) | 1 |
 | [Counting](#counting) | 25 |
 | [Counting Sort](#counting-sort) | 2 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 13 |
-| [Depth-First Search](#depth-first-search) | 28 |
+| [Depth-First Search](#depth-first-search) | 30 |
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 26 |
 | [Math](#math) | 69 |
-| [Matrix](#matrix) | 18 |
+| [Matrix](#matrix) | 21 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
@@ -75,12 +75,12 @@ Welcome to my LeetCode solutions repository!
 | [Tree](#tree) | 29 |
 | [Trie](#trie) | 3 |
 | [Two Pointers](#two-pointers) | 59 |
-| [Union Find](#union-find) | 1 |
+| [Union Find](#union-find) | 3 |
 
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 204)</summary>
+<summary id="array"><strong>Array</strong> (Total: 207)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -99,6 +99,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **1036. [Rotting Oranges](./1036-rotting-oranges)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -140,6 +143,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1242. [Matrix Block Sum](./1242-matrix-block-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **130. [Surrounded Regions](./130-surrounded-regions)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1329. [Minimum Cost to Move Chips to The Same Position](./1329-minimum-cost-to-move-chips-to-the-same-position)**  
@@ -282,6 +288,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1993. [Sum of All Subset XOR Totals](./1993-sum-of-all-subset-xor-totals)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **200. [Number of Islands](./200-number-of-islands)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2000. [Minimum Speed to Arrive on Time](./2000-minimum-speed-to-arrive-on-time)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1063,7 +1072,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 18)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 21)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1080,6 +1089,9 @@ Welcome to my LeetCode solutions repository!
 - **1035. [Cousins in Binary Tree](./1035-cousins-in-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **1036. [Rotting Oranges](./1036-rotting-oranges)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **104. [Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -1092,7 +1104,13 @@ Welcome to my LeetCode solutions repository!
 - **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **130. [Surrounded Regions](./130-surrounded-regions)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **1876. [Map of Highest Peak](./1876-map-of-highest-peak)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **200. [Number of Islands](./200-number-of-islands)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**  
@@ -1299,7 +1317,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 28)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 30)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1328,11 +1346,17 @@ Welcome to my LeetCode solutions repository!
 - **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **130. [Surrounded Regions](./130-surrounded-regions)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **144. [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **145. [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **200. [Number of Islands](./200-number-of-islands)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2353,9 +2377,15 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 18)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 21)</summary>
+
+- **1036. [Rotting Oranges](./1036-rotting-oranges)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1242. [Matrix Block Sum](./1242-matrix-block-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **130. [Surrounded Regions](./130-surrounded-regions)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1677. [Matrix Diagonal Sum](./1677-matrix-diagonal-sum)**  
@@ -2365,6 +2395,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1876. [Map of Highest Peak](./1876-map-of-highest-peak)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **200. [Number of Islands](./200-number-of-islands)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2047. [Find a Peak Element II](./2047-find-a-peak-element-ii)**  
@@ -3738,7 +3771,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="union-find"><strong>Union Find</strong> (Total: 1)</summary>
+<summary id="union-find"><strong>Union Find</strong> (Total: 3)</summary>
+
+- **130. [Surrounded Regions](./130-surrounded-regions)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **200. [Number of Islands](./200-number-of-islands)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
