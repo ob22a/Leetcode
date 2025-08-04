@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 396
+**Total Questions:** 400
 
 ### Difficulty Distribution
 
@@ -14,29 +14,29 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 234 |
-| <span style='color:orange'>Medium</span> | 149 |
+| <span style='color:green'>Easy</span> | 235 |
+| <span style='color:orange'>Medium</span> | 152 |
 | <span style='color:red'>Hard</span> | 13 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 207 |
+| [Array](#array) | 211 |
 | [Backtracking](#backtracking) | 7 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
 | [Binary Tree](#binary-tree) | 26 |
 | [Bit Manipulation](#bit-manipulation) | 22 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 21 |
+| [Breadth-First Search](#breadth-first-search) | 25 |
 | [Bucket Sort](#bucket-sort) | 3 |
 | [Combinatorics](#combinatorics) | 1 |
 | [Counting](#counting) | 25 |
 | [Counting Sort](#counting-sort) | 2 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 13 |
-| [Depth-First Search](#depth-first-search) | 30 |
+| [Depth-First Search](#depth-first-search) | 34 |
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 26 |
 | [Math](#math) | 69 |
-| [Matrix](#matrix) | 21 |
+| [Matrix](#matrix) | 25 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
@@ -75,12 +75,12 @@ Welcome to my LeetCode solutions repository!
 | [Tree](#tree) | 29 |
 | [Trie](#trie) | 3 |
 | [Two Pointers](#two-pointers) | 59 |
-| [Union Find](#union-find) | 3 |
+| [Union Find](#union-find) | 5 |
 
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 207)</summary>
+<summary id="array"><strong>Array</strong> (Total: 211)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -164,6 +164,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1370. [Count Number of Nice Subarrays](./1370-count-number-of-nice-subarrays)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1380. [Number of Closed Islands](./1380-number-of-closed-islands)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1392. [Find the Difference of Two Arrays](./1392-find-the-difference-of-two-arrays)**  
@@ -302,6 +305,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **209. [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2103. [Find All Groups of Farmland](./2103-find-all-groups-of-farmland)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2137. [Final Value of Variable After Performing Operations](./2137-final-value-of-variable-after-performing-operations)**  
@@ -628,7 +634,13 @@ Welcome to my LeetCode solutions repository!
 - **682. [Baseball Game](./682-baseball-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **695. [Max Area of Island](./695-max-area-of-island)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **724. [Find Pivot Index](./724-find-pivot-index)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **733. [Flood Fill](./733-flood-fill)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **735. [Asteroid Collision](./735-asteroid-collision)**  
@@ -1072,7 +1084,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 21)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 25)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1107,10 +1119,16 @@ Welcome to my LeetCode solutions repository!
 - **130. [Surrounded Regions](./130-surrounded-regions)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **1380. [Number of Closed Islands](./1380-number-of-closed-islands)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **1876. [Map of Highest Peak](./1876-map-of-highest-peak)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **200. [Number of Islands](./200-number-of-islands)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2103. [Find All Groups of Farmland](./2103-find-all-groups-of-farmland)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**  
@@ -1129,6 +1147,12 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **695. [Max Area of Island](./695-max-area-of-island)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **733. [Flood Fill](./733-flood-fill)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **774. [Maximum Depth of N-ary Tree](./774-maximum-depth-of-n-ary-tree)**  
@@ -1317,7 +1341,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 30)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 34)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1349,6 +1373,9 @@ Welcome to my LeetCode solutions repository!
 - **130. [Surrounded Regions](./130-surrounded-regions)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **1380. [Number of Closed Islands](./1380-number-of-closed-islands)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **144. [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -1356,6 +1383,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **200. [Number of Islands](./200-number-of-islands)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2103. [Find All Groups of Farmland](./2103-find-all-groups-of-farmland)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**  
@@ -1383,6 +1413,12 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **695. [Max Area of Island](./695-max-area-of-island)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **733. [Flood Fill](./733-flood-fill)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **766. [Flatten a Multilevel Doubly Linked List](./766-flatten-a-multilevel-doubly-linked-list)**  
@@ -2377,7 +2413,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 21)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 25)</summary>
 
 - **1036. [Rotting Oranges](./1036-rotting-oranges)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2386,6 +2422,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **130. [Surrounded Regions](./130-surrounded-regions)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1380. [Number of Closed Islands](./1380-number-of-closed-islands)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1677. [Matrix Diagonal Sum](./1677-matrix-diagonal-sum)**  
@@ -2401,6 +2440,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2047. [Find a Peak Element II](./2047-find-a-peak-element-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2103. [Find All Groups of Farmland](./2103-find-all-groups-of-farmland)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **240. [Search a 2D Matrix II](./240-search-a-2d-matrix-ii)**  
@@ -2432,6 +2474,12 @@ Welcome to my LeetCode solutions repository!
 
 - **59. [Spiral Matrix II](./59-spiral-matrix-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **695. [Max Area of Island](./695-max-area-of-island)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **733. [Flood Fill](./733-flood-fill)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **74. [Search a 2D Matrix](./74-search-a-2d-matrix)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3771,9 +3819,12 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="union-find"><strong>Union Find</strong> (Total: 3)</summary>
+<summary id="union-find"><strong>Union Find</strong> (Total: 5)</summary>
 
 - **130. [Surrounded Regions](./130-surrounded-regions)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1380. [Number of Closed Islands](./1380-number-of-closed-islands)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **200. [Number of Islands](./200-number-of-islands)**  
@@ -3781,6 +3832,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **695. [Max Area of Island](./695-max-area-of-island)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
 
