@@ -1,17 +1,19 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        array<int,100001> trees={}; // For scalability using hash map is better 
-        int types=0;
-        int amount=0;
-        for(int r=0, l=0;r<fruits.size();++r){
-            if(++trees[fruits[r]]==1) types++;
-            
-            while(types>2){
-                if(--trees[fruits[l++]]==0) --types;
+        int n=fruits.size();
+        int type=0;
+        int maxNum=0;
+        vector<int> freq(n,0);
+
+        for(int i=0,j=0;j<n;++j){
+            if(freq[fruits[j]]==0) ++type;
+            freq[fruits[j]]++;
+            while(type>2){
+                if((--freq[fruits[i++]])==0) --type;
             }
-            amount=max(amount,r-l+1);
+            maxNum=max(maxNum,j-i+1);
         }
-        return amount;
+        return maxNum;
     }
 };
