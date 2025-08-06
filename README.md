@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 406
+**Total Questions:** 409
 
 ### Difficulty Distribution
 
@@ -14,29 +14,29 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 235 |
-| <span style='color:orange'>Medium</span> | 156 |
+| <span style='color:green'>Easy</span> | 236 |
+| <span style='color:orange'>Medium</span> | 158 |
 | <span style='color:red'>Hard</span> | 15 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 217 |
+| [Array](#array) | 219 |
 | [Backtracking](#backtracking) | 8 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
 | [Binary Tree](#binary-tree) | 26 |
 | [Bit Manipulation](#bit-manipulation) | 22 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 28 |
+| [Breadth-First Search](#breadth-first-search) | 29 |
 | [Bucket Sort](#bucket-sort) | 3 |
 | [Combinatorics](#combinatorics) | 1 |
 | [Counting](#counting) | 25 |
 | [Counting Sort](#counting-sort) | 2 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 13 |
-| [Depth-First Search](#depth-first-search) | 35 |
+| [Depth-First Search](#depth-first-search) | 36 |
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
@@ -52,13 +52,13 @@ Welcome to my LeetCode solutions repository!
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 26 |
-| [Math](#math) | 70 |
+| [Math](#math) | 73 |
 | [Matrix](#matrix) | 29 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
 | [Monotonic Stack](#monotonic-stack) | 12 |
-| [Number Theory](#number-theory) | 2 |
+| [Number Theory](#number-theory) | 4 |
 | [Ordered Set](#ordered-set) | 1 |
 | [Prefix Sum](#prefix-sum) | 30 |
 | [Queue](#queue) | 7 |
@@ -81,7 +81,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 217)</summary>
+<summary id="array"><strong>Array</strong> (Total: 219)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -317,6 +317,9 @@ Welcome to my LeetCode solutions repository!
 - **2103. [Find All Groups of Farmland](./2103-find-all-groups-of-farmland)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **2106. [Find Greatest Common Divisor of Array](./2106-find-greatest-common-divisor-of-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **2137. [Final Value of Variable After Performing Operations](./2137-final-value-of-variable-after-performing-operations)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -414,6 +417,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2552. [Maximum Sum of Distinct Subarrays With Length K](./2552-maximum-sum-of-distinct-subarrays-with-length-k)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2557. [Number of Subarrays With LCM Equal to K](./2557-number-of-subarrays-with-lcm-equal-to-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2581. [Divide Players Into Teams of Equal Skill](./2581-divide-players-into-teams-of-equal-skill)**  
@@ -1106,7 +1112,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 28)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 29)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1166,6 +1172,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **3558. [Find a Safe Walk Through a Grid](./3558-find-a-safe-walk-through-a-grid)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **365. [Water and Jug Problem](./365-water-and-jug-problem)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **404. [Sum of Left Leaves](./404-sum-of-left-leaves)**  
@@ -1372,7 +1381,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 35)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 36)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1427,6 +1436,9 @@ Welcome to my LeetCode solutions repository!
 
 - **257. [Binary Tree Paths](./257-binary-tree-paths)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **365. [Water and Jug Problem](./365-water-and-jug-problem)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **386. [Lexicographical Numbers](./386-lexicographical-numbers)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2247,7 +2259,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 70)</summary>
+<summary id="math"><strong>Math</strong> (Total: 73)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2321,11 +2333,17 @@ Welcome to my LeetCode solutions repository!
 - **204. [Count Primes](./204-count-primes)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **2106. [Find Greatest Common Divisor of Array](./2106-find-greatest-common-divisor-of-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **231. [Power of Two](./231-power-of-two)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2383. [Add Two Integers](./2383-add-two-integers)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2557. [Number of Subarrays With LCM Equal to K](./2557-number-of-subarrays-with-lcm-equal-to-k)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **258. [Add Digits](./258-add-digits)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2389,6 +2407,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3625. [Stone Removal Game](./3625-stone-removal-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **365. [Water and Jug Problem](./365-water-and-jug-problem)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **367. [Valid Perfect Square](./367-valid-perfect-square)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2631,9 +2652,15 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="number-theory"><strong>Number Theory</strong> (Total: 2)</summary>
+<summary id="number-theory"><strong>Number Theory</strong> (Total: 4)</summary>
 
 - **204. [Count Primes](./204-count-primes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2106. [Find Greatest Common Divisor of Array](./2106-find-greatest-common-divisor-of-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2557. [Number of Subarrays With LCM Equal to K](./2557-number-of-subarrays-with-lcm-equal-to-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **258. [Add Digits](./258-add-digits)**  
