@@ -1,15 +1,15 @@
 class Solution {
 public:
     bool judgeSquareSum(int c) {
-        int small=0,large=static_cast<int>(sqrt(c));
-        if(large*large==c) return true;
-
-        while(large>=small){
-            long long sum=1LL*small*small+large*large;
+        long long i=0,j=static_cast<int>(sqrt(c));
+        
+        while(i<=j){
+            long long sum=i*i+j*j;
             if(sum==c) return true;
-            if(sum>c) large--;
-            else small++;
+            else if(sum<c) ++i;
+            else --j;
         }
+
         return false;
     }
 };
