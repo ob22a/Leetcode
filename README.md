@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 409
+**Total Questions:** 413
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 236 |
-| <span style='color:orange'>Medium</span> | 158 |
-| <span style='color:red'>Hard</span> | 15 |
+| <span style='color:orange'>Medium</span> | 161 |
+| <span style='color:red'>Hard</span> | 16 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 219 |
+| [Array](#array) | 220 |
 | [Backtracking](#backtracking) | 8 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
@@ -40,31 +40,31 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 18 |
+| [Dynamic Programming](#dynamic-programming) | 19 |
 | [Enumeration](#enumeration) | 5 |
 | [Game Theory](#game-theory) | 2 |
 | [Geometry](#geometry) | 1 |
 | [Graph](#graph) | 5 |
-| [Greedy](#greedy) | 22 |
+| [Greedy](#greedy) | 23 |
 | [Hash Function](#hash-function) | 3 |
-| [Hash Table](#hash-table) | 94 |
+| [Hash Table](#hash-table) | 95 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 16 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
-| [Linked List](#linked-list) | 26 |
-| [Math](#math) | 73 |
+| [Linked List](#linked-list) | 27 |
+| [Math](#math) | 76 |
 | [Matrix](#matrix) | 29 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
 | [Monotonic Stack](#monotonic-stack) | 12 |
-| [Number Theory](#number-theory) | 4 |
+| [Number Theory](#number-theory) | 5 |
 | [Ordered Set](#ordered-set) | 1 |
 | [Prefix Sum](#prefix-sum) | 30 |
 | [Queue](#queue) | 7 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
-| [Recursion](#recursion) | 14 |
+| [Recursion](#recursion) | 15 |
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 31 |
@@ -81,7 +81,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 219)</summary>
+<summary id="array"><strong>Array</strong> (Total: 220)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -427,6 +427,9 @@ Welcome to my LeetCode solutions repository!
 
 - **26. [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2614. [Maximum Count of Positive Integer and Negative Integer](./2614-maximum-count-of-positive-integer-and-negative-integer)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1614,7 +1617,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 18)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 19)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1665,6 +1668,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **542. [01 Matrix](./542-01-matrix)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **650. [2 Keys Keyboard](./650-2-keys-keyboard)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **70. [Climbing Stairs](./70-climbing-stairs)**  
@@ -1732,10 +1738,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 22)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 23)</summary>
 
 - **1018. [Largest Perimeter Triangle](./1018-largest-perimeter-triangle)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1033. [Broken Calculator](./1033-broken-calculator)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **11. [Container With Most Water](./11-container-with-most-water)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1817,7 +1826,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 94)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 95)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1943,6 +1952,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2599. [Take K of Each Character From Left and Right](./2599-take-k-of-each-character-from-left-and-right)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2626. [Count the Number of Good Subarrays](./2626-count-the-number-of-good-subarrays)**  
@@ -2176,7 +2188,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="linked-list"><strong>Linked List</strong> (Total: 26)</summary>
+<summary id="linked-list"><strong>Linked List</strong> (Total: 27)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2223,6 +2235,9 @@ Welcome to my LeetCode solutions repository!
 - **24. [Swap Nodes in Pairs](./24-swap-nodes-in-pairs)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **25. [Reverse Nodes in k-Group](./25-reverse-nodes-in-k-group)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **2871. [Double a Number Represented as a Linked List](./2871-double-a-number-represented-as-a-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -2259,13 +2274,16 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 73)</summary>
+<summary id="math"><strong>Math</strong> (Total: 76)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1018. [Largest Perimeter Triangle](./1018-largest-perimeter-triangle)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1033. [Broken Calculator](./1033-broken-calculator)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1086. [Divisor Game](./1086-divisor-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2347,6 +2365,9 @@ Welcome to my LeetCode solutions repository!
 
 - **258. [Add Digits](./258-add-digits)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **263. [Ugly Number](./263-ugly-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2451,6 +2472,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **633. [Sum of Square Numbers](./633-sum-of-square-numbers)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **650. [2 Keys Keyboard](./650-2-keys-keyboard)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **66. [Plus One](./66-plus-one)**  
@@ -2652,7 +2676,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="number-theory"><strong>Number Theory</strong> (Total: 4)</summary>
+<summary id="number-theory"><strong>Number Theory</strong> (Total: 5)</summary>
 
 - **204. [Count Primes](./204-count-primes)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2665,6 +2689,9 @@ Welcome to my LeetCode solutions repository!
 
 - **258. [Add Digits](./258-add-digits)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
 
@@ -2820,7 +2847,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="recursion"><strong>Recursion</strong> (Total: 14)</summary>
+<summary id="recursion"><strong>Recursion</strong> (Total: 15)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2851,6 +2878,9 @@ Welcome to my LeetCode solutions repository!
 
 - **24. [Swap Nodes in Pairs](./24-swap-nodes-in-pairs)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **25. [Reverse Nodes in k-Group](./25-reverse-nodes-in-k-group)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **326. [Power of Three](./326-power-of-three)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
