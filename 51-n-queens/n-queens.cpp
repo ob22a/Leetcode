@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<string>> solveNQueens(int n) {
-        unordered_set<int> seenCol,diag1,diag2;
+        vector<bool> seenCol(n),diag1(2*n),diag2(2*n);
         /* These two diagonals can be seen as linear functions
             y=x+b and y=-x+b 
         The sum of x and y will give b for one set of diagonals
@@ -11,9 +11,9 @@ public:
             */
         
         auto isValid=[&](int row,int col)->bool{
-            if(seenCol.count(col)) return false;
-            if(diag1.count(row+col)) return false;
-            if(diag2.count(row-col)) return false;
+            if(seenCol[col]) return false;
+            if(diag1[row+col]) return false;
+            if(diag2[row-col+n+1]) return false;
 
             return true;
         };
@@ -28,16 +28,16 @@ public:
             for(int col=0;col<n;++col){
                 if(isValid(row,col)){
                     rowCol[row]=col;
-                    seenCol.insert(col);
-                    diag1.insert(row+col);
-                    diag2.insert(row-col);
+                    seenCol[col]=true;
+                    diag1[row+col]=true;
+                    diag2[row-col+n+1]=true;
 
                     self(self,row+1);
 
                     rowCol[row]=-1;
-                    seenCol.erase(col);
-                    diag1.erase(row+col);
-                    diag2.erase(row-col);
+                    seenCol[col]=false;
+                    diag1[row+col]=false;
+                    diag2[row-col+n+1]=false;
                 }
             }
         };
