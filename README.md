@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 413
+**Total Questions:** 415
 
 ### Difficulty Distribution
 
@@ -16,14 +16,14 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 236 |
 | <span style='color:orange'>Medium</span> | 161 |
-| <span style='color:red'>Hard</span> | 16 |
+| <span style='color:red'>Hard</span> | 18 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 220 |
-| [Backtracking](#backtracking) | 8 |
+| [Array](#array) | 221 |
+| [Backtracking](#backtracking) | 10 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 8 |
 | [Binary Tree](#binary-tree) | 26 |
@@ -81,7 +81,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 220)</summary>
+<summary id="array"><strong>Array</strong> (Total: 221)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -599,6 +599,9 @@ Welcome to my LeetCode solutions repository!
 - **506. [Relative Ranks](./506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **51. [N-Queens](./51-n-queens)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **523. [Continuous Subarray Sum](./523-continuous-subarray-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -746,7 +749,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="backtracking"><strong>Backtracking</strong> (Total: 8)</summary>
+<summary id="backtracking"><strong>Backtracking</strong> (Total: 10)</summary>
 
 - **17. [Letter Combinations of a Phone Number](./17-letter-combinations-of-a-phone-number)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -765,6 +768,12 @@ Welcome to my LeetCode solutions repository!
 
 - **46. [Permutations](./46-permutations)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **51. [N-Queens](./51-n-queens)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **52. [N-Queens II](./52-n-queens-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **79. [Word Search](./79-word-search)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
