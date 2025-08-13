@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 415
+**Total Questions:** 423
 
 ### Difficulty Distribution
 
@@ -14,8 +14,8 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 236 |
-| <span style='color:orange'>Medium</span> | 161 |
+| <span style='color:green'>Easy</span> | 243 |
+| <span style='color:orange'>Medium</span> | 162 |
 | <span style='color:red'>Hard</span> | 18 |
 
 ### Topics Overview
@@ -25,18 +25,18 @@ Welcome to my LeetCode solutions repository!
 | [Array](#array) | 221 |
 | [Backtracking](#backtracking) | 10 |
 | [Binary Search](#binary-search) | 46 |
-| [Binary Search Tree](#binary-search-tree) | 8 |
-| [Binary Tree](#binary-tree) | 26 |
+| [Binary Search Tree](#binary-search-tree) | 9 |
+| [Binary Tree](#binary-tree) | 33 |
 | [Bit Manipulation](#bit-manipulation) | 22 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 29 |
+| [Breadth-First Search](#breadth-first-search) | 32 |
 | [Bucket Sort](#bucket-sort) | 3 |
 | [Combinatorics](#combinatorics) | 1 |
 | [Counting](#counting) | 25 |
 | [Counting Sort](#counting-sort) | 2 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 13 |
-| [Depth-First Search](#depth-first-search) | 36 |
+| [Depth-First Search](#depth-first-search) | 42 |
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
@@ -46,7 +46,7 @@ Welcome to my LeetCode solutions repository!
 | [Geometry](#geometry) | 1 |
 | [Graph](#graph) | 5 |
 | [Greedy](#greedy) | 23 |
-| [Hash Function](#hash-function) | 3 |
+| [Hash Function](#hash-function) | 4 |
 | [Hash Table](#hash-table) | 95 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 16 |
 | [Interactive](#interactive) | 2 |
@@ -72,8 +72,8 @@ Welcome to my LeetCode solutions repository!
 | [Sorting](#sorting) | 52 |
 | [Stack](#stack) | 34 |
 | [String](#string) | 88 |
-| [String Matching](#string-matching) | 4 |
-| [Tree](#tree) | 29 |
+| [String Matching](#string-matching) | 5 |
+| [Tree](#tree) | 36 |
 | [Trie](#trie) | 3 |
 | [Two Pointers](#two-pointers) | 59 |
 | [Union Find](#union-find) | 5 |
@@ -927,7 +927,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search-tree"><strong>Binary Search Tree</strong> (Total: 8)</summary>
+<summary id="binary-search-tree"><strong>Binary Search Tree</strong> (Total: 9)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -944,6 +944,9 @@ Welcome to my LeetCode solutions repository!
 - **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **783. [Search in a Binary Search Tree](./783-search-in-a-binary-search-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -956,7 +959,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-tree"><strong>Binary Tree</strong> (Total: 26)</summary>
+<summary id="binary-tree"><strong>Binary Tree</strong> (Total: 33)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1006,6 +1009,9 @@ Welcome to my LeetCode solutions repository!
 - **226. [Invert Binary Tree](./226-invert-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **2416. [Evaluate Boolean Binary Tree](./2416-evaluate-boolean-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **257. [Binary Tree Paths](./257-binary-tree-paths)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -1018,10 +1024,28 @@ Welcome to my LeetCode solutions repository!
 - **501. [Find Mode in Binary Search Tree](./501-find-mode-in-binary-search-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **513. [Find Bottom Left Tree Value](./513-find-bottom-left-tree-value)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **543. [Diameter of Binary Tree](./543-diameter-of-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **563. [Binary Tree Tilt](./563-binary-tree-tilt)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **572. [Subtree of Another Tree](./572-subtree-of-another-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **617. [Merge Two Binary Trees](./617-merge-two-binary-trees)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **637. [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **783. [Search in a Binary Search Tree](./783-search-in-a-binary-search-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
@@ -1124,7 +1148,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 29)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 32)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1195,8 +1219,17 @@ Welcome to my LeetCode solutions repository!
 - **463. [Island Perimeter](./463-island-perimeter)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **513. [Find Bottom Left Tree Value](./513-find-bottom-left-tree-value)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **542. [01 Matrix](./542-01-matrix)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **617. [Merge Two Binary Trees](./617-merge-two-binary-trees)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **637. [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1393,7 +1426,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 36)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 42)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1446,6 +1479,9 @@ Welcome to my LeetCode solutions repository!
 - **226. [Invert Binary Tree](./226-invert-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **2416. [Evaluate Boolean Binary Tree](./2416-evaluate-boolean-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **257. [Binary Tree Paths](./257-binary-tree-paths)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -1464,7 +1500,22 @@ Welcome to my LeetCode solutions repository!
 - **501. [Find Mode in Binary Search Tree](./501-find-mode-in-binary-search-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **513. [Find Bottom Left Tree Value](./513-find-bottom-left-tree-value)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **543. [Diameter of Binary Tree](./543-diameter-of-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **563. [Binary Tree Tilt](./563-binary-tree-tilt)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **572. [Subtree of Another Tree](./572-subtree-of-another-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **617. [Merge Two Binary Trees](./617-merge-two-binary-trees)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **637. [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
@@ -1821,10 +1872,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-function"><strong>Hash Function</strong> (Total: 3)</summary>
+<summary id="hash-function"><strong>Hash Function</strong> (Total: 4)</summary>
 
 - **187. [Repeated DNA Sequences](./187-repeated-dna-sequences)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **572. [Subtree of Another Tree](./572-subtree-of-another-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **816. [Design HashSet](./816-design-hashset)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3673,12 +3727,15 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string-matching"><strong>String Matching</strong> (Total: 4)</summary>
+<summary id="string-matching"><strong>String Matching</strong> (Total: 5)</summary>
 
 - **28. [Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **459. [Repeated Substring Pattern](./459-repeated-substring-pattern)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **572. [Subtree of Another Tree](./572-subtree-of-another-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **686. [Repeated String Match](./686-repeated-string-match)**  
@@ -3690,7 +3747,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="tree"><strong>Tree</strong> (Total: 29)</summary>
+<summary id="tree"><strong>Tree</strong> (Total: 36)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3740,6 +3797,9 @@ Welcome to my LeetCode solutions repository!
 - **226. [Invert Binary Tree](./226-invert-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **2416. [Evaluate Boolean Binary Tree](./2416-evaluate-boolean-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **257. [Binary Tree Paths](./257-binary-tree-paths)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -3752,7 +3812,22 @@ Welcome to my LeetCode solutions repository!
 - **501. [Find Mode in Binary Search Tree](./501-find-mode-in-binary-search-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **513. [Find Bottom Left Tree Value](./513-find-bottom-left-tree-value)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **543. [Diameter of Binary Tree](./543-diameter-of-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **563. [Binary Tree Tilt](./563-binary-tree-tilt)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **572. [Subtree of Another Tree](./572-subtree-of-another-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **617. [Merge Two Binary Trees](./617-merge-two-binary-trees)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **637. [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
@@ -3765,6 +3840,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **776. [N-ary Tree Postorder Traversal](./776-n-ary-tree-postorder-traversal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **783. [Search in a Binary Search Tree](./783-search-in-a-binary-search-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
