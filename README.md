@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 423
+**Total Questions:** 424
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 243 |
-| <span style='color:orange'>Medium</span> | 162 |
+| <span style='color:orange'>Medium</span> | 163 |
 | <span style='color:red'>Hard</span> | 18 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 221 |
+| [Array](#array) | 222 |
 | [Backtracking](#backtracking) | 10 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 9 |
@@ -52,8 +52,8 @@ Welcome to my LeetCode solutions repository!
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 27 |
-| [Math](#math) | 76 |
-| [Matrix](#matrix) | 29 |
+| [Math](#math) | 77 |
+| [Matrix](#matrix) | 30 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
@@ -70,18 +70,18 @@ Welcome to my LeetCode solutions repository!
 | [Simulation](#simulation) | 31 |
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 52 |
-| [Stack](#stack) | 34 |
-| [String](#string) | 88 |
+| [Stack](#stack) | 35 |
+| [String](#string) | 89 |
 | [String Matching](#string-matching) | 5 |
 | [Tree](#tree) | 36 |
 | [Trie](#trie) | 3 |
-| [Two Pointers](#two-pointers) | 59 |
+| [Two Pointers](#two-pointers) | 60 |
 | [Union Find](#union-find) | 5 |
 
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 221)</summary>
+<summary id="array"><strong>Array</strong> (Total: 222)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -541,6 +541,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3973. [Flip Square Submatrix Vertically](./3973-flip-square-submatrix-vertically)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **4. [Median of Two Sorted Arrays](./4-median-of-two-sorted-arrays)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2337,7 +2340,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 76)</summary>
+<summary id="math"><strong>Math</strong> (Total: 77)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2416,6 +2419,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2106. [Find Greatest Common Divisor of Array](./2106-find-greatest-common-divisor-of-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **227. [Basic Calculator II](./227-basic-calculator-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **231. [Power of Two](./231-power-of-two)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2570,7 +2576,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 29)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 30)</summary>
 
 - **1036. [Rotting Oranges](./1036-rotting-oranges)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2622,6 +2628,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3973. [Flip Square Submatrix Vertically](./3973-flip-square-submatrix-vertically)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **463. [Island Perimeter](./463-island-perimeter)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3351,7 +3360,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="stack"><strong>Stack</strong> (Total: 34)</summary>
+<summary id="stack"><strong>Stack</strong> (Total: 35)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3397,6 +3406,9 @@ Welcome to my LeetCode solutions repository!
 
 - **225. [Implement Stack using Queues](./225-implement-stack-using-queues)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **227. [Basic Calculator II](./227-basic-calculator-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **232. [Implement Queue using Stacks](./232-implement-queue-using-stacks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3458,7 +3470,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 88)</summary>
+<summary id="string"><strong>String</strong> (Total: 89)</summary>
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3542,6 +3554,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **22. [Generate Parentheses](./22-generate-parentheses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **227. [Basic Calculator II](./227-basic-calculator-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2377. [Check if Number Has Equal Digit Count and Digit Value](./2377-check-if-number-has-equal-digit-count-and-digit-value)**  
@@ -3874,7 +3889,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 59)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 60)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3985,6 +4000,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **392. [Is Subsequence](./392-is-subsequence)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3973. [Flip Square Submatrix Vertically](./3973-flip-square-submatrix-vertically)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **42. [Trapping Rain Water](./42-trapping-rain-water)**  
