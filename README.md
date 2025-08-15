@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 424
+**Total Questions:** 428
 
 ### Difficulty Distribution
 
@@ -15,15 +15,15 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 243 |
-| <span style='color:orange'>Medium</span> | 163 |
+| <span style='color:orange'>Medium</span> | 167 |
 | <span style='color:red'>Hard</span> | 18 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 222 |
-| [Backtracking](#backtracking) | 10 |
+| [Array](#array) | 225 |
+| [Backtracking](#backtracking) | 14 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 9 |
 | [Binary Tree](#binary-tree) | 33 |
@@ -81,7 +81,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 222)</summary>
+<summary id="array"><strong>Array</strong> (Total: 225)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -329,6 +329,9 @@ Welcome to my LeetCode solutions repository!
 - **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **216. [Combination Sum III](./216-combination-sum-iii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **217. [Contains Duplicate](./217-contains-duplicate)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -542,11 +545,17 @@ Welcome to my LeetCode solutions repository!
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **39. [Combination Sum](./39-combination-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **3973. [Flip Square Submatrix Vertically](./3973-flip-square-submatrix-vertically)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **4. [Median of Two Sorted Arrays](./4-median-of-two-sorted-arrays)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **40. [Combination Sum II](./40-combination-sum-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **41. [First Missing Positive](./41-first-missing-positive)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -752,7 +761,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="backtracking"><strong>Backtracking</strong> (Total: 10)</summary>
+<summary id="backtracking"><strong>Backtracking</strong> (Total: 14)</summary>
 
 - **17. [Letter Combinations of a Phone Number](./17-letter-combinations-of-a-phone-number)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -760,11 +769,20 @@ Welcome to my LeetCode solutions repository!
 - **1993. [Sum of All Subset XOR Totals](./1993-sum-of-all-subset-xor-totals)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **216. [Combination Sum III](./216-combination-sum-iii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **22. [Generate Parentheses](./22-generate-parentheses)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **257. [Binary Tree Paths](./257-binary-tree-paths)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **39. [Combination Sum](./39-combination-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **40. [Combination Sum II](./40-combination-sum-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **401. [Binary Watch](./401-binary-watch)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -777,6 +795,9 @@ Welcome to my LeetCode solutions repository!
 
 - **52. [N-Queens II](./52-n-queens-ii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **77. [Combinations](./77-combinations)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **79. [Word Search](./79-word-search)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
