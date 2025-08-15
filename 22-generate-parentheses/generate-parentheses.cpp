@@ -1,17 +1,19 @@
 class Solution {
 public:
-    vector<string> sol;
-    void helper(string combination,int n,int open,int close){
-        if(open==n && close==n){
-            sol.push_back(combination);
-            return ;
-        }
-        if(open<n) helper(combination+"(",n,open+1,close);
-        if(close<open) helper(combination+")",n,open,close+1);
-    }
     vector<string> generateParenthesis(int n) {
-        sol.clear();
-        helper("",n,0,0);
+        vector<string>sol;
+
+        auto bkt=[&](auto&& self,int open,int close,string s){
+            if(s.size()==(2*n)){
+                sol.push_back(s);
+                return;
+            }
+
+            if(open<n) self(self,open+1,close,s+"(");
+            if(close<open) self(self,open,close+1,s+")");
+        };
+
+        bkt(bkt,0,0,"");
         return sol;
     }
 };
