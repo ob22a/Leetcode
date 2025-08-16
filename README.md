@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 428
+**Total Questions:** 431
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 243 |
-| <span style='color:orange'>Medium</span> | 167 |
+| <span style='color:orange'>Medium</span> | 170 |
 | <span style='color:red'>Hard</span> | 18 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 225 |
+| [Array](#array) | 226 |
 | [Backtracking](#backtracking) | 14 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 9 |
@@ -41,18 +41,18 @@ Welcome to my LeetCode solutions repository!
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
 | [Dynamic Programming](#dynamic-programming) | 19 |
-| [Enumeration](#enumeration) | 5 |
+| [Enumeration](#enumeration) | 6 |
 | [Game Theory](#game-theory) | 2 |
 | [Geometry](#geometry) | 1 |
 | [Graph](#graph) | 5 |
 | [Greedy](#greedy) | 23 |
 | [Hash Function](#hash-function) | 4 |
-| [Hash Table](#hash-table) | 95 |
+| [Hash Table](#hash-table) | 96 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 16 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 27 |
-| [Math](#math) | 77 |
+| [Math](#math) | 79 |
 | [Matrix](#matrix) | 30 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -67,7 +67,7 @@ Welcome to my LeetCode solutions repository!
 | [Recursion](#recursion) | 15 |
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
-| [Simulation](#simulation) | 31 |
+| [Simulation](#simulation) | 32 |
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 52 |
 | [Stack](#stack) | 35 |
@@ -76,12 +76,12 @@ Welcome to my LeetCode solutions repository!
 | [Tree](#tree) | 36 |
 | [Trie](#trie) | 3 |
 | [Two Pointers](#two-pointers) | 60 |
-| [Union Find](#union-find) | 5 |
+| [Union Find](#union-find) | 6 |
 
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 225)</summary>
+<summary id="array"><strong>Array</strong> (Total: 226)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -144,6 +144,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1242. [Matrix Block Sum](./1242-matrix-block-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **128. [Longest Consecutive Sequence](./128-longest-consecutive-sequence)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **130. [Surrounded Regions](./130-surrounded-regions)**  
@@ -1763,7 +1766,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="enumeration"><strong>Enumeration</strong> (Total: 5)</summary>
+<summary id="enumeration"><strong>Enumeration</strong> (Total: 6)</summary>
 
 - **1656. [Count Good Triplets](./1656-count-good-triplets)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1772,6 +1775,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **204. [Count Primes](./204-count-primes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2351. [Number of Ways to Buy Pens and Pencils](./2351-number-of-ways-to-buy-pens-and-pencils)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2998. [  Count Symmetric Integers](./2998-count-symmetric-integers)**  
@@ -1913,7 +1919,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 95)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 96)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1935,6 +1941,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1227. [Number of Equivalent Domino Pairs](./1227-number-of-equivalent-domino-pairs)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **128. [Longest Consecutive Sequence](./128-longest-consecutive-sequence)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **13. [Roman to Integer](./13-roman-to-integer)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2361,7 +2370,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 77)</summary>
+<summary id="math"><strong>Math</strong> (Total: 79)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2444,8 +2453,14 @@ Welcome to my LeetCode solutions repository!
 - **227. [Basic Calculator II](./227-basic-calculator-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **2278. [Find Three Consecutive Integers That Sum to a Given Number](./2278-find-three-consecutive-integers-that-sum-to-a-given-number)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **231. [Power of Two](./231-power-of-two)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2351. [Number of Ways to Buy Pens and Pencils](./2351-number-of-ways-to-buy-pens-and-pencils)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2383. [Add Two Integers](./2383-add-two-integers)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3009,7 +3024,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 31)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 32)</summary>
 
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3027,6 +3042,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2265. [Partition Array According to Given Pivot](./2265-partition-array-according-to-given-pivot)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2278. [Find Three Consecutive Integers That Sum to a Given Number](./2278-find-three-consecutive-integers-that-sum-to-a-given-number)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2436. [Make Array Zero by Subtracting Equal Amounts](./2436-make-array-zero-by-subtracting-equal-amounts)**  
@@ -4095,7 +4113,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="union-find"><strong>Union Find</strong> (Total: 5)</summary>
+<summary id="union-find"><strong>Union Find</strong> (Total: 6)</summary>
+
+- **128. [Longest Consecutive Sequence](./128-longest-consecutive-sequence)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **130. [Surrounded Regions](./130-surrounded-regions)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
