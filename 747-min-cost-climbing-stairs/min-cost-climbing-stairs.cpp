@@ -4,7 +4,7 @@ public:
         /*
             Imagine all the total possible combination and build recursive solution 
             to reach 0th step it costs 0
-            to reach 1st step it costs cost[0]
+            to reach 1st step it costs 0
 
             so to reach n
             f(n)=min(f(n-1)+cost[n-1],f(n-2)+cost[n-2])
