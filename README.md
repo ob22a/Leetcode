@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 432
+**Total Questions:** 433
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 243 |
+| <span style='color:green'>Easy</span> | 244 |
 | <span style='color:orange'>Medium</span> | 171 |
 | <span style='color:red'>Hard</span> | 18 |
 
@@ -22,7 +22,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 227 |
+| [Array](#array) | 228 |
 | [Backtracking](#backtracking) | 14 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 9 |
@@ -45,7 +45,7 @@ Welcome to my LeetCode solutions repository!
 | [Game Theory](#game-theory) | 2 |
 | [Geometry](#geometry) | 1 |
 | [Graph](#graph) | 5 |
-| [Greedy](#greedy) | 23 |
+| [Greedy](#greedy) | 24 |
 | [Hash Function](#hash-function) | 4 |
 | [Hash Table](#hash-table) | 96 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 16 |
@@ -69,7 +69,7 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 32 |
 | [Sliding Window](#sliding-window) | 36 |
-| [Sorting](#sorting) | 52 |
+| [Sorting](#sorting) | 53 |
 | [Stack](#stack) | 35 |
 | [String](#string) | 89 |
 | [String Matching](#string-matching) | 5 |
@@ -81,7 +81,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 227)</summary>
+<summary id="array"><strong>Array</strong> (Total: 228)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -277,6 +277,9 @@ Welcome to my LeetCode solutions repository!
 
 - **18. [4Sum](./18-4sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1829. [Maximum Units on a Truck](./1829-maximum-units-on-a-truck)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1848. [Sum of Unique Elements](./1848-sum-of-unique-elements)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1831,7 +1834,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 23)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 24)</summary>
 
 - **1018. [Largest Perimeter Triangle](./1018-largest-perimeter-triangle)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1849,6 +1852,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1448. [Maximum 69 Number](./1448-maximum-69-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1829. [Maximum Units on a Truck](./1829-maximum-units-on-a-truck)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2245. [Destroying Asteroids](./2245-destroying-asteroids)**  
@@ -3247,7 +3253,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 52)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 53)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3296,6 +3302,9 @@ Welcome to my LeetCode solutions repository!
 
 - **18. [4Sum](./18-4sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1829. [Maximum Units on a Truck](./1829-maximum-units-on-a-truck)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1970. [Sorting the Sentence](./1970-sorting-the-sentence)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
