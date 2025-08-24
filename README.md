@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 433
+**Total Questions:** 435
 
 ### Difficulty Distribution
 
@@ -14,20 +14,20 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 244 |
-| <span style='color:orange'>Medium</span> | 171 |
+| <span style='color:green'>Easy</span> | 245 |
+| <span style='color:orange'>Medium</span> | 172 |
 | <span style='color:red'>Hard</span> | 18 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 228 |
-| [Backtracking](#backtracking) | 14 |
+| [Array](#array) | 230 |
+| [Backtracking](#backtracking) | 15 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 9 |
 | [Binary Tree](#binary-tree) | 33 |
-| [Bit Manipulation](#bit-manipulation) | 22 |
+| [Bit Manipulation](#bit-manipulation) | 23 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 32 |
 | [Bucket Sort](#bucket-sort) | 3 |
@@ -40,7 +40,7 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 19 |
+| [Dynamic Programming](#dynamic-programming) | 20 |
 | [Enumeration](#enumeration) | 6 |
 | [Game Theory](#game-theory) | 2 |
 | [Geometry](#geometry) | 1 |
@@ -81,7 +81,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 228)</summary>
+<summary id="array"><strong>Array</strong> (Total: 230)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -698,7 +698,13 @@ Welcome to my LeetCode solutions repository!
 - **74. [Search a 2D Matrix](./74-search-a-2d-matrix)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **747. [Min Cost Climbing Stairs](./747-min-cost-climbing-stairs)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **75. [Sort Colors](./75-sort-colors)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **78. [Subsets](./78-subsets)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **79. [Word Search](./79-word-search)**  
@@ -770,7 +776,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="backtracking"><strong>Backtracking</strong> (Total: 14)</summary>
+<summary id="backtracking"><strong>Backtracking</strong> (Total: 15)</summary>
 
 - **17. [Letter Combinations of a Phone Number](./17-letter-combinations-of-a-phone-number)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -806,6 +812,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **77. [Combinations](./77-combinations)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **78. [Subsets](./78-subsets)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **79. [Word Search](./79-word-search)**  
@@ -1096,7 +1105,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 22)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 23)</summary>
 
 - **136. [Single Number](./136-single-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1160,6 +1169,9 @@ Welcome to my LeetCode solutions repository!
 
 - **67. [Add Binary](./67-add-binary)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **78. [Subsets](./78-subsets)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **861. [Flipping an Image](./861-flipping-an-image)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1710,7 +1722,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 19)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 20)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1767,6 +1779,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **70. [Climbing Stairs](./70-climbing-stairs)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **747. [Min Cost Climbing Stairs](./747-min-cost-climbing-stairs)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 </details>
