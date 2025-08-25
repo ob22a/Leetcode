@@ -18,7 +18,7 @@ public:
 
         while(!stk.empty()){
             auto [node,lvl]=stk.top(); stk.pop();
-            if(sol.size()<=lvl){
+            if(sol.size()==lvl){
                 sol.push_back(node->val);
             }
             if(node->left) stk.push({node->left,lvl+1});
