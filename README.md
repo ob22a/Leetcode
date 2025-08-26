@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 435
+**Total Questions:** 437
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 245 |
-| <span style='color:orange'>Medium</span> | 172 |
+| <span style='color:orange'>Medium</span> | 174 |
 | <span style='color:red'>Hard</span> | 18 |
 
 ### Topics Overview
@@ -26,17 +26,17 @@ Welcome to my LeetCode solutions repository!
 | [Backtracking](#backtracking) | 15 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 9 |
-| [Binary Tree](#binary-tree) | 33 |
+| [Binary Tree](#binary-tree) | 35 |
 | [Bit Manipulation](#bit-manipulation) | 23 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 32 |
+| [Breadth-First Search](#breadth-first-search) | 34 |
 | [Bucket Sort](#bucket-sort) | 3 |
 | [Combinatorics](#combinatorics) | 1 |
 | [Counting](#counting) | 25 |
 | [Counting Sort](#counting-sort) | 2 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 13 |
-| [Depth-First Search](#depth-first-search) | 42 |
+| [Depth-First Search](#depth-first-search) | 44 |
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
@@ -51,7 +51,7 @@ Welcome to my LeetCode solutions repository!
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 16 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
-| [Linked List](#linked-list) | 27 |
+| [Linked List](#linked-list) | 28 |
 | [Math](#math) | 80 |
 | [Matrix](#matrix) | 30 |
 | [Memoization](#memoization) | 3 |
@@ -73,7 +73,7 @@ Welcome to my LeetCode solutions repository!
 | [Stack](#stack) | 35 |
 | [String](#string) | 89 |
 | [String Matching](#string-matching) | 5 |
-| [Tree](#tree) | 36 |
+| [Tree](#tree) | 38 |
 | [Trie](#trie) | 3 |
 | [Two Pointers](#two-pointers) | 60 |
 | [Union Find](#union-find) | 6 |
@@ -1001,7 +1001,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-tree"><strong>Binary Tree</strong> (Total: 33)</summary>
+<summary id="binary-tree"><strong>Binary Tree</strong> (Total: 35)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1036,6 +1036,9 @@ Welcome to my LeetCode solutions repository!
 - **112. [Path Sum](./112-path-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **116. [Populating Next Right Pointers in Each Node](./116-populating-next-right-pointers-in-each-node)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -1044,6 +1047,9 @@ Welcome to my LeetCode solutions repository!
 
 - **145. [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **199. [Binary Tree Right Side View](./199-binary-tree-right-side-view)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **222. [Count Complete Tree Nodes](./222-count-complete-tree-nodes)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1193,7 +1199,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 32)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 34)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1222,6 +1228,9 @@ Welcome to my LeetCode solutions repository!
 - **112. [Path Sum](./112-path-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **116. [Populating Next Right Pointers in Each Node](./116-populating-next-right-pointers-in-each-node)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -1235,6 +1244,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1876. [Map of Highest Peak](./1876-map-of-highest-peak)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **199. [Binary Tree Right Side View](./199-binary-tree-right-side-view)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **200. [Number of Islands](./200-number-of-islands)**  
@@ -1471,7 +1483,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 42)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 44)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1497,6 +1509,9 @@ Welcome to my LeetCode solutions repository!
 - **112. [Path Sum](./112-path-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **116. [Populating Next Right Pointers in Each Node](./116-populating-next-right-pointers-in-each-node)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -1511,6 +1526,9 @@ Welcome to my LeetCode solutions repository!
 
 - **145. [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **199. [Binary Tree Right Side View](./199-binary-tree-right-side-view)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **200. [Number of Islands](./200-number-of-islands)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2308,9 +2326,12 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="linked-list"><strong>Linked List</strong> (Total: 27)</summary>
+<summary id="linked-list"><strong>Linked List</strong> (Total: 28)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **116. [Populating Next Right Pointers in Each Node](./116-populating-next-right-pointers-in-each-node)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **141. [Linked List Cycle](./141-linked-list-cycle)**  
@@ -3834,7 +3855,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="tree"><strong>Tree</strong> (Total: 36)</summary>
+<summary id="tree"><strong>Tree</strong> (Total: 38)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3869,6 +3890,9 @@ Welcome to my LeetCode solutions repository!
 - **112. [Path Sum](./112-path-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **116. [Populating Next Right Pointers in Each Node](./116-populating-next-right-pointers-in-each-node)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -3877,6 +3901,9 @@ Welcome to my LeetCode solutions repository!
 
 - **145. [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **199. [Binary Tree Right Side View](./199-binary-tree-right-side-view)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **222. [Count Complete Tree Nodes](./222-count-complete-tree-nodes)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
