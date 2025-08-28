@@ -11,13 +11,15 @@ public:
     int maxScore(vector<int>& nums) {
         int n=nums.size();
         int sol=0;
+        vector<int> gcfs;
 
-        auto bkt = [&](auto&& self,vector<bool> seen,vector<int> gcfs){
+        auto bkt = [&](auto&& self,vector<bool>& seen){
             if(gcfs.size()*2==n){
-                sort(gcfs.begin(),gcfs.end());
+                vector<int> sorted=gcfs;
+                sort(sorted.begin(),sorted.end());
                 int sum=0;
                 for(int i=1,j=0;j<n/2;++j,++i){
-                    sum+=(i*gcfs[j]);
+                    sum+=(i*sorted[j]);
                 }
                 sol=max(sol,sum);
                 return;
@@ -36,7 +38,7 @@ public:
                 if(!seen[i]){
                     seen[i]=true;
                     gcfs.push_back(gcf(nums[first],nums[i]));
-                    self(self,seen,gcfs);
+                    self(self,seen);
                     gcfs.pop_back();
                     seen[i]=false;
                 }
@@ -44,7 +46,8 @@ public:
             seen[first]=false;
         };
 
-        bkt(bkt,vector<bool>(n,false),{});
+        vector<bool> s(n,false);
+        bkt(bkt,s);
         return sol;
     }
 };
