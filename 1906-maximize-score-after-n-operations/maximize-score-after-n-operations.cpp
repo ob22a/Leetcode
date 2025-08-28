@@ -13,11 +13,12 @@ public:
         for(int mask = 0; mask < N; mask++){
             int count = __builtin_popcount(mask);
             int op = count / 2 + 1;
+            if(count%2) continue;
 
             for(int i = 0; i < n; i++){
-                if((mask >> i) & 1) continue;
+                if(mask & 1<<i) continue;
                 for(int j = i+1; j < n; j++){
-                    if((mask >> j) & 1) continue;
+                    if(mask & 1<<j) continue;
                     int new_mask = mask | (1 << i) | (1 << j);
                     dp[new_mask] = max(dp[new_mask], dp[mask] + op * gcds[i][j]);
                 }
