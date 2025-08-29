@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 437
+**Total Questions:** 445
 
 ### Difficulty Distribution
 
@@ -14,25 +14,26 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 245 |
-| <span style='color:orange'>Medium</span> | 174 |
-| <span style='color:red'>Hard</span> | 18 |
+| <span style='color:green'>Easy</span> | 249 |
+| <span style='color:orange'>Medium</span> | 175 |
+| <span style='color:red'>Hard</span> | 21 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 230 |
-| [Backtracking](#backtracking) | 15 |
+| [Array](#array) | 236 |
+| [Backtracking](#backtracking) | 18 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 9 |
 | [Binary Tree](#binary-tree) | 35 |
-| [Bit Manipulation](#bit-manipulation) | 23 |
+| [Bit Manipulation](#bit-manipulation) | 24 |
+| [Bitmask](#bitmask) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 34 |
 | [Bucket Sort](#bucket-sort) | 3 |
 | [Combinatorics](#combinatorics) | 1 |
-| [Counting](#counting) | 25 |
+| [Counting](#counting) | 27 |
 | [Counting Sort](#counting-sort) | 2 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 13 |
@@ -40,38 +41,38 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 20 |
+| [Dynamic Programming](#dynamic-programming) | 22 |
 | [Enumeration](#enumeration) | 6 |
 | [Game Theory](#game-theory) | 2 |
 | [Geometry](#geometry) | 1 |
 | [Graph](#graph) | 5 |
 | [Greedy](#greedy) | 24 |
 | [Hash Function](#hash-function) | 4 |
-| [Hash Table](#hash-table) | 96 |
+| [Hash Table](#hash-table) | 99 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 16 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 28 |
-| [Math](#math) | 80 |
-| [Matrix](#matrix) | 30 |
+| [Math](#math) | 84 |
+| [Matrix](#matrix) | 31 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
 | [Monotonic Stack](#monotonic-stack) | 12 |
-| [Number Theory](#number-theory) | 6 |
+| [Number Theory](#number-theory) | 8 |
 | [Ordered Set](#ordered-set) | 1 |
 | [Prefix Sum](#prefix-sum) | 30 |
 | [Queue](#queue) | 7 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
-| [Recursion](#recursion) | 15 |
+| [Recursion](#recursion) | 16 |
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 32 |
 | [Sliding Window](#sliding-window) | 36 |
-| [Sorting](#sorting) | 53 |
+| [Sorting](#sorting) | 54 |
 | [Stack](#stack) | 35 |
-| [String](#string) | 89 |
+| [String](#string) | 90 |
 | [String Matching](#string-matching) | 5 |
 | [Tree](#tree) | 38 |
 | [Trie](#trie) | 3 |
@@ -81,7 +82,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 230)</summary>
+<summary id="array"><strong>Array</strong> (Total: 236)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -293,6 +294,9 @@ Welcome to my LeetCode solutions repository!
 - **189. [Rotate Array](./189-rotate-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **1918. [Maximum Score of a Good Subarray](./1918-maximum-score-of-a-good-subarray)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
@@ -500,6 +504,9 @@ Welcome to my LeetCode solutions repository!
 - **3236. [Smallest Missing Integer Greater Than Sequential Prefix Sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **3242. [Count Elements With Maximum Frequency](./3242-count-elements-with-maximum-frequency)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **33. [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -544,6 +551,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3656. [Minimum Number of Operations to Make Elements in Array Distinct](./3656-minimum-number-of-operations-to-make-elements-in-array-distinct)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **37. [Sudoku Solver](./37-sudoku-solver)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **3747. [Maximum Difference Between Adjacent Elements in a Circular Array](./3747-maximum-difference-between-adjacent-elements-in-a-circular-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -668,6 +678,9 @@ Welcome to my LeetCode solutions repository!
 - **621. [Task Scheduler](./621-task-scheduler)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **628. [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **643. [Maximum Average Subarray I](./643-maximum-average-subarray-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -675,6 +688,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **66. [Plus One](./66-plus-one)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **674. [Longest Continuous Increasing Subsequence](./674-longest-continuous-increasing-subsequence)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **682. [Baseball Game](./682-baseball-game)**  
@@ -767,6 +783,9 @@ Welcome to my LeetCode solutions repository!
 - **948. [Sort an Array](./948-sort-an-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **950. [X of a Kind in a Deck of Cards](./950-x-of-a-kind-in-a-deck-of-cards)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **958. [Sort Array By Parity II](./958-sort-array-by-parity-ii)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -776,10 +795,16 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="backtracking"><strong>Backtracking</strong> (Total: 15)</summary>
+<summary id="backtracking"><strong>Backtracking</strong> (Total: 18)</summary>
+
+- **131. [Palindrome Partitioning](./131-palindrome-partitioning)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **17. [Letter Combinations of a Phone Number](./17-letter-combinations-of-a-phone-number)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1993. [Sum of All Subset XOR Totals](./1993-sum-of-all-subset-xor-totals)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -792,6 +817,9 @@ Welcome to my LeetCode solutions repository!
 
 - **257. [Binary Tree Paths](./257-binary-tree-paths)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **37. [Sudoku Solver](./37-sudoku-solver)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **39. [Combination Sum](./39-combination-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1111,7 +1139,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 23)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 24)</summary>
 
 - **136. [Single Number](./136-single-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1124,6 +1152,9 @@ Welcome to my LeetCode solutions repository!
 
 - **190. [Reverse Bits](./190-reverse-bits)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **191. [Number of 1 Bits](./191-number-of-1-bits)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1181,6 +1212,14 @@ Welcome to my LeetCode solutions repository!
 
 - **861. [Flipping an Image](./861-flipping-an-image)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="bitmask"><strong>Bitmask</strong> (Total: 1)</summary>
+
+- **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 </details>
 
@@ -1328,7 +1367,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="counting"><strong>Counting</strong> (Total: 25)</summary>
+<summary id="counting"><strong>Counting</strong> (Total: 27)</summary>
 
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -1375,6 +1414,9 @@ Welcome to my LeetCode solutions repository!
 - **299. [Bulls and Cows](./299-bulls-and-cows)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **3242. [Count Elements With Maximum Frequency](./3242-count-elements-with-maximum-frequency)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -1404,6 +1446,9 @@ Welcome to my LeetCode solutions repository!
 
 - **621. [Task Scheduler](./621-task-scheduler)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **950. [X of a Kind in a Deck of Cards](./950-x-of-a-kind-in-a-deck-of-cards)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 </details>
 
@@ -1740,7 +1785,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 20)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 22)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1760,8 +1805,14 @@ Welcome to my LeetCode solutions repository!
 - **1236. [N-th Tribonacci Number](./1236-n-th-tribonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **131. [Palindrome Partitioning](./131-palindrome-partitioning)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **1586. [Longest Subarray of 1's After Deleting One Element](./1586-longest-subarray-of-1s-after-deleting-one-element)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **198. [House Robber](./198-house-robber)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1961,7 +2012,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 96)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 99)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2131,6 +2182,9 @@ Welcome to my LeetCode solutions repository!
 - **3236. [Smallest Missing Integer Greater Than Sequential Prefix Sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **3242. [Count Elements With Maximum Frequency](./3242-count-elements-with-maximum-frequency)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -2151,6 +2205,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3656. [Minimum Number of Operations to Make Elements in Array Distinct](./3656-minimum-number-of-operations-to-make-elements-in-array-distinct)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **37. [Sudoku Solver](./37-sudoku-solver)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **3736. [Find Valid Pair of Adjacent Digits in String](./3736-find-valid-pair-of-adjacent-digits-in-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2247,6 +2304,9 @@ Welcome to my LeetCode solutions repository!
 
 - **940. [Fruit Into Baskets](./940-fruit-into-baskets)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **950. [X of a Kind in a Deck of Cards](./950-x-of-a-kind-in-a-deck-of-cards)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **966. [Binary Subarrays With Sum](./966-binary-subarrays-with-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2415,7 +2475,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 80)</summary>
+<summary id="math"><strong>Math</strong> (Total: 84)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2473,6 +2533,9 @@ Welcome to my LeetCode solutions repository!
 
 - **189. [Rotate Array](./189-rotate-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1951. [Find the Winner of the Circular Game](./1951-find-the-winner-of-the-circular-game)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2624,6 +2687,12 @@ Welcome to my LeetCode solutions repository!
 - **598. [Range Addition II](./598-range-addition-ii)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **60. [Permutation Sequence](./60-permutation-sequence)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **628. [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **633. [Sum of Square Numbers](./633-sum-of-square-numbers)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -2657,10 +2726,13 @@ Welcome to my LeetCode solutions repository!
 - **944. [Smallest Range I](./944-smallest-range-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **950. [X of a Kind in a Deck of Cards](./950-x-of-a-kind-in-a-deck-of-cards)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 30)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 31)</summary>
 
 - **1036. [Rotting Oranges](./1036-rotting-oranges)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2709,6 +2781,9 @@ Welcome to my LeetCode solutions repository!
 
 - **36. [Valid Sudoku](./36-valid-sudoku)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **37. [Sudoku Solver](./37-sudoku-solver)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2832,7 +2907,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="number-theory"><strong>Number Theory</strong> (Total: 6)</summary>
+<summary id="number-theory"><strong>Number Theory</strong> (Total: 8)</summary>
+
+- **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **204. [Count Primes](./204-count-primes)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2851,6 +2929,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **950. [X of a Kind in a Deck of Cards](./950-x-of-a-kind-in-a-deck-of-cards)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 </details>
 
@@ -3006,7 +3087,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="recursion"><strong>Recursion</strong> (Total: 15)</summary>
+<summary id="recursion"><strong>Recursion</strong> (Total: 16)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3052,6 +3133,9 @@ Welcome to my LeetCode solutions repository!
 
 - **50. [Pow(x, n)](./50-powx-n)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **60. [Permutation Sequence](./60-permutation-sequence)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 </details>
 
@@ -3289,7 +3373,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 53)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 54)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3425,6 +3509,9 @@ Welcome to my LeetCode solutions repository!
 
 - **621. [Task Scheduler](./621-task-scheduler)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **628. [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **658. [Find K Closest Elements](./658-find-k-closest-elements)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3563,7 +3650,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 89)</summary>
+<summary id="string"><strong>String</strong> (Total: 90)</summary>
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3582,6 +3669,9 @@ Welcome to my LeetCode solutions repository!
 
 - **13. [Roman to Integer](./13-roman-to-integer)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **131. [Palindrome Partitioning](./131-palindrome-partitioning)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1320. [Remove All Adjacent Duplicates in String II](./1320-remove-all-adjacent-duplicates-in-string-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
