@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 445
+**Total Questions:** 449
 
 ### Difficulty Distribution
 
@@ -15,19 +15,19 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 249 |
-| <span style='color:orange'>Medium</span> | 175 |
+| <span style='color:orange'>Medium</span> | 179 |
 | <span style='color:red'>Hard</span> | 21 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 236 |
-| [Backtracking](#backtracking) | 18 |
+| [Array](#array) | 238 |
+| [Backtracking](#backtracking) | 22 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 9 |
 | [Binary Tree](#binary-tree) | 35 |
-| [Bit Manipulation](#bit-manipulation) | 24 |
+| [Bit Manipulation](#bit-manipulation) | 26 |
 | [Bitmask](#bitmask) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 34 |
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 28 |
-| [Math](#math) | 84 |
+| [Math](#math) | 85 |
 | [Matrix](#matrix) | 31 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -70,9 +70,9 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 32 |
 | [Sliding Window](#sliding-window) | 36 |
-| [Sorting](#sorting) | 54 |
+| [Sorting](#sorting) | 55 |
 | [Stack](#stack) | 35 |
-| [String](#string) | 90 |
+| [String](#string) | 91 |
 | [String Matching](#string-matching) | 5 |
 | [Tree](#tree) | 38 |
 | [Trie](#trie) | 3 |
@@ -82,7 +82,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 236)</summary>
+<summary id="array"><strong>Array</strong> (Total: 238)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -603,6 +603,9 @@ Welcome to my LeetCode solutions repository!
 - **463. [Island Perimeter](./463-island-perimeter)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **47. [Permutations II](./47-permutations-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **48. [Rotate Image](./48-rotate-image)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -765,6 +768,9 @@ Welcome to my LeetCode solutions repository!
 - **898. [Transpose Matrix](./898-transpose-matrix)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **90. [Subsets II](./90-subsets-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **907. [Koko Eating Bananas](./907-koko-eating-bananas)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -795,7 +801,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="backtracking"><strong>Backtracking</strong> (Total: 18)</summary>
+<summary id="backtracking"><strong>Backtracking</strong> (Total: 22)</summary>
 
 - **131. [Palindrome Partitioning](./131-palindrome-partitioning)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -833,6 +839,9 @@ Welcome to my LeetCode solutions repository!
 - **46. [Permutations](./46-permutations)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **47. [Permutations II](./47-permutations-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **51. [N-Queens](./51-n-queens)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
@@ -849,6 +858,15 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **89. [Gray Code](./89-gray-code)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **90. [Subsets II](./90-subsets-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **93. [Restore IP Addresses](./93-restore-ip-addresses)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
@@ -1139,7 +1157,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 24)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 26)</summary>
 
 - **136. [Single Number](./136-single-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1212,6 +1230,12 @@ Welcome to my LeetCode solutions repository!
 
 - **861. [Flipping an Image](./861-flipping-an-image)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **89. [Gray Code](./89-gray-code)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **90. [Subsets II](./90-subsets-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
 
@@ -2475,7 +2499,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 84)</summary>
+<summary id="math"><strong>Math</strong> (Total: 85)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2719,6 +2743,9 @@ Welcome to my LeetCode solutions repository!
 
 - **728. [Self Dividing Numbers](./728-self-dividing-numbers)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **89. [Gray Code](./89-gray-code)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **9. [Palindrome Number](./9-palindrome-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3373,7 +3400,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 54)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 55)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3491,6 +3518,9 @@ Welcome to my LeetCode solutions repository!
 
 - **455. [Assign Cookies](./455-assign-cookies)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **47. [Permutations II](./47-permutations-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **49. [Group Anagrams](./49-group-anagrams)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3650,7 +3680,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 90)</summary>
+<summary id="string"><strong>String</strong> (Total: 91)</summary>
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3918,6 +3948,9 @@ Welcome to my LeetCode solutions repository!
 
 - **874. [Backspace String Compare](./874-backspace-string-compare)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **93. [Restore IP Addresses](./93-restore-ip-addresses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **961. [Long Pressed Name](./961-long-pressed-name)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
