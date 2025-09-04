@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 449
+**Total Questions:** 450
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 249 |
-| <span style='color:orange'>Medium</span> | 179 |
+| <span style='color:orange'>Medium</span> | 180 |
 | <span style='color:red'>Hard</span> | 21 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 238 |
+| [Array](#array) | 239 |
 | [Backtracking](#backtracking) | 22 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 9 |
@@ -46,7 +46,7 @@ Welcome to my LeetCode solutions repository!
 | [Game Theory](#game-theory) | 2 |
 | [Geometry](#geometry) | 1 |
 | [Graph](#graph) | 5 |
-| [Greedy](#greedy) | 24 |
+| [Greedy](#greedy) | 25 |
 | [Hash Function](#hash-function) | 4 |
 | [Hash Table](#hash-table) | 99 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 16 |
@@ -70,25 +70,28 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 32 |
 | [Sliding Window](#sliding-window) | 36 |
-| [Sorting](#sorting) | 55 |
+| [Sorting](#sorting) | 56 |
 | [Stack](#stack) | 35 |
 | [String](#string) | 91 |
 | [String Matching](#string-matching) | 5 |
 | [Tree](#tree) | 38 |
 | [Trie](#trie) | 3 |
-| [Two Pointers](#two-pointers) | 60 |
+| [Two Pointers](#two-pointers) | 61 |
 | [Union Find](#union-find) | 6 |
 
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 238)</summary>
+<summary id="array"><strong>Array</strong> (Total: 239)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1. [Two Sum](./1-two-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1009. [Pancake Sorting](./1009-pancake-sorting)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1018. [Largest Perimeter Triangle](./1018-largest-perimeter-triangle)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1942,7 +1945,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 24)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 25)</summary>
+
+- **1009. [Pancake Sorting](./1009-pancake-sorting)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1018. [Largest Perimeter Triangle](./1018-largest-perimeter-triangle)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3400,10 +3406,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 55)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 56)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1009. [Pancake Sorting](./1009-pancake-sorting)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1018. [Largest Perimeter Triangle](./1018-largest-perimeter-triangle)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4111,10 +4120,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 60)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 61)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1009. [Pancake Sorting](./1009-pancake-sorting)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1019. [Squares of a Sorted Array](./1019-squares-of-a-sorted-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
