@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 450
+**Total Questions:** 457
 
 ### Difficulty Distribution
 
@@ -15,46 +15,46 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 249 |
-| <span style='color:orange'>Medium</span> | 180 |
-| <span style='color:red'>Hard</span> | 21 |
+| <span style='color:orange'>Medium</span> | 186 |
+| <span style='color:red'>Hard</span> | 22 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 239 |
-| [Backtracking](#backtracking) | 22 |
+| [Array](#array) | 241 |
+| [Backtracking](#backtracking) | 23 |
 | [Binary Search](#binary-search) | 46 |
-| [Binary Search Tree](#binary-search-tree) | 9 |
-| [Binary Tree](#binary-tree) | 35 |
-| [Bit Manipulation](#bit-manipulation) | 26 |
+| [Binary Search Tree](#binary-search-tree) | 10 |
+| [Binary Tree](#binary-tree) | 39 |
+| [Bit Manipulation](#bit-manipulation) | 27 |
 | [Bitmask](#bitmask) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 34 |
+| [Breadth-First Search](#breadth-first-search) | 36 |
 | [Bucket Sort](#bucket-sort) | 3 |
-| [Combinatorics](#combinatorics) | 1 |
+| [Combinatorics](#combinatorics) | 2 |
 | [Counting](#counting) | 27 |
 | [Counting Sort](#counting-sort) | 2 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 13 |
-| [Depth-First Search](#depth-first-search) | 44 |
+| [Depth-First Search](#depth-first-search) | 48 |
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 22 |
+| [Dynamic Programming](#dynamic-programming) | 24 |
 | [Enumeration](#enumeration) | 6 |
 | [Game Theory](#game-theory) | 2 |
 | [Geometry](#geometry) | 1 |
 | [Graph](#graph) | 5 |
 | [Greedy](#greedy) | 25 |
 | [Hash Function](#hash-function) | 4 |
-| [Hash Table](#hash-table) | 99 |
+| [Hash Table](#hash-table) | 101 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 16 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 28 |
-| [Math](#math) | 85 |
-| [Matrix](#matrix) | 31 |
+| [Math](#math) | 86 |
+| [Matrix](#matrix) | 33 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
@@ -74,7 +74,7 @@ Welcome to my LeetCode solutions repository!
 | [Stack](#stack) | 35 |
 | [String](#string) | 91 |
 | [String Matching](#string-matching) | 5 |
-| [Tree](#tree) | 38 |
+| [Tree](#tree) | 42 |
 | [Trie](#trie) | 3 |
 | [Two Pointers](#two-pointers) | 61 |
 | [Union Find](#union-find) | 6 |
@@ -82,7 +82,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 239)</summary>
+<summary id="array"><strong>Array</strong> (Total: 241)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -98,6 +98,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1019. [Squares of a Sorted Array](./1019-squares-of-a-sorted-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1022. [Unique Paths III](./1022-unique-paths-iii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1028. [Interval List Intersections](./1028-interval-list-intersections)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -687,6 +690,9 @@ Welcome to my LeetCode solutions repository!
 - **628. [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **63. [Unique Paths II](./63-unique-paths-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **643. [Maximum Average Subarray I](./643-maximum-average-subarray-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -804,7 +810,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="backtracking"><strong>Backtracking</strong> (Total: 22)</summary>
+<summary id="backtracking"><strong>Backtracking</strong> (Total: 23)</summary>
+
+- **1022. [Unique Paths III](./1022-unique-paths-iii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **131. [Palindrome Partitioning](./131-palindrome-partitioning)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1018,13 +1027,16 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search-tree"><strong>Binary Search Tree</strong> (Total: 9)</summary>
+<summary id="binary-search-tree"><strong>Binary Search Tree</strong> (Total: 10)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **108. [Convert Sorted Array to Binary Search Tree](./108-convert-sorted-array-to-binary-search-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **235. [Lowest Common Ancestor of a Binary Search Tree](./235-lowest-common-ancestor-of-a-binary-search-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **450. [Delete Node in a BST](./450-delete-node-in-a-bst)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1050,7 +1062,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-tree"><strong>Binary Tree</strong> (Total: 35)</summary>
+<summary id="binary-tree"><strong>Binary Tree</strong> (Total: 39)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1088,6 +1100,9 @@ Welcome to my LeetCode solutions repository!
 - **116. [Populating Next Right Pointers in Each Node](./116-populating-next-right-pointers-in-each-node)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **1218. [Lowest Common Ancestor of Deepest Leaves](./1218-lowest-common-ancestor-of-deepest-leaves)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -1105,6 +1120,12 @@ Welcome to my LeetCode solutions repository!
 
 - **226. [Invert Binary Tree](./226-invert-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **235. [Lowest Common Ancestor of a Binary Search Tree](./235-lowest-common-ancestor-of-a-binary-search-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **236. [Lowest Common Ancestor of a Binary Tree](./236-lowest-common-ancestor-of-a-binary-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2416. [Evaluate Boolean Binary Tree](./2416-evaluate-boolean-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1148,6 +1169,9 @@ Welcome to my LeetCode solutions repository!
 - **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **896. [Smallest Subtree with all the Deepest Nodes](./896-smallest-subtree-with-all-the-deepest-nodes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **94. [Binary Tree Inorder Traversal](./94-binary-tree-inorder-traversal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -1160,7 +1184,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 26)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 27)</summary>
+
+- **1022. [Unique Paths III](./1022-unique-paths-iii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **136. [Single Number](./136-single-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1265,7 +1292,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 34)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 36)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1295,6 +1322,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **116. [Populating Next Right Pointers in Each Node](./116-populating-next-right-pointers-in-each-node)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1218. [Lowest Common Ancestor of Deepest Leaves](./1218-lowest-common-ancestor-of-deepest-leaves)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**  
@@ -1369,6 +1399,9 @@ Welcome to my LeetCode solutions repository!
 - **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **896. [Smallest Subtree with all the Deepest Nodes](./896-smallest-subtree-with-all-the-deepest-nodes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 </details>
 
 <details>
@@ -1386,10 +1419,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="combinatorics"><strong>Combinatorics</strong> (Total: 1)</summary>
+<summary id="combinatorics"><strong>Combinatorics</strong> (Total: 2)</summary>
 
 - **1993. [Sum of All Subset XOR Totals](./1993-sum-of-all-subset-xor-totals)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **62. [Unique Paths](./62-unique-paths)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
 
@@ -1555,7 +1591,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 44)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 48)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1582,6 +1618,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **116. [Populating Next Right Pointers in Each Node](./116-populating-next-right-pointers-in-each-node)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1218. [Lowest Common Ancestor of Deepest Leaves](./1218-lowest-common-ancestor-of-deepest-leaves)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**  
@@ -1613,6 +1652,12 @@ Welcome to my LeetCode solutions repository!
 
 - **226. [Invert Binary Tree](./226-invert-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **235. [Lowest Common Ancestor of a Binary Search Tree](./235-lowest-common-ancestor-of-a-binary-search-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **236. [Lowest Common Ancestor of a Binary Tree](./236-lowest-common-ancestor-of-a-binary-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2416. [Evaluate Boolean Binary Tree](./2416-evaluate-boolean-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1678,6 +1723,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **896. [Smallest Subtree with all the Deepest Nodes](./896-smallest-subtree-with-all-the-deepest-nodes)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **94. [Binary Tree Inorder Traversal](./94-binary-tree-inorder-traversal)**  
@@ -1812,7 +1860,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 22)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 24)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1869,6 +1917,12 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **542. [01 Matrix](./542-01-matrix)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **62. [Unique Paths](./62-unique-paths)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **63. [Unique Paths II](./63-unique-paths-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **650. [2 Keys Keyboard](./650-2-keys-keyboard)**  
@@ -2042,7 +2096,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 99)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 101)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2060,6 +2114,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **12. [Integer to Roman](./12-integer-to-roman)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1218. [Lowest Common Ancestor of Deepest Leaves](./1218-lowest-common-ancestor-of-deepest-leaves)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1227. [Number of Equivalent Domino Pairs](./1227-number-of-equivalent-domino-pairs)**  
@@ -2332,6 +2389,9 @@ Welcome to my LeetCode solutions repository!
 - **822. [Unique Morse Code Words](./822-unique-morse-code-words)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **896. [Smallest Subtree with all the Deepest Nodes](./896-smallest-subtree-with-all-the-deepest-nodes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **940. [Fruit Into Baskets](./940-fruit-into-baskets)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -2505,7 +2565,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 85)</summary>
+<summary id="math"><strong>Math</strong> (Total: 86)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2720,6 +2780,9 @@ Welcome to my LeetCode solutions repository!
 - **60. [Permutation Sequence](./60-permutation-sequence)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
+- **62. [Unique Paths](./62-unique-paths)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **628. [Maximum Product of Three Numbers](./628-maximum-product-of-three-numbers)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -2765,7 +2828,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 31)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 33)</summary>
+
+- **1022. [Unique Paths III](./1022-unique-paths-iii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1036. [Rotting Oranges](./1036-rotting-oranges)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2840,6 +2906,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **59. [Spiral Matrix II](./59-spiral-matrix-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **63. [Unique Paths II](./63-unique-paths-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **695. [Max Area of Island](./695-max-area-of-island)**  
@@ -3987,7 +4056,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="tree"><strong>Tree</strong> (Total: 38)</summary>
+<summary id="tree"><strong>Tree</strong> (Total: 42)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4025,6 +4094,9 @@ Welcome to my LeetCode solutions repository!
 - **116. [Populating Next Right Pointers in Each Node](./116-populating-next-right-pointers-in-each-node)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **1218. [Lowest Common Ancestor of Deepest Leaves](./1218-lowest-common-ancestor-of-deepest-leaves)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -4042,6 +4114,12 @@ Welcome to my LeetCode solutions repository!
 
 - **226. [Invert Binary Tree](./226-invert-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **235. [Lowest Common Ancestor of a Binary Search Tree](./235-lowest-common-ancestor-of-a-binary-search-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **236. [Lowest Common Ancestor of a Binary Tree](./236-lowest-common-ancestor-of-a-binary-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2416. [Evaluate Boolean Binary Tree](./2416-evaluate-boolean-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4093,6 +4171,9 @@ Welcome to my LeetCode solutions repository!
 
 - **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **896. [Smallest Subtree with all the Deepest Nodes](./896-smallest-subtree-with-all-the-deepest-nodes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **94. [Binary Tree Inorder Traversal](./94-binary-tree-inorder-traversal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
