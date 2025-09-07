@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 457
+**Total Questions:** 459
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 249 |
-| <span style='color:orange'>Medium</span> | 186 |
+| <span style='color:orange'>Medium</span> | 188 |
 | <span style='color:red'>Hard</span> | 22 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 241 |
+| [Array](#array) | 243 |
 | [Backtracking](#backtracking) | 23 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 10 |
@@ -41,7 +41,7 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 24 |
+| [Dynamic Programming](#dynamic-programming) | 26 |
 | [Enumeration](#enumeration) | 6 |
 | [Game Theory](#game-theory) | 2 |
 | [Geometry](#geometry) | 1 |
@@ -54,7 +54,7 @@ Welcome to my LeetCode solutions repository!
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 28 |
 | [Math](#math) | 86 |
-| [Matrix](#matrix) | 33 |
+| [Matrix](#matrix) | 34 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
@@ -82,7 +82,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 241)</summary>
+<summary id="array"><strong>Array</strong> (Total: 243)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -140,6 +140,9 @@ Welcome to my LeetCode solutions repository!
 
 - **119. [Pascal's Triangle II](./119-pascals-triangle-ii)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **120. [Triangle](./120-triangle)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **121. [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -691,6 +694,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **63. [Unique Paths II](./63-unique-paths-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **64. [Minimum Path Sum](./64-minimum-path-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **643. [Maximum Average Subarray I](./643-maximum-average-subarray-i)**  
@@ -1860,7 +1866,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 24)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 26)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1873,6 +1879,9 @@ Welcome to my LeetCode solutions repository!
 
 - **119. [Pascal's Triangle II](./119-pascals-triangle-ii)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **120. [Triangle](./120-triangle)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **121. [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1923,6 +1932,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **63. [Unique Paths II](./63-unique-paths-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **64. [Minimum Path Sum](./64-minimum-path-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **650. [2 Keys Keyboard](./650-2-keys-keyboard)**  
@@ -2828,7 +2840,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 33)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 34)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2909,6 +2921,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **63. [Unique Paths II](./63-unique-paths-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **64. [Minimum Path Sum](./64-minimum-path-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **695. [Max Area of Island](./695-max-area-of-island)**  
