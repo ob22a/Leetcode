@@ -11,17 +11,15 @@ public:
         if(total%2!=0) return false;
         int target = total/2;
         
-        vector<vector<bool>> dp(n+1,vector<bool>(target+1,false)); // Store index and sum
-        for(int i=0;i<n;++i) dp[i][target]=true;
+        vector<bool> dp(target+1,false);
+        dp[target]=true;
 
         for(int i=n-1;i>=0;--i){
-            for(int sum=target-1;sum>=0;--sum){
-                bool take = (sum+nums[i]>target)?false:dp[i+1][sum+nums[i]];
-                bool notTake = dp[i+1][sum];
-                dp[i][sum]=take || notTake;
+            for(int sum=0;sum<target;++sum){
+                if(sum+nums[i]<=target) dp[sum] = dp[sum] || dp[nums[i]+sum];
             }
         }
 
-        return dp[0][0];
+        return dp[0];
     }
 };
