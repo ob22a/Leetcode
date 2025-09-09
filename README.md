@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 459
+**Total Questions:** 461
 
 ### Difficulty Distribution
 
@@ -16,13 +16,13 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 249 |
 | <span style='color:orange'>Medium</span> | 188 |
-| <span style='color:red'>Hard</span> | 22 |
+| <span style='color:red'>Hard</span> | 24 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 243 |
+| [Array](#array) | 245 |
 | [Backtracking](#backtracking) | 23 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 10 |
@@ -41,7 +41,7 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 26 |
+| [Dynamic Programming](#dynamic-programming) | 28 |
 | [Enumeration](#enumeration) | 6 |
 | [Game Theory](#game-theory) | 2 |
 | [Geometry](#geometry) | 1 |
@@ -54,7 +54,7 @@ Welcome to my LeetCode solutions repository!
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 28 |
 | [Math](#math) | 86 |
-| [Matrix](#matrix) | 34 |
+| [Matrix](#matrix) | 36 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
@@ -82,7 +82,7 @@ Welcome to my LeetCode solutions repository!
 ---
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 243)</summary>
+<summary id="array"><strong>Array</strong> (Total: 245)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -217,6 +217,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **154. [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **1559. [Cherry Pickup II](./1559-cherry-pickup-ii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1582. [Design Browser History](./1582-design-browser-history)**  
@@ -731,6 +734,9 @@ Welcome to my LeetCode solutions repository!
 
 - **74. [Search a 2D Matrix](./74-search-a-2d-matrix)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **741. [Cherry Pickup](./741-cherry-pickup)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **747. [Min Cost Climbing Stairs](./747-min-cost-climbing-stairs)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1866,7 +1872,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 26)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 28)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1891,6 +1897,9 @@ Welcome to my LeetCode solutions repository!
 
 - **131. [Palindrome Partitioning](./131-palindrome-partitioning)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1559. [Cherry Pickup II](./1559-cherry-pickup-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1586. [Longest Subarray of 1's After Deleting One Element](./1586-longest-subarray-of-1s-after-deleting-one-element)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1942,6 +1951,9 @@ Welcome to my LeetCode solutions repository!
 
 - **70. [Climbing Stairs](./70-climbing-stairs)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **741. [Cherry Pickup](./741-cherry-pickup)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **747. [Min Cost Climbing Stairs](./747-min-cost-climbing-stairs)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2840,7 +2852,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 34)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 36)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2858,6 +2870,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1414. [Shortest Path in a Grid with Obstacles Elimination](./1414-shortest-path-in-a-grid-with-obstacles-elimination)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **1559. [Cherry Pickup II](./1559-cherry-pickup-ii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1677. [Matrix Diagonal Sum](./1677-matrix-diagonal-sum)**  
@@ -2934,6 +2949,9 @@ Welcome to my LeetCode solutions repository!
 
 - **74. [Search a 2D Matrix](./74-search-a-2d-matrix)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **741. [Cherry Pickup](./741-cherry-pickup)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **79. [Word Search](./79-word-search)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
