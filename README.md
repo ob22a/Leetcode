@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 461
+**Total Questions:** 462
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 249 |
-| <span style='color:orange'>Medium</span> | 188 |
+| <span style='color:orange'>Medium</span> | 189 |
 | <span style='color:red'>Hard</span> | 24 |
 
 ### Topics Overview
@@ -23,7 +23,7 @@ Welcome to my LeetCode solutions repository!
 | Topic | Number of Questions |
 |-------|---------------------|
 | [Array](#array) | 246 |
-| [Backtracking](#backtracking) | 22 |
+| [Backtracking](#backtracking) | 23 |
 | [Binary Search](#binary-search) | 46 |
 | [Binary Search Tree](#binary-search-tree) | 10 |
 | [Binary Tree](#binary-tree) | 39 |
@@ -41,7 +41,7 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 28 |
+| [Dynamic Programming](#dynamic-programming) | 29 |
 | [Enumeration](#enumeration) | 6 |
 | [Game Theory](#game-theory) | 2 |
 | [Geometry](#geometry) | 1 |
@@ -72,7 +72,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 56 |
 | [Stack](#stack) | 35 |
-| [String](#string) | 90 |
+| [String](#string) | 91 |
 | [String Matching](#string-matching) | 5 |
 | [Tree](#tree) | 42 |
 | [Trie](#trie) | 3 |
@@ -338,7 +338,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 188)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 189)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -411,6 +411,7 @@ Welcome to my LeetCode solutions repository!
 - **2134. [Maximize the Confusion of an Exam](./2134-maximize-the-confusion-of-an-exam)**
 - **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**
 - **216. [Combination Sum III](./216-combination-sum-iii)**
+- **22. [Generate Parentheses](./22-generate-parentheses)**
 - **2211. [K Radius Subarray Averages](./2211-k-radius-subarray-averages)**
 - **2245. [Destroying Asteroids](./2245-destroying-asteroids)**
 - **2249. [Count the Hidden Sequences](./2249-count-the-hidden-sequences)**
@@ -1305,7 +1306,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="backtracking"><strong>Backtracking</strong> (Total: 22)</summary>
+<summary id="backtracking"><strong>Backtracking</strong> (Total: 23)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -1323,6 +1324,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **216. [Combination Sum III](./216-combination-sum-iii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **22. [Generate Parentheses](./22-generate-parentheses)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **257. [Binary Tree Paths](./257-binary-tree-paths)**  
@@ -2352,7 +2356,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 28)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 29)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2388,6 +2392,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **198. [House Robber](./198-house-robber)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **22. [Generate Parentheses](./22-generate-parentheses)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2530. [Minimize Maximum of Array](./2530-minimize-maximum-of-array)**  
@@ -4271,7 +4278,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 90)</summary>
+<summary id="string"><strong>String</strong> (Total: 91)</summary>
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4356,6 +4363,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2137. [Final Value of Variable After Performing Operations](./2137-final-value-of-variable-after-performing-operations)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **22. [Generate Parentheses](./22-generate-parentheses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **227. [Basic Calculator II](./227-basic-calculator-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
