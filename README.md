@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 462
+**Total Questions:** 463
 
 ### Difficulty Distribution
 
@@ -15,16 +15,16 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 249 |
-| <span style='color:orange'>Medium</span> | 189 |
+| <span style='color:orange'>Medium</span> | 190 |
 | <span style='color:red'>Hard</span> | 24 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 246 |
+| [Array](#array) | 247 |
 | [Backtracking](#backtracking) | 23 |
-| [Binary Search](#binary-search) | 46 |
+| [Binary Search](#binary-search) | 47 |
 | [Binary Search Tree](#binary-search-tree) | 10 |
 | [Binary Tree](#binary-tree) | 39 |
 | [Bit Manipulation](#bit-manipulation) | 27 |
@@ -70,13 +70,13 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 32 |
 | [Sliding Window](#sliding-window) | 36 |
-| [Sorting](#sorting) | 56 |
+| [Sorting](#sorting) | 57 |
 | [Stack](#stack) | 35 |
 | [String](#string) | 91 |
 | [String Matching](#string-matching) | 5 |
 | [Tree](#tree) | 42 |
 | [Trie](#trie) | 3 |
-| [Two Pointers](#two-pointers) | 61 |
+| [Two Pointers](#two-pointers) | 62 |
 | [Union Find](#union-find) | 6 |
 
 ---
@@ -338,7 +338,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 189)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 190)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -383,6 +383,7 @@ Welcome to my LeetCode solutions repository!
 - **1605. [Minimum Number of Days to Make m Bouquets](./1605-minimum-number-of-days-to-make-m-bouquets)**
 - **1615. [Range Sum of Sorted Subarray Sums](./1615-range-sum-of-sorted-subarray-sums)**
 - **162. [Find Peak Element](./162-find-peak-element)**
+- **1621. [Number of Subsequences That Satisfy the Given Sum Condition](./1621-number-of-subsequences-that-satisfy-the-given-sum-condition)**
 - **164. [Maximum Gap](./164-maximum-gap)**
 - **167. [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted)**
 - **1675. [Magnetic Force Between Two Balls](./1675-magnetic-force-between-two-balls)**
@@ -563,7 +564,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 246)</summary>
+<summary id="array"><strong>Array</strong> (Total: 247)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -722,6 +723,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **162. [Find Peak Element](./162-find-peak-element)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1621. [Number of Subsequences That Satisfy the Given Sum Condition](./1621-number-of-subsequences-that-satisfy-the-given-sum-condition)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **164. [Maximum Gap](./164-maximum-gap)**  
@@ -1380,7 +1384,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 46)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 47)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1410,6 +1414,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **162. [Find Peak Element](./162-find-peak-element)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1621. [Number of Subsequences That Satisfy the Given Sum Condition](./1621-number-of-subsequences-that-satisfy-the-given-sum-condition)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1646. [Kth Missing Positive Number](./1646-kth-missing-positive-number)**  
@@ -3995,7 +4002,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 56)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 57)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4031,6 +4038,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1615. [Range Sum of Sorted Subarray Sums](./1615-range-sum-of-sorted-subarray-sums)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1621. [Number of Subsequences That Satisfy the Given Sum Condition](./1621-number-of-subsequences-that-satisfy-the-given-sum-condition)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **164. [Maximum Gap](./164-maximum-gap)**  
@@ -4721,7 +4731,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 61)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 62)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4766,6 +4776,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1615. [Range Sum of Sorted Subarray Sums](./1615-range-sum-of-sorted-subarray-sums)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1621. [Number of Subsequences That Satisfy the Given Sum Condition](./1621-number-of-subsequences-that-satisfy-the-given-sum-condition)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **167. [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted)**  
