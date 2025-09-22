@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 463
+**Total Questions:** 466
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 249 |
-| <span style='color:orange'>Medium</span> | 190 |
+| <span style='color:orange'>Medium</span> | 193 |
 | <span style='color:red'>Hard</span> | 24 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 247 |
+| [Array](#array) | 250 |
 | [Backtracking](#backtracking) | 23 |
 | [Binary Search](#binary-search) | 47 |
 | [Binary Search Tree](#binary-search-tree) | 10 |
@@ -30,7 +30,7 @@ Welcome to my LeetCode solutions repository!
 | [Bit Manipulation](#bit-manipulation) | 27 |
 | [Bitmask](#bitmask) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 36 |
+| [Breadth-First Search](#breadth-first-search) | 37 |
 | [Bucket Sort](#bucket-sort) | 3 |
 | [Combinatorics](#combinatorics) | 2 |
 | [Counting](#counting) | 27 |
@@ -41,7 +41,7 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 29 |
+| [Dynamic Programming](#dynamic-programming) | 32 |
 | [Enumeration](#enumeration) | 6 |
 | [Game Theory](#game-theory) | 2 |
 | [Geometry](#geometry) | 1 |
@@ -338,7 +338,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 190)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 193)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -409,6 +409,7 @@ Welcome to my LeetCode solutions repository!
 - **208. [Implement Trie (Prefix Tree)](./208-implement-trie-prefix-tree)**
 - **209. [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum)**
 - **2103. [Find All Groups of Farmland](./2103-find-all-groups-of-farmland)**
+- **213. [House Robber II](./213-house-robber-ii)**
 - **2134. [Maximize the Confusion of an Exam](./2134-maximize-the-confusion-of-an-exam)**
 - **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**
 - **216. [Combination Sum III](./216-combination-sum-iii)**
@@ -453,6 +454,7 @@ Welcome to my LeetCode solutions repository!
 - **316. [Remove Duplicate Letters](./316-remove-duplicate-letters)**
 - **319. [Bulb Switcher](./319-bulb-switcher)**
 - **3213. [Count Subarrays Where Max Element Appears at Least K Times](./3213-count-subarrays-where-max-element-appears-at-least-k-times)**
+- **322. [Coin Change](./322-coin-change)**
 - **3234. [Double Modular Exponentiation](./3234-double-modular-exponentiation)**
 - **33. [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array)**
 - **34. [Find First and Last Position of Element in Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array)**
@@ -482,6 +484,7 @@ Welcome to my LeetCode solutions repository!
 - **50. [Pow(x, n)](./50-powx-n)**
 - **503. [Next Greater Element II](./503-next-greater-element-ii)**
 - **513. [Find Bottom Left Tree Value](./513-find-bottom-left-tree-value)**
+- **518. [Coin Change II](./518-coin-change-ii)**
 - **523. [Continuous Subarray Sum](./523-continuous-subarray-sum)**
 - **525. [Contiguous Array](./525-contiguous-array)**
 - **528. [Swapping Nodes in a Linked List](./528-swapping-nodes-in-a-linked-list)**
@@ -564,7 +567,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 247)</summary>
+<summary id="array"><strong>Array</strong> (Total: 250)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -827,6 +830,9 @@ Welcome to my LeetCode solutions repository!
 - **2106. [Find Greatest Common Divisor of Array](./2106-find-greatest-common-divisor-of-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **213. [House Robber II](./213-house-robber-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **2137. [Final Value of Variable After Performing Operations](./2137-final-value-of-variable-after-performing-operations)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -995,6 +1001,9 @@ Welcome to my LeetCode solutions repository!
 - **3213. [Count Subarrays Where Max Element Appears at Least K Times](./3213-count-subarrays-where-max-element-appears-at-least-k-times)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **322. [Coin Change](./322-coin-change)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **3234. [Double Modular Exponentiation](./3234-double-modular-exponentiation)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -1135,6 +1144,9 @@ Welcome to my LeetCode solutions repository!
 
 - **51. [N-Queens](./51-n-queens)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **518. [Coin Change II](./518-coin-change-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **523. [Continuous Subarray Sum](./523-continuous-subarray-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1795,7 +1807,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 36)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 37)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1862,6 +1874,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2375. [Minimum Obstacle Removal to Reach Corner](./2375-minimum-obstacle-removal-to-reach-corner)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **322. [Coin Change](./322-coin-change)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3558. [Find a Safe Walk Through a Grid](./3558-find-a-safe-walk-through-a-grid)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2363,7 +2378,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 29)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 32)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2401,6 +2416,9 @@ Welcome to my LeetCode solutions repository!
 - **198. [House Robber](./198-house-robber)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **213. [House Robber II](./213-house-robber-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **22. [Generate Parentheses](./22-generate-parentheses)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -2408,6 +2426,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **264. [Ugly Number II](./264-ugly-number-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **322. [Coin Change](./322-coin-change)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **338. [Counting Bits](./338-counting-bits)**  
@@ -2426,6 +2447,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **5. [Longest Palindromic Substring](./5-longest-palindromic-substring)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **518. [Coin Change II](./518-coin-change-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **542. [01 Matrix](./542-01-matrix)**  
