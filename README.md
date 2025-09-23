@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 466
+**Total Questions:** 467
 
 ### Difficulty Distribution
 
@@ -15,15 +15,15 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 249 |
-| <span style='color:orange'>Medium</span> | 193 |
+| <span style='color:orange'>Medium</span> | 194 |
 | <span style='color:red'>Hard</span> | 24 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 250 |
-| [Backtracking](#backtracking) | 23 |
+| [Array](#array) | 251 |
+| [Backtracking](#backtracking) | 24 |
 | [Binary Search](#binary-search) | 47 |
 | [Binary Search Tree](#binary-search-tree) | 10 |
 | [Binary Tree](#binary-tree) | 39 |
@@ -41,7 +41,7 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 32 |
+| [Dynamic Programming](#dynamic-programming) | 33 |
 | [Enumeration](#enumeration) | 6 |
 | [Game Theory](#game-theory) | 2 |
 | [Geometry](#geometry) | 1 |
@@ -338,7 +338,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 193)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 194)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -479,6 +479,7 @@ Welcome to my LeetCode solutions repository!
 - **47. [Permutations II](./47-permutations-ii)**
 - **48. [Rotate Image](./48-rotate-image)**
 - **49. [Group Anagrams](./49-group-anagrams)**
+- **494. [Target Sum](./494-target-sum)**
 - **498. [Diagonal Traverse](./498-diagonal-traverse)**
 - **5. [Longest Palindromic Substring](./5-longest-palindromic-substring)**
 - **50. [Pow(x, n)](./50-powx-n)**
@@ -567,7 +568,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 250)</summary>
+<summary id="array"><strong>Array</strong> (Total: 251)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1124,6 +1125,9 @@ Welcome to my LeetCode solutions repository!
 - **49. [Group Anagrams](./49-group-anagrams)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **494. [Target Sum](./494-target-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **495. [Teemo Attacking](./495-teemo-attacking)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -1322,7 +1326,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="backtracking"><strong>Backtracking</strong> (Total: 23)</summary>
+<summary id="backtracking"><strong>Backtracking</strong> (Total: 24)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -1364,6 +1368,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **47. [Permutations II](./47-permutations-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **494. [Target Sum](./494-target-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **51. [N-Queens](./51-n-queens)**  
@@ -2378,7 +2385,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 32)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 33)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2445,6 +2452,9 @@ Welcome to my LeetCode solutions repository!
 
 - **42. [Trapping Rain Water](./42-trapping-rain-water)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **494. [Target Sum](./494-target-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **5. [Longest Palindromic Substring](./5-longest-palindromic-substring)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
