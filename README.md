@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 470
+**Total Questions:** 473
 
 ### Difficulty Distribution
 
@@ -15,16 +15,16 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 249 |
-| <span style='color:orange'>Medium</span> | 197 |
-| <span style='color:red'>Hard</span> | 24 |
+| <span style='color:orange'>Medium</span> | 199 |
+| <span style='color:red'>Hard</span> | 25 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 251 |
+| [Array](#array) | 252 |
 | [Backtracking](#backtracking) | 24 |
-| [Binary Search](#binary-search) | 47 |
+| [Binary Search](#binary-search) | 48 |
 | [Binary Search Tree](#binary-search-tree) | 10 |
 | [Binary Tree](#binary-tree) | 39 |
 | [Bit Manipulation](#bit-manipulation) | 27 |
@@ -41,7 +41,7 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 36 |
+| [Dynamic Programming](#dynamic-programming) | 39 |
 | [Enumeration](#enumeration) | 6 |
 | [Game Theory](#game-theory) | 2 |
 | [Geometry](#geometry) | 1 |
@@ -72,7 +72,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 57 |
 | [Stack](#stack) | 35 |
-| [String](#string) | 94 |
+| [String](#string) | 96 |
 | [String Matching](#string-matching) | 5 |
 | [Tree](#tree) | 42 |
 | [Trie](#trie) | 3 |
@@ -338,7 +338,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 197)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 199)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -450,6 +450,7 @@ Welcome to my LeetCode solutions repository!
 - **2871. [Double a Number Represented as a Linked List](./2871-double-a-number-represented-as-a-linked-list)**
 - **299. [Bulls and Cows](./299-bulls-and-cows)**
 - **3. [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters)**
+- **300. [Longest Increasing Subsequence](./300-longest-increasing-subsequence)**
 - **304. [Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable)**
 - **31. [Next Permutation](./31-next-permutation)**
 - **316. [Remove Duplicate Letters](./316-remove-duplicate-letters)**
@@ -486,6 +487,7 @@ Welcome to my LeetCode solutions repository!
 - **50. [Pow(x, n)](./50-powx-n)**
 - **503. [Next Greater Element II](./503-next-greater-element-ii)**
 - **513. [Find Bottom Left Tree Value](./513-find-bottom-left-tree-value)**
+- **516. [Longest Palindromic Subsequence](./516-longest-palindromic-subsequence)**
 - **518. [Coin Change II](./518-coin-change-ii)**
 - **523. [Continuous Subarray Sum](./523-continuous-subarray-sum)**
 - **525. [Contiguous Array](./525-contiguous-array)**
@@ -540,10 +542,11 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 24)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 25)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**
+- **1170. [Shortest Common Supersequence ](./1170-shortest-common-supersequence)**
 - **1414. [Shortest Path in a Grid with Obstacles Elimination](./1414-shortest-path-in-a-grid-with-obstacles-elimination)**
 - **154. [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii)**
 - **1559. [Cherry Pickup II](./1559-cherry-pickup-ii)**
@@ -571,7 +574,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 251)</summary>
+<summary id="array"><strong>Array</strong> (Total: 252)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -990,6 +993,9 @@ Welcome to my LeetCode solutions repository!
 - **2876. [Number of Employees Who Met the Target](./2876-number-of-employees-who-met-the-target)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **300. [Longest Increasing Subsequence](./300-longest-increasing-subsequence)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **303. [Range Sum Query - Immutable](./303-range-sum-query-immutable)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -1406,7 +1412,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 47)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 48)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1494,6 +1500,9 @@ Welcome to my LeetCode solutions repository!
 
 - **278. [First Bad Version](./278-first-bad-version)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **300. [Longest Increasing Subsequence](./300-longest-increasing-subsequence)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **33. [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2388,13 +2397,16 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 36)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 39)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1086. [Divisor Game](./1086-divisor-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1170. [Shortest Common Supersequence ](./1170-shortest-common-supersequence)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **118. [Pascal's Triangle](./118-pascals-triangle)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2441,6 +2453,9 @@ Welcome to my LeetCode solutions repository!
 - **264. [Ugly Number II](./264-ugly-number-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **300. [Longest Increasing Subsequence](./300-longest-increasing-subsequence)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **322. [Coin Change](./322-coin-change)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -2463,6 +2478,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **5. [Longest Palindromic Substring](./5-longest-palindromic-substring)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **516. [Longest Palindromic Subsequence](./516-longest-palindromic-subsequence)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **518. [Coin Change II](./518-coin-change-ii)**  
@@ -4334,7 +4352,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 94)</summary>
+<summary id="string"><strong>String</strong> (Total: 96)</summary>
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4344,6 +4362,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1159. [Smallest Subsequence of Distinct Characters](./1159-smallest-subsequence-of-distinct-characters)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1170. [Shortest Common Supersequence ](./1170-shortest-common-supersequence)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **12. [Integer to Roman](./12-integer-to-roman)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4554,6 +4575,9 @@ Welcome to my LeetCode solutions repository!
 
 - **500. [Keyboard Row](./500-keyboard-row)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **516. [Longest Palindromic Subsequence](./516-longest-palindromic-subsequence)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **541. [Reverse String II](./541-reverse-string-ii)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
