@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 473
+**Total Questions:** 474
 
 ### Difficulty Distribution
 
@@ -16,7 +16,7 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 249 |
 | <span style='color:orange'>Medium</span> | 199 |
-| <span style='color:red'>Hard</span> | 25 |
+| <span style='color:red'>Hard</span> | 26 |
 
 ### Topics Overview
 
@@ -41,7 +41,7 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 39 |
+| [Dynamic Programming](#dynamic-programming) | 40 |
 | [Enumeration](#enumeration) | 6 |
 | [Game Theory](#game-theory) | 2 |
 | [Geometry](#geometry) | 1 |
@@ -72,7 +72,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 57 |
 | [Stack](#stack) | 35 |
-| [String](#string) | 96 |
+| [String](#string) | 97 |
 | [String Matching](#string-matching) | 5 |
 | [Tree](#tree) | 42 |
 | [Trie](#trie) | 3 |
@@ -542,10 +542,11 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 25)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 26)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**
+- **115. [Distinct Subsequences](./115-distinct-subsequences)**
 - **1170. [Shortest Common Supersequence ](./1170-shortest-common-supersequence)**
 - **1414. [Shortest Path in a Grid with Obstacles Elimination](./1414-shortest-path-in-a-grid-with-obstacles-elimination)**
 - **154. [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii)**
@@ -2397,13 +2398,16 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 39)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 40)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1086. [Divisor Game](./1086-divisor-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **115. [Distinct Subsequences](./115-distinct-subsequences)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1170. [Shortest Common Supersequence ](./1170-shortest-common-supersequence)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4352,13 +4356,16 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 96)</summary>
+<summary id="string"><strong>String</strong> (Total: 97)</summary>
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1128. [Remove All Adjacent Duplicates In String](./1128-remove-all-adjacent-duplicates-in-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **115. [Distinct Subsequences](./115-distinct-subsequences)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1159. [Smallest Subsequence of Distinct Characters](./1159-smallest-subsequence-of-distinct-characters)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
