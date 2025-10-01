@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 474
+**Total Questions:** 475
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 249 |
-| <span style='color:orange'>Medium</span> | 199 |
+| <span style='color:orange'>Medium</span> | 200 |
 | <span style='color:red'>Hard</span> | 26 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 252 |
+| [Array](#array) | 253 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Search](#binary-search) | 48 |
 | [Binary Search Tree](#binary-search-tree) | 10 |
@@ -41,9 +41,9 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 40 |
+| [Dynamic Programming](#dynamic-programming) | 41 |
 | [Enumeration](#enumeration) | 6 |
-| [Game Theory](#game-theory) | 2 |
+| [Game Theory](#game-theory) | 3 |
 | [Geometry](#geometry) | 1 |
 | [Graph](#graph) | 5 |
 | [Greedy](#greedy) | 25 |
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 28 |
-| [Math](#math) | 86 |
+| [Math](#math) | 87 |
 | [Matrix](#matrix) | 36 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -338,7 +338,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 199)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 200)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -532,6 +532,7 @@ Welcome to my LeetCode solutions repository!
 - **896. [Smallest Subtree with all the Deepest Nodes](./896-smallest-subtree-with-all-the-deepest-nodes)**
 - **90. [Subsets II](./90-subsets-ii)**
 - **907. [Koko Eating Bananas](./907-koko-eating-bananas)**
+- **909. [Stone Game](./909-stone-game)**
 - **917. [Boats to Save People](./917-boats-to-save-people)**
 - **93. [Restore IP Addresses](./93-restore-ip-addresses)**
 - **937. [Online Stock Span](./937-online-stock-span)**
@@ -575,7 +576,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 252)</summary>
+<summary id="array"><strong>Array</strong> (Total: 253)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1307,6 +1308,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **907. [Koko Eating Bananas](./907-koko-eating-bananas)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **909. [Stone Game](./909-stone-game)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **917. [Boats to Save People](./917-boats-to-save-people)**  
@@ -2398,7 +2402,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 40)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 41)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2520,6 +2524,9 @@ Welcome to my LeetCode solutions repository!
 - **747. [Min Cost Climbing Stairs](./747-min-cost-climbing-stairs)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **909. [Stone Game](./909-stone-game)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 </details>
 
 <details>
@@ -2546,13 +2553,16 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="game-theory"><strong>Game Theory</strong> (Total: 2)</summary>
+<summary id="game-theory"><strong>Game Theory</strong> (Total: 3)</summary>
 
 - **1086. [Divisor Game](./1086-divisor-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **292. [Nim Game](./292-nim-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **909. [Stone Game](./909-stone-game)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
 
@@ -3151,7 +3161,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 86)</summary>
+<summary id="math"><strong>Math</strong> (Total: 87)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3404,6 +3414,9 @@ Welcome to my LeetCode solutions repository!
 
 - **9. [Palindrome Number](./9-palindrome-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **909. [Stone Game](./909-stone-game)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **944. [Smallest Range I](./944-smallest-range-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
