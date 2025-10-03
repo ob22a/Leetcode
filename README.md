@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 475
+**Total Questions:** 477
 
 ### Difficulty Distribution
 
@@ -16,7 +16,7 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 249 |
 | <span style='color:orange'>Medium</span> | 200 |
-| <span style='color:red'>Hard</span> | 26 |
+| <span style='color:red'>Hard</span> | 28 |
 
 ### Topics Overview
 
@@ -41,12 +41,12 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 41 |
+| [Dynamic Programming](#dynamic-programming) | 43 |
 | [Enumeration](#enumeration) | 6 |
 | [Game Theory](#game-theory) | 3 |
 | [Geometry](#geometry) | 1 |
 | [Graph](#graph) | 5 |
-| [Greedy](#greedy) | 25 |
+| [Greedy](#greedy) | 26 |
 | [Hash Function](#hash-function) | 4 |
 | [Hash Table](#hash-table) | 101 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 16 |
@@ -65,14 +65,14 @@ Welcome to my LeetCode solutions repository!
 | [Queue](#queue) | 7 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
-| [Recursion](#recursion) | 16 |
+| [Recursion](#recursion) | 17 |
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 32 |
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 57 |
 | [Stack](#stack) | 35 |
-| [String](#string) | 97 |
+| [String](#string) | 99 |
 | [String Matching](#string-matching) | 5 |
 | [Tree](#tree) | 42 |
 | [Trie](#trie) | 3 |
@@ -543,7 +543,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 26)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 28)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**
@@ -565,12 +565,14 @@ Welcome to my LeetCode solutions repository!
 - **41. [First Missing Positive](./41-first-missing-positive)**
 - **410. [Split Array Largest Sum](./410-split-array-largest-sum)**
 - **42. [Trapping Rain Water](./42-trapping-rain-water)**
+- **44. [Wildcard Matching](./44-wildcard-matching)**
 - **51. [N-Queens](./51-n-queens)**
 - **52. [N-Queens II](./52-n-queens-ii)**
 - **60. [Permutation Sequence](./60-permutation-sequence)**
 - **741. [Cherry Pickup](./741-cherry-pickup)**
 - **76. [Minimum Window Substring](./76-minimum-window-substring)**
 - **84. [Largest Rectangle in Histogram](./84-largest-rectangle-in-histogram)**
+- **977. [Distinct Subsequences II](./977-distinct-subsequences-ii)**
 </details>
 
 ## 📚 Problems by Topic
@@ -2402,7 +2404,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 41)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 43)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2482,6 +2484,9 @@ Welcome to my LeetCode solutions repository!
 - **42. [Trapping Rain Water](./42-trapping-rain-water)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
+- **44. [Wildcard Matching](./44-wildcard-matching)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **494. [Target Sum](./494-target-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -2526,6 +2531,9 @@ Welcome to my LeetCode solutions repository!
 
 - **909. [Stone Game](./909-stone-game)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **977. [Distinct Subsequences II](./977-distinct-subsequences-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 </details>
 
@@ -2595,7 +2603,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 25)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 26)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2646,6 +2654,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **410. [Split Array Largest Sum](./410-split-array-largest-sum)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **44. [Wildcard Matching](./44-wildcard-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **455. [Assign Cookies](./455-assign-cookies)**  
@@ -3797,7 +3808,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="recursion"><strong>Recursion</strong> (Total: 16)</summary>
+<summary id="recursion"><strong>Recursion</strong> (Total: 17)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3840,6 +3851,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3600. [Find the K-th Character in String Game I](./3600-find-the-k-th-character-in-string-game-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **44. [Wildcard Matching](./44-wildcard-matching)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **50. [Pow(x, n)](./50-powx-n)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4369,7 +4383,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 97)</summary>
+<summary id="string"><strong>String</strong> (Total: 99)</summary>
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4581,6 +4595,9 @@ Welcome to my LeetCode solutions repository!
 - **438. [Find All Anagrams in a String](./438-find-all-anagrams-in-a-string)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **44. [Wildcard Matching](./44-wildcard-matching)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **459. [Repeated Substring Pattern](./459-repeated-substring-pattern)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -4661,6 +4678,9 @@ Welcome to my LeetCode solutions repository!
 
 - **961. [Long Pressed Name](./961-long-pressed-name)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **977. [Distinct Subsequences II](./977-distinct-subsequences-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 </details>
 
