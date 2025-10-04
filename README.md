@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 477
+**Total Questions:** 480
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 249 |
-| <span style='color:orange'>Medium</span> | 200 |
-| <span style='color:red'>Hard</span> | 28 |
+| <span style='color:orange'>Medium</span> | 201 |
+| <span style='color:red'>Hard</span> | 30 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 253 |
+| [Array](#array) | 256 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Search](#binary-search) | 48 |
 | [Binary Search Tree](#binary-search-tree) | 10 |
@@ -41,12 +41,12 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 43 |
+| [Dynamic Programming](#dynamic-programming) | 46 |
 | [Enumeration](#enumeration) | 6 |
 | [Game Theory](#game-theory) | 3 |
 | [Geometry](#geometry) | 1 |
 | [Graph](#graph) | 5 |
-| [Greedy](#greedy) | 26 |
+| [Greedy](#greedy) | 27 |
 | [Hash Function](#hash-function) | 4 |
 | [Hash Table](#hash-table) | 101 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 16 |
@@ -338,7 +338,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 200)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 201)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -355,6 +355,7 @@ Welcome to my LeetCode solutions repository!
 - **12. [Integer to Roman](./12-integer-to-roman)**
 - **120. [Triangle](./120-triangle)**
 - **1218. [Lowest Common Ancestor of Deepest Leaves](./1218-lowest-common-ancestor-of-deepest-leaves)**
+- **122. [Best Time to Buy and Sell Stock II](./122-best-time-to-buy-and-sell-stock-ii)**
 - **1242. [Matrix Block Sum](./1242-matrix-block-sum)**
 - **1250. [Longest Common Subsequence](./1250-longest-common-subsequence)**
 - **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**
@@ -543,15 +544,17 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 28)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 30)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**
 - **115. [Distinct Subsequences](./115-distinct-subsequences)**
 - **1170. [Shortest Common Supersequence ](./1170-shortest-common-supersequence)**
+- **123. [Best Time to Buy and Sell Stock III](./123-best-time-to-buy-and-sell-stock-iii)**
 - **1414. [Shortest Path in a Grid with Obstacles Elimination](./1414-shortest-path-in-a-grid-with-obstacles-elimination)**
 - **154. [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii)**
 - **1559. [Cherry Pickup II](./1559-cherry-pickup-ii)**
+- **188. [Best Time to Buy and Sell Stock IV](./188-best-time-to-buy-and-sell-stock-iv)**
 - **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**
 - **1918. [Maximum Score of a Good Subarray](./1918-maximum-score-of-a-good-subarray)**
 - **23. [Merge k Sorted Lists](./23-merge-k-sorted-lists)**
@@ -578,7 +581,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 253)</summary>
+<summary id="array"><strong>Array</strong> (Total: 256)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -646,8 +649,14 @@ Welcome to my LeetCode solutions repository!
 - **1210. [Mean of Array After Removing Some Elements](./1210-mean-of-array-after-removing-some-elements)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **122. [Best Time to Buy and Sell Stock II](./122-best-time-to-buy-and-sell-stock-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **1227. [Number of Equivalent Domino Pairs](./1227-number-of-equivalent-domino-pairs)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **123. [Best Time to Buy and Sell Stock III](./123-best-time-to-buy-and-sell-stock-iii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1242. [Matrix Block Sum](./1242-matrix-block-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -801,6 +810,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1878. [Check if Array Is Sorted and Rotated](./1878-check-if-array-is-sorted-and-rotated)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **188. [Best Time to Buy and Sell Stock IV](./188-best-time-to-buy-and-sell-stock-iv)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **189. [Rotate Array](./189-rotate-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2404,7 +2416,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 43)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 46)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2430,6 +2442,12 @@ Welcome to my LeetCode solutions repository!
 - **121. [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **122. [Best Time to Buy and Sell Stock II](./122-best-time-to-buy-and-sell-stock-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **123. [Best Time to Buy and Sell Stock III](./123-best-time-to-buy-and-sell-stock-iii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **1236. [N-th Tribonacci Number](./1236-n-th-tribonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -2444,6 +2462,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1586. [Longest Subarray of 1's After Deleting One Element](./1586-longest-subarray-of-1s-after-deleting-one-element)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **188. [Best Time to Buy and Sell Stock IV](./188-best-time-to-buy-and-sell-stock-iv)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2603,7 +2624,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 26)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 27)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2618,6 +2639,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1159. [Smallest Subsequence of Distinct Characters](./1159-smallest-subsequence-of-distinct-characters)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **122. [Best Time to Buy and Sell Stock II](./122-best-time-to-buy-and-sell-stock-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1329. [Minimum Cost to Move Chips to The Same Position](./1329-minimum-cost-to-move-chips-to-the-same-position)**  
