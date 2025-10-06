@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 480
+**Total Questions:** 481
 
 ### Difficulty Distribution
 
@@ -16,7 +16,7 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 249 |
 | <span style='color:orange'>Medium</span> | 201 |
-| <span style='color:red'>Hard</span> | 30 |
+| <span style='color:red'>Hard</span> | 31 |
 
 ### Topics Overview
 
@@ -41,7 +41,7 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 46 |
+| [Dynamic Programming](#dynamic-programming) | 47 |
 | [Enumeration](#enumeration) | 6 |
 | [Game Theory](#game-theory) | 3 |
 | [Geometry](#geometry) | 1 |
@@ -65,14 +65,14 @@ Welcome to my LeetCode solutions repository!
 | [Queue](#queue) | 7 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
-| [Recursion](#recursion) | 17 |
+| [Recursion](#recursion) | 18 |
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 32 |
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 57 |
 | [Stack](#stack) | 35 |
-| [String](#string) | 99 |
+| [String](#string) | 100 |
 | [String Matching](#string-matching) | 5 |
 | [Tree](#tree) | 42 |
 | [Trie](#trie) | 3 |
@@ -544,8 +544,9 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 30)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 31)</summary>
 
+- **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**
 - **115. [Distinct Subsequences](./115-distinct-subsequences)**
@@ -2416,7 +2417,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 46)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 47)</summary>
+
+- **10. [Regular Expression Matching](./10-regular-expression-matching)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3832,7 +3836,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="recursion"><strong>Recursion</strong> (Total: 17)</summary>
+<summary id="recursion"><strong>Recursion</strong> (Total: 18)</summary>
+
+- **10. [Regular Expression Matching](./10-regular-expression-matching)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4407,7 +4414,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 99)</summary>
+<summary id="string"><strong>String</strong> (Total: 100)</summary>
+
+- **10. [Regular Expression Matching](./10-regular-expression-matching)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
