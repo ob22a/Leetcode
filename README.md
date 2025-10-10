@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 480
+**Total Questions:** 481
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 249 |
-| <span style='color:orange'>Medium</span> | 200 |
+| <span style='color:orange'>Medium</span> | 201 |
 | <span style='color:red'>Hard</span> | 31 |
 
 ### Topics Overview
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 28 |
-| [Math](#math) | 86 |
+| [Math](#math) | 87 |
 | [Matrix](#matrix) | 36 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -71,8 +71,8 @@ Welcome to my LeetCode solutions repository!
 | [Simulation](#simulation) | 32 |
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 57 |
-| [Stack](#stack) | 34 |
-| [String](#string) | 99 |
+| [Stack](#stack) | 35 |
+| [String](#string) | 100 |
 | [String Matching](#string-matching) | 5 |
 | [Tree](#tree) | 42 |
 | [Trie](#trie) | 3 |
@@ -338,7 +338,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 200)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 201)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -421,6 +421,7 @@ Welcome to my LeetCode solutions repository!
 - **2249. [Count the Hidden Sequences](./2249-count-the-hidden-sequences)**
 - **2261. [All Divisions With the Highest Score of a Binary Array](./2261-all-divisions-with-the-highest-score-of-a-binary-array)**
 - **2265. [Partition Array According to Given Pivot](./2265-partition-array-according-to-given-pivot)**
+- **227. [Basic Calculator II](./227-basic-calculator-ii)**
 - **2278. [Find Three Consecutive Integers That Sum to a Given Number](./2278-find-three-consecutive-integers-that-sum-to-a-given-number)**
 - **229. [Majority Element II](./229-majority-element-ii)**
 - **2294. [Minimum Time to Complete Trips](./2294-minimum-time-to-complete-trips)**
@@ -3199,7 +3200,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 86)</summary>
+<summary id="math"><strong>Math</strong> (Total: 87)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3281,6 +3282,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2106. [Find Greatest Common Divisor of Array](./2106-find-greatest-common-divisor-of-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **227. [Basic Calculator II](./227-basic-calculator-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2278. [Find Three Consecutive Integers That Sum to a Given Number](./2278-find-three-consecutive-integers-that-sum-to-a-given-number)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4300,7 +4304,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="stack"><strong>Stack</strong> (Total: 34)</summary>
+<summary id="stack"><strong>Stack</strong> (Total: 35)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4346,6 +4350,9 @@ Welcome to my LeetCode solutions repository!
 
 - **225. [Implement Stack using Queues](./225-implement-stack-using-queues)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **227. [Basic Calculator II](./227-basic-calculator-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **232. [Implement Queue using Stacks](./232-implement-queue-using-stacks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4407,7 +4414,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 99)</summary>
+<summary id="string"><strong>String</strong> (Total: 100)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4506,6 +4513,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **22. [Generate Parentheses](./22-generate-parentheses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **227. [Basic Calculator II](./227-basic-calculator-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2377. [Check if Number Has Equal Digit Count and Digit Value](./2377-check-if-number-has-equal-digit-count-and-digit-value)**  
