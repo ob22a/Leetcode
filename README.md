@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 483
+**Total Questions:** 484
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 249 |
-| <span style='color:orange'>Medium</span> | 203 |
+| <span style='color:orange'>Medium</span> | 204 |
 | <span style='color:red'>Hard</span> | 31 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 258 |
+| [Array](#array) | 259 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Search](#binary-search) | 48 |
 | [Binary Search Tree](#binary-search-tree) | 10 |
@@ -54,7 +54,7 @@ Welcome to my LeetCode solutions repository!
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 28 |
 | [Math](#math) | 88 |
-| [Matrix](#matrix) | 36 |
+| [Matrix](#matrix) | 37 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
@@ -68,7 +68,7 @@ Welcome to my LeetCode solutions repository!
 | [Recursion](#recursion) | 18 |
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
-| [Simulation](#simulation) | 32 |
+| [Simulation](#simulation) | 33 |
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 59 |
 | [Stack](#stack) | 35 |
@@ -338,7 +338,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 203)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 204)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -427,6 +427,7 @@ Welcome to my LeetCode solutions repository!
 - **229. [Majority Element II](./229-majority-element-ii)**
 - **2294. [Minimum Time to Complete Trips](./2294-minimum-time-to-complete-trips)**
 - **2342. [Minimum Average Difference](./2342-minimum-average-difference)**
+- **2343. [Count Unguarded Cells in the Grid](./2343-count-unguarded-cells-in-the-grid)**
 - **235. [Lowest Common Ancestor of a Binary Search Tree](./235-lowest-common-ancestor-of-a-binary-search-tree)**
 - **2351. [Number of Ways to Buy Pens and Pencils](./2351-number-of-ways-to-buy-pens-and-pencils)**
 - **2358. [Number of Ways to Split Array](./2358-number-of-ways-to-split-array)**
@@ -584,7 +585,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 258)</summary>
+<summary id="array"><strong>Array</strong> (Total: 259)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -917,6 +918,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2342. [Minimum Average Difference](./2342-minimum-average-difference)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2343. [Count Unguarded Cells in the Grid](./2343-count-unguarded-cells-in-the-grid)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2350. [Find Closest Number to Zero](./2350-find-closest-number-to-zero)**  
@@ -3486,7 +3490,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 36)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 37)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3525,6 +3529,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2103. [Find All Groups of Farmland](./2103-find-all-groups-of-farmland)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2343. [Count Unguarded Cells in the Grid](./2343-count-unguarded-cells-in-the-grid)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2375. [Minimum Obstacle Removal to Reach Corner](./2375-minimum-obstacle-removal-to-reach-corner)**  
@@ -3934,7 +3941,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 32)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 33)</summary>
 
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3955,6 +3962,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2278. [Find Three Consecutive Integers That Sum to a Given Number](./2278-find-three-consecutive-integers-that-sum-to-a-given-number)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2343. [Count Unguarded Cells in the Grid](./2343-count-unguarded-cells-in-the-grid)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2436. [Make Array Zero by Subtracting Equal Amounts](./2436-make-array-zero-by-subtracting-equal-amounts)**  
