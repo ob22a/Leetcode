@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 484
+**Total Questions:** 486
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 249 |
+| <span style='color:green'>Easy</span> | 251 |
 | <span style='color:orange'>Medium</span> | 204 |
 | <span style='color:red'>Hard</span> | 31 |
 
@@ -25,19 +25,19 @@ Welcome to my LeetCode solutions repository!
 | [Array](#array) | 259 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Search](#binary-search) | 48 |
-| [Binary Search Tree](#binary-search-tree) | 10 |
-| [Binary Tree](#binary-tree) | 39 |
+| [Binary Search Tree](#binary-search-tree) | 12 |
+| [Binary Tree](#binary-tree) | 41 |
 | [Bit Manipulation](#bit-manipulation) | 27 |
 | [Bitmask](#bitmask) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 37 |
+| [Breadth-First Search](#breadth-first-search) | 39 |
 | [Bucket Sort](#bucket-sort) | 3 |
 | [Combinatorics](#combinatorics) | 2 |
 | [Counting](#counting) | 27 |
 | [Counting Sort](#counting-sort) | 2 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 13 |
-| [Depth-First Search](#depth-first-search) | 48 |
+| [Depth-First Search](#depth-first-search) | 50 |
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
@@ -74,7 +74,7 @@ Welcome to my LeetCode solutions repository!
 | [Stack](#stack) | 35 |
 | [String](#string) | 101 |
 | [String Matching](#string-matching) | 5 |
-| [Tree](#tree) | 42 |
+| [Tree](#tree) | 44 |
 | [Trie](#trie) | 3 |
 | [Two Pointers](#two-pointers) | 63 |
 | [Union Find](#union-find) | 6 |
@@ -84,7 +84,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 249)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 251)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -276,6 +276,7 @@ Welcome to my LeetCode solutions repository!
 - **501. [Find Mode in Binary Search Tree](./501-find-mode-in-binary-search-tree)**
 - **506. [Relative Ranks](./506-relative-ranks)**
 - **507. [Perfect Number](./507-perfect-number)**
+- **530. [Minimum Absolute Difference in BST](./530-minimum-absolute-difference-in-bst)**
 - **541. [Reverse String II](./541-reverse-string-ii)**
 - **543. [Diameter of Binary Tree](./543-diameter-of-binary-tree)**
 - **557. [Reverse Words in a String III](./557-reverse-words-in-a-string-iii)**
@@ -314,6 +315,7 @@ Welcome to my LeetCode solutions repository!
 - **783. [Search in a Binary Search Tree](./783-search-in-a-binary-search-tree)**
 - **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**
 - **792. [Binary Search](./792-binary-search)**
+- **799. [Minimum Distance Between BST Nodes](./799-minimum-distance-between-bst-nodes)**
 - **812. [Rotate String](./812-rotate-string)**
 - **816. [Design HashSet](./816-design-hashset)**
 - **817. [Design HashMap](./817-design-hashmap)**
@@ -1593,7 +1595,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search-tree"><strong>Binary Search Tree</strong> (Total: 10)</summary>
+<summary id="binary-search-tree"><strong>Binary Search Tree</strong> (Total: 12)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1610,6 +1612,9 @@ Welcome to my LeetCode solutions repository!
 - **501. [Find Mode in Binary Search Tree](./501-find-mode-in-binary-search-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **530. [Minimum Absolute Difference in BST](./530-minimum-absolute-difference-in-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -1617,6 +1622,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **799. [Minimum Distance Between BST Nodes](./799-minimum-distance-between-bst-nodes)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **975. [Range Sum of BST](./975-range-sum-of-bst)**  
@@ -1628,7 +1636,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-tree"><strong>Binary Tree</strong> (Total: 39)</summary>
+<summary id="binary-tree"><strong>Binary Tree</strong> (Total: 41)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1711,6 +1719,9 @@ Welcome to my LeetCode solutions repository!
 - **513. [Find Bottom Left Tree Value](./513-find-bottom-left-tree-value)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **530. [Minimum Absolute Difference in BST](./530-minimum-absolute-difference-in-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **543. [Diameter of Binary Tree](./543-diameter-of-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -1733,6 +1744,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **799. [Minimum Distance Between BST Nodes](./799-minimum-distance-between-bst-nodes)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **896. [Smallest Subtree with all the Deepest Nodes](./896-smallest-subtree-with-all-the-deepest-nodes)**  
@@ -1858,7 +1872,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 37)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 39)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1944,6 +1958,9 @@ Welcome to my LeetCode solutions repository!
 - **513. [Find Bottom Left Tree Value](./513-find-bottom-left-tree-value)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **530. [Minimum Absolute Difference in BST](./530-minimum-absolute-difference-in-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **542. [01 Matrix](./542-01-matrix)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -1963,6 +1980,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **774. [Maximum Depth of N-ary Tree](./774-maximum-depth-of-n-ary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **799. [Minimum Distance Between BST Nodes](./799-minimum-distance-between-bst-nodes)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**  
@@ -2160,7 +2180,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 48)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 50)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2252,6 +2272,9 @@ Welcome to my LeetCode solutions repository!
 - **513. [Find Bottom Left Tree Value](./513-find-bottom-left-tree-value)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **530. [Minimum Absolute Difference in BST](./530-minimum-absolute-difference-in-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **543. [Diameter of Binary Tree](./543-diameter-of-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -2290,6 +2313,9 @@ Welcome to my LeetCode solutions repository!
 
 - **79. [Word Search](./79-word-search)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **799. [Minimum Distance Between BST Nodes](./799-minimum-distance-between-bst-nodes)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4778,7 +4804,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="tree"><strong>Tree</strong> (Total: 42)</summary>
+<summary id="tree"><strong>Tree</strong> (Total: 44)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4861,6 +4887,9 @@ Welcome to my LeetCode solutions repository!
 - **513. [Find Bottom Left Tree Value](./513-find-bottom-left-tree-value)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **530. [Minimum Absolute Difference in BST](./530-minimum-absolute-difference-in-bst)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **543. [Diameter of Binary Tree](./543-diameter-of-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -4892,6 +4921,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **799. [Minimum Distance Between BST Nodes](./799-minimum-distance-between-bst-nodes)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **896. [Smallest Subtree with all the Deepest Nodes](./896-smallest-subtree-with-all-the-deepest-nodes)**  
