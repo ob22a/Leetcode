@@ -70,7 +70,7 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 33 |
 | [Sliding Window](#sliding-window) | 36 |
-| [Sorting](#sorting) | 59 |
+| [Sorting](#sorting) | 60 |
 | [Stack](#stack) | 35 |
 | [String](#string) | 101 |
 | [String Matching](#string-matching) | 5 |
@@ -4184,7 +4184,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 59)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 60)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4311,6 +4311,9 @@ Welcome to my LeetCode solutions repository!
 
 - **414. [Third Maximum Number](./414-third-maximum-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **442. [Find All Duplicates in an Array](./442-find-all-duplicates-in-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **455. [Assign Cookies](./455-assign-cookies)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
