@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 486
+**Total Questions:** 489
 
 ### Difficulty Distribution
 
@@ -14,15 +14,15 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 251 |
-| <span style='color:orange'>Medium</span> | 204 |
+| <span style='color:green'>Easy</span> | 253 |
+| <span style='color:orange'>Medium</span> | 205 |
 | <span style='color:red'>Hard</span> | 31 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 259 |
+| [Array](#array) | 262 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Search](#binary-search) | 48 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
@@ -41,12 +41,12 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 49 |
+| [Dynamic Programming](#dynamic-programming) | 50 |
 | [Enumeration](#enumeration) | 6 |
 | [Game Theory](#game-theory) | 3 |
 | [Geometry](#geometry) | 1 |
 | [Graph](#graph) | 5 |
-| [Greedy](#greedy) | 27 |
+| [Greedy](#greedy) | 29 |
 | [Hash Function](#hash-function) | 4 |
 | [Hash Table](#hash-table) | 102 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 16 |
@@ -70,9 +70,9 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 33 |
 | [Sliding Window](#sliding-window) | 36 |
-| [Sorting](#sorting) | 60 |
+| [Sorting](#sorting) | 61 |
 | [Stack](#stack) | 35 |
-| [String](#string) | 101 |
+| [String](#string) | 102 |
 | [String Matching](#string-matching) | 5 |
 | [Tree](#tree) | 44 |
 | [Trie](#trie) | 3 |
@@ -84,7 +84,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 251)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 253)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -126,6 +126,7 @@ Welcome to my LeetCode solutions repository!
 - **1468. [Check If N and Its Double Exist](./1468-check-if-n-and-its-double-exist)**
 - **1500. [Count Largest Group](./1500-count-largest-group)**
 - **1510. [Find Lucky Integer in an Array](./1510-find-lucky-integer-in-an-array)**
+- **1519. [Minimum Subsequence in Non-Increasing Order](./1519-minimum-subsequence-in-non-increasing-order)**
 - **160. [Intersection of Two Linked Lists](./160-intersection-of-two-linked-lists)**
 - **1603. [Running Sum of 1d Array](./1603-running-sum-of-1d-array)**
 - **1625. [Group Sold Products By The Date](./1625-group-sold-products-by-the-date)**
@@ -337,10 +338,11 @@ Welcome to my LeetCode solutions repository!
 - **961. [Long Pressed Name](./961-long-pressed-name)**
 - **969. [Number of Recent Calls](./969-number-of-recent-calls)**
 - **975. [Range Sum of BST](./975-range-sum-of-bst)**
+- **981. [Delete Columns to Make Sorted](./981-delete-columns-to-make-sorted)**
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 204)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 205)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -482,6 +484,7 @@ Welcome to my LeetCode solutions repository!
 - **43. [Multiply Strings](./43-multiply-strings)**
 - **438. [Find All Anagrams in a String](./438-find-all-anagrams-in-a-string)**
 - **442. [Find All Duplicates in an Array](./442-find-all-duplicates-in-an-array)**
+- **45. [Jump Game II](./45-jump-game-ii)**
 - **450. [Delete Node in a BST](./450-delete-node-in-a-bst)**
 - **46. [Permutations](./46-permutations)**
 - **47. [Permutations II](./47-permutations-ii)**
@@ -587,7 +590,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 259)</summary>
+<summary id="array"><strong>Array</strong> (Total: 262)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -725,6 +728,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1510. [Find Lucky Integer in an Array](./1510-find-lucky-integer-in-an-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1519. [Minimum Subsequence in Non-Increasing Order](./1519-minimum-subsequence-in-non-increasing-order)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **153. [Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array)**  
@@ -1144,6 +1150,9 @@ Welcome to my LeetCode solutions repository!
 - **448. [Find All Numbers Disappeared in an Array](./448-find-all-numbers-disappeared-in-an-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **45. [Jump Game II](./45-jump-game-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **455. [Assign Cookies](./455-assign-cookies)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -1365,6 +1374,9 @@ Welcome to my LeetCode solutions repository!
 
 - **966. [Binary Subarrays With Sum](./966-binary-subarrays-with-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **981. [Delete Columns to Make Sorted](./981-delete-columns-to-make-sorted)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 </details>
 
@@ -2455,7 +2467,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 49)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 50)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2555,6 +2567,9 @@ Welcome to my LeetCode solutions repository!
 
 - **44. [Wildcard Matching](./44-wildcard-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **45. [Jump Game II](./45-jump-game-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **494. [Target Sum](./494-target-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2672,7 +2687,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 27)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 29)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2696,6 +2711,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1448. [Maximum 69 Number](./1448-maximum-69-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1519. [Minimum Subsequence in Non-Increasing Order](./1519-minimum-subsequence-in-non-increasing-order)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1829. [Maximum Units on a Truck](./1829-maximum-units-on-a-truck)**  
@@ -2730,6 +2748,9 @@ Welcome to my LeetCode solutions repository!
 
 - **44. [Wildcard Matching](./44-wildcard-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **45. [Jump Game II](./45-jump-game-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **455. [Assign Cookies](./455-assign-cookies)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4184,7 +4205,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 60)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 61)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4218,6 +4239,9 @@ Welcome to my LeetCode solutions repository!
 
 - **15. [3Sum](./15-3sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1519. [Minimum Subsequence in Non-Increasing Order](./1519-minimum-subsequence-in-non-increasing-order)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **16. [3Sum Closest](./16-3sum-closest)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4479,7 +4503,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 101)</summary>
+<summary id="string"><strong>String</strong> (Total: 102)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4783,6 +4807,9 @@ Welcome to my LeetCode solutions repository!
 
 - **977. [Distinct Subsequences II](./977-distinct-subsequences-ii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **981. [Delete Columns to Make Sorted](./981-delete-columns-to-make-sorted)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 </details>
 
