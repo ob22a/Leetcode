@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 489
+**Total Questions:** 490
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 253 |
-| <span style='color:orange'>Medium</span> | 205 |
+| <span style='color:orange'>Medium</span> | 206 |
 | <span style='color:red'>Hard</span> | 31 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 262 |
+| [Array](#array) | 263 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Search](#binary-search) | 48 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
@@ -72,11 +72,11 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 61 |
 | [Stack](#stack) | 35 |
-| [String](#string) | 102 |
-| [String Matching](#string-matching) | 5 |
+| [String](#string) | 103 |
+| [String Matching](#string-matching) | 6 |
 | [Tree](#tree) | 44 |
-| [Trie](#trie) | 3 |
-| [Two Pointers](#two-pointers) | 63 |
+| [Trie](#trie) | 4 |
+| [Two Pointers](#two-pointers) | 64 |
 | [Union Find](#union-find) | 6 |
 
 ---
@@ -342,7 +342,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 205)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 206)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -353,6 +353,7 @@ Welcome to my LeetCode solutions repository!
 - **105. [Construct Binary Tree from Preorder and Inorder Traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal)**
 - **1056. [Capacity To Ship Packages Within D Days](./1056-capacity-to-ship-packages-within-d-days)**
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**
+- **1080. [Camelcase Matching](./1080-camelcase-matching)**
 - **11. [Container With Most Water](./11-container-with-most-water)**
 - **1129. [Longest String Chain](./1129-longest-string-chain)**
 - **1159. [Smallest Subsequence of Distinct Characters](./1159-smallest-subsequence-of-distinct-characters)**
@@ -590,7 +591,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 262)</summary>
+<summary id="array"><strong>Array</strong> (Total: 263)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -636,6 +637,9 @@ Welcome to my LeetCode solutions repository!
 
 - **108. [Convert Sorted Array to Binary Search Tree](./108-convert-sorted-array-to-binary-search-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1080. [Camelcase Matching](./1080-camelcase-matching)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **11. [Container With Most Water](./11-container-with-most-water)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4503,13 +4507,16 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 102)</summary>
+<summary id="string"><strong>String</strong> (Total: 103)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1080. [Camelcase Matching](./1080-camelcase-matching)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1128. [Remove All Adjacent Duplicates In String](./1128-remove-all-adjacent-duplicates-in-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4814,7 +4821,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string-matching"><strong>String Matching</strong> (Total: 5)</summary>
+<summary id="string-matching"><strong>String Matching</strong> (Total: 6)</summary>
+
+- **1080. [Camelcase Matching](./1080-camelcase-matching)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **28. [Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4971,7 +4981,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="trie"><strong>Trie</strong> (Total: 3)</summary>
+<summary id="trie"><strong>Trie</strong> (Total: 4)</summary>
+
+- **1080. [Camelcase Matching](./1080-camelcase-matching)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **14. [Longest Common Prefix](./14-longest-common-prefix)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4985,7 +4998,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 63)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 64)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4997,6 +5010,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1028. [Interval List Intersections](./1028-interval-list-intersections)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1080. [Camelcase Matching](./1080-camelcase-matching)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **11. [Container With Most Water](./11-container-with-most-water)**  
