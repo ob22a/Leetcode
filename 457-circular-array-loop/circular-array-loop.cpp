@@ -21,7 +21,7 @@ public:
                 if(fast!=-1) fast=nextIndex(fast,nums);
 
                 if(slow==-1 || fast==-1){
-                    int cur=-1;
+                    int cur=0;
                     while(cur!=-1 && nums[cur]!=0){
                         int next=nextIndex(cur,nums);
                         nums[cur]=0;
