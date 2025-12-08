@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 490
+**Total Questions:** 491
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 253 |
-| <span style='color:orange'>Medium</span> | 206 |
+| <span style='color:orange'>Medium</span> | 207 |
 | <span style='color:red'>Hard</span> | 31 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 263 |
+| [Array](#array) | 264 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Search](#binary-search) | 48 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
@@ -48,7 +48,7 @@ Welcome to my LeetCode solutions repository!
 | [Graph](#graph) | 5 |
 | [Greedy](#greedy) | 29 |
 | [Hash Function](#hash-function) | 4 |
-| [Hash Table](#hash-table) | 102 |
+| [Hash Table](#hash-table) | 103 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 16 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
@@ -76,7 +76,7 @@ Welcome to my LeetCode solutions repository!
 | [String Matching](#string-matching) | 6 |
 | [Tree](#tree) | 44 |
 | [Trie](#trie) | 4 |
-| [Two Pointers](#two-pointers) | 64 |
+| [Two Pointers](#two-pointers) | 65 |
 | [Union Find](#union-find) | 6 |
 
 ---
@@ -342,7 +342,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 206)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 207)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -487,6 +487,7 @@ Welcome to my LeetCode solutions repository!
 - **442. [Find All Duplicates in an Array](./442-find-all-duplicates-in-an-array)**
 - **45. [Jump Game II](./45-jump-game-ii)**
 - **450. [Delete Node in a BST](./450-delete-node-in-a-bst)**
+- **457. [Circular Array Loop](./457-circular-array-loop)**
 - **46. [Permutations](./46-permutations)**
 - **47. [Permutations II](./47-permutations-ii)**
 - **48. [Rotate Image](./48-rotate-image)**
@@ -591,7 +592,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 263)</summary>
+<summary id="array"><strong>Array</strong> (Total: 264)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1159,6 +1160,9 @@ Welcome to my LeetCode solutions repository!
 
 - **455. [Assign Cookies](./455-assign-cookies)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **457. [Circular Array Loop](./457-circular-array-loop)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **46. [Permutations](./46-permutations)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2800,7 +2804,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 102)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 103)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3041,6 +3045,9 @@ Welcome to my LeetCode solutions repository!
 
 - **448. [Find All Numbers Disappeared in an Array](./448-find-all-numbers-disappeared-in-an-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **457. [Circular Array Loop](./457-circular-array-loop)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **49. [Group Anagrams](./49-group-anagrams)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4998,7 +5005,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 64)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 65)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5131,6 +5138,9 @@ Welcome to my LeetCode solutions repository!
 
 - **455. [Assign Cookies](./455-assign-cookies)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **457. [Circular Array Loop](./457-circular-array-loop)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **5. [Longest Palindromic Substring](./5-longest-palindromic-substring)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
