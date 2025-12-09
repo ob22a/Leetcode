@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 491
+**Total Questions:** 493
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 253 |
-| <span style='color:orange'>Medium</span> | 207 |
+| <span style='color:orange'>Medium</span> | 209 |
 | <span style='color:red'>Hard</span> | 31 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 264 |
+| [Array](#array) | 266 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Search](#binary-search) | 48 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
@@ -41,8 +41,8 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 50 |
-| [Enumeration](#enumeration) | 6 |
+| [Dynamic Programming](#dynamic-programming) | 52 |
+| [Enumeration](#enumeration) | 7 |
 | [Game Theory](#game-theory) | 3 |
 | [Geometry](#geometry) | 1 |
 | [Graph](#graph) | 5 |
@@ -61,7 +61,7 @@ Welcome to my LeetCode solutions repository!
 | [Monotonic Stack](#monotonic-stack) | 12 |
 | [Number Theory](#number-theory) | 8 |
 | [Ordered Set](#ordered-set) | 1 |
-| [Prefix Sum](#prefix-sum) | 30 |
+| [Prefix Sum](#prefix-sum) | 31 |
 | [Queue](#queue) | 7 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
@@ -76,7 +76,7 @@ Welcome to my LeetCode solutions repository!
 | [String Matching](#string-matching) | 6 |
 | [Tree](#tree) | 44 |
 | [Trie](#trie) | 4 |
-| [Two Pointers](#two-pointers) | 65 |
+| [Two Pointers](#two-pointers) | 66 |
 | [Union Find](#union-find) | 6 |
 
 ---
@@ -342,7 +342,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 207)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 209)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -422,6 +422,7 @@ Welcome to my LeetCode solutions repository!
 - **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**
 - **216. [Combination Sum III](./216-combination-sum-iii)**
 - **22. [Generate Parentheses](./22-generate-parentheses)**
+- **2205. [Find Good Days to Rob the Bank](./2205-find-good-days-to-rob-the-bank)**
 - **2211. [K Radius Subarray Averages](./2211-k-radius-subarray-averages)**
 - **2245. [Destroying Asteroids](./2245-destroying-asteroids)**
 - **2249. [Count the Hidden Sequences](./2249-count-the-hidden-sequences)**
@@ -538,6 +539,7 @@ Welcome to my LeetCode solutions repository!
 - **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**
 - **838. [Design Linked List](./838-design-linked-list)**
 - **860. [Design Circular Queue](./860-design-circular-queue)**
+- **875. [Longest Mountain in Array](./875-longest-mountain-in-array)**
 - **883. [Car Fleet](./883-car-fleet)**
 - **89. [Gray Code](./89-gray-code)**
 - **896. [Smallest Subtree with all the Deepest Nodes](./896-smallest-subtree-with-all-the-deepest-nodes)**
@@ -592,7 +594,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 264)</summary>
+<summary id="array"><strong>Array</strong> (Total: 266)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -893,6 +895,9 @@ Welcome to my LeetCode solutions repository!
 
 - **219. [Contains Duplicate II](./219-contains-duplicate-ii)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2205. [Find Good Days to Rob the Bank](./2205-find-good-days-to-rob-the-bank)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2211. [K Radius Subarray Averages](./2211-k-radius-subarray-averages)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1337,6 +1342,9 @@ Welcome to my LeetCode solutions repository!
 
 - **861. [Flipping an Image](./861-flipping-an-image)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **875. [Longest Mountain in Array](./875-longest-mountain-in-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **88. [Merge Sorted Array](./88-merge-sorted-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2475,7 +2483,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 50)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 52)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2541,6 +2549,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **22. [Generate Parentheses](./22-generate-parentheses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2205. [Find Good Days to Rob the Bank](./2205-find-good-days-to-rob-the-bank)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2530. [Minimize Maximum of Array](./2530-minimize-maximum-of-array)**  
@@ -2621,6 +2632,9 @@ Welcome to my LeetCode solutions repository!
 - **747. [Min Cost Climbing Stairs](./747-min-cost-climbing-stairs)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **875. [Longest Mountain in Array](./875-longest-mountain-in-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **909. [Stone Game](./909-stone-game)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -2630,7 +2644,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="enumeration"><strong>Enumeration</strong> (Total: 6)</summary>
+<summary id="enumeration"><strong>Enumeration</strong> (Total: 7)</summary>
 
 - **1656. [Count Good Triplets](./1656-count-good-triplets)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2648,6 +2662,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **875. [Longest Mountain in Array](./875-longest-mountain-in-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
@@ -3778,7 +3795,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 30)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 31)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3811,6 +3828,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2134. [Maximize the Confusion of an Exam](./2134-maximize-the-confusion-of-an-exam)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2205. [Find Good Days to Rob the Bank](./2205-find-good-days-to-rob-the-bank)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2249. [Count the Hidden Sequences](./2249-count-the-hidden-sequences)**  
@@ -5005,7 +5025,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 65)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 66)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5183,6 +5203,9 @@ Welcome to my LeetCode solutions repository!
 
 - **874. [Backspace String Compare](./874-backspace-string-compare)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **875. [Longest Mountain in Array](./875-longest-mountain-in-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **88. [Merge Sorted Array](./88-merge-sorted-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
