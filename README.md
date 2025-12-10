@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 493
+**Total Questions:** 494
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 253 |
-| <span style='color:orange'>Medium</span> | 209 |
+| <span style='color:orange'>Medium</span> | 210 |
 | <span style='color:red'>Hard</span> | 31 |
 
 ### Topics Overview
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 28 |
-| [Math](#math) | 88 |
+| [Math](#math) | 89 |
 | [Matrix](#matrix) | 37 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -72,11 +72,11 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 61 |
 | [Stack](#stack) | 35 |
-| [String](#string) | 103 |
+| [String](#string) | 104 |
 | [String Matching](#string-matching) | 6 |
 | [Tree](#tree) | 44 |
 | [Trie](#trie) | 4 |
-| [Two Pointers](#two-pointers) | 66 |
+| [Two Pointers](#two-pointers) | 67 |
 | [Union Find](#union-find) | 6 |
 
 ---
@@ -342,7 +342,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 209)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 210)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -507,6 +507,7 @@ Welcome to my LeetCode solutions repository!
 - **54. [Spiral Matrix](./54-spiral-matrix)**
 - **540. [Single Element in a Sorted Array](./540-single-element-in-a-sorted-array)**
 - **542. [01 Matrix](./542-01-matrix)**
+- **556. [Next Greater Element III](./556-next-greater-element-iii)**
 - **56. [Merge Intervals](./56-merge-intervals)**
 - **560. [Subarray Sum Equals K](./560-subarray-sum-equals-k)**
 - **567. [Permutation in String](./567-permutation-in-string)**
@@ -3296,7 +3297,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 88)</summary>
+<summary id="math"><strong>Math</strong> (Total: 89)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3506,6 +3507,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **523. [Continuous Subarray Sum](./523-continuous-subarray-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **556. [Next Greater Element III](./556-next-greater-element-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **598. [Range Addition II](./598-range-addition-ii)**  
@@ -4534,7 +4538,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 103)</summary>
+<summary id="string"><strong>String</strong> (Total: 104)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4778,6 +4782,9 @@ Welcome to my LeetCode solutions repository!
 
 - **541. [Reverse String II](./541-reverse-string-ii)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **556. [Next Greater Element III](./556-next-greater-element-iii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **557. [Reverse Words in a String III](./557-reverse-words-in-a-string-iii)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5025,7 +5032,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 66)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 67)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5170,6 +5177,9 @@ Welcome to my LeetCode solutions repository!
 
 - **541. [Reverse String II](./541-reverse-string-ii)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **556. [Next Greater Element III](./556-next-greater-element-iii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **557. [Reverse Words in a String III](./557-reverse-words-in-a-string-iii)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
