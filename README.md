@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 494
+**Total Questions:** 495
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 253 |
+| <span style='color:green'>Easy</span> | 254 |
 | <span style='color:orange'>Medium</span> | 210 |
 | <span style='color:red'>Hard</span> | 31 |
 
@@ -22,7 +22,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 266 |
+| [Array](#array) | 267 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Search](#binary-search) | 48 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
@@ -68,7 +68,7 @@ Welcome to my LeetCode solutions repository!
 | [Recursion](#recursion) | 18 |
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
-| [Simulation](#simulation) | 33 |
+| [Simulation](#simulation) | 34 |
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 61 |
 | [Stack](#stack) | 35 |
@@ -84,7 +84,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 253)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 254)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -205,6 +205,7 @@ Welcome to my LeetCode solutions repository!
 - **2645. [Pass the Pillow](./2645-pass-the-pillow)**
 - **2650. [Split With Minimum Sum](./2650-split-with-minimum-sum)**
 - **268. [Missing Number](./268-missing-number)**
+- **2684. [Determine the Winner of a Bowling Game](./2684-determine-the-winner-of-a-bowling-game)**
 - **27. [Remove Element](./27-remove-element)**
 - **2714. [Left and Right Sum Differences](./2714-left-and-right-sum-differences)**
 - **278. [First Bad Version](./278-first-bad-version)**
@@ -595,7 +596,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 266)</summary>
+<summary id="array"><strong>Array</strong> (Total: 267)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1012,6 +1013,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **268. [Missing Number](./268-missing-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2684. [Determine the Winner of a Bowling Game](./2684-determine-the-winner-of-a-bowling-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **27. [Remove Element](./27-remove-element)**  
@@ -4023,7 +4027,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 33)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 34)</summary>
 
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4062,6 +4066,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2645. [Pass the Pillow](./2645-pass-the-pillow)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2684. [Determine the Winner of a Bowling Game](./2684-determine-the-winner-of-a-bowling-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2791. [Find the Losers of the Circular Game](./2791-find-the-losers-of-the-circular-game)**  
