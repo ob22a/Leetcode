@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 495
+**Total Questions:** 497
 
 ### Difficulty Distribution
 
@@ -15,16 +15,16 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 254 |
-| <span style='color:orange'>Medium</span> | 210 |
+| <span style='color:orange'>Medium</span> | 212 |
 | <span style='color:red'>Hard</span> | 31 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 267 |
+| [Array](#array) | 269 |
 | [Backtracking](#backtracking) | 24 |
-| [Binary Search](#binary-search) | 48 |
+| [Binary Search](#binary-search) | 49 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
 | [Binary Tree](#binary-tree) | 41 |
 | [Bit Manipulation](#bit-manipulation) | 27 |
@@ -48,7 +48,7 @@ Welcome to my LeetCode solutions repository!
 | [Graph](#graph) | 5 |
 | [Greedy](#greedy) | 29 |
 | [Hash Function](#hash-function) | 4 |
-| [Hash Table](#hash-table) | 103 |
+| [Hash Table](#hash-table) | 104 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 16 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
@@ -70,13 +70,13 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 34 |
 | [Sliding Window](#sliding-window) | 36 |
-| [Sorting](#sorting) | 61 |
+| [Sorting](#sorting) | 62 |
 | [Stack](#stack) | 35 |
 | [String](#string) | 104 |
 | [String Matching](#string-matching) | 6 |
 | [Tree](#tree) | 44 |
 | [Trie](#trie) | 4 |
-| [Two Pointers](#two-pointers) | 67 |
+| [Two Pointers](#two-pointers) | 68 |
 | [Union Find](#union-find) | 6 |
 
 ---
@@ -343,7 +343,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 210)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 212)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -505,6 +505,7 @@ Welcome to my LeetCode solutions repository!
 - **523. [Continuous Subarray Sum](./523-continuous-subarray-sum)**
 - **525. [Contiguous Array](./525-contiguous-array)**
 - **528. [Swapping Nodes in a Linked List](./528-swapping-nodes-in-a-linked-list)**
+- **532. [K-diff Pairs in an Array](./532-k-diff-pairs-in-an-array)**
 - **54. [Spiral Matrix](./54-spiral-matrix)**
 - **540. [Single Element in a Sorted Array](./540-single-element-in-a-sorted-array)**
 - **542. [01 Matrix](./542-01-matrix)**
@@ -512,6 +513,7 @@ Welcome to my LeetCode solutions repository!
 - **56. [Merge Intervals](./56-merge-intervals)**
 - **560. [Subarray Sum Equals K](./560-subarray-sum-equals-k)**
 - **567. [Permutation in String](./567-permutation-in-string)**
+- **57. [Insert Interval](./57-insert-interval)**
 - **583. [Delete Operation for Two Strings](./583-delete-operation-for-two-strings)**
 - **59. [Spiral Matrix II](./59-spiral-matrix-ii)**
 - **6. [Zigzag Conversion](./6-zigzag-conversion)**
@@ -596,7 +598,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 267)</summary>
+<summary id="array"><strong>Array</strong> (Total: 269)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1225,6 +1227,9 @@ Welcome to my LeetCode solutions repository!
 - **525. [Contiguous Array](./525-contiguous-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **532. [K-diff Pairs in an Array](./532-k-diff-pairs-in-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **54. [Spiral Matrix](./54-spiral-matrix)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -1242,6 +1247,9 @@ Welcome to my LeetCode solutions repository!
 
 - **561. [Array Partition](./561-array-partition)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **57. [Insert Interval](./57-insert-interval)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **575. [Distribute Candies](./575-distribute-candies)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1479,7 +1487,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 48)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 49)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1600,6 +1608,9 @@ Welcome to my LeetCode solutions repository!
 
 - **441. [Arranging Coins](./441-arranging-coins)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **532. [K-diff Pairs in an Array](./532-k-diff-pairs-in-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **540. [Single Element in a Sorted Array](./540-single-element-in-a-sorted-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2826,7 +2837,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 103)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 104)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3084,6 +3095,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **525. [Contiguous Array](./525-contiguous-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **532. [K-diff Pairs in an Array](./532-k-diff-pairs-in-an-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **560. [Subarray Sum Equals K](./560-subarray-sum-equals-k)**  
@@ -4247,7 +4261,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 61)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 62)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4392,6 +4406,9 @@ Welcome to my LeetCode solutions repository!
 
 - **506. [Relative Ranks](./506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **532. [K-diff Pairs in an Array](./532-k-diff-pairs-in-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **56. [Merge Intervals](./56-merge-intervals)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5039,7 +5056,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 67)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 68)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5180,6 +5197,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **528. [Swapping Nodes in a Linked List](./528-swapping-nodes-in-a-linked-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **532. [K-diff Pairs in an Array](./532-k-diff-pairs-in-an-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **541. [Reverse String II](./541-reverse-string-ii)**  
