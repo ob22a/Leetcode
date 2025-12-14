@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 497
+**Total Questions:** 498
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 254 |
+| <span style='color:green'>Easy</span> | 255 |
 | <span style='color:orange'>Medium</span> | 212 |
 | <span style='color:red'>Hard</span> | 31 |
 
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 28 |
-| [Math](#math) | 89 |
+| [Math](#math) | 90 |
 | [Matrix](#matrix) | 37 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -68,7 +68,7 @@ Welcome to my LeetCode solutions repository!
 | [Recursion](#recursion) | 18 |
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
-| [Simulation](#simulation) | 34 |
+| [Simulation](#simulation) | 35 |
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 62 |
 | [Stack](#stack) | 35 |
@@ -84,7 +84,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 254)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 255)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -130,6 +130,7 @@ Welcome to my LeetCode solutions repository!
 - **160. [Intersection of Two Linked Lists](./160-intersection-of-two-linked-lists)**
 - **1603. [Running Sum of 1d Array](./1603-running-sum-of-1d-array)**
 - **1625. [Group Sold Products By The Date](./1625-group-sold-products-by-the-date)**
+- **1642. [Water Bottles](./1642-water-bottles)**
 - **1646. [Kth Missing Positive Number](./1646-kth-missing-positive-number)**
 - **1656. [Count Good Triplets](./1656-count-good-triplets)**
 - **1677. [Matrix Diagonal Sum](./1677-matrix-diagonal-sum)**
@@ -3315,7 +3316,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 89)</summary>
+<summary id="math"><strong>Math</strong> (Total: 90)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3360,6 +3361,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1500. [Count Largest Group](./1500-count-largest-group)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1642. [Water Bottles](./1642-water-bottles)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **168. [Excel Sheet Column Title](./168-excel-sheet-column-title)**  
@@ -4041,9 +4045,12 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 34)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 35)</summary>
 
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1642. [Water Bottles](./1642-water-bottles)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1682. [Most Visited Sector in  a Circular Track](./1682-most-visited-sector-in-a-circular-track)**  
