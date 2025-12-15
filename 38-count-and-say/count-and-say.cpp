@@ -8,7 +8,7 @@ public:
 
         for(int i=1;i<n;++i){
             if(s[i]!=numChar){
-                sol+=count+'0';
+                sol+=to_string(count);
                 sol+=numChar;
                 count=1;
                 numChar=s[i];
@@ -24,12 +24,9 @@ public:
         return sol;
     }
     string countAndSay(int n) {
-        vector<string> dp(n,"1");
+        string cur="1";
+        for(int i=1;i<n;++i) cur=RLE(cur);
 
-        for(int i=1;i<n;++i){
-            dp[i]=RLE(dp[i-1]);
-        }
-
-        return dp[n-1];
+        return cur;
     }
 };
