@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 498
+**Total Questions:** 499
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 255 |
-| <span style='color:orange'>Medium</span> | 212 |
+| <span style='color:orange'>Medium</span> | 213 |
 | <span style='color:red'>Hard</span> | 31 |
 
 ### Topics Overview
@@ -72,7 +72,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 62 |
 | [Stack](#stack) | 35 |
-| [String](#string) | 104 |
+| [String](#string) | 105 |
 | [String Matching](#string-matching) | 6 |
 | [Tree](#tree) | 44 |
 | [Trie](#trie) | 4 |
@@ -344,7 +344,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 212)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 213)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -478,6 +478,7 @@ Welcome to my LeetCode solutions repository!
 - **365. [Water and Jug Problem](./365-water-and-jug-problem)**
 - **368. [Largest Divisible Subset](./368-largest-divisible-subset)**
 - **372. [Super Pow](./372-super-pow)**
+- **38. [Count and Say](./38-count-and-say)**
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**
 - **386. [Lexicographical Numbers](./386-lexicographical-numbers)**
 - **39. [Combination Sum](./39-combination-sum)**
@@ -4569,7 +4570,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 104)</summary>
+<summary id="string"><strong>String</strong> (Total: 105)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4741,6 +4742,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3753. [Maximum Difference Between Even and Odd Frequency I](./3753-maximum-difference-between-even-and-odd-frequency-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **38. [Count and Say](./38-count-and-say)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3811. [Reverse Degree of a String](./3811-reverse-degree-of-a-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
