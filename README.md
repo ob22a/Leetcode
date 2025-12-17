@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 499
+**Total Questions:** 500
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 255 |
+| <span style='color:green'>Easy</span> | 256 |
 | <span style='color:orange'>Medium</span> | 213 |
 | <span style='color:red'>Hard</span> | 31 |
 
@@ -72,7 +72,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 62 |
 | [Stack](#stack) | 35 |
-| [String](#string) | 105 |
+| [String](#string) | 106 |
 | [String Matching](#string-matching) | 6 |
 | [Tree](#tree) | 44 |
 | [Trie](#trie) | 4 |
@@ -84,7 +84,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 255)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 256)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -233,6 +233,7 @@ Welcome to my LeetCode solutions repository!
 - **344. [Reverse String](./344-reverse-string)**
 - **345. [Reverse Vowels of a String](./345-reverse-vowels-of-a-string)**
 - **3450. [Find the Child Who Has the Ball After K Seconds](./3450-find-the-child-who-has-the-ball-after-k-seconds)**
+- **3468. [Find the Encrypted String](./3468-find-the-encrypted-string)**
 - **349. [Intersection of Two Arrays](./349-intersection-of-two-arrays)**
 - **35. [Search Insert Position](./35-search-insert-position)**
 - **350. [Intersection of Two Arrays II](./350-intersection-of-two-arrays-ii)**
@@ -4570,7 +4571,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 105)</summary>
+<summary id="string"><strong>String</strong> (Total: 106)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4732,6 +4733,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **345. [Reverse Vowels of a String](./345-reverse-vowels-of-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3468. [Find the Encrypted String](./3468-find-the-encrypted-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3533. [Snake in Matrix](./3533-snake-in-matrix)**  
