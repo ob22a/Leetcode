@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 500
+**Total Questions:** 502
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 256 |
+| <span style='color:green'>Easy</span> | 258 |
 | <span style='color:orange'>Medium</span> | 213 |
 | <span style='color:red'>Hard</span> | 31 |
 
@@ -22,7 +22,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 269 |
+| [Array](#array) | 270 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Search](#binary-search) | 49 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 28 |
-| [Math](#math) | 90 |
+| [Math](#math) | 91 |
 | [Matrix](#matrix) | 37 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -72,7 +72,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 62 |
 | [Stack](#stack) | 35 |
-| [String](#string) | 106 |
+| [String](#string) | 108 |
 | [String Matching](#string-matching) | 6 |
 | [Tree](#tree) | 44 |
 | [Trie](#trie) | 4 |
@@ -84,7 +84,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 256)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 258)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -157,6 +157,7 @@ Welcome to my LeetCode solutions repository!
 - **1908. [Recyclable and Low Fat Products](./1908-recyclable-and-low-fat-products)**
 - **191. [Number of 1 Bits](./191-number-of-1-bits)**
 - **1916. [Find Center of Star Graph](./1916-find-center-of-star-graph)**
+- **1920. [Determine Color of a Chessboard Square](./1920-determine-color-of-a-chessboard-square)**
 - **196. [Delete Duplicate Emails](./196-delete-duplicate-emails)**
 - **1965. [Sum of Digits in Base K](./1965-sum-of-digits-in-base-k)**
 - **1970. [Sorting the Sentence](./1970-sorting-the-sentence)**
@@ -198,6 +199,7 @@ Welcome to my LeetCode solutions repository!
 - **257. [Binary Tree Paths](./257-binary-tree-paths)**
 - **258. [Add Digits](./258-add-digits)**
 - **2580. [Circular Sentence](./2580-circular-sentence)**
+- **2598. [Shortest Distance to Target String in a Circular Array](./2598-shortest-distance-to-target-string-in-a-circular-array)**
 - **26. [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array)**
 - **2614. [Maximum Count of Positive Integer and Negative Integer](./2614-maximum-count-of-positive-integer-and-negative-integer)**
 - **263. [Ugly Number](./263-ugly-number)**
@@ -601,7 +603,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 269)</summary>
+<summary id="array"><strong>Array</strong> (Total: 270)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1001,6 +1003,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2581. [Divide Players Into Teams of Equal Skill](./2581-divide-players-into-teams-of-equal-skill)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2598. [Shortest Distance to Target String in a Circular Array](./2598-shortest-distance-to-target-string-in-a-circular-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **26. [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3318,7 +3323,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 90)</summary>
+<summary id="math"><strong>Math</strong> (Total: 91)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3382,6 +3387,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **1920. [Determine Color of a Chessboard Square](./1920-determine-color-of-a-chessboard-square)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1951. [Find the Winner of the Circular Game](./1951-find-the-winner-of-the-circular-game)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4571,7 +4579,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 106)</summary>
+<summary id="string"><strong>String</strong> (Total: 108)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4654,6 +4662,9 @@ Welcome to my LeetCode solutions repository!
 - **1894. [Merge Strings Alternately](./1894-merge-strings-alternately)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **1920. [Determine Color of a Chessboard Square](./1920-determine-color-of-a-chessboard-square)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **1970. [Sorting the Sentence](./1970-sorting-the-sentence)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -4703,6 +4714,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2580. [Circular Sentence](./2580-circular-sentence)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2598. [Shortest Distance to Target String in a Circular Array](./2598-shortest-distance-to-target-string-in-a-circular-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2599. [Take K of Each Character From Left and Right](./2599-take-k-of-each-character-from-left-and-right)**  
