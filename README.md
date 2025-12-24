@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 504
+**Total Questions:** 505
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 258 |
+| <span style='color:green'>Easy</span> | 259 |
 | <span style='color:orange'>Medium</span> | 215 |
 | <span style='color:red'>Hard</span> | 31 |
 
@@ -22,7 +22,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 272 |
+| [Array](#array) | 273 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Search](#binary-search) | 49 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
@@ -70,13 +70,13 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 35 |
 | [Sliding Window](#sliding-window) | 36 |
-| [Sorting](#sorting) | 63 |
+| [Sorting](#sorting) | 64 |
 | [Stack](#stack) | 35 |
 | [String](#string) | 108 |
 | [String Matching](#string-matching) | 6 |
 | [Tree](#tree) | 44 |
 | [Trie](#trie) | 4 |
-| [Two Pointers](#two-pointers) | 68 |
+| [Two Pointers](#two-pointers) | 69 |
 | [Union Find](#union-find) | 6 |
 
 ---
@@ -84,7 +84,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 258)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 259)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -236,6 +236,7 @@ Welcome to my LeetCode solutions repository!
 - **345. [Reverse Vowels of a String](./345-reverse-vowels-of-a-string)**
 - **3450. [Find the Child Who Has the Ball After K Seconds](./3450-find-the-child-who-has-the-ball-after-k-seconds)**
 - **3468. [Find the Encrypted String](./3468-find-the-encrypted-string)**
+- **3471. [Minimum Average of Smallest and Largest Elements](./3471-minimum-average-of-smallest-and-largest-elements)**
 - **349. [Intersection of Two Arrays](./349-intersection-of-two-arrays)**
 - **35. [Search Insert Position](./35-search-insert-position)**
 - **350. [Intersection of Two Arrays II](./350-intersection-of-two-arrays-ii)**
@@ -605,7 +606,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 272)</summary>
+<summary id="array"><strong>Array</strong> (Total: 273)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1104,6 +1105,9 @@ Welcome to my LeetCode solutions repository!
 
 - **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3471. [Minimum Average of Smallest and Largest Elements](./3471-minimum-average-of-smallest-and-largest-elements)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **349. [Intersection of Two Arrays](./349-intersection-of-two-arrays)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4295,7 +4299,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 63)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 64)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4407,6 +4411,9 @@ Welcome to my LeetCode solutions repository!
 
 - **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3471. [Minimum Average of Smallest and Largest Elements](./3471-minimum-average-of-smallest-and-largest-elements)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **349. [Intersection of Two Arrays](./349-intersection-of-two-arrays)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5105,7 +5112,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 68)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 69)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5219,6 +5226,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **345. [Reverse Vowels of a String](./345-reverse-vowels-of-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3471. [Minimum Average of Smallest and Largest Elements](./3471-minimum-average-of-smallest-and-largest-elements)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **349. [Intersection of Two Arrays](./349-intersection-of-two-arrays)**  
