@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 505
+**Total Questions:** 506
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 259 |
-| <span style='color:orange'>Medium</span> | 215 |
+| <span style='color:orange'>Medium</span> | 216 |
 | <span style='color:red'>Hard</span> | 31 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 273 |
+| [Array](#array) | 274 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Search](#binary-search) | 49 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
@@ -46,7 +46,7 @@ Welcome to my LeetCode solutions repository!
 | [Game Theory](#game-theory) | 3 |
 | [Geometry](#geometry) | 1 |
 | [Graph](#graph) | 5 |
-| [Greedy](#greedy) | 30 |
+| [Greedy](#greedy) | 31 |
 | [Hash Function](#hash-function) | 4 |
 | [Hash Table](#hash-table) | 104 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 16 |
@@ -348,7 +348,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 215)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 216)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -376,6 +376,7 @@ Welcome to my LeetCode solutions repository!
 - **131. [Palindrome Partitioning](./131-palindrome-partitioning)**
 - **1320. [Remove All Adjacent Duplicates in String II](./1320-remove-all-adjacent-duplicates-in-string-ii)**
 - **1321. [Get Equal Substrings Within Budget](./1321-get-equal-substrings-within-budget)**
+- **134. [Gas Station](./134-gas-station)**
 - **1351. [Replace the Substring for Balanced String](./1351-replace-the-substring-for-balanced-string)**
 - **1354. [Find Players With Zero or One Losses](./1354-find-players-with-zero-or-one-losses)**
 - **1370. [Count Number of Nice Subarrays](./1370-count-number-of-nice-subarrays)**
@@ -606,7 +607,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 273)</summary>
+<summary id="array"><strong>Array</strong> (Total: 274)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -700,6 +701,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1329. [Minimum Cost to Move Chips to The Same Position](./1329-minimum-cost-to-move-chips-to-the-same-position)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **134. [Gas Station](./134-gas-station)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1349. [Check If It Is a Straight Line](./1349-check-if-it-is-a-straight-line)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2754,7 +2758,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 30)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 31)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2776,6 +2780,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1329. [Minimum Cost to Move Chips to The Same Position](./1329-minimum-cost-to-move-chips-to-the-same-position)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **134. [Gas Station](./134-gas-station)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1448. [Maximum 69 Number](./1448-maximum-69-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
