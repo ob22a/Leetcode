@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 506
+**Total Questions:** 504
 
 ### Difficulty Distribution
 
@@ -14,15 +14,15 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 259 |
-| <span style='color:orange'>Medium</span> | 216 |
+| <span style='color:green'>Easy</span> | 258 |
+| <span style='color:orange'>Medium</span> | 215 |
 | <span style='color:red'>Hard</span> | 31 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 274 |
+| [Array](#array) | 273 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Search](#binary-search) | 49 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
@@ -37,7 +37,7 @@ Welcome to my LeetCode solutions repository!
 | [Counting Sort](#counting-sort) | 3 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 13 |
-| [Depth-First Search](#depth-first-search) | 50 |
+| [Depth-First Search](#depth-first-search) | 49 |
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 14 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
@@ -46,14 +46,14 @@ Welcome to my LeetCode solutions repository!
 | [Game Theory](#game-theory) | 3 |
 | [Geometry](#geometry) | 1 |
 | [Graph](#graph) | 5 |
-| [Greedy](#greedy) | 31 |
+| [Greedy](#greedy) | 30 |
 | [Hash Function](#hash-function) | 4 |
 | [Hash Table](#hash-table) | 104 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 16 |
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 28 |
-| [Math](#math) | 91 |
+| [Math](#math) | 90 |
 | [Matrix](#matrix) | 37 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -70,12 +70,12 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 35 |
 | [Sliding Window](#sliding-window) | 36 |
-| [Sorting](#sorting) | 64 |
+| [Sorting](#sorting) | 63 |
 | [Stack](#stack) | 35 |
 | [String](#string) | 108 |
 | [String Matching](#string-matching) | 6 |
 | [Tree](#tree) | 44 |
-| [Trie](#trie) | 4 |
+| [Trie](#trie) | 3 |
 | [Two Pointers](#two-pointers) | 69 |
 | [Union Find](#union-find) | 6 |
 
@@ -84,7 +84,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 259)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 258)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -92,7 +92,6 @@ Welcome to my LeetCode solutions repository!
 - **100. [Same Tree](./100-same-tree)**
 - **101. [Symmetric Tree](./101-symmetric-tree)**
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**
-- **1018. [Largest Perimeter Triangle](./1018-largest-perimeter-triangle)**
 - **1019. [Squares of a Sorted Array](./1019-squares-of-a-sorted-array)**
 - **1035. [Cousins in Binary Tree](./1035-cousins-in-binary-tree)**
 - **104. [Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree)**
@@ -348,7 +347,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 216)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 215)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -486,7 +485,6 @@ Welcome to my LeetCode solutions repository!
 - **372. [Super Pow](./372-super-pow)**
 - **38. [Count and Say](./38-count-and-say)**
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**
-- **386. [Lexicographical Numbers](./386-lexicographical-numbers)**
 - **39. [Combination Sum](./39-combination-sum)**
 - **40. [Combination Sum II](./40-combination-sum-ii)**
 - **402. [Remove K Digits](./402-remove-k-digits)**
@@ -607,7 +605,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 274)</summary>
+<summary id="array"><strong>Array</strong> (Total: 273)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -617,9 +615,6 @@ Welcome to my LeetCode solutions repository!
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
-
-- **1018. [Largest Perimeter Triangle](./1018-largest-perimeter-triangle)**  
-  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1019. [Squares of a Sorted Array](./1019-squares-of-a-sorted-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2251,7 +2246,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 50)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 49)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2326,9 +2321,6 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **365. [Water and Jug Problem](./365-water-and-jug-problem)**  
-  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
-
-- **386. [Lexicographical Numbers](./386-lexicographical-numbers)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **404. [Sum of Left Leaves](./404-sum-of-left-leaves)**  
@@ -2758,13 +2750,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 31)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 30)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
-
-- **1018. [Largest Perimeter Triangle](./1018-largest-perimeter-triangle)**  
-  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1033. [Broken Calculator](./1033-broken-calculator)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3351,12 +3340,9 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 91)</summary>
+<summary id="math"><strong>Math</strong> (Total: 90)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
-  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
-
-- **1018. [Largest Perimeter Triangle](./1018-largest-perimeter-triangle)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1033. [Broken Calculator](./1033-broken-calculator)**  
@@ -4306,16 +4292,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 64)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 63)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
-
-- **1018. [Largest Perimeter Triangle](./1018-largest-perimeter-triangle)**  
-  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1019. [Squares of a Sorted Array](./1019-squares-of-a-sorted-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5102,7 +5085,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="trie"><strong>Trie</strong> (Total: 4)</summary>
+<summary id="trie"><strong>Trie</strong> (Total: 3)</summary>
 
 - **1080. [Camelcase Matching](./1080-camelcase-matching)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5111,9 +5094,6 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **208. [Implement Trie (Prefix Tree)](./208-implement-trie-prefix-tree)**  
-  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
-
-- **386. [Lexicographical Numbers](./386-lexicographical-numbers)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
