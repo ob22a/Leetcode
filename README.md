@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 506
+**Total Questions:** 505
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 259 |
+| <span style='color:green'>Easy</span> | 258 |
 | <span style='color:orange'>Medium</span> | 216 |
 | <span style='color:red'>Hard</span> | 31 |
 
@@ -22,7 +22,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 274 |
+| [Array](#array) | 273 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Search](#binary-search) | 49 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
@@ -70,7 +70,7 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 35 |
 | [Sliding Window](#sliding-window) | 36 |
-| [Sorting](#sorting) | 64 |
+| [Sorting](#sorting) | 63 |
 | [Stack](#stack) | 35 |
 | [String](#string) | 108 |
 | [String Matching](#string-matching) | 6 |
@@ -84,7 +84,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 259)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 258)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -216,7 +216,6 @@ Welcome to my LeetCode solutions repository!
 - **28. [Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string)**
 - **2812. [Find the Maximum Achievable Number](./2812-find-the-maximum-achievable-number)**
 - **283. [Move Zeroes](./283-move-zeroes)**
-- **2836. [Neither Minimum nor Maximum](./2836-neither-minimum-nor-maximum)**
 - **2876. [Number of Employees Who Met the Target](./2876-number-of-employees-who-met-the-target)**
 - **290. [Word Pattern](./290-word-pattern)**
 - **292. [Nim Game](./292-nim-game)**
@@ -607,7 +606,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 274)</summary>
+<summary id="array"><strong>Array</strong> (Total: 273)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1054,9 +1053,6 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **283. [Move Zeroes](./283-move-zeroes)**  
-  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
-
-- **2836. [Neither Minimum nor Maximum](./2836-neither-minimum-nor-maximum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2876. [Number of Employees Who Met the Target](./2876-number-of-employees-who-met-the-target)**  
@@ -4306,7 +4302,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 64)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 63)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4406,9 +4402,6 @@ Welcome to my LeetCode solutions repository!
 
 - **274. [H-Index](./274-h-index)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
-
-- **2836. [Neither Minimum nor Maximum](./2836-neither-minimum-nor-maximum)**  
-  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3236. [Smallest Missing Integer Greater Than Sequential Prefix Sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
