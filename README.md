@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 505
+**Total Questions:** 507
 
 ### Difficulty Distribution
 
@@ -14,15 +14,15 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 258 |
-| <span style='color:orange'>Medium</span> | 216 |
+| <span style='color:green'>Easy</span> | 259 |
+| <span style='color:orange'>Medium</span> | 217 |
 | <span style='color:red'>Hard</span> | 31 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 273 |
+| [Array](#array) | 275 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Search](#binary-search) | 49 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Interactive](#interactive) | 2 |
 | [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 28 |
-| [Math](#math) | 91 |
+| [Math](#math) | 92 |
 | [Matrix](#matrix) | 37 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -70,7 +70,7 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 35 |
 | [Sliding Window](#sliding-window) | 36 |
-| [Sorting](#sorting) | 63 |
+| [Sorting](#sorting) | 64 |
 | [Stack](#stack) | 35 |
 | [String](#string) | 108 |
 | [String Matching](#string-matching) | 6 |
@@ -84,7 +84,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 258)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 259)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -216,6 +216,7 @@ Welcome to my LeetCode solutions repository!
 - **28. [Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string)**
 - **2812. [Find the Maximum Achievable Number](./2812-find-the-maximum-achievable-number)**
 - **283. [Move Zeroes](./283-move-zeroes)**
+- **2836. [Neither Minimum nor Maximum](./2836-neither-minimum-nor-maximum)**
 - **2876. [Number of Employees Who Met the Target](./2876-number-of-employees-who-met-the-target)**
 - **290. [Word Pattern](./290-word-pattern)**
 - **292. [Nim Game](./292-nim-game)**
@@ -347,7 +348,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 216)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 217)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -371,6 +372,7 @@ Welcome to my LeetCode solutions repository!
 - **1250. [Longest Common Subsequence](./1250-longest-common-subsequence)**
 - **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**
 - **128. [Longest Consecutive Sequence](./128-longest-consecutive-sequence)**
+- **1284. [Four Divisors](./1284-four-divisors)**
 - **130. [Surrounded Regions](./130-surrounded-regions)**
 - **131. [Palindrome Partitioning](./131-palindrome-partitioning)**
 - **1320. [Remove All Adjacent Duplicates in String II](./1320-remove-all-adjacent-duplicates-in-string-ii)**
@@ -606,7 +608,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 273)</summary>
+<summary id="array"><strong>Array</strong> (Total: 275)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -693,6 +695,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **128. [Longest Consecutive Sequence](./128-longest-consecutive-sequence)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1284. [Four Divisors](./1284-four-divisors)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **130. [Surrounded Regions](./130-surrounded-regions)**  
@@ -1053,6 +1058,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **283. [Move Zeroes](./283-move-zeroes)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2836. [Neither Minimum nor Maximum](./2836-neither-minimum-nor-maximum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2876. [Number of Employees Who Met the Target](./2876-number-of-employees-who-met-the-target)**  
@@ -3347,7 +3355,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 91)</summary>
+<summary id="math"><strong>Math</strong> (Total: 92)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3369,6 +3377,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1236. [N-th Tribonacci Number](./1236-n-th-tribonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1284. [Four Divisors](./1284-four-divisors)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **13. [Roman to Integer](./13-roman-to-integer)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4302,7 +4313,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 63)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 64)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4402,6 +4413,9 @@ Welcome to my LeetCode solutions repository!
 
 - **274. [H-Index](./274-h-index)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2836. [Neither Minimum nor Maximum](./2836-neither-minimum-nor-maximum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3236. [Smallest Missing Integer Greater Than Sequential Prefix Sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
