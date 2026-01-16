@@ -28,7 +28,7 @@ Welcome to my LeetCode solutions repository!
 | [Binary Search Tree](#binary-search-tree) | 12 |
 | [Binary Tree](#binary-tree) | 41 |
 | [Bit Manipulation](#bit-manipulation) | 27 |
-| [Bitmask](#bitmask) | 1 |
+| [Bitmask DP](#bitmask-dp) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 39 |
 | [Bucket Sort](#bucket-sort) | 3 |
@@ -45,13 +45,12 @@ Welcome to my LeetCode solutions repository!
 | [Enumeration](#enumeration) | 7 |
 | [Game Theory](#game-theory) | 3 |
 | [Geometry](#geometry) | 1 |
-| [Graph](#graph) | 5 |
+| [Graph Theory](#graph-theory) | 5 |
 | [Greedy](#greedy) | 31 |
 | [Hash Function](#hash-function) | 4 |
 | [Hash Table](#hash-table) | 104 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 16 |
 | [Interactive](#interactive) | 2 |
-| [Line Sweep](#line-sweep) | 1 |
 | [Linked List](#linked-list) | 28 |
 | [Math](#math) | 92 |
 | [Matrix](#matrix) | 37 |
@@ -74,10 +73,11 @@ Welcome to my LeetCode solutions repository!
 | [Stack](#stack) | 35 |
 | [String](#string) | 108 |
 | [String Matching](#string-matching) | 6 |
+| [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 44 |
 | [Trie](#trie) | 4 |
 | [Two Pointers](#two-pointers) | 69 |
-| [Union Find](#union-find) | 6 |
+| [Union-Find](#union-find) | 6 |
 
 ---
 
@@ -1922,7 +1922,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bitmask"><strong>Bitmask</strong> (Total: 1)</summary>
+<summary id="bitmask-dp"><strong>Bitmask DP</strong> (Total: 1)</summary>
 
 - **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2742,7 +2742,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="graph"><strong>Graph</strong> (Total: 5)</summary>
+<summary id="graph-theory"><strong>Graph Theory</strong> (Total: 5)</summary>
 
 - **1916. [Find Center of Star Graph](./1916-find-center-of-star-graph)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3254,14 +3254,6 @@ Welcome to my LeetCode solutions repository!
 
 - **374. [Guess Number Higher or Lower](./374-guess-number-higher-or-lower)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
-
-</details>
-
-<details>
-<summary id="line-sweep"><strong>Line Sweep</strong> (Total: 1)</summary>
-
-- **1028. [Interval List Intersections](./1028-interval-list-intersections)**  
-  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
 
@@ -4972,6 +4964,14 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
+<summary id="sweep-line"><strong>Sweep Line</strong> (Total: 1)</summary>
+
+- **1028. [Interval List Intersections](./1028-interval-list-intersections)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
 <summary id="tree"><strong>Tree</strong> (Total: 44)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
@@ -5338,7 +5338,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="union-find"><strong>Union Find</strong> (Total: 6)</summary>
+<summary id="union-find"><strong>Union-Find</strong> (Total: 6)</summary>
 
 - **128. [Longest Consecutive Sequence](./128-longest-consecutive-sequence)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
