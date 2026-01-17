@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 507
+**Total Questions:** 508
 
 ### Difficulty Distribution
 
@@ -15,18 +15,18 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 259 |
-| <span style='color:orange'>Medium</span> | 217 |
+| <span style='color:orange'>Medium</span> | 218 |
 | <span style='color:red'>Hard</span> | 31 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 275 |
+| [Array](#array) | 276 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Search](#binary-search) | 49 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
-| [Binary Tree](#binary-tree) | 41 |
+| [Binary Tree](#binary-tree) | 42 |
 | [Bit Manipulation](#bit-manipulation) | 27 |
 | [Bitmask DP](#bitmask-dp) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
@@ -39,7 +39,7 @@ Welcome to my LeetCode solutions repository!
 | [Database](#database) | 13 |
 | [Depth-First Search](#depth-first-search) | 50 |
 | [Design](#design) | 19 |
-| [Divide and Conquer](#divide-and-conquer) | 14 |
+| [Divide and Conquer](#divide-and-conquer) | 15 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
 | [Dynamic Programming](#dynamic-programming) | 53 |
 | [Enumeration](#enumeration) | 7 |
@@ -57,7 +57,7 @@ Welcome to my LeetCode solutions repository!
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
-| [Monotonic Stack](#monotonic-stack) | 12 |
+| [Monotonic Stack](#monotonic-stack) | 13 |
 | [Number Theory](#number-theory) | 8 |
 | [Ordered Set](#ordered-set) | 1 |
 | [Prefix Sum](#prefix-sum) | 31 |
@@ -70,11 +70,11 @@ Welcome to my LeetCode solutions repository!
 | [Simulation](#simulation) | 35 |
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 64 |
-| [Stack](#stack) | 35 |
+| [Stack](#stack) | 36 |
 | [String](#string) | 108 |
 | [String Matching](#string-matching) | 6 |
 | [Sweep Line](#sweep-line) | 1 |
-| [Tree](#tree) | 44 |
+| [Tree](#tree) | 45 |
 | [Trie](#trie) | 4 |
 | [Two Pointers](#two-pointers) | 69 |
 | [Union-Find](#union-find) | 6 |
@@ -348,7 +348,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 217)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 218)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -534,6 +534,7 @@ Welcome to my LeetCode solutions repository!
 - **633. [Sum of Square Numbers](./633-sum-of-square-numbers)**
 - **64. [Minimum Path Sum](./64-minimum-path-sum)**
 - **650. [2 Keys Keyboard](./650-2-keys-keyboard)**
+- **654. [Maximum Binary Tree](./654-maximum-binary-tree)**
 - **658. [Find K Closest Elements](./658-find-k-closest-elements)**
 - **670. [Maximum Swap](./670-maximum-swap)**
 - **686. [Repeated String Match](./686-repeated-string-match)**
@@ -608,7 +609,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 275)</summary>
+<summary id="array"><strong>Array</strong> (Total: 276)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1312,6 +1313,9 @@ Welcome to my LeetCode solutions repository!
 - **643. [Maximum Average Subarray I](./643-maximum-average-subarray-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **654. [Maximum Binary Tree](./654-maximum-binary-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **658. [Find K Closest Elements](./658-find-k-closest-elements)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -1708,7 +1712,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-tree"><strong>Binary Tree</strong> (Total: 41)</summary>
+<summary id="binary-tree"><strong>Binary Tree</strong> (Total: 42)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1811,6 +1815,9 @@ Welcome to my LeetCode solutions repository!
 
 - **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **654. [Maximum Binary Tree](./654-maximum-binary-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **783. [Search in a Binary Search Tree](./783-search-in-a-binary-search-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2472,7 +2479,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="divide-and-conquer"><strong>Divide and Conquer</strong> (Total: 14)</summary>
+<summary id="divide-and-conquer"><strong>Divide and Conquer</strong> (Total: 15)</summary>
 
 - **105. [Construct Binary Tree from Preorder and Inorder Traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2512,6 +2519,9 @@ Welcome to my LeetCode solutions repository!
 
 - **4. [Median of Two Sorted Arrays](./4-median-of-two-sorted-arrays)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **654. [Maximum Binary Tree](./654-maximum-binary-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **948. [Sort an Array](./948-sort-an-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3780,7 +3790,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="monotonic-stack"><strong>Monotonic Stack</strong> (Total: 12)</summary>
+<summary id="monotonic-stack"><strong>Monotonic Stack</strong> (Total: 13)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3804,6 +3814,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **503. [Next Greater Element II](./503-next-greater-element-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **654. [Maximum Binary Tree](./654-maximum-binary-tree)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **739. [Daily Temperatures](./739-daily-temperatures)**  
@@ -4502,7 +4515,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="stack"><strong>Stack</strong> (Total: 35)</summary>
+<summary id="stack"><strong>Stack</strong> (Total: 36)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4577,6 +4590,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **503. [Next Greater Element II](./503-next-greater-element-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **654. [Maximum Binary Tree](./654-maximum-binary-tree)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **682. [Baseball Game](./682-baseball-game)**  
@@ -4972,7 +4988,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="tree"><strong>Tree</strong> (Total: 44)</summary>
+<summary id="tree"><strong>Tree</strong> (Total: 45)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5075,6 +5091,9 @@ Welcome to my LeetCode solutions repository!
 
 - **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **654. [Maximum Binary Tree](./654-maximum-binary-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **774. [Maximum Depth of N-ary Tree](./774-maximum-depth-of-n-ary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
