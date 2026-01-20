@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 510
+**Total Questions:** 513
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 259 |
-| <span style='color:orange'>Medium</span> | 220 |
-| <span style='color:red'>Hard</span> | 31 |
+| <span style='color:orange'>Medium</span> | 221 |
+| <span style='color:red'>Hard</span> | 33 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 278 |
+| [Array](#array) | 280 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 49 |
@@ -42,15 +42,15 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 15 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 55 |
+| [Dynamic Programming](#dynamic-programming) | 57 |
 | [Enumeration](#enumeration) | 7 |
 | [Game Theory](#game-theory) | 3 |
 | [Geometry](#geometry) | 1 |
 | [Graph Theory](#graph-theory) | 5 |
-| [Greedy](#greedy) | 31 |
+| [Greedy](#greedy) | 32 |
 | [Hash Function](#hash-function) | 4 |
 | [Hash Table](#hash-table) | 105 |
-| [Heap (Priority Queue)](#heap-(priority-queue)) | 16 |
+| [Heap (Priority Queue)](#heap-(priority-queue)) | 17 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
 | [Math](#math) | 92 |
@@ -71,9 +71,9 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 35 |
 | [Sliding Window](#sliding-window) | 36 |
-| [Sorting](#sorting) | 64 |
+| [Sorting](#sorting) | 65 |
 | [Stack](#stack) | 36 |
-| [String](#string) | 108 |
+| [String](#string) | 109 |
 | [String Matching](#string-matching) | 6 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
@@ -350,7 +350,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 220)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 221)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -376,6 +376,7 @@ Welcome to my LeetCode solutions repository!
 - **128. [Longest Consecutive Sequence](./128-longest-consecutive-sequence)**
 - **1284. [Four Divisors](./1284-four-divisors)**
 - **130. [Surrounded Regions](./130-surrounded-regions)**
+- **1304. [Longest Happy String](./1304-longest-happy-string)**
 - **131. [Palindrome Partitioning](./131-palindrome-partitioning)**
 - **1320. [Remove All Adjacent Duplicates in String II](./1320-remove-all-adjacent-duplicates-in-string-ii)**
 - **1321. [Get Equal Substrings Within Budget](./1321-get-equal-substrings-within-budget)**
@@ -575,7 +576,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 31)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 33)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -586,6 +587,7 @@ Welcome to my LeetCode solutions repository!
 - **1414. [Shortest Path in a Grid with Obstacles Elimination](./1414-shortest-path-in-a-grid-with-obstacles-elimination)**
 - **154. [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii)**
 - **1559. [Cherry Pickup II](./1559-cherry-pickup-ii)**
+- **1669. [Minimum Cost to Cut a Stick](./1669-minimum-cost-to-cut-a-stick)**
 - **188. [Best Time to Buy and Sell Stock IV](./188-best-time-to-buy-and-sell-stock-iv)**
 - **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**
 - **1918. [Maximum Score of a Good Subarray](./1918-maximum-score-of-a-good-subarray)**
@@ -595,6 +597,7 @@ Welcome to my LeetCode solutions repository!
 - **25. [Reverse Nodes in k-Group](./25-reverse-nodes-in-k-group)**
 - **2527. [Count Subarrays With Fixed Bounds](./2527-count-subarrays-with-fixed-bounds)**
 - **30. [Substring with Concatenation of All Words](./30-substring-with-concatenation-of-all-words)**
+- **312. [Burst Balloons](./312-burst-balloons)**
 - **37. [Sudoku Solver](./37-sudoku-solver)**
 - **4. [Median of Two Sorted Arrays](./4-median-of-two-sorted-arrays)**
 - **41. [First Missing Positive](./41-first-missing-positive)**
@@ -613,7 +616,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 278)</summary>
+<summary id="array"><strong>Array</strong> (Total: 280)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -806,6 +809,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1656. [Count Good Triplets](./1656-count-good-triplets)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1669. [Minimum Cost to Cut a Stick](./1669-minimum-cost-to-cut-a-stick)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **167. [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1082,6 +1088,9 @@ Welcome to my LeetCode solutions repository!
 
 - **31. [Next Permutation](./31-next-permutation)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **312. [Burst Balloons](./312-burst-balloons)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **3154. [Maximum Value of an Ordered Triplet I](./3154-maximum-value-of-an-ordered-triplet-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2558,7 +2567,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 55)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 57)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2611,6 +2620,9 @@ Welcome to my LeetCode solutions repository!
 - **1586. [Longest Subarray of 1's After Deleting One Element](./1586-longest-subarray-of-1s-after-deleting-one-element)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **1669. [Minimum Cost to Cut a Stick](./1669-minimum-cost-to-cut-a-stick)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **188. [Best Time to Buy and Sell Stock IV](./188-best-time-to-buy-and-sell-stock-iv)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
@@ -2637,6 +2649,9 @@ Welcome to my LeetCode solutions repository!
 
 - **300. [Longest Increasing Subsequence](./300-longest-increasing-subsequence)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **312. [Burst Balloons](./312-burst-balloons)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **322. [Coin Change](./322-coin-change)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2796,7 +2811,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 31)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 32)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2814,6 +2829,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **122. [Best Time to Buy and Sell Stock II](./122-best-time-to-buy-and-sell-stock-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1304. [Longest Happy String](./1304-longest-happy-string)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1329. [Minimum Cost to Move Chips to The Same Position](./1329-minimum-cost-to-move-chips-to-the-same-position)**  
@@ -3231,13 +3249,16 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="heap-(priority-queue)"><strong>Heap (Priority Queue)</strong> (Total: 16)</summary>
+<summary id="heap-(priority-queue)"><strong>Heap (Priority Queue)</strong> (Total: 17)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1127. [Last Stone Weight](./1127-last-stone-weight)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1304. [Longest Happy String](./1304-longest-happy-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4353,7 +4374,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 64)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 65)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4402,6 +4423,9 @@ Welcome to my LeetCode solutions repository!
 
 - **164. [Maximum Gap](./164-maximum-gap)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1669. [Minimum Cost to Cut a Stick](./1669-minimum-cost-to-cut-a-stick)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1675. [Magnetic Force Between Two Balls](./1675-magnetic-force-between-two-balls)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4663,7 +4687,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 108)</summary>
+<summary id="string"><strong>String</strong> (Total: 109)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4700,6 +4724,9 @@ Welcome to my LeetCode solutions repository!
 
 - **13. [Roman to Integer](./13-roman-to-integer)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1304. [Longest Happy String](./1304-longest-happy-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **131. [Palindrome Partitioning](./131-palindrome-partitioning)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
