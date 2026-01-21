@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 513
+**Total Questions:** 514
 
 ### Difficulty Distribution
 
@@ -16,7 +16,7 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 259 |
 | <span style='color:orange'>Medium</span> | 221 |
-| <span style='color:red'>Hard</span> | 33 |
+| <span style='color:red'>Hard</span> | 34 |
 
 ### Topics Overview
 
@@ -65,15 +65,15 @@ Welcome to my LeetCode solutions repository!
 | [Queue](#queue) | 7 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
-| [Recursion](#recursion) | 18 |
+| [Recursion](#recursion) | 19 |
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 35 |
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 65 |
-| [Stack](#stack) | 36 |
-| [String](#string) | 109 |
+| [Stack](#stack) | 37 |
+| [String](#string) | 110 |
 | [String Matching](#string-matching) | 6 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
@@ -576,13 +576,14 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 33)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 34)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**
 - **115. [Distinct Subsequences](./115-distinct-subsequences)**
 - **1170. [Shortest Common Supersequence ](./1170-shortest-common-supersequence)**
+- **1197. [Parsing A Boolean Expression](./1197-parsing-a-boolean-expression)**
 - **123. [Best Time to Buy and Sell Stock III](./123-best-time-to-buy-and-sell-stock-iii)**
 - **1414. [Shortest Path in a Grid with Obstacles Elimination](./1414-shortest-path-in-a-grid-with-obstacles-elimination)**
 - **154. [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii)**
@@ -4065,13 +4066,16 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="recursion"><strong>Recursion</strong> (Total: 18)</summary>
+<summary id="recursion"><strong>Recursion</strong> (Total: 19)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1197. [Parsing A Boolean Expression](./1197-parsing-a-boolean-expression)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **143. [Reorder List](./143-reorder-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4574,7 +4578,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="stack"><strong>Stack</strong> (Total: 36)</summary>
+<summary id="stack"><strong>Stack</strong> (Total: 37)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4584,6 +4588,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1159. [Smallest Subsequence of Distinct Characters](./1159-smallest-subsequence-of-distinct-characters)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1197. [Parsing A Boolean Expression](./1197-parsing-a-boolean-expression)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1320. [Remove All Adjacent Duplicates in String II](./1320-remove-all-adjacent-duplicates-in-string-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4687,7 +4694,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 109)</summary>
+<summary id="string"><strong>String</strong> (Total: 110)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4711,6 +4718,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1170. [Shortest Common Supersequence ](./1170-shortest-common-supersequence)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **1197. [Parsing A Boolean Expression](./1197-parsing-a-boolean-expression)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **12. [Integer to Roman](./12-integer-to-roman)**  
