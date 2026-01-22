@@ -1,1 +1,1 @@
-<h2>majority-element-ii Notes</h2><hr>[ Time taken: 9 s ]
+<h2>majority-element-ii Notes</h2><hr>[ Time taken: 6 m 6 s ]
