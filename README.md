@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 514
+**Total Questions:** 515
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 259 |
+| <span style='color:green'>Easy</span> | 260 |
 | <span style='color:orange'>Medium</span> | 221 |
 | <span style='color:red'>Hard</span> | 34 |
 
@@ -22,7 +22,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 280 |
+| [Array](#array) | 281 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 49 |
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 17 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
-| [Math](#math) | 92 |
+| [Math](#math) | 93 |
 | [Matrix](#matrix) | 37 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 259)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 260)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -204,6 +204,7 @@ Welcome to my LeetCode solutions repository!
 - **2598. [Shortest Distance to Target String in a Circular Array](./2598-shortest-distance-to-target-string-in-a-circular-array)**
 - **26. [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array)**
 - **2614. [Maximum Count of Positive Integer and Negative Integer](./2614-maximum-count-of-positive-integer-and-negative-integer)**
+- **2624. [Difference Between Element Sum and Digit Sum of an Array](./2624-difference-between-element-sum-and-digit-sum-of-an-array)**
 - **263. [Ugly Number](./263-ugly-number)**
 - **2630. [Alternating Digit Sum](./2630-alternating-digit-sum)**
 - **2634. [Minimum Common Value](./2634-minimum-common-value)**
@@ -617,7 +618,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 280)</summary>
+<summary id="array"><strong>Array</strong> (Total: 281)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1037,6 +1038,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2614. [Maximum Count of Positive Integer and Negative Integer](./2614-maximum-count-of-positive-integer-and-negative-integer)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2624. [Difference Between Element Sum and Digit Sum of an Array](./2624-difference-between-element-sum-and-digit-sum-of-an-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2626. [Count the Number of Good Subarrays](./2626-count-the-number-of-good-subarrays)**  
@@ -3406,7 +3410,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 92)</summary>
+<summary id="math"><strong>Math</strong> (Total: 93)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3524,6 +3528,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2624. [Difference Between Element Sum and Digit Sum of an Array](./2624-difference-between-element-sum-and-digit-sum-of-an-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **263. [Ugly Number](./263-ugly-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
