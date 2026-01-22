@@ -4,11 +4,14 @@ class Solution(object):
         :type strs: List[str]
         :rtype: str
         """
-        prefix = strs[0]
-        for word in strs:
-            j =0
-            while j<len(prefix) and j<len(word) and prefix[j]==word[j]: j+=1
-            prefix = prefix[:j]
-            if not prefix: return ""
-
+        if not strs:
+            return ""
+        
+        prefix = ""
+        for chars in zip(*strs): # Array got unpacked and zip matches based on index
+            if len(set(chars)) == 1:
+                prefix += chars[0]
+            else:
+                break
+                
         return prefix
