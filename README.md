@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 515
+**Total Questions:** 518
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 260 |
+| <span style='color:green'>Easy</span> | 263 |
 | <span style='color:orange'>Medium</span> | 221 |
 | <span style='color:red'>Hard</span> | 34 |
 
@@ -22,7 +22,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 281 |
+| [Array](#array) | 282 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 49 |
@@ -49,19 +49,19 @@ Welcome to my LeetCode solutions repository!
 | [Graph Theory](#graph-theory) | 5 |
 | [Greedy](#greedy) | 32 |
 | [Hash Function](#hash-function) | 4 |
-| [Hash Table](#hash-table) | 105 |
+| [Hash Table](#hash-table) | 106 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 17 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
-| [Math](#math) | 93 |
+| [Math](#math) | 95 |
 | [Matrix](#matrix) | 37 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
 | [Monotonic Stack](#monotonic-stack) | 13 |
-| [Number Theory](#number-theory) | 8 |
+| [Number Theory](#number-theory) | 9 |
 | [Ordered Set](#ordered-set) | 1 |
-| [Prefix Sum](#prefix-sum) | 31 |
+| [Prefix Sum](#prefix-sum) | 32 |
 | [Queue](#queue) | 7 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 260)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 263)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -165,6 +165,7 @@ Welcome to my LeetCode solutions repository!
 - **1970. [Sorting the Sentence](./1970-sorting-the-sentence)**
 - **1993. [Sum of All Subset XOR Totals](./1993-sum-of-all-subset-xor-totals)**
 - **20. [Valid Parentheses](./20-valid-parentheses)**
+- **2005. [Check if All the Integers in a Range Are Covered](./2005-check-if-all-the-integers-in-a-range-are-covered)**
 - **2010. [Check if Word Equals Summation of Two Words](./2010-check-if-word-equals-summation-of-two-words)**
 - **202. [Happy Number](./202-happy-number)**
 - **203. [Remove Linked List Elements](./203-remove-linked-list-elements)**
@@ -196,8 +197,10 @@ Welcome to my LeetCode solutions repository!
 - **242. [Valid Anagram](./242-valid-anagram)**
 - **2436. [Make Array Zero by Subtracting Equal Amounts](./2436-make-array-zero-by-subtracting-equal-amounts)**
 - **2486. [Most Frequent Even Element](./2486-most-frequent-even-element)**
+- **2491. [Smallest Even Multiple](./2491-smallest-even-multiple)**
 - **2532. [Remove Letter To Equalize Frequency](./2532-remove-letter-to-equalize-frequency)**
 - **2551. [Apply Operations to an Array](./2551-apply-operations-to-an-array)**
+- **2556. [Convert the Temperature](./2556-convert-the-temperature)**
 - **257. [Binary Tree Paths](./257-binary-tree-paths)**
 - **258. [Add Digits](./258-add-digits)**
 - **2580. [Circular Sentence](./2580-circular-sentence)**
@@ -618,7 +621,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 281)</summary>
+<summary id="array"><strong>Array</strong> (Total: 282)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -892,6 +895,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2000. [Minimum Speed to Arrive on Time](./2000-minimum-speed-to-arrive-on-time)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2005. [Check if All the Integers in a Range Are Covered](./2005-check-if-all-the-integers-in-a-range-are-covered)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **204. [Count Primes](./204-count-primes)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2934,7 +2940,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 105)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 106)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3018,6 +3024,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1873. [Longest Nice Substring](./1873-longest-nice-substring)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2005. [Check if All the Integers in a Range Are Covered](./2005-check-if-all-the-integers-in-a-range-are-covered)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **202. [Happy Number](./202-happy-number)**  
@@ -3410,7 +3419,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 93)</summary>
+<summary id="math"><strong>Math</strong> (Total: 95)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3517,8 +3526,14 @@ Welcome to my LeetCode solutions repository!
 - **2383. [Add Two Integers](./2383-add-two-integers)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **2491. [Smallest Even Multiple](./2491-smallest-even-multiple)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **2546. [Number of Subarrays With GCD Equal to K](./2546-number-of-subarrays-with-gcd-equal-to-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2556. [Convert the Temperature](./2556-convert-the-temperature)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2557. [Number of Subarrays With LCM Equal to K](./2557-number-of-subarrays-with-lcm-equal-to-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3890,7 +3905,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="number-theory"><strong>Number Theory</strong> (Total: 8)</summary>
+<summary id="number-theory"><strong>Number Theory</strong> (Total: 9)</summary>
 
 - **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3899,6 +3914,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2106. [Find Greatest Common Divisor of Array](./2106-find-greatest-common-divisor-of-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2491. [Smallest Even Multiple](./2491-smallest-even-multiple)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2546. [Number of Subarrays With GCD Equal to K](./2546-number-of-subarrays-with-gcd-equal-to-k)**  
@@ -3927,7 +3945,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 31)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 32)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3955,6 +3973,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1787. [Sum of Absolute Differences in a Sorted Array](./1787-sum-of-absolute-differences-in-a-sorted-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2005. [Check if All the Integers in a Range Are Covered](./2005-check-if-all-the-integers-in-a-range-are-covered)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **209. [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
