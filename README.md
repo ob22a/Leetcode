@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 518
+**Total Questions:** 519
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 263 |
+| <span style='color:green'>Easy</span> | 264 |
 | <span style='color:orange'>Medium</span> | 221 |
 | <span style='color:red'>Hard</span> | 34 |
 
@@ -22,13 +22,13 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 282 |
+| [Array](#array) | 283 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 49 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
 | [Binary Tree](#binary-tree) | 42 |
-| [Bit Manipulation](#bit-manipulation) | 27 |
+| [Bit Manipulation](#bit-manipulation) | 28 |
 | [Bitmask DP](#bitmask-dp) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 39 |
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 263)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 264)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -249,6 +249,7 @@ Welcome to my LeetCode solutions repository!
 - **3533. [Snake in Matrix](./3533-snake-in-matrix)**
 - **3581. [The Two Sneaky Numbers of Digitville](./3581-the-two-sneaky-numbers-of-digitville)**
 - **3600. [Find the K-th Character in String Game I](./3600-find-the-k-th-character-in-string-game-i)**
+- **3605. [Construct the Minimum Bitwise Array I](./3605-construct-the-minimum-bitwise-array-i)**
 - **3625. [Stone Removal Game](./3625-stone-removal-game)**
 - **3644. [Minimum Positive Sum Subarray ](./3644-minimum-positive-sum-subarray)**
 - **3656. [Minimum Number of Operations to Make Elements in Array Distinct](./3656-minimum-number-of-operations-to-make-elements-in-array-distinct)**
@@ -621,7 +622,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 282)</summary>
+<summary id="array"><strong>Array</strong> (Total: 283)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1162,6 +1163,9 @@ Welcome to my LeetCode solutions repository!
 
 - **36. [Valid Sudoku](./36-valid-sudoku)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3605. [Construct the Minimum Bitwise Array I](./3605-construct-the-minimum-bitwise-array-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3644. [Minimum Positive Sum Subarray ](./3644-minimum-positive-sum-subarray)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1881,7 +1885,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 27)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 28)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -1935,6 +1939,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3600. [Find the K-th Character in String Game I](./3600-find-the-k-th-character-in-string-game-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3605. [Construct the Minimum Bitwise Array I](./3605-construct-the-minimum-bitwise-array-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **389. [Find the Difference](./389-find-the-difference)**  
