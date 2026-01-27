@@ -1,6 +1,6 @@
 class Solution:
     def buildArray(self, nums: List[int]) -> List[int]:
-        arr = copy.deepcopy(nums)
+        arr = nums[:]
         n = len(nums)
 
         for idx in range(n):
