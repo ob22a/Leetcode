@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 520
+**Total Questions:** 521
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 265 |
+| <span style='color:green'>Easy</span> | 266 |
 | <span style='color:orange'>Medium</span> | 221 |
 | <span style='color:red'>Hard</span> | 34 |
 
@@ -73,7 +73,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 65 |
 | [Stack](#stack) | 37 |
-| [String](#string) | 110 |
+| [String](#string) | 111 |
 | [String Matching](#string-matching) | 6 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 265)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 266)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -230,6 +230,7 @@ Welcome to my LeetCode solutions repository!
 - **2998. [  Count Symmetric Integers](./2998-count-symmetric-integers)**
 - **303. [Range Sum Query - Immutable](./303-range-sum-query-immutable)**
 - **3154. [Maximum Value of an Ordered Triplet I](./3154-maximum-value-of-an-ordered-triplet-i)**
+- **3207. [Make Three Strings Equal](./3207-make-three-strings-equal)**
 - **3236. [Smallest Missing Integer Greater Than Sequential Prefix Sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum)**
 - **3242. [Count Elements With Maximum Frequency](./3242-count-elements-with-maximum-frequency)**
 - **326. [Power of Three](./326-power-of-three)**
@@ -4736,7 +4737,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 110)</summary>
+<summary id="string"><strong>String</strong> (Total: 111)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4902,6 +4903,9 @@ Welcome to my LeetCode solutions repository!
 
 - **316. [Remove Duplicate Letters](./316-remove-duplicate-letters)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3207. [Make Three Strings Equal](./3207-make-three-strings-equal)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3379. [Score of a String](./3379-score-of-a-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
