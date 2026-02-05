@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 520
+**Total Questions:** 521
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 266 |
-| <span style='color:orange'>Medium</span> | 220 |
+| <span style='color:orange'>Medium</span> | 221 |
 | <span style='color:red'>Hard</span> | 34 |
 
 ### Topics Overview
@@ -73,7 +73,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 65 |
 | [Stack](#stack) | 37 |
-| [String](#string) | 110 |
+| [String](#string) | 111 |
 | [String Matching](#string-matching) | 6 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
@@ -357,7 +357,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 220)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 221)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -536,6 +536,7 @@ Welcome to my LeetCode solutions repository!
 - **57. [Insert Interval](./57-insert-interval)**
 - **583. [Delete Operation for Two Strings](./583-delete-operation-for-two-strings)**
 - **59. [Spiral Matrix II](./59-spiral-matrix-ii)**
+- **6. [Zigzag Conversion](./6-zigzag-conversion)**
 - **61. [Rotate List](./61-rotate-list)**
 - **62. [Unique Paths](./62-unique-paths)**
 - **621. [Task Scheduler](./621-task-scheduler)**
@@ -4736,7 +4737,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 110)</summary>
+<summary id="string"><strong>String</strong> (Total: 111)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5019,6 +5020,9 @@ Welcome to my LeetCode solutions repository!
 
 - **599. [Minimum Index Sum of Two Lists](./599-minimum-index-sum-of-two-lists)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **6. [Zigzag Conversion](./6-zigzag-conversion)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **67. [Add Binary](./67-add-binary)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
