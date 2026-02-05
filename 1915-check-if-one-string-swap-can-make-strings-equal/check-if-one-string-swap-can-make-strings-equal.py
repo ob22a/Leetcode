@@ -4,21 +4,8 @@ class Solution:
             return True
 
         count = 0
-        d1 = {}
-        d2 = {}
-        
-        for char in s1:
-            if char not in d1:
-                d1[char]=1
-            else: d1[char]+=1
 
-        for char in s2:
-            if char not in d2:
-                d2[char]=1
-            else: 
-                d2[char]+=1
-
-        if d1!=d2:
+        if Counter(s1)!=Counter(s2):
             return False
         
         for char1,char2 in zip(s1,s2):
