@@ -8,8 +8,8 @@ class Solution:
         if Counter(s1)!=Counter(s2):
             return False
         
-        for char1,char2 in zip(s1,s2):
-            if not char1==char2:
+        for idx in range(len(s1)):
+            if not s1[idx]==s2[idx]:
                 count+=1
         
         return count==2
