@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 521
+**Total Questions:** 522
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 266 |
+| <span style='color:green'>Easy</span> | 267 |
 | <span style='color:orange'>Medium</span> | 221 |
 | <span style='color:red'>Hard</span> | 34 |
 
@@ -22,7 +22,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 284 |
+| [Array](#array) | 285 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 49 |
@@ -34,7 +34,7 @@ Welcome to my LeetCode solutions repository!
 | [Breadth-First Search](#breadth-first-search) | 39 |
 | [Bucket Sort](#bucket-sort) | 3 |
 | [Combinatorics](#combinatorics) | 2 |
-| [Counting](#counting) | 27 |
+| [Counting](#counting) | 28 |
 | [Counting Sort](#counting-sort) | 3 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 13 |
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 17 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
-| [Math](#math) | 95 |
+| [Math](#math) | 94 |
 | [Matrix](#matrix) | 37 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -69,11 +69,11 @@ Welcome to my LeetCode solutions repository!
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
-| [Simulation](#simulation) | 36 |
+| [Simulation](#simulation) | 37 |
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 65 |
 | [Stack](#stack) | 37 |
-| [String](#string) | 111 |
+| [String](#string) | 112 |
 | [String Matching](#string-matching) | 6 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 266)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 267)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -126,7 +126,6 @@ Welcome to my LeetCode solutions repository!
 - **1448. [Maximum 69 Number](./1448-maximum-69-number)**
 - **145. [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal)**
 - **1468. [Check If N and Its Double Exist](./1468-check-if-n-and-its-double-exist)**
-- **1500. [Count Largest Group](./1500-count-largest-group)**
 - **1510. [Find Lucky Integer in an Array](./1510-find-lucky-integer-in-an-array)**
 - **1519. [Minimum Subsequence in Non-Increasing Order](./1519-minimum-subsequence-in-non-increasing-order)**
 - **160. [Intersection of Two Linked Lists](./160-intersection-of-two-linked-lists)**
@@ -158,6 +157,7 @@ Welcome to my LeetCode solutions repository!
 - **190. [Reverse Bits](./190-reverse-bits)**
 - **1908. [Recyclable and Low Fat Products](./1908-recyclable-and-low-fat-products)**
 - **191. [Number of 1 Bits](./191-number-of-1-bits)**
+- **1915. [Check if One String Swap Can Make Strings Equal](./1915-check-if-one-string-swap-can-make-strings-equal)**
 - **1916. [Find Center of Star Graph](./1916-find-center-of-star-graph)**
 - **1920. [Determine Color of a Chessboard Square](./1920-determine-color-of-a-chessboard-square)**
 - **196. [Delete Duplicate Emails](./196-delete-duplicate-emails)**
@@ -254,6 +254,7 @@ Welcome to my LeetCode solutions repository!
 - **3605. [Construct the Minimum Bitwise Array I](./3605-construct-the-minimum-bitwise-array-i)**
 - **3625. [Stone Removal Game](./3625-stone-removal-game)**
 - **3644. [Minimum Positive Sum Subarray ](./3644-minimum-positive-sum-subarray)**
+- **3651. [Transformed Array](./3651-transformed-array)**
 - **3656. [Minimum Number of Operations to Make Elements in Array Distinct](./3656-minimum-number-of-operations-to-make-elements-in-array-distinct)**
 - **367. [Valid Perfect Square](./367-valid-perfect-square)**
 - **3736. [Find Valid Pair of Adjacent Digits in String](./3736-find-valid-pair-of-adjacent-digits-in-string)**
@@ -624,7 +625,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 284)</summary>
+<summary id="array"><strong>Array</strong> (Total: 285)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1173,6 +1174,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3644. [Minimum Positive Sum Subarray ](./3644-minimum-positive-sum-subarray)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3651. [Transformed Array](./3651-transformed-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3656. [Minimum Number of Operations to Make Elements in Array Distinct](./3656-minimum-number-of-operations-to-make-elements-in-array-distinct)**  
@@ -2148,7 +2152,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="counting"><strong>Counting</strong> (Total: 27)</summary>
+<summary id="counting"><strong>Counting</strong> (Total: 28)</summary>
 
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2169,6 +2173,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1848. [Sum of Unique Elements](./1848-sum-of-unique-elements)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1915. [Check if One String Swap Can Make Strings Equal](./1915-check-if-one-string-swap-can-make-strings-equal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **229. [Majority Element II](./229-majority-element-ii)**  
@@ -3008,9 +3015,6 @@ Welcome to my LeetCode solutions repository!
 - **1468. [Check If N and Its Double Exist](./1468-check-if-n-and-its-double-exist)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
-- **1500. [Count Largest Group](./1500-count-largest-group)**  
-  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
-
 - **1510. [Find Lucky Integer in an Array](./1510-find-lucky-integer-in-an-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -3036,6 +3040,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1873. [Longest Nice Substring](./1873-longest-nice-substring)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1915. [Check if One String Swap Can Make Strings Equal](./1915-check-if-one-string-swap-can-make-strings-equal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2005. [Check if All the Integers in a Range Are Covered](./2005-check-if-all-the-integers-in-a-range-are-covered)**  
@@ -3431,7 +3438,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 95)</summary>
+<summary id="math"><strong>Math</strong> (Total: 94)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3477,9 +3484,6 @@ Welcome to my LeetCode solutions repository!
 
 - **150. [Evaluate Reverse Polish Notation](./150-evaluate-reverse-polish-notation)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
-
-- **1500. [Count Largest Group](./1500-count-largest-group)**  
-  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1642. [Water Bottles](./1642-water-bottles)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4195,7 +4199,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 36)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 37)</summary>
 
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4261,6 +4265,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3625. [Stone Removal Game](./3625-stone-removal-game)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3651. [Transformed Array](./3651-transformed-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3811. [Reverse Degree of a String](./3811-reverse-degree-of-a-string)**  
@@ -4737,7 +4744,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 111)</summary>
+<summary id="string"><strong>String</strong> (Total: 112)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4824,6 +4831,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1894. [Merge Strings Alternately](./1894-merge-strings-alternately)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1915. [Check if One String Swap Can Make Strings Equal](./1915-check-if-one-string-swap-can-make-strings-equal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1920. [Determine Color of a Chessboard Square](./1920-determine-color-of-a-chessboard-square)**  
