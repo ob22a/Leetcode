@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 522
+**Total Questions:** 525
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 267 |
+| <span style='color:green'>Easy</span> | 270 |
 | <span style='color:orange'>Medium</span> | 221 |
 | <span style='color:red'>Hard</span> | 34 |
 
@@ -22,7 +22,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 285 |
+| [Array](#array) | 287 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 49 |
@@ -35,7 +35,7 @@ Welcome to my LeetCode solutions repository!
 | [Bucket Sort](#bucket-sort) | 3 |
 | [Combinatorics](#combinatorics) | 2 |
 | [Counting](#counting) | 28 |
-| [Counting Sort](#counting-sort) | 3 |
+| [Counting Sort](#counting-sort) | 4 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 13 |
 | [Depth-First Search](#depth-first-search) | 50 |
@@ -49,11 +49,11 @@ Welcome to my LeetCode solutions repository!
 | [Graph Theory](#graph-theory) | 5 |
 | [Greedy](#greedy) | 32 |
 | [Hash Function](#hash-function) | 4 |
-| [Hash Table](#hash-table) | 106 |
+| [Hash Table](#hash-table) | 108 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 17 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
-| [Math](#math) | 94 |
+| [Math](#math) | 95 |
 | [Matrix](#matrix) | 37 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -69,9 +69,9 @@ Welcome to my LeetCode solutions repository!
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
-| [Simulation](#simulation) | 37 |
+| [Simulation](#simulation) | 38 |
 | [Sliding Window](#sliding-window) | 36 |
-| [Sorting](#sorting) | 65 |
+| [Sorting](#sorting) | 66 |
 | [Stack](#stack) | 37 |
 | [String](#string) | 112 |
 | [String Matching](#string-matching) | 6 |
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 267)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 270)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -126,6 +126,8 @@ Welcome to my LeetCode solutions repository!
 - **1448. [Maximum 69 Number](./1448-maximum-69-number)**
 - **145. [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal)**
 - **1468. [Check If N and Its Double Exist](./1468-check-if-n-and-its-double-exist)**
+- **1482. [How Many Numbers Are Smaller Than the Current Number](./1482-how-many-numbers-are-smaller-than-the-current-number)**
+- **1500. [Count Largest Group](./1500-count-largest-group)**
 - **1510. [Find Lucky Integer in an Array](./1510-find-lucky-integer-in-an-array)**
 - **1519. [Minimum Subsequence in Non-Increasing Order](./1519-minimum-subsequence-in-non-increasing-order)**
 - **160. [Intersection of Two Linked Lists](./160-intersection-of-two-linked-lists)**
@@ -171,6 +173,7 @@ Welcome to my LeetCode solutions repository!
 - **203. [Remove Linked List Elements](./203-remove-linked-list-elements)**
 - **2048. [Build Array from Permutation](./2048-build-array-from-permutation)**
 - **205. [Isomorphic Strings](./205-isomorphic-strings)**
+- **2058. [Concatenation of Array](./2058-concatenation-of-array)**
 - **206. [Reverse Linked List](./206-reverse-linked-list)**
 - **21. [Merge Two Sorted Lists](./21-merge-two-sorted-lists)**
 - **2106. [Find Greatest Common Divisor of Array](./2106-find-greatest-common-divisor-of-array)**
@@ -625,7 +628,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 285)</summary>
+<summary id="array"><strong>Array</strong> (Total: 287)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -761,6 +764,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1477. [Product of the Last K Numbers](./1477-product-of-the-last-k-numbers)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1482. [How Many Numbers Are Smaller Than the Current Number](./1482-how-many-numbers-are-smaller-than-the-current-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1497. [Design a Stack With Increment Operation](./1497-design-a-stack-with-increment-operation)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -910,6 +916,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2048. [Build Array from Permutation](./2048-build-array-from-permutation)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2058. [Concatenation of Array](./2058-concatenation-of-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **209. [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum)**  
@@ -2241,7 +2250,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="counting-sort"><strong>Counting Sort</strong> (Total: 3)</summary>
+<summary id="counting-sort"><strong>Counting Sort</strong> (Total: 4)</summary>
+
+- **1482. [How Many Numbers Are Smaller Than the Current Number](./1482-how-many-numbers-are-smaller-than-the-current-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **274. [H-Index](./274-h-index)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2959,7 +2971,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 106)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 108)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3013,6 +3025,12 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1468. [Check If N and Its Double Exist](./1468-check-if-n-and-its-double-exist)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1482. [How Many Numbers Are Smaller Than the Current Number](./1482-how-many-numbers-are-smaller-than-the-current-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1500. [Count Largest Group](./1500-count-largest-group)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1510. [Find Lucky Integer in an Array](./1510-find-lucky-integer-in-an-array)**  
@@ -3438,7 +3456,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 94)</summary>
+<summary id="math"><strong>Math</strong> (Total: 95)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3484,6 +3502,9 @@ Welcome to my LeetCode solutions repository!
 
 - **150. [Evaluate Reverse Polish Notation](./150-evaluate-reverse-polish-notation)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1500. [Count Largest Group](./1500-count-largest-group)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1642. [Water Bottles](./1642-water-bottles)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4199,7 +4220,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 37)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 38)</summary>
 
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4217,6 +4238,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2048. [Build Array from Permutation](./2048-build-array-from-permutation)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2058. [Concatenation of Array](./2058-concatenation-of-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2137. [Final Value of Variable After Performing Operations](./2137-final-value-of-variable-after-performing-operations)**  
@@ -4428,7 +4452,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 65)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 66)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4459,6 +4483,9 @@ Welcome to my LeetCode solutions repository!
 
 - **148. [Sort List](./148-sort-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1482. [How Many Numbers Are Smaller Than the Current Number](./1482-how-many-numbers-are-smaller-than-the-current-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **15. [3Sum](./15-3sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
