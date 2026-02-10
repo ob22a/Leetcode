@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 525
+**Total Questions:** 526
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 270 |
-| <span style='color:orange'>Medium</span> | 221 |
+| <span style='color:orange'>Medium</span> | 222 |
 | <span style='color:red'>Hard</span> | 34 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 287 |
+| [Array](#array) | 288 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 49 |
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 17 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
-| [Math](#math) | 95 |
+| [Math](#math) | 96 |
 | [Matrix](#matrix) | 37 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -361,7 +361,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 221)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 222)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -565,6 +565,7 @@ Welcome to my LeetCode solutions repository!
 - **77. [Combinations](./77-combinations)**
 - **78. [Subsets](./78-subsets)**
 - **79. [Word Search](./79-word-search)**
+- **805. [Escape The Ghosts](./805-escape-the-ghosts)**
 - **81. [Search in Rotated Sorted Array II](./81-search-in-rotated-sorted-array-ii)**
 - **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**
 - **838. [Design Linked List](./838-design-linked-list)**
@@ -628,7 +629,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 287)</summary>
+<summary id="array"><strong>Array</strong> (Total: 288)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1412,6 +1413,9 @@ Welcome to my LeetCode solutions repository!
 
 - **792. [Binary Search](./792-binary-search)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **805. [Escape The Ghosts](./805-escape-the-ghosts)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **81. [Search in Rotated Sorted Array II](./81-search-in-rotated-sorted-array-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3456,7 +3460,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 95)</summary>
+<summary id="math"><strong>Math</strong> (Total: 96)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3727,6 +3731,9 @@ Welcome to my LeetCode solutions repository!
 
 - **728. [Self Dividing Numbers](./728-self-dividing-numbers)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **805. [Escape The Ghosts](./805-escape-the-ghosts)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **89. [Gray Code](./89-gray-code)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
