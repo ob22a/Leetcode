@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 526
+**Total Questions:** 527
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 270 |
-| <span style='color:orange'>Medium</span> | 222 |
+| <span style='color:orange'>Medium</span> | 223 |
 | <span style='color:red'>Hard</span> | 34 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 288 |
+| [Array](#array) | 289 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 49 |
@@ -49,7 +49,7 @@ Welcome to my LeetCode solutions repository!
 | [Graph Theory](#graph-theory) | 5 |
 | [Greedy](#greedy) | 32 |
 | [Hash Function](#hash-function) | 4 |
-| [Hash Table](#hash-table) | 108 |
+| [Hash Table](#hash-table) | 109 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 17 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
@@ -69,7 +69,7 @@ Welcome to my LeetCode solutions repository!
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
-| [Simulation](#simulation) | 38 |
+| [Simulation](#simulation) | 39 |
 | [Sliding Window](#sliding-window) | 36 |
 | [Sorting](#sorting) | 66 |
 | [Stack](#stack) | 37 |
@@ -361,7 +361,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 222)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 223)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -492,6 +492,7 @@ Welcome to my LeetCode solutions repository!
 - **3234. [Double Modular Exponentiation](./3234-double-modular-exponentiation)**
 - **33. [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array)**
 - **34. [Find First and Last Position of Element in Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array)**
+- **3434. [Find the Number of Distinct Colors Among the Balls](./3434-find-the-number-of-distinct-colors-among-the-balls)**
 - **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**
 - **355. [Design Twitter](./355-design-twitter)**
 - **3558. [Find a Safe Walk Through a Grid](./3558-find-a-safe-walk-through-a-grid)**
@@ -629,7 +630,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 288)</summary>
+<summary id="array"><strong>Array</strong> (Total: 289)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1151,6 +1152,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **34. [Find First and Last Position of Element in Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3434. [Find the Number of Distinct Colors Among the Balls](./3434-find-the-number-of-distinct-colors-among-the-balls)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
@@ -2975,7 +2979,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 108)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 109)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3162,6 +3166,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3242. [Count Elements With Maximum Frequency](./3242-count-elements-with-maximum-frequency)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3434. [Find the Number of Distinct Colors Among the Balls](./3434-find-the-number-of-distinct-colors-among-the-balls)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4227,7 +4234,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 38)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 39)</summary>
 
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4284,6 +4291,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3234. [Double Modular Exponentiation](./3234-double-modular-exponentiation)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3434. [Find the Number of Distinct Colors Among the Balls](./3434-find-the-number-of-distinct-colors-among-the-balls)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3450. [Find the Child Who Has the Ball After K Seconds](./3450-find-the-child-who-has-the-ball-after-k-seconds)**  
