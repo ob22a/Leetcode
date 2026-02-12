@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 527
+**Total Questions:** 529
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 270 |
+| <span style='color:green'>Easy</span> | 272 |
 | <span style='color:orange'>Medium</span> | 223 |
 | <span style='color:red'>Hard</span> | 34 |
 
@@ -22,7 +22,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 289 |
+| [Array](#array) | 291 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 49 |
@@ -35,7 +35,7 @@ Welcome to my LeetCode solutions repository!
 | [Bucket Sort](#bucket-sort) | 3 |
 | [Combinatorics](#combinatorics) | 2 |
 | [Counting](#counting) | 28 |
-| [Counting Sort](#counting-sort) | 4 |
+| [Counting Sort](#counting-sort) | 5 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 13 |
 | [Depth-First Search](#depth-first-search) | 50 |
@@ -47,7 +47,7 @@ Welcome to my LeetCode solutions repository!
 | [Game Theory](#game-theory) | 3 |
 | [Geometry](#geometry) | 1 |
 | [Graph Theory](#graph-theory) | 5 |
-| [Greedy](#greedy) | 32 |
+| [Greedy](#greedy) | 33 |
 | [Hash Function](#hash-function) | 4 |
 | [Hash Table](#hash-table) | 109 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 17 |
@@ -71,9 +71,9 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 39 |
 | [Sliding Window](#sliding-window) | 36 |
-| [Sorting](#sorting) | 66 |
+| [Sorting](#sorting) | 67 |
 | [Stack](#stack) | 37 |
-| [String](#string) | 112 |
+| [String](#string) | 113 |
 | [String Matching](#string-matching) | 6 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 270)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 272)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -135,6 +135,7 @@ Welcome to my LeetCode solutions repository!
 - **1625. [Group Sold Products By The Date](./1625-group-sold-products-by-the-date)**
 - **1642. [Water Bottles](./1642-water-bottles)**
 - **1646. [Kth Missing Positive Number](./1646-kth-missing-positive-number)**
+- **1651. [Shuffle String](./1651-shuffle-string)**
 - **1656. [Count Good Triplets](./1656-count-good-triplets)**
 - **1677. [Matrix Diagonal Sum](./1677-matrix-diagonal-sum)**
 - **168. [Excel Sheet Column Title](./168-excel-sheet-column-title)**
@@ -180,6 +181,7 @@ Welcome to my LeetCode solutions repository!
 - **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**
 - **2137. [Final Value of Variable After Performing Operations](./2137-final-value-of-variable-after-performing-operations)**
 - **2144. [Maximum Difference Between Increasing Elements](./2144-maximum-difference-between-increasing-elements)**
+- **2148. [Minimum Number of Moves to Seat Everyone](./2148-minimum-number-of-moves-to-seat-everyone)**
 - **217. [Contains Duplicate](./217-contains-duplicate)**
 - **219. [Contains Duplicate II](./219-contains-duplicate-ii)**
 - **222. [Count Complete Tree Nodes](./222-count-complete-tree-nodes)**
@@ -630,7 +632,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 289)</summary>
+<summary id="array"><strong>Array</strong> (Total: 291)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -824,6 +826,9 @@ Welcome to my LeetCode solutions repository!
 - **1646. [Kth Missing Positive Number](./1646-kth-missing-positive-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **1651. [Shuffle String](./1651-shuffle-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **1656. [Count Good Triplets](./1656-count-good-triplets)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -939,6 +944,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2144. [Maximum Difference Between Increasing Elements](./2144-maximum-difference-between-increasing-elements)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2148. [Minimum Number of Moves to Seat Everyone](./2148-minimum-number-of-moves-to-seat-everyone)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**  
@@ -2258,9 +2266,12 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="counting-sort"><strong>Counting Sort</strong> (Total: 4)</summary>
+<summary id="counting-sort"><strong>Counting Sort</strong> (Total: 5)</summary>
 
 - **1482. [How Many Numbers Are Smaller Than the Current Number](./1482-how-many-numbers-are-smaller-than-the-current-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2148. [Minimum Number of Moves to Seat Everyone](./2148-minimum-number-of-moves-to-seat-everyone)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **274. [H-Index](./274-h-index)**  
@@ -2861,7 +2872,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 32)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 33)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2897,6 +2908,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1829. [Maximum Units on a Truck](./1829-maximum-units-on-a-truck)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2148. [Minimum Number of Moves to Seat Everyone](./2148-minimum-number-of-moves-to-seat-everyone)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2245. [Destroying Asteroids](./2245-destroying-asteroids)**  
@@ -4469,7 +4483,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 66)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 67)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4541,6 +4555,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1970. [Sorting the Sentence](./1970-sorting-the-sentence)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2148. [Minimum Number of Moves to Seat Everyone](./2148-minimum-number-of-moves-to-seat-everyone)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**  
@@ -4788,7 +4805,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 112)</summary>
+<summary id="string"><strong>String</strong> (Total: 113)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4852,6 +4869,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1567. [Maximum Number of Vowels in a Substring of Given Length](./1567-maximum-number-of-vowels-in-a-substring-of-given-length)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1651. [Shuffle String](./1651-shuffle-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **168. [Excel Sheet Column Title](./168-excel-sheet-column-title)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
