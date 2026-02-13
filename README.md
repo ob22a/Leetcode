@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 529
+**Total Questions:** 531
 
 ### Difficulty Distribution
 
@@ -14,15 +14,15 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 272 |
-| <span style='color:orange'>Medium</span> | 223 |
+| <span style='color:green'>Easy</span> | 273 |
+| <span style='color:orange'>Medium</span> | 224 |
 | <span style='color:red'>Hard</span> | 34 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 291 |
+| [Array](#array) | 293 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 49 |
@@ -49,12 +49,12 @@ Welcome to my LeetCode solutions repository!
 | [Graph Theory](#graph-theory) | 5 |
 | [Greedy](#greedy) | 33 |
 | [Hash Function](#hash-function) | 4 |
-| [Hash Table](#hash-table) | 109 |
+| [Hash Table](#hash-table) | 110 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 17 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
-| [Math](#math) | 96 |
-| [Matrix](#matrix) | 37 |
+| [Math](#math) | 97 |
+| [Matrix](#matrix) | 38 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 272)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 273)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -320,6 +320,7 @@ Welcome to my LeetCode solutions repository!
 - **643. [Maximum Average Subarray I](./643-maximum-average-subarray-i)**
 - **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**
 - **66. [Plus One](./66-plus-one)**
+- **661. [Image Smoother](./661-image-smoother)**
 - **67. [Add Binary](./67-add-binary)**
 - **674. [Longest Continuous Increasing Subsequence](./674-longest-continuous-increasing-subsequence)**
 - **682. [Baseball Game](./682-baseball-game)**
@@ -363,7 +364,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 223)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 224)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -513,6 +514,7 @@ Welcome to my LeetCode solutions repository!
 - **43. [Multiply Strings](./43-multiply-strings)**
 - **438. [Find All Anagrams in a String](./438-find-all-anagrams-in-a-string)**
 - **442. [Find All Duplicates in an Array](./442-find-all-duplicates-in-an-array)**
+- **447. [Number of Boomerangs](./447-number-of-boomerangs)**
 - **45. [Jump Game II](./45-jump-game-ii)**
 - **450. [Delete Node in a BST](./450-delete-node-in-a-bst)**
 - **457. [Circular Array Loop](./457-circular-array-loop)**
@@ -632,7 +634,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 291)</summary>
+<summary id="array"><strong>Array</strong> (Total: 293)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1249,6 +1251,9 @@ Welcome to my LeetCode solutions repository!
 - **442. [Find All Duplicates in an Array](./442-find-all-duplicates-in-an-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **447. [Number of Boomerangs](./447-number-of-boomerangs)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **448. [Find All Numbers Disappeared in an Array](./448-find-all-numbers-disappeared-in-an-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -1379,6 +1384,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **66. [Plus One](./66-plus-one)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **661. [Image Smoother](./661-image-smoother)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **673. [Number of Longest Increasing Subsequence](./673-number-of-longest-increasing-subsequence)**  
@@ -2993,7 +3001,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 109)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 110)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3244,6 +3252,9 @@ Welcome to my LeetCode solutions repository!
 - **442. [Find All Duplicates in an Array](./442-find-all-duplicates-in-an-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **447. [Number of Boomerangs](./447-number-of-boomerangs)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **448. [Find All Numbers Disappeared in an Array](./448-find-all-numbers-disappeared-in-an-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -3481,7 +3492,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 96)</summary>
+<summary id="math"><strong>Math</strong> (Total: 97)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3696,6 +3707,9 @@ Welcome to my LeetCode solutions repository!
 - **441. [Arranging Coins](./441-arranging-coins)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **447. [Number of Boomerangs](./447-number-of-boomerangs)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **48. [Rotate Image](./48-rotate-image)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -3774,7 +3788,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 37)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 38)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3865,6 +3879,9 @@ Welcome to my LeetCode solutions repository!
 
 - **64. [Minimum Path Sum](./64-minimum-path-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **661. [Image Smoother](./661-image-smoother)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **695. [Max Area of Island](./695-max-area-of-island)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
