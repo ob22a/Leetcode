@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 531
+**Total Questions:** 532
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 273 |
-| <span style='color:orange'>Medium</span> | 224 |
+| <span style='color:orange'>Medium</span> | 225 |
 | <span style='color:red'>Hard</span> | 34 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 293 |
+| [Array](#array) | 294 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 49 |
@@ -50,11 +50,11 @@ Welcome to my LeetCode solutions repository!
 | [Greedy](#greedy) | 33 |
 | [Hash Function](#hash-function) | 4 |
 | [Hash Table](#hash-table) | 110 |
-| [Heap (Priority Queue)](#heap-(priority-queue)) | 17 |
+| [Heap (Priority Queue)](#heap-(priority-queue)) | 18 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
 | [Math](#math) | 97 |
-| [Matrix](#matrix) | 38 |
+| [Matrix](#matrix) | 39 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
@@ -69,9 +69,9 @@ Welcome to my LeetCode solutions repository!
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
-| [Simulation](#simulation) | 39 |
+| [Simulation](#simulation) | 40 |
 | [Sliding Window](#sliding-window) | 36 |
-| [Sorting](#sorting) | 67 |
+| [Sorting](#sorting) | 68 |
 | [Stack](#stack) | 37 |
 | [String](#string) | 113 |
 | [String Matching](#string-matching) | 6 |
@@ -364,7 +364,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 224)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 225)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -480,6 +480,7 @@ Welcome to my LeetCode solutions repository!
 - **2626. [Count the Number of Good Subarrays](./2626-count-the-number-of-good-subarrays)**
 - **264. [Ugly Number II](./264-ugly-number-ii)**
 - **2721. [Sum of Distances](./2721-sum-of-distances)**
+- **2728. [Sum in a Matrix](./2728-sum-in-a-matrix)**
 - **274. [H-Index](./274-h-index)**
 - **2751. [Sliding Subarray Beauty](./2751-sliding-subarray-beauty)**
 - **2871. [Double a Number Represented as a Linked List](./2871-double-a-number-represented-as-a-linked-list)**
@@ -634,7 +635,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 293)</summary>
+<summary id="array"><strong>Array</strong> (Total: 294)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1096,6 +1097,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2721. [Sum of Distances](./2721-sum-of-distances)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2728. [Sum in a Matrix](./2728-sum-in-a-matrix)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **274. [H-Index](./274-h-index)**  
@@ -3336,7 +3340,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="heap-(priority-queue)"><strong>Heap (Priority Queue)</strong> (Total: 17)</summary>
+<summary id="heap-(priority-queue)"><strong>Heap (Priority Queue)</strong> (Total: 18)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3363,6 +3367,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **264. [Ugly Number II](./264-ugly-number-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2728. [Sum in a Matrix](./2728-sum-in-a-matrix)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
@@ -3788,7 +3795,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 38)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 39)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3836,6 +3843,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **240. [Search a 2D Matrix II](./240-search-a-2d-matrix-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2728. [Sum in a Matrix](./2728-sum-in-a-matrix)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **304. [Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable)**  
@@ -4265,7 +4275,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 39)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 40)</summary>
 
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4317,6 +4327,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2684. [Determine the Winner of a Bowling Game](./2684-determine-the-winner-of-a-bowling-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2728. [Sum in a Matrix](./2728-sum-in-a-matrix)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2791. [Find the Losers of the Circular Game](./2791-find-the-losers-of-the-circular-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4500,7 +4513,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 67)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 68)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4606,6 +4619,9 @@ Welcome to my LeetCode solutions repository!
 
 - **268. [Missing Number](./268-missing-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2728. [Sum in a Matrix](./2728-sum-in-a-matrix)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **274. [H-Index](./274-h-index)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
