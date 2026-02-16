@@ -2,11 +2,19 @@ class Solution:
     def maximumStrongPairXor(self, nums: List[int]) -> int:
         # diff is smaller than min
         n = len(nums)
+        nums.sort()
+
         sol = 0
-        
-        for idx1 in range(n):
-            for idx2 in range(idx1,n):
-                if abs(nums[idx1]-nums[idx2])<=min(nums[idx1],nums[idx2]):
-                    sol = max(sol,nums[idx1]^nums[idx2])
+
+        l = 0
+        r = 0
+
+        while r<n:
+            if nums[r]-nums[l]>nums[l]:
+                l+=1
+                continue
+            for i in range(l,r):
+                sol = max(sol,nums[i]^nums[r])
+            r+=1
 
         return sol
