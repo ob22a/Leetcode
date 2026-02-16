@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 532
+**Total Questions:** 535
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 273 |
+| <span style='color:green'>Easy</span> | 276 |
 | <span style='color:orange'>Medium</span> | 225 |
 | <span style='color:red'>Hard</span> | 34 |
 
@@ -22,13 +22,13 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 294 |
+| [Array](#array) | 295 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 49 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
 | [Binary Tree](#binary-tree) | 42 |
-| [Bit Manipulation](#bit-manipulation) | 28 |
+| [Bit Manipulation](#bit-manipulation) | 29 |
 | [Bitmask](#bitmask) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 39 |
@@ -47,13 +47,13 @@ Welcome to my LeetCode solutions repository!
 | [Game Theory](#game-theory) | 3 |
 | [Geometry](#geometry) | 1 |
 | [Graph Theory](#graph-theory) | 5 |
-| [Greedy](#greedy) | 33 |
+| [Greedy](#greedy) | 34 |
 | [Hash Function](#hash-function) | 4 |
-| [Hash Table](#hash-table) | 110 |
+| [Hash Table](#hash-table) | 111 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 18 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
-| [Math](#math) | 97 |
+| [Math](#math) | 98 |
 | [Matrix](#matrix) | 39 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -70,15 +70,15 @@ Welcome to my LeetCode solutions repository!
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 40 |
-| [Sliding Window](#sliding-window) | 36 |
+| [Sliding Window](#sliding-window) | 37 |
 | [Sorting](#sorting) | 68 |
 | [Stack](#stack) | 37 |
-| [String](#string) | 113 |
+| [String](#string) | 115 |
 | [String Matching](#string-matching) | 6 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
-| [Trie](#trie) | 4 |
-| [Two Pointers](#two-pointers) | 69 |
+| [Trie](#trie) | 5 |
+| [Two Pointers](#two-pointers) | 70 |
 | [Union-Find](#union-find) | 6 |
 
 ---
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 273)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 276)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -235,6 +235,7 @@ Welcome to my LeetCode solutions repository!
 - **2998. [  Count Symmetric Integers](./2998-count-symmetric-integers)**
 - **303. [Range Sum Query - Immutable](./303-range-sum-query-immutable)**
 - **3154. [Maximum Value of an Ordered Triplet I](./3154-maximum-value-of-an-ordered-triplet-i)**
+- **3193. [Maximum Strong Pair XOR I](./3193-maximum-strong-pair-xor-i)**
 - **3207. [Make Three Strings Equal](./3207-make-three-strings-equal)**
 - **3236. [Smallest Missing Integer Greater Than Sequential Prefix Sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum)**
 - **3242. [Count Elements With Maximum Frequency](./3242-count-elements-with-maximum-frequency)**
@@ -254,6 +255,7 @@ Welcome to my LeetCode solutions repository!
 - **35. [Search Insert Position](./35-search-insert-position)**
 - **350. [Intersection of Two Arrays II](./350-intersection-of-two-arrays-ii)**
 - **3533. [Snake in Matrix](./3533-snake-in-matrix)**
+- **3553. [Check if Two Chessboard Squares Have the Same Color](./3553-check-if-two-chessboard-squares-have-the-same-color)**
 - **3581. [The Two Sneaky Numbers of Digitville](./3581-the-two-sneaky-numbers-of-digitville)**
 - **3600. [Find the K-th Character in String Game I](./3600-find-the-k-th-character-in-string-game-i)**
 - **3605. [Construct the Minimum Bitwise Array I](./3605-construct-the-minimum-bitwise-array-i)**
@@ -323,6 +325,7 @@ Welcome to my LeetCode solutions repository!
 - **661. [Image Smoother](./661-image-smoother)**
 - **67. [Add Binary](./67-add-binary)**
 - **674. [Longest Continuous Increasing Subsequence](./674-longest-continuous-increasing-subsequence)**
+- **680. [Valid Palindrome II](./680-valid-palindrome-ii)**
 - **682. [Baseball Game](./682-baseball-game)**
 - **69. [Sqrt(x)](./69-sqrtx)**
 - **70. [Climbing Stairs](./70-climbing-stairs)**
@@ -635,7 +638,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 294)</summary>
+<summary id="array"><strong>Array</strong> (Total: 295)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1136,6 +1139,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **3154. [Maximum Value of an Ordered Triplet I](./3154-maximum-value-of-an-ordered-triplet-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3193. [Maximum Strong Pair XOR I](./3193-maximum-strong-pair-xor-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3213. [Count Subarrays Where Max Element Appears at Least K Times](./3213-count-subarrays-where-max-element-appears-at-least-k-times)**  
@@ -1931,7 +1937,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 28)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 29)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -1973,6 +1979,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **268. [Missing Number](./268-missing-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3193. [Maximum Strong Pair XOR I](./3193-maximum-strong-pair-xor-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **338. [Counting Bits](./338-counting-bits)**  
@@ -2884,7 +2893,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 33)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 34)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2976,6 +2985,9 @@ Welcome to my LeetCode solutions repository!
 - **670. [Maximum Swap](./670-maximum-swap)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **680. [Valid Palindrome II](./680-valid-palindrome-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **768. [Partition Labels](./768-partition-labels)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -3005,7 +3017,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 110)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 111)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3186,6 +3198,9 @@ Welcome to my LeetCode solutions repository!
 
 - **30. [Substring with Concatenation of All Words](./30-substring-with-concatenation-of-all-words)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **3193. [Maximum Strong Pair XOR I](./3193-maximum-strong-pair-xor-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3236. [Smallest Missing Integer Greater Than Sequential Prefix Sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3499,7 +3514,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 97)</summary>
+<summary id="math"><strong>Math</strong> (Total: 98)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3676,6 +3691,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3450. [Find the Child Who Has the Ball After K Seconds](./3450-find-the-child-who-has-the-ball-after-k-seconds)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3553. [Check if Two Chessboard Squares Have the Same Color](./3553-check-if-two-chessboard-squares-have-the-same-color)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3581. [The Two Sneaky Numbers of Digitville](./3581-the-two-sneaky-numbers-of-digitville)**  
@@ -4400,7 +4418,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 36)</summary>
+<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 37)</summary>
 
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4473,6 +4491,9 @@ Welcome to my LeetCode solutions repository!
 
 - **30. [Substring with Concatenation of All Words](./30-substring-with-concatenation-of-all-words)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **3193. [Maximum Strong Pair XOR I](./3193-maximum-strong-pair-xor-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3213. [Count Subarrays Where Max Element Appears at Least K Times](./3213-count-subarrays-where-max-element-appears-at-least-k-times)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4838,7 +4859,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 113)</summary>
+<summary id="string"><strong>String</strong> (Total: 115)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5029,6 +5050,9 @@ Welcome to my LeetCode solutions repository!
 - **3533. [Snake in Matrix](./3533-snake-in-matrix)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **3553. [Check if Two Chessboard Squares Have the Same Color](./3553-check-if-two-chessboard-squares-have-the-same-color)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **3736. [Find Valid Pair of Adjacent Digits in String](./3736-find-valid-pair-of-adjacent-digits-in-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -5132,6 +5156,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **67. [Add Binary](./67-add-binary)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **680. [Valid Palindrome II](./680-valid-palindrome-ii)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **686. [Repeated String Match](./686-repeated-string-match)**  
@@ -5353,7 +5380,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="trie"><strong>Trie</strong> (Total: 4)</summary>
+<summary id="trie"><strong>Trie</strong> (Total: 5)</summary>
 
 - **1080. [Camelcase Matching](./1080-camelcase-matching)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5364,13 +5391,16 @@ Welcome to my LeetCode solutions repository!
 - **208. [Implement Trie (Prefix Tree)](./208-implement-trie-prefix-tree)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **3193. [Maximum Strong Pair XOR I](./3193-maximum-strong-pair-xor-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **386. [Lexicographical Numbers](./386-lexicographical-numbers)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 69)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 70)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5542,6 +5572,9 @@ Welcome to my LeetCode solutions repository!
 
 - **658. [Find K Closest Elements](./658-find-k-closest-elements)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **680. [Valid Palindrome II](./680-valid-palindrome-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **75. [Sort Colors](./75-sort-colors)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
