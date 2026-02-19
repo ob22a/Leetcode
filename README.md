@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 536
+**Total Questions:** 537
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 276 |
+| <span style='color:green'>Easy</span> | 277 |
 | <span style='color:orange'>Medium</span> | 225 |
 | <span style='color:red'>Hard</span> | 35 |
 
@@ -37,7 +37,7 @@ Welcome to my LeetCode solutions repository!
 | [Counting](#counting) | 28 |
 | [Counting Sort](#counting-sort) | 5 |
 | [Data Stream](#data-stream) | 5 |
-| [Database](#database) | 13 |
+| [Database](#database) | 14 |
 | [Depth-First Search](#depth-first-search) | 50 |
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 15 |
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 276)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 277)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -119,6 +119,7 @@ Welcome to my LeetCode solutions repository!
 - **1349. [Check If It Is a Straight Line](./1349-check-if-it-is-a-straight-line)**
 - **1353. [Find Resultant Array After Removing Anagrams](./1353-find-resultant-array-after-removing-anagrams)**
 - **136. [Single Number](./136-single-number)**
+- **1390. [Average Selling Price](./1390-average-selling-price)**
 - **1392. [Find the Difference of Two Arrays](./1392-find-the-difference-of-two-arrays)**
 - **14. [Longest Common Prefix](./14-longest-common-prefix)**
 - **141. [Linked List Cycle](./141-linked-list-cycle)**
@@ -2328,7 +2329,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="database"><strong>Database</strong> (Total: 13)</summary>
+<summary id="database"><strong>Database</strong> (Total: 14)</summary>
+
+- **1390. [Average Selling Price](./1390-average-selling-price)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1625. [Group Sold Products By The Date](./1625-group-sold-products-by-the-date)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
