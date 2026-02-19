@@ -14,7 +14,7 @@ class Solution:
                 linear_idx = i*col+j
                 new_r = linear_idx//c
                 new_c = linear_idx%c
-                print(new_r,new_c)
+                #print(new_r,new_c)
                 sol[new_r][new_c]=mat[i][j]
 
         return sol
