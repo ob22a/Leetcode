@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 537
+**Total Questions:** 539
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 277 |
+| <span style='color:green'>Easy</span> | 279 |
 | <span style='color:orange'>Medium</span> | 225 |
 | <span style='color:red'>Hard</span> | 35 |
 
@@ -22,7 +22,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 295 |
+| [Array](#array) | 297 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 49 |
@@ -54,14 +54,14 @@ Welcome to my LeetCode solutions repository!
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
 | [Math](#math) | 98 |
-| [Matrix](#matrix) | 39 |
+| [Matrix](#matrix) | 40 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
 | [Monotonic Stack](#monotonic-stack) | 13 |
 | [Number Theory](#number-theory) | 9 |
 | [Ordered Set](#ordered-set) | 1 |
-| [Prefix Sum](#prefix-sum) | 32 |
+| [Prefix Sum](#prefix-sum) | 33 |
 | [Queue](#queue) | 7 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
@@ -69,7 +69,7 @@ Welcome to my LeetCode solutions repository!
 | [Rolling Hash](#rolling-hash) | 1 |
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
-| [Simulation](#simulation) | 40 |
+| [Simulation](#simulation) | 41 |
 | [Sliding Window](#sliding-window) | 37 |
 | [Sorting](#sorting) | 68 |
 | [Stack](#stack) | 37 |
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 277)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 279)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -178,6 +178,7 @@ Welcome to my LeetCode solutions repository!
 - **2058. [Concatenation of Array](./2058-concatenation-of-array)**
 - **206. [Reverse Linked List](./206-reverse-linked-list)**
 - **21. [Merge Two Sorted Lists](./21-merge-two-sorted-lists)**
+- **2102. [Find the Middle Index in Array](./2102-find-the-middle-index-in-array)**
 - **2106. [Find Greatest Common Divisor of Array](./2106-find-greatest-common-divisor-of-array)**
 - **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**
 - **2137. [Final Value of Variable After Performing Operations](./2137-final-value-of-variable-after-performing-operations)**
@@ -307,6 +308,7 @@ Welcome to my LeetCode solutions repository!
 - **557. [Reverse Words in a String III](./557-reverse-words-in-a-string-iii)**
 - **561. [Array Partition](./561-array-partition)**
 - **563. [Binary Tree Tilt](./563-binary-tree-tilt)**
+- **566. [Reshape the Matrix](./566-reshape-the-matrix)**
 - **572. [Subtree of Another Tree](./572-subtree-of-another-tree)**
 - **575. [Distribute Candies](./575-distribute-candies)**
 - **577. [Employee Bonus](./577-employee-bonus)**
@@ -640,7 +642,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 295)</summary>
+<summary id="array"><strong>Array</strong> (Total: 297)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -938,6 +940,9 @@ Welcome to my LeetCode solutions repository!
 
 - **209. [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2102. [Find the Middle Index in Array](./2102-find-the-middle-index-in-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2103. [Find All Groups of Farmland](./2103-find-all-groups-of-farmland)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1351,6 +1356,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **561. [Array Partition](./561-array-partition)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **566. [Reshape the Matrix](./566-reshape-the-matrix)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **57. [Insert Interval](./57-insert-interval)**  
@@ -3821,7 +3829,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 39)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 40)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3906,6 +3914,9 @@ Welcome to my LeetCode solutions repository!
 
 - **542. [01 Matrix](./542-01-matrix)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **566. [Reshape the Matrix](./566-reshape-the-matrix)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **59. [Spiral Matrix II](./59-spiral-matrix-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4063,7 +4074,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 32)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 33)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4097,6 +4108,9 @@ Welcome to my LeetCode solutions repository!
 
 - **209. [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2102. [Find the Middle Index in Array](./2102-find-the-middle-index-in-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2134. [Maximize the Confusion of an Exam](./2134-maximize-the-confusion-of-an-exam)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4301,7 +4315,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 40)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 41)</summary>
 
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4401,6 +4415,9 @@ Welcome to my LeetCode solutions repository!
 
 - **54. [Spiral Matrix](./54-spiral-matrix)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **566. [Reshape the Matrix](./566-reshape-the-matrix)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **59. [Spiral Matrix II](./59-spiral-matrix-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
