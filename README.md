@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 539
+**Total Questions:** 540
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 279 |
+| <span style='color:green'>Easy</span> | 280 |
 | <span style='color:orange'>Medium</span> | 225 |
 | <span style='color:red'>Hard</span> | 35 |
 
@@ -22,7 +22,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 297 |
+| [Array](#array) | 298 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 49 |
@@ -48,7 +48,7 @@ Welcome to my LeetCode solutions repository!
 | [Geometry](#geometry) | 1 |
 | [Graph Theory](#graph-theory) | 5 |
 | [Greedy](#greedy) | 34 |
-| [Hash Function](#hash-function) | 4 |
+| [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 111 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 18 |
 | [Interactive](#interactive) | 2 |
@@ -66,18 +66,18 @@ Welcome to my LeetCode solutions repository!
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
 | [Recursion](#recursion) | 19 |
-| [Rolling Hash](#rolling-hash) | 1 |
+| [Rolling Hash](#rolling-hash) | 2 |
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 41 |
 | [Sliding Window](#sliding-window) | 37 |
 | [Sorting](#sorting) | 68 |
 | [Stack](#stack) | 37 |
-| [String](#string) | 116 |
-| [String Matching](#string-matching) | 6 |
+| [String](#string) | 117 |
+| [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
-| [Trie](#trie) | 5 |
+| [Trie](#trie) | 6 |
 | [Two Pointers](#two-pointers) | 70 |
 | [Union-Find](#union-find) | 6 |
 
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 279)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 280)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -242,6 +242,7 @@ Welcome to my LeetCode solutions repository!
 - **3236. [Smallest Missing Integer Greater Than Sequential Prefix Sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum)**
 - **3242. [Count Elements With Maximum Frequency](./3242-count-elements-with-maximum-frequency)**
 - **326. [Power of Three](./326-power-of-three)**
+- **3309. [Count Prefix and Suffix Pairs I](./3309-count-prefix-and-suffix-pairs-i)**
 - **3321. [Type of Triangle](./3321-type-of-triangle)**
 - **3367. [Find the Sum of Encrypted Integers](./3367-find-the-sum-of-encrypted-integers)**
 - **3379. [Score of a String](./3379-score-of-a-string)**
@@ -642,7 +643,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 297)</summary>
+<summary id="array"><strong>Array</strong> (Total: 298)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1168,6 +1169,9 @@ Welcome to my LeetCode solutions repository!
 
 - **33. [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3309. [Count Prefix and Suffix Pairs I](./3309-count-prefix-and-suffix-pairs-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3321. [Type of Triangle](./3321-type-of-triangle)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3016,10 +3020,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-function"><strong>Hash Function</strong> (Total: 4)</summary>
+<summary id="hash-function"><strong>Hash Function</strong> (Total: 5)</summary>
 
 - **187. [Repeated DNA Sequences](./187-repeated-dna-sequences)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3309. [Count Prefix and Suffix Pairs I](./3309-count-prefix-and-suffix-pairs-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **572. [Subtree of Another Tree](./572-subtree-of-another-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4288,10 +4295,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="rolling-hash"><strong>Rolling Hash</strong> (Total: 1)</summary>
+<summary id="rolling-hash"><strong>Rolling Hash</strong> (Total: 2)</summary>
 
 - **187. [Repeated DNA Sequences](./187-repeated-dna-sequences)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3309. [Count Prefix and Suffix Pairs I](./3309-count-prefix-and-suffix-pairs-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 </details>
 
@@ -4884,7 +4894,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 116)</summary>
+<summary id="string"><strong>String</strong> (Total: 117)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5063,6 +5073,9 @@ Welcome to my LeetCode solutions repository!
 - **3207. [Make Three Strings Equal](./3207-make-three-strings-equal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **3309. [Count Prefix and Suffix Pairs I](./3309-count-prefix-and-suffix-pairs-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **3379. [Score of a String](./3379-score-of-a-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -5237,12 +5250,15 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string-matching"><strong>String Matching</strong> (Total: 6)</summary>
+<summary id="string-matching"><strong>String Matching</strong> (Total: 7)</summary>
 
 - **1080. [Camelcase Matching](./1080-camelcase-matching)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **28. [Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3309. [Count Prefix and Suffix Pairs I](./3309-count-prefix-and-suffix-pairs-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **459. [Repeated Substring Pattern](./459-repeated-substring-pattern)**  
@@ -5408,7 +5424,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="trie"><strong>Trie</strong> (Total: 5)</summary>
+<summary id="trie"><strong>Trie</strong> (Total: 6)</summary>
 
 - **1080. [Camelcase Matching](./1080-camelcase-matching)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5420,6 +5436,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3193. [Maximum Strong Pair XOR I](./3193-maximum-strong-pair-xor-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3309. [Count Prefix and Suffix Pairs I](./3309-count-prefix-and-suffix-pairs-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **386. [Lexicographical Numbers](./386-lexicographical-numbers)**  
