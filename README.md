@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 540
+**Total Questions:** 541
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 280 |
+| <span style='color:green'>Easy</span> | 281 |
 | <span style='color:orange'>Medium</span> | 225 |
 | <span style='color:red'>Hard</span> | 35 |
 
@@ -22,7 +22,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 298 |
+| [Array](#array) | 299 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 49 |
@@ -49,7 +49,7 @@ Welcome to my LeetCode solutions repository!
 | [Graph Theory](#graph-theory) | 5 |
 | [Greedy](#greedy) | 34 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 111 |
+| [Hash Table](#hash-table) | 112 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 18 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
@@ -61,7 +61,7 @@ Welcome to my LeetCode solutions repository!
 | [Monotonic Stack](#monotonic-stack) | 13 |
 | [Number Theory](#number-theory) | 9 |
 | [Ordered Set](#ordered-set) | 1 |
-| [Prefix Sum](#prefix-sum) | 33 |
+| [Prefix Sum](#prefix-sum) | 34 |
 | [Queue](#queue) | 7 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 280)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 281)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -236,6 +236,7 @@ Welcome to my LeetCode solutions repository!
 - **292. [Nim Game](./292-nim-game)**
 - **2998. [  Count Symmetric Integers](./2998-count-symmetric-integers)**
 - **303. [Range Sum Query - Immutable](./303-range-sum-query-immutable)**
+- **3034. [Points That Intersect With Cars](./3034-points-that-intersect-with-cars)**
 - **3154. [Maximum Value of an Ordered Triplet I](./3154-maximum-value-of-an-ordered-triplet-i)**
 - **3193. [Maximum Strong Pair XOR I](./3193-maximum-strong-pair-xor-i)**
 - **3207. [Make Three Strings Equal](./3207-make-three-strings-equal)**
@@ -643,7 +644,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 298)</summary>
+<summary id="array"><strong>Array</strong> (Total: 299)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1135,6 +1136,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **303. [Range Sum Query - Immutable](./303-range-sum-query-immutable)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3034. [Points That Intersect With Cars](./3034-points-that-intersect-with-cars)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **304. [Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable)**  
@@ -3040,7 +3044,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 111)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 112)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3221,6 +3225,9 @@ Welcome to my LeetCode solutions repository!
 
 - **30. [Substring with Concatenation of All Words](./30-substring-with-concatenation-of-all-words)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **3034. [Points That Intersect With Cars](./3034-points-that-intersect-with-cars)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3193. [Maximum Strong Pair XOR I](./3193-maximum-strong-pair-xor-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4081,7 +4088,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 33)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 34)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4153,6 +4160,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **303. [Range Sum Query - Immutable](./303-range-sum-query-immutable)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3034. [Points That Intersect With Cars](./3034-points-that-intersect-with-cars)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **304. [Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable)**  
