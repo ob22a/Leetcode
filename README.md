@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 541
+**Total Questions:** 544
 
 ### Difficulty Distribution
 
@@ -14,15 +14,15 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 281 |
+| <span style='color:green'>Easy</span> | 283 |
 | <span style='color:orange'>Medium</span> | 225 |
-| <span style='color:red'>Hard</span> | 35 |
+| <span style='color:red'>Hard</span> | 36 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 299 |
+| [Array](#array) | 302 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 49 |
@@ -47,7 +47,7 @@ Welcome to my LeetCode solutions repository!
 | [Game Theory](#game-theory) | 3 |
 | [Geometry](#geometry) | 1 |
 | [Graph Theory](#graph-theory) | 5 |
-| [Greedy](#greedy) | 34 |
+| [Greedy](#greedy) | 35 |
 | [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 112 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 18 |
@@ -69,7 +69,7 @@ Welcome to my LeetCode solutions repository!
 | [Rolling Hash](#rolling-hash) | 2 |
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
-| [Simulation](#simulation) | 41 |
+| [Simulation](#simulation) | 42 |
 | [Sliding Window](#sliding-window) | 37 |
 | [Sorting](#sorting) | 68 |
 | [Stack](#stack) | 37 |
@@ -78,7 +78,7 @@ Welcome to my LeetCode solutions repository!
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
 | [Trie](#trie) | 6 |
-| [Two Pointers](#two-pointers) | 70 |
+| [Two Pointers](#two-pointers) | 71 |
 | [Union-Find](#union-find) | 6 |
 
 ---
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 281)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 283)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -214,6 +214,7 @@ Welcome to my LeetCode solutions repository!
 - **2580. [Circular Sentence](./2580-circular-sentence)**
 - **2598. [Shortest Distance to Target String in a Circular Array](./2598-shortest-distance-to-target-string-in-a-circular-array)**
 - **26. [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array)**
+- **2602. [Maximum Enemy Forts That Can Be Captured](./2602-maximum-enemy-forts-that-can-be-captured)**
 - **2614. [Maximum Count of Positive Integer and Negative Integer](./2614-maximum-count-of-positive-integer-and-negative-integer)**
 - **2624. [Difference Between Element Sum and Digit Sum of an Array](./2624-difference-between-element-sum-and-digit-sum-of-an-array)**
 - **263. [Ugly Number](./263-ugly-number)**
@@ -245,6 +246,7 @@ Welcome to my LeetCode solutions repository!
 - **326. [Power of Three](./326-power-of-three)**
 - **3309. [Count Prefix and Suffix Pairs I](./3309-count-prefix-and-suffix-pairs-i)**
 - **3321. [Type of Triangle](./3321-type-of-triangle)**
+- **3347. [Distribute Elements Into Two Arrays I](./3347-distribute-elements-into-two-arrays-i)**
 - **3367. [Find the Sum of Encrypted Integers](./3367-find-the-sum-of-encrypted-integers)**
 - **3379. [Score of a String](./3379-score-of-a-string)**
 - **338. [Counting Bits](./338-counting-bits)**
@@ -602,7 +604,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 35)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 36)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -612,6 +614,7 @@ Welcome to my LeetCode solutions repository!
 - **1197. [Parsing A Boolean Expression](./1197-parsing-a-boolean-expression)**
 - **123. [Best Time to Buy and Sell Stock III](./123-best-time-to-buy-and-sell-stock-iii)**
 - **132. [Palindrome Partitioning II](./132-palindrome-partitioning-ii)**
+- **135. [Candy](./135-candy)**
 - **1414. [Shortest Path in a Grid with Obstacles Elimination](./1414-shortest-path-in-a-grid-with-obstacles-elimination)**
 - **154. [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii)**
 - **1559. [Cherry Pickup II](./1559-cherry-pickup-ii)**
@@ -644,7 +647,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 299)</summary>
+<summary id="array"><strong>Array</strong> (Total: 302)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -747,6 +750,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1349. [Check If It Is a Straight Line](./1349-check-if-it-is-a-straight-line)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **135. [Candy](./135-candy)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1353. [Find Resultant Array After Removing Anagrams](./1353-find-resultant-array-after-removing-anagrams)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1081,6 +1087,9 @@ Welcome to my LeetCode solutions repository!
 - **26. [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **2602. [Maximum Enemy Forts That Can Be Captured](./2602-maximum-enemy-forts-that-can-be-captured)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -1178,6 +1187,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3321. [Type of Triangle](./3321-type-of-triangle)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3347. [Distribute Elements Into Two Arrays I](./3347-distribute-elements-into-two-arrays-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3367. [Find the Sum of Encrypted Integers](./3367-find-the-sum-of-encrypted-integers)**  
@@ -2917,7 +2929,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 34)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 35)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2945,6 +2957,9 @@ Welcome to my LeetCode solutions repository!
 
 - **134. [Gas Station](./134-gas-station)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **135. [Candy](./135-candy)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1448. [Maximum 69 Number](./1448-maximum-69-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4335,7 +4350,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 41)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 42)</summary>
 
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4396,6 +4411,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3234. [Double Modular Exponentiation](./3234-double-modular-exponentiation)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3347. [Distribute Elements Into Two Arrays I](./3347-distribute-elements-into-two-arrays-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3434. [Find the Number of Distinct Colors Among the Balls](./3434-find-the-number-of-distinct-colors-among-the-balls)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5457,7 +5475,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 70)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 71)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5550,6 +5568,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **26. [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2602. [Maximum Enemy Forts That Can Be Captured](./2602-maximum-enemy-forts-that-can-be-captured)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2634. [Minimum Common Value](./2634-minimum-common-value)**  
