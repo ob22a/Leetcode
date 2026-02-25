@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 544
+**Total Questions:** 545
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 283 |
+| <span style='color:green'>Easy</span> | 284 |
 | <span style='color:orange'>Medium</span> | 225 |
 | <span style='color:red'>Hard</span> | 36 |
 
@@ -22,7 +22,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 302 |
+| [Array](#array) | 303 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 49 |
@@ -34,7 +34,7 @@ Welcome to my LeetCode solutions repository!
 | [Breadth-First Search](#breadth-first-search) | 39 |
 | [Bucket Sort](#bucket-sort) | 3 |
 | [Combinatorics](#combinatorics) | 2 |
-| [Counting](#counting) | 28 |
+| [Counting](#counting) | 29 |
 | [Counting Sort](#counting-sort) | 5 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 14 |
@@ -49,7 +49,7 @@ Welcome to my LeetCode solutions repository!
 | [Graph Theory](#graph-theory) | 5 |
 | [Greedy](#greedy) | 35 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 112 |
+| [Hash Table](#hash-table) | 113 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 18 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
@@ -71,9 +71,9 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 42 |
 | [Sliding Window](#sliding-window) | 37 |
-| [Sorting](#sorting) | 68 |
+| [Sorting](#sorting) | 69 |
 | [Stack](#stack) | 37 |
-| [String](#string) | 117 |
+| [String](#string) | 118 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 283)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 284)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -206,6 +206,7 @@ Welcome to my LeetCode solutions repository!
 - **2436. [Make Array Zero by Subtracting Equal Amounts](./2436-make-array-zero-by-subtracting-equal-amounts)**
 - **2486. [Most Frequent Even Element](./2486-most-frequent-even-element)**
 - **2491. [Smallest Even Multiple](./2491-smallest-even-multiple)**
+- **2502. [Sort the People](./2502-sort-the-people)**
 - **2532. [Remove Letter To Equalize Frequency](./2532-remove-letter-to-equalize-frequency)**
 - **2551. [Apply Operations to an Array](./2551-apply-operations-to-an-array)**
 - **2556. [Convert the Temperature](./2556-convert-the-temperature)**
@@ -647,7 +648,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 302)</summary>
+<summary id="array"><strong>Array</strong> (Total: 303)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1058,6 +1059,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2486. [Most Frequent Even Element](./2486-most-frequent-even-element)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2502. [Sort the People](./2502-sort-the-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2527. [Count Subarrays With Fixed Bounds](./2527-count-subarrays-with-fixed-bounds)**  
@@ -2228,7 +2232,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="counting"><strong>Counting</strong> (Total: 28)</summary>
+<summary id="counting"><strong>Counting</strong> (Total: 29)</summary>
 
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2238,6 +2242,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1354. [Find Players With Zero or One Losses](./1354-find-players-with-zero-or-one-losses)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1500. [Count Largest Group](./1500-count-largest-group)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1510. [Find Lucky Integer in an Array](./1510-find-lucky-integer-in-an-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3059,7 +3066,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 112)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 113)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3191,6 +3198,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2486. [Most Frequent Even Element](./2486-most-frequent-even-element)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2502. [Sort the People](./2502-sort-the-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2532. [Remove Letter To Equalize Frequency](./2532-remove-letter-to-equalize-frequency)**  
@@ -4597,7 +4607,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 68)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 69)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4693,6 +4703,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2436. [Make Array Zero by Subtracting Equal Amounts](./2436-make-array-zero-by-subtracting-equal-amounts)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2502. [Sort the People](./2502-sort-the-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2581. [Divide Players Into Teams of Equal Skill](./2581-divide-players-into-teams-of-equal-skill)**  
@@ -4922,7 +4935,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 117)</summary>
+<summary id="string"><strong>String</strong> (Total: 118)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5064,6 +5077,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2470. [Removing Stars From a String](./2470-removing-stars-from-a-string)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2502. [Sort the People](./2502-sort-the-people)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2532. [Remove Letter To Equalize Frequency](./2532-remove-letter-to-equalize-frequency)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
