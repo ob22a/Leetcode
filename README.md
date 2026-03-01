@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 550
+**Total Questions:** 551
 
 ### Difficulty Distribution
 
@@ -16,7 +16,7 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 286 |
 | <span style='color:orange'>Medium</span> | 228 |
-| <span style='color:red'>Hard</span> | 36 |
+| <span style='color:red'>Hard</span> | 37 |
 
 ### Topics Overview
 
@@ -43,7 +43,7 @@ Welcome to my LeetCode solutions repository!
 | [Divide and Conquer](#divide-and-conquer) | 15 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
 | [Dynamic Programming](#dynamic-programming) | 58 |
-| [Enumeration](#enumeration) | 7 |
+| [Enumeration](#enumeration) | 8 |
 | [Game Theory](#game-theory) | 4 |
 | [Geometry](#geometry) | 1 |
 | [Graph Theory](#graph-theory) | 5 |
@@ -61,7 +61,7 @@ Welcome to my LeetCode solutions repository!
 | [Monotonic Stack](#monotonic-stack) | 13 |
 | [Number Theory](#number-theory) | 9 |
 | [Ordered Set](#ordered-set) | 1 |
-| [Prefix Sum](#prefix-sum) | 34 |
+| [Prefix Sum](#prefix-sum) | 35 |
 | [Queue](#queue) | 7 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
@@ -70,10 +70,10 @@ Welcome to my LeetCode solutions repository!
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 42 |
-| [Sliding Window](#sliding-window) | 37 |
+| [Sliding Window](#sliding-window) | 38 |
 | [Sorting](#sorting) | 74 |
 | [Stack](#stack) | 37 |
-| [String](#string) | 118 |
+| [String](#string) | 119 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
@@ -610,7 +610,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 36)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 37)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -636,6 +636,7 @@ Welcome to my LeetCode solutions repository!
 - **30. [Substring with Concatenation of All Words](./30-substring-with-concatenation-of-all-words)**
 - **312. [Burst Balloons](./312-burst-balloons)**
 - **37. [Sudoku Solver](./37-sudoku-solver)**
+- **3761. [Maximum Difference Between Even and Odd Frequency II](./3761-maximum-difference-between-even-and-odd-frequency-ii)**
 - **4. [Median of Two Sorted Arrays](./4-median-of-two-sorted-arrays)**
 - **41. [First Missing Positive](./41-first-missing-positive)**
 - **410. [Split Array Largest Sum](./410-split-array-largest-sum)**
@@ -2888,7 +2889,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="enumeration"><strong>Enumeration</strong> (Total: 7)</summary>
+<summary id="enumeration"><strong>Enumeration</strong> (Total: 8)</summary>
 
 - **1656. [Count Good Triplets](./1656-count-good-triplets)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2904,6 +2905,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2998. [  Count Symmetric Integers](./2998-count-symmetric-integers)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3761. [Maximum Difference Between Even and Odd Frequency II](./3761-maximum-difference-between-even-and-odd-frequency-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4145,7 +4149,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 34)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 35)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4227,6 +4231,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3644. [Minimum Positive Sum Subarray ](./3644-minimum-positive-sum-subarray)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3761. [Maximum Difference Between Even and Odd Frequency II](./3761-maximum-difference-between-even-and-odd-frequency-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4523,7 +4530,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 37)</summary>
+<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 38)</summary>
 
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4608,6 +4615,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3644. [Minimum Positive Sum Subarray ](./3644-minimum-positive-sum-subarray)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3761. [Maximum Difference Between Even and Odd Frequency II](./3761-maximum-difference-between-even-and-odd-frequency-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **424. [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4982,7 +4992,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 118)</summary>
+<summary id="string"><strong>String</strong> (Total: 119)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5190,6 +5200,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3753. [Maximum Difference Between Even and Odd Frequency I](./3753-maximum-difference-between-even-and-odd-frequency-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3761. [Maximum Difference Between Even and Odd Frequency II](./3761-maximum-difference-between-even-and-odd-frequency-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **38. [Count and Say](./38-count-and-say)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
