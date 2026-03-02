@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 551
+**Total Questions:** 552
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 286 |
+| <span style='color:green'>Easy</span> | 287 |
 | <span style='color:orange'>Medium</span> | 228 |
 | <span style='color:red'>Hard</span> | 37 |
 
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 18 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
-| [Math](#math) | 100 |
+| [Math](#math) | 101 |
 | [Matrix](#matrix) | 40 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -73,7 +73,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 38 |
 | [Sorting](#sorting) | 74 |
 | [Stack](#stack) | 37 |
-| [String](#string) | 119 |
+| [String](#string) | 120 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 286)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 287)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -307,6 +307,7 @@ Welcome to my LeetCode solutions repository!
 - **496. [Next Greater Element I](./496-next-greater-element-i)**
 - **500. [Keyboard Row](./500-keyboard-row)**
 - **501. [Find Mode in Binary Search Tree](./501-find-mode-in-binary-search-tree)**
+- **504. [Base 7](./504-base-7)**
 - **506. [Relative Ranks](./506-relative-ranks)**
 - **507. [Perfect Number](./507-perfect-number)**
 - **530. [Minimum Absolute Difference in BST](./530-minimum-absolute-difference-in-bst)**
@@ -3599,7 +3600,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 100)</summary>
+<summary id="math"><strong>Math</strong> (Total: 101)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3834,6 +3835,9 @@ Welcome to my LeetCode solutions repository!
 
 - **50. [Pow(x, n)](./50-powx-n)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **504. [Base 7](./504-base-7)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **507. [Perfect Number](./507-perfect-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4992,7 +4996,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 119)</summary>
+<summary id="string"><strong>String</strong> (Total: 120)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5271,6 +5275,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **500. [Keyboard Row](./500-keyboard-row)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **504. [Base 7](./504-base-7)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **516. [Longest Palindromic Subsequence](./516-longest-palindromic-subsequence)**  
