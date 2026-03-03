@@ -1,0 +1,1 @@
+<h2>minimum-cost-to-merge-stones Notes</h2><hr>[ Time taken: 2hrs 0m 0s ]
