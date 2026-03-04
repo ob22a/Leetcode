@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 557
+**Total Questions:** 558
 
 ### Difficulty Distribution
 
@@ -16,13 +16,13 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 287 |
 | <span style='color:orange'>Medium</span> | 232 |
-| <span style='color:red'>Hard</span> | 38 |
+| <span style='color:red'>Hard</span> | 39 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 311 |
+| [Array](#array) | 312 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 50 |
@@ -42,7 +42,7 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 15 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 61 |
+| [Dynamic Programming](#dynamic-programming) | 62 |
 | [Enumeration](#enumeration) | 8 |
 | [Game Theory](#game-theory) | 4 |
 | [Geometry](#geometry) | 1 |
@@ -61,7 +61,7 @@ Welcome to my LeetCode solutions repository!
 | [Monotonic Stack](#monotonic-stack) | 14 |
 | [Number Theory](#number-theory) | 9 |
 | [Ordered Set](#ordered-set) | 1 |
-| [Prefix Sum](#prefix-sum) | 36 |
+| [Prefix Sum](#prefix-sum) | 37 |
 | [Queue](#queue) | 7 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
@@ -615,11 +615,12 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 38)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 39)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**
+- **1042. [Minimum Cost to Merge Stones](./1042-minimum-cost-to-merge-stones)**
 - **115. [Distinct Subsequences](./115-distinct-subsequences)**
 - **1170. [Shortest Common Supersequence ](./1170-shortest-common-supersequence)**
 - **1197. [Parsing A Boolean Expression](./1197-parsing-a-boolean-expression)**
@@ -660,7 +661,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 311)</summary>
+<summary id="array"><strong>Array</strong> (Total: 312)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -691,6 +692,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1036. [Rotting Oranges](./1036-rotting-oranges)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1042. [Minimum Cost to Merge Stones](./1042-minimum-cost-to-merge-stones)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2734,13 +2738,16 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 61)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 62)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1042. [Minimum Cost to Merge Stones](./1042-minimum-cost-to-merge-stones)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1086. [Divisor Game](./1086-divisor-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4203,10 +4210,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 36)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 37)</summary>
 
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1042. [Minimum Cost to Merge Stones](./1042-minimum-cost-to-merge-stones)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
