@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 558
+**Total Questions:** 559
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 287 |
+| <span style='color:green'>Easy</span> | 288 |
 | <span style='color:orange'>Medium</span> | 232 |
 | <span style='color:red'>Hard</span> | 39 |
 
@@ -37,7 +37,7 @@ Welcome to my LeetCode solutions repository!
 | [Counting](#counting) | 30 |
 | [Counting Sort](#counting-sort) | 5 |
 | [Data Stream](#data-stream) | 5 |
-| [Database](#database) | 14 |
+| [Database](#database) | 15 |
 | [Depth-First Search](#depth-first-search) | 50 |
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 15 |
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 287)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 288)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -167,6 +167,7 @@ Welcome to my LeetCode solutions repository!
 - **1920. [Determine Color of a Chessboard Square](./1920-determine-color-of-a-chessboard-square)**
 - **196. [Delete Duplicate Emails](./196-delete-duplicate-emails)**
 - **1965. [Sum of Digits in Base K](./1965-sum-of-digits-in-base-k)**
+- **197. [Rising Temperature](./197-rising-temperature)**
 - **1970. [Sorting the Sentence](./1970-sorting-the-sentence)**
 - **1993. [Sum of All Subset XOR Totals](./1993-sum-of-all-subset-xor-totals)**
 - **20. [Valid Parentheses](./20-valid-parentheses)**
@@ -2413,7 +2414,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="database"><strong>Database</strong> (Total: 14)</summary>
+<summary id="database"><strong>Database</strong> (Total: 15)</summary>
 
 - **1390. [Average Selling Price](./1390-average-selling-price)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2446,6 +2447,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **196. [Delete Duplicate Emails](./196-delete-duplicate-emails)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **197. [Rising Temperature](./197-rising-temperature)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **577. [Employee Bonus](./577-employee-bonus)**  
