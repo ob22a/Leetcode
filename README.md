@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 559
+**Total Questions:** 561
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 288 |
-| <span style='color:orange'>Medium</span> | 232 |
+| <span style='color:orange'>Medium</span> | 234 |
 | <span style='color:red'>Hard</span> | 39 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 312 |
+| [Array](#array) | 314 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 50 |
@@ -47,9 +47,9 @@ Welcome to my LeetCode solutions repository!
 | [Game Theory](#game-theory) | 4 |
 | [Geometry](#geometry) | 1 |
 | [Graph Theory](#graph-theory) | 5 |
-| [Greedy](#greedy) | 36 |
+| [Greedy](#greedy) | 37 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 115 |
+| [Hash Table](#hash-table) | 116 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 19 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
@@ -71,14 +71,14 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 42 |
 | [Sliding Window](#sliding-window) | 38 |
-| [Sorting](#sorting) | 75 |
+| [Sorting](#sorting) | 77 |
 | [Stack](#stack) | 38 |
 | [String](#string) | 121 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
 | [Trie](#trie) | 6 |
-| [Two Pointers](#two-pointers) | 71 |
+| [Two Pointers](#two-pointers) | 73 |
 | [Union-Find](#union-find) | 6 |
 
 ---
@@ -379,7 +379,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 232)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 234)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -445,6 +445,7 @@ Welcome to my LeetCode solutions repository!
 - **1776. [Minimum Operations to Reduce X to Zero](./1776-minimum-operations-to-reduce-x-to-zero)**
 - **178. [Rank Scores](./178-rank-scores)**
 - **1787. [Sum of Absolute Differences in a Sorted Array](./1787-sum-of-absolute-differences-in-a-sorted-array)**
+- **1798. [Max Number of K-Sum Pairs](./1798-max-number-of-k-sum-pairs)**
 - **18. [4Sum](./18-4sum)**
 - **187. [Repeated DNA Sequences](./187-repeated-dna-sequences)**
 - **1876. [Map of Highest Peak](./1876-map-of-highest-peak)**
@@ -491,6 +492,7 @@ Welcome to my LeetCode solutions repository!
 - **2465. [Shifting Letters II](./2465-shifting-letters-ii)**
 - **2470. [Removing Stars From a String](./2470-removing-stars-from-a-string)**
 - **2478. [Longest Nice Subarray](./2478-longest-nice-subarray)**
+- **2497. [Maximum Matching of Players With Trainers](./2497-maximum-matching-of-players-with-trainers)**
 - **2530. [Minimize Maximum of Array](./2530-minimize-maximum-of-array)**
 - **2546. [Number of Subarrays With GCD Equal to K](./2546-number-of-subarrays-with-gcd-equal-to-k)**
 - **2552. [Maximum Sum of Distinct Subarrays With Length K](./2552-maximum-sum-of-distinct-subarrays-with-length-k)**
@@ -662,7 +664,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 312)</summary>
+<summary id="array"><strong>Array</strong> (Total: 314)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -922,6 +924,9 @@ Welcome to my LeetCode solutions repository!
 - **1791. [Richest Customer Wealth](./1791-richest-customer-wealth)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **1798. [Max Number of K-Sum Pairs](./1798-max-number-of-k-sum-pairs)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **18. [4Sum](./18-4sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -1098,6 +1103,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2486. [Most Frequent Even Element](./2486-most-frequent-even-element)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2497. [Maximum Matching of Players With Trainers](./2497-maximum-matching-of-players-with-trainers)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2502. [Sort the People](./2502-sort-the-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3007,7 +3015,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 36)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 37)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3059,6 +3067,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2436. [Make Array Zero by Subtracting Equal Amounts](./2436-make-array-zero-by-subtracting-equal-amounts)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2497. [Maximum Matching of Players With Trainers](./2497-maximum-matching-of-players-with-trainers)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2530. [Minimize Maximum of Array](./2530-minimize-maximum-of-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3140,7 +3151,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 115)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 116)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3221,6 +3232,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1776. [Minimum Operations to Reduce X to Zero](./1776-minimum-operations-to-reduce-x-to-zero)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1798. [Max Number of K-Sum Pairs](./1798-max-number-of-k-sum-pairs)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1848. [Sum of Unique Elements](./1848-sum-of-unique-elements)**  
@@ -4720,7 +4734,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 75)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 77)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4791,6 +4805,9 @@ Welcome to my LeetCode solutions repository!
 - **1742. [Widest Vertical Area Between Two Points Containing No Points](./1742-widest-vertical-area-between-two-points-containing-no-points)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **1798. [Max Number of K-Sum Pairs](./1798-max-number-of-k-sum-pairs)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **18. [4Sum](./18-4sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -4832,6 +4849,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2436. [Make Array Zero by Subtracting Equal Amounts](./2436-make-array-zero-by-subtracting-equal-amounts)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2497. [Maximum Matching of Players With Trainers](./2497-maximum-matching-of-players-with-trainers)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2502. [Sort the People](./2502-sort-the-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5634,7 +5654,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 71)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 73)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5693,6 +5713,9 @@ Welcome to my LeetCode solutions repository!
 - **167. [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **1798. [Max Number of K-Sum Pairs](./1798-max-number-of-k-sum-pairs)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **18. [4Sum](./18-4sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -5719,6 +5742,9 @@ Welcome to my LeetCode solutions repository!
 
 - **234. [Palindrome Linked List](./234-palindrome-linked-list)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2497. [Maximum Matching of Players With Trainers](./2497-maximum-matching-of-players-with-trainers)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2551. [Apply Operations to an Array](./2551-apply-operations-to-an-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
