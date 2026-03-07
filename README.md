@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 561
+**Total Questions:** 562
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 288 |
-| <span style='color:orange'>Medium</span> | 234 |
+| <span style='color:orange'>Medium</span> | 235 |
 | <span style='color:red'>Hard</span> | 39 |
 
 ### Topics Overview
@@ -73,12 +73,12 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 38 |
 | [Sorting](#sorting) | 77 |
 | [Stack](#stack) | 38 |
-| [String](#string) | 121 |
+| [String](#string) | 122 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
 | [Trie](#trie) | 6 |
-| [Two Pointers](#two-pointers) | 73 |
+| [Two Pointers](#two-pointers) | 74 |
 | [Union-Find](#union-find) | 6 |
 
 ---
@@ -379,7 +379,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 234)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 235)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -538,6 +538,7 @@ Welcome to my LeetCode solutions repository!
 - **43. [Multiply Strings](./43-multiply-strings)**
 - **438. [Find All Anagrams in a String](./438-find-all-anagrams-in-a-string)**
 - **442. [Find All Duplicates in an Array](./442-find-all-duplicates-in-an-array)**
+- **443. [String Compression](./443-string-compression)**
 - **447. [Number of Boomerangs](./447-number-of-boomerangs)**
 - **45. [Jump Game II](./45-jump-game-ii)**
 - **450. [Delete Node in a BST](./450-delete-node-in-a-bst)**
@@ -5089,7 +5090,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 121)</summary>
+<summary id="string"><strong>String</strong> (Total: 122)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5354,6 +5355,9 @@ Welcome to my LeetCode solutions repository!
 
 - **44. [Wildcard Matching](./44-wildcard-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **443. [String Compression](./443-string-compression)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **451. [Sort Characters By Frequency](./451-sort-characters-by-frequency)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5654,7 +5658,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 73)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 74)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5796,6 +5800,9 @@ Welcome to my LeetCode solutions repository!
 
 - **42. [Trapping Rain Water](./42-trapping-rain-water)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **443. [String Compression](./443-string-compression)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **455. [Assign Cookies](./455-assign-cookies)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
