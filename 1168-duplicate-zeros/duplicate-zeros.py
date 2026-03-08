@@ -1,15 +1,25 @@
 class Solution:
-    def duplicateZeros(self, arr: List[int]) -> None:
-        """
-        Do not return anything, modify arr in-place instead.
-        """
-        amount = arr.count(0)
-        i=0
-        while i<len(arr):
-            if arr[i]==0:
-                arr.insert(i+1,0)
-                i+=1
-            i+=1
-        
-        for _ in range(amount):
-            arr.pop()
+    def duplicateZeros(self, arr):
+        n = len(arr)
+        zeros = 0
+
+        for i in range(n):
+            if i + zeros >= n:
+                break
+            if arr[i] == 0:
+                if i + zeros == n - 1:
+                    arr[n - 1] = 0
+                    n -= 1
+                    break
+                zeros += 1
+
+        last = n - zeros - 1
+
+        # Move backwards
+        for i in range(last, -1, -1):
+            if arr[i] == 0:
+                arr[i + zeros] = 0
+                zeros -= 1
+                arr[i + zeros] = 0
+            else:
+                arr[i + zeros] = arr[i]
