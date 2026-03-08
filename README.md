@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 562
+**Total Questions:** 563
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 288 |
+| <span style='color:green'>Easy</span> | 289 |
 | <span style='color:orange'>Medium</span> | 235 |
 | <span style='color:red'>Hard</span> | 39 |
 
@@ -22,7 +22,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 314 |
+| [Array](#array) | 315 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 50 |
@@ -78,7 +78,7 @@ Welcome to my LeetCode solutions repository!
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
 | [Trie](#trie) | 6 |
-| [Two Pointers](#two-pointers) | 74 |
+| [Two Pointers](#two-pointers) | 75 |
 | [Union-Find](#union-find) | 6 |
 
 ---
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 288)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 289)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -106,6 +106,7 @@ Welcome to my LeetCode solutions repository!
 - **112. [Path Sum](./112-path-sum)**
 - **1127. [Last Stone Weight](./1127-last-stone-weight)**
 - **1128. [Remove All Adjacent Duplicates In String](./1128-remove-all-adjacent-duplicates-in-string)**
+- **1168. [Duplicate Zeros](./1168-duplicate-zeros)**
 - **118. [Pascal's Triangle](./118-pascals-triangle)**
 - **119. [Pascal's Triangle II](./119-pascals-triangle-ii)**
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**
@@ -665,7 +666,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 314)</summary>
+<summary id="array"><strong>Array</strong> (Total: 315)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -732,6 +733,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1129. [Longest String Chain](./1129-longest-string-chain)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1168. [Duplicate Zeros](./1168-duplicate-zeros)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **118. [Pascal's Triangle](./118-pascals-triangle)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5658,7 +5662,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 74)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 75)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5680,6 +5684,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1129. [Longest String Chain](./1129-longest-string-chain)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1168. [Duplicate Zeros](./1168-duplicate-zeros)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **125. [Valid Palindrome](./125-valid-palindrome)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
