@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 563
+**Total Questions:** 564
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 289 |
-| <span style='color:orange'>Medium</span> | 235 |
+| <span style='color:orange'>Medium</span> | 236 |
 | <span style='color:red'>Hard</span> | 39 |
 
 ### Topics Overview
@@ -47,7 +47,7 @@ Welcome to my LeetCode solutions repository!
 | [Game Theory](#game-theory) | 4 |
 | [Geometry](#geometry) | 1 |
 | [Graph Theory](#graph-theory) | 5 |
-| [Greedy](#greedy) | 37 |
+| [Greedy](#greedy) | 38 |
 | [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 116 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 19 |
@@ -73,12 +73,12 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 38 |
 | [Sorting](#sorting) | 77 |
 | [Stack](#stack) | 38 |
-| [String](#string) | 122 |
+| [String](#string) | 123 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
 | [Trie](#trie) | 6 |
-| [Two Pointers](#two-pointers) | 75 |
+| [Two Pointers](#two-pointers) | 76 |
 | [Union-Find](#union-find) | 6 |
 
 ---
@@ -380,7 +380,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 235)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 236)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -498,6 +498,7 @@ Welcome to my LeetCode solutions repository!
 - **2546. [Number of Subarrays With GCD Equal to K](./2546-number-of-subarrays-with-gcd-equal-to-k)**
 - **2552. [Maximum Sum of Distinct Subarrays With Length K](./2552-maximum-sum-of-distinct-subarrays-with-length-k)**
 - **2557. [Number of Subarrays With LCM Equal to K](./2557-number-of-subarrays-with-lcm-equal-to-k)**
+- **2572. [Append Characters to String to Make Subsequence](./2572-append-characters-to-string-to-make-subsequence)**
 - **2581. [Divide Players Into Teams of Equal Skill](./2581-divide-players-into-teams-of-equal-skill)**
 - **2599. [Take K of Each Character From Left and Right](./2599-take-k-of-each-character-from-left-and-right)**
 - **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**
@@ -3020,7 +3021,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 37)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 38)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3077,6 +3078,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2530. [Minimize Maximum of Array](./2530-minimize-maximum-of-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2572. [Append Characters to String to Make Subsequence](./2572-append-characters-to-string-to-make-subsequence)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2650. [Split With Minimum Sum](./2650-split-with-minimum-sum)**  
@@ -5094,7 +5098,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 122)</summary>
+<summary id="string"><strong>String</strong> (Total: 123)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5245,6 +5249,9 @@ Welcome to my LeetCode solutions repository!
 
 - **257. [Binary Tree Paths](./257-binary-tree-paths)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2572. [Append Characters to String to Make Subsequence](./2572-append-characters-to-string-to-make-subsequence)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2580. [Circular Sentence](./2580-circular-sentence)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5662,7 +5669,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 75)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 76)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5759,6 +5766,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2551. [Apply Operations to an Array](./2551-apply-operations-to-an-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2572. [Append Characters to String to Make Subsequence](./2572-append-characters-to-string-to-make-subsequence)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2581. [Divide Players Into Teams of Equal Skill](./2581-divide-players-into-teams-of-equal-skill)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
