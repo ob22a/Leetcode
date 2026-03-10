@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 564
+**Total Questions:** 566
 
 ### Difficulty Distribution
 
@@ -14,18 +14,18 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 289 |
-| <span style='color:orange'>Medium</span> | 236 |
+| <span style='color:green'>Easy</span> | 290 |
+| <span style='color:orange'>Medium</span> | 237 |
 | <span style='color:red'>Hard</span> | 39 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 315 |
+| [Array](#array) | 317 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
-| [Binary Search](#binary-search) | 50 |
+| [Binary Search](#binary-search) | 51 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
 | [Binary Tree](#binary-tree) | 42 |
 | [Bit Manipulation](#bit-manipulation) | 29 |
@@ -54,7 +54,7 @@ Welcome to my LeetCode solutions repository!
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
 | [Math](#math) | 101 |
-| [Matrix](#matrix) | 42 |
+| [Matrix](#matrix) | 43 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 1 |
@@ -69,16 +69,16 @@ Welcome to my LeetCode solutions repository!
 | [Rolling Hash](#rolling-hash) | 2 |
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
-| [Simulation](#simulation) | 42 |
+| [Simulation](#simulation) | 43 |
 | [Sliding Window](#sliding-window) | 38 |
-| [Sorting](#sorting) | 77 |
+| [Sorting](#sorting) | 78 |
 | [Stack](#stack) | 38 |
 | [String](#string) | 123 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
 | [Trie](#trie) | 6 |
-| [Two Pointers](#two-pointers) | 76 |
+| [Two Pointers](#two-pointers) | 77 |
 | [Union-Find](#union-find) | 6 |
 
 ---
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 289)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 290)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -239,6 +239,7 @@ Welcome to my LeetCode solutions repository!
 - **2836. [Neither Minimum nor Maximum](./2836-neither-minimum-nor-maximum)**
 - **2876. [Number of Employees Who Met the Target](./2876-number-of-employees-who-met-the-target)**
 - **290. [Word Pattern](./290-word-pattern)**
+- **2917. [Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target)**
 - **292. [Nim Game](./292-nim-game)**
 - **2998. [  Count Symmetric Integers](./2998-count-symmetric-integers)**
 - **303. [Range Sum Query - Immutable](./303-range-sum-query-immutable)**
@@ -380,7 +381,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 236)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 237)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -612,6 +613,7 @@ Welcome to my LeetCode solutions repository!
 - **907. [Koko Eating Bananas](./907-koko-eating-bananas)**
 - **909. [Stone Game](./909-stone-game)**
 - **917. [Boats to Save People](./917-boats-to-save-people)**
+- **921. [Spiral Matrix III](./921-spiral-matrix-iii)**
 - **93. [Restore IP Addresses](./93-restore-ip-addresses)**
 - **937. [Online Stock Span](./937-online-stock-span)**
 - **940. [Fruit Into Baskets](./940-fruit-into-baskets)**
@@ -667,7 +669,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 315)</summary>
+<summary id="array"><strong>Array</strong> (Total: 317)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1197,6 +1199,9 @@ Welcome to my LeetCode solutions repository!
 - **2876. [Number of Employees Who Met the Target](./2876-number-of-employees-who-met-the-target)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **2917. [Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **300. [Longest Increasing Subsequence](./300-longest-increasing-subsequence)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -1590,6 +1595,9 @@ Welcome to my LeetCode solutions repository!
 - **917. [Boats to Save People](./917-boats-to-save-people)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **921. [Spiral Matrix III](./921-spiral-matrix-iii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **940. [Fruit Into Baskets](./940-fruit-into-baskets)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -1702,7 +1710,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 50)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 51)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1792,6 +1800,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **278. [First Bad Version](./278-first-bad-version)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2917. [Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **300. [Longest Increasing Subsequence](./300-longest-increasing-subsequence)**  
@@ -3983,7 +3994,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 42)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 43)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4110,6 +4121,9 @@ Welcome to my LeetCode solutions repository!
 
 - **898. [Transpose Matrix](./898-transpose-matrix)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **921. [Spiral Matrix III](./921-spiral-matrix-iii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
 
@@ -4493,7 +4507,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 42)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 43)</summary>
 
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4621,6 +4635,9 @@ Welcome to my LeetCode solutions repository!
 - **898. [Transpose Matrix](./898-transpose-matrix)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **921. [Spiral Matrix III](./921-spiral-matrix-iii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 </details>
 
 <details>
@@ -4743,7 +4760,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 77)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 78)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4881,6 +4898,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2836. [Neither Minimum nor Maximum](./2836-neither-minimum-nor-maximum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2917. [Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3236. [Smallest Missing Integer Greater Than Sequential Prefix Sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum)**  
@@ -5669,7 +5689,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 76)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 77)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5789,6 +5809,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **283. [Move Zeroes](./283-move-zeroes)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2917. [Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **31. [Next Permutation](./31-next-permutation)**  
