@@ -19,7 +19,7 @@ class Solution:
                     no_odd-=1
                 left+=1
             
-            while left<right and nums[left]%2==0:
+            while left<=right and nums[left]%2==0:
                 left+=1
                 no_evens+=1
             
@@ -27,3 +27,5 @@ class Solution:
                 sol+=no_evens+1            
 
         return sol
+
+        # 2 2 1 1 2 2 1 k=2
