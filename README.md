@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 566
+**Total Questions:** 567
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 290 |
+| <span style='color:green'>Easy</span> | 291 |
 | <span style='color:orange'>Medium</span> | 237 |
 | <span style='color:red'>Hard</span> | 39 |
 
@@ -49,7 +49,7 @@ Welcome to my LeetCode solutions repository!
 | [Graph Theory](#graph-theory) | 5 |
 | [Greedy](#greedy) | 38 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 116 |
+| [Hash Table](#hash-table) | 117 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 19 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
@@ -73,7 +73,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 38 |
 | [Sorting](#sorting) | 78 |
 | [Stack](#stack) | 38 |
-| [String](#string) | 123 |
+| [String](#string) | 124 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 290)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 291)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -188,6 +188,7 @@ Welcome to my LeetCode solutions repository!
 - **2144. [Maximum Difference Between Increasing Elements](./2144-maximum-difference-between-increasing-elements)**
 - **2148. [Minimum Number of Moves to Seat Everyone](./2148-minimum-number-of-moves-to-seat-everyone)**
 - **217. [Contains Duplicate](./217-contains-duplicate)**
+- **2186. [Count Vowel Substrings of a String](./2186-count-vowel-substrings-of-a-string)**
 - **219. [Contains Duplicate II](./219-contains-duplicate-ii)**
 - **2210. [Find Target Indices After Sorting Array](./2210-find-target-indices-after-sorting-array)**
 - **222. [Count Complete Tree Nodes](./222-count-complete-tree-nodes)**
@@ -3171,7 +3172,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 116)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 117)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3282,6 +3283,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **217. [Contains Duplicate](./217-contains-duplicate)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2186. [Count Vowel Substrings of a String](./2186-count-vowel-substrings-of-a-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **219. [Contains Duplicate II](./219-contains-duplicate-ii)**  
@@ -5118,7 +5122,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 123)</summary>
+<summary id="string"><strong>String</strong> (Total: 124)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5238,6 +5242,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2137. [Final Value of Variable After Performing Operations](./2137-final-value-of-variable-after-performing-operations)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2186. [Count Vowel Substrings of a String](./2186-count-vowel-substrings-of-a-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **22. [Generate Parentheses](./22-generate-parentheses)**  
