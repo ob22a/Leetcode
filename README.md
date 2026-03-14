@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 567
+**Total Questions:** 571
 
 ### Difficulty Distribution
 
@@ -15,17 +15,17 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 291 |
-| <span style='color:orange'>Medium</span> | 237 |
-| <span style='color:red'>Hard</span> | 39 |
+| <span style='color:orange'>Medium</span> | 240 |
+| <span style='color:red'>Hard</span> | 40 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 317 |
+| [Array](#array) | 321 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
-| [Binary Search](#binary-search) | 51 |
+| [Binary Search](#binary-search) | 52 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
 | [Binary Tree](#binary-tree) | 42 |
 | [Bit Manipulation](#bit-manipulation) | 29 |
@@ -49,20 +49,20 @@ Welcome to my LeetCode solutions repository!
 | [Graph Theory](#graph-theory) | 5 |
 | [Greedy](#greedy) | 38 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 117 |
-| [Heap (Priority Queue)](#heap-(priority-queue)) | 19 |
+| [Hash Table](#hash-table) | 118 |
+| [Heap (Priority Queue)](#heap-(priority-queue)) | 20 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
 | [Math](#math) | 101 |
 | [Matrix](#matrix) | 43 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
-| [Monotonic Queue](#monotonic-queue) | 1 |
+| [Monotonic Queue](#monotonic-queue) | 2 |
 | [Monotonic Stack](#monotonic-stack) | 14 |
 | [Number Theory](#number-theory) | 9 |
 | [Ordered Set](#ordered-set) | 1 |
-| [Prefix Sum](#prefix-sum) | 37 |
-| [Queue](#queue) | 7 |
+| [Prefix Sum](#prefix-sum) | 39 |
+| [Queue](#queue) | 8 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
 | [Recursion](#recursion) | 19 |
@@ -70,8 +70,8 @@ Welcome to my LeetCode solutions repository!
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 43 |
-| [Sliding Window](#sliding-window) | 38 |
-| [Sorting](#sorting) | 78 |
+| [Sliding Window](#sliding-window) | 42 |
+| [Sorting](#sorting) | 79 |
 | [Stack](#stack) | 38 |
 | [String](#string) | 124 |
 | [String Matching](#string-matching) | 7 |
@@ -382,7 +382,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 237)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 240)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -429,6 +429,7 @@ Welcome to my LeetCode solutions repository!
 - **15. [3Sum](./15-3sum)**
 - **150. [Evaluate Reverse Polish Notation](./150-evaluate-reverse-polish-notation)**
 - **153. [Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array)**
+- **1538. [Maximum Points You Can Obtain from Cards](./1538-maximum-points-you-can-obtain-from-cards)**
 - **155. [Min Stack](./155-min-stack)**
 - **1567. [Maximum Number of Vowels in a Substring of Given Length](./1567-maximum-number-of-vowels-in-a-substring-of-given-length)**
 - **1582. [Design Browser History](./1582-design-browser-history)**
@@ -450,6 +451,7 @@ Welcome to my LeetCode solutions repository!
 - **1787. [Sum of Absolute Differences in a Sorted Array](./1787-sum-of-absolute-differences-in-a-sorted-array)**
 - **1798. [Max Number of K-Sum Pairs](./1798-max-number-of-k-sum-pairs)**
 - **18. [4Sum](./18-4sum)**
+- **1813. [Maximum Erasure Value](./1813-maximum-erasure-value)**
 - **187. [Repeated DNA Sequences](./187-repeated-dna-sequences)**
 - **1876. [Map of Highest Peak](./1876-map-of-highest-peak)**
 - **189. [Rotate Array](./189-rotate-array)**
@@ -528,6 +530,7 @@ Welcome to my LeetCode solutions repository!
 - **355. [Design Twitter](./355-design-twitter)**
 - **3558. [Find a Safe Walk Through a Grid](./3558-find-a-safe-walk-through-a-grid)**
 - **36. [Valid Sudoku](./36-valid-sudoku)**
+- **3622. [Maximum Frequency of an Element After Performing Operations I](./3622-maximum-frequency-of-an-element-after-performing-operations-i)**
 - **365. [Water and Jug Problem](./365-water-and-jug-problem)**
 - **368. [Largest Divisible Subset](./368-largest-divisible-subset)**
 - **372. [Super Pow](./372-super-pow)**
@@ -624,7 +627,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 39)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 40)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -645,6 +648,7 @@ Welcome to my LeetCode solutions repository!
 - **1918. [Maximum Score of a Good Subarray](./1918-maximum-score-of-a-good-subarray)**
 - **23. [Merge k Sorted Lists](./23-merge-k-sorted-lists)**
 - **2375. [Minimum Obstacle Removal to Reach Corner](./2375-minimum-obstacle-removal-to-reach-corner)**
+- **239. [Sliding Window Maximum](./239-sliding-window-maximum)**
 - **2394. [Count Subarrays With Score Less Than K](./2394-count-subarrays-with-score-less-than-k)**
 - **25. [Reverse Nodes in k-Group](./25-reverse-nodes-in-k-group)**
 - **2527. [Count Subarrays With Fixed Bounds](./2527-count-subarrays-with-fixed-bounds)**
@@ -670,7 +674,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 317)</summary>
+<summary id="array"><strong>Array</strong> (Total: 321)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -846,6 +850,9 @@ Welcome to my LeetCode solutions repository!
 - **153. [Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **1538. [Maximum Points You Can Obtain from Cards](./1538-maximum-points-you-can-obtain-from-cards)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **154. [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
@@ -937,6 +944,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **18. [4Sum](./18-4sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1813. [Maximum Erasure Value](./1813-maximum-erasure-value)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1829. [Maximum Units on a Truck](./1829-maximum-units-on-a-truck)**  
@@ -1091,6 +1101,9 @@ Welcome to my LeetCode solutions repository!
 
 - **238. [Product of Array Except Self](./238-product-of-array-except-self)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **239. [Sliding Window Maximum](./239-sliding-window-maximum)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2394. [Count Subarrays With Score Less Than K](./2394-count-subarrays-with-score-less-than-k)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -1295,6 +1308,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3605. [Construct the Minimum Bitwise Array I](./3605-construct-the-minimum-bitwise-array-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3622. [Maximum Frequency of an Element After Performing Operations I](./3622-maximum-frequency-of-an-element-after-performing-operations-i)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3644. [Minimum Positive Sum Subarray ](./3644-minimum-positive-sum-subarray)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1711,7 +1727,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 51)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 52)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1823,6 +1839,9 @@ Welcome to my LeetCode solutions repository!
 
 - **350. [Intersection of Two Arrays II](./350-intersection-of-two-arrays-ii)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3622. [Maximum Frequency of an Element After Performing Operations I](./3622-maximum-frequency-of-an-element-after-performing-operations-i)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **367. [Valid Perfect Square](./367-valid-perfect-square)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3172,7 +3191,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 117)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 118)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3256,6 +3275,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1798. [Max Number of K-Sum Pairs](./1798-max-number-of-k-sum-pairs)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1813. [Maximum Erasure Value](./1813-maximum-erasure-value)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1848. [Sum of Unique Elements](./1848-sum-of-unique-elements)**  
@@ -3528,7 +3550,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="heap-(priority-queue)"><strong>Heap (Priority Queue)</strong> (Total: 19)</summary>
+<summary id="heap-(priority-queue)"><strong>Heap (Priority Queue)</strong> (Total: 20)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3546,6 +3568,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2375. [Minimum Obstacle Removal to Reach Corner](./2375-minimum-obstacle-removal-to-reach-corner)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **239. [Sliding Window Maximum](./239-sliding-window-maximum)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**  
@@ -4160,7 +4185,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="monotonic-queue"><strong>Monotonic Queue</strong> (Total: 1)</summary>
+<summary id="monotonic-queue"><strong>Monotonic Queue</strong> (Total: 2)</summary>
+
+- **239. [Sliding Window Maximum](./239-sliding-window-maximum)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2527. [Count Subarrays With Fixed Bounds](./2527-count-subarrays-with-fixed-bounds)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4255,7 +4283,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 37)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 39)</summary>
 
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4276,6 +4304,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1477. [Product of the Last K Numbers](./1477-product-of-the-last-k-numbers)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1538. [Maximum Points You Can Obtain from Cards](./1538-maximum-points-you-can-obtain-from-cards)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1603. [Running Sum of 1d Array](./1603-running-sum-of-1d-array)**  
@@ -4341,6 +4372,9 @@ Welcome to my LeetCode solutions repository!
 - **304. [Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **3622. [Maximum Frequency of an Element After Performing Operations I](./3622-maximum-frequency-of-an-element-after-performing-operations-i)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **3644. [Minimum Positive Sum Subarray ](./3644-minimum-positive-sum-subarray)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -4371,7 +4405,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="queue"><strong>Queue</strong> (Total: 7)</summary>
+<summary id="queue"><strong>Queue</strong> (Total: 8)</summary>
 
 - **1951. [Find the Winner of the Circular Game](./1951-find-the-winner-of-the-circular-game)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4381,6 +4415,9 @@ Welcome to my LeetCode solutions repository!
 
 - **232. [Implement Queue using Stacks](./232-implement-queue-using-stacks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **239. [Sliding Window Maximum](./239-sliding-window-maximum)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2527. [Count Subarrays With Fixed Bounds](./2527-count-subarrays-with-fixed-bounds)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4645,7 +4682,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 38)</summary>
+<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 42)</summary>
 
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4662,6 +4699,9 @@ Welcome to my LeetCode solutions repository!
 - **1370. [Count Number of Nice Subarrays](./1370-count-number-of-nice-subarrays)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **1538. [Maximum Points You Can Obtain from Cards](./1538-maximum-points-you-can-obtain-from-cards)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **1567. [Maximum Number of Vowels in a Substring of Given Length](./1567-maximum-number-of-vowels-in-a-substring-of-given-length)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -4672,6 +4712,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1776. [Minimum Operations to Reduce X to Zero](./1776-minimum-operations-to-reduce-x-to-zero)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1813. [Maximum Erasure Value](./1813-maximum-erasure-value)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **187. [Repeated DNA Sequences](./187-repeated-dna-sequences)**  
@@ -4691,6 +4734,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2211. [K Radius Subarray Averages](./2211-k-radius-subarray-averages)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **239. [Sliding Window Maximum](./239-sliding-window-maximum)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2394. [Count Subarrays With Score Less Than K](./2394-count-subarrays-with-score-less-than-k)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4728,6 +4774,9 @@ Welcome to my LeetCode solutions repository!
 - **3381. [Shortest Subarray With OR at Least K I](./3381-shortest-subarray-with-or-at-least-k-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **3622. [Maximum Frequency of an Element After Performing Operations I](./3622-maximum-frequency-of-an-element-after-performing-operations-i)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **3644. [Minimum Positive Sum Subarray ](./3644-minimum-positive-sum-subarray)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -4764,7 +4813,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 78)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 79)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4924,6 +4973,9 @@ Welcome to my LeetCode solutions repository!
 
 - **350. [Intersection of Two Arrays II](./350-intersection-of-two-arrays-ii)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3622. [Maximum Frequency of an Element After Performing Operations I](./3622-maximum-frequency-of-an-element-after-performing-operations-i)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **368. [Largest Divisible Subset](./368-largest-divisible-subset)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
