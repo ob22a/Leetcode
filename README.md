@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 571
+**Total Questions:** 572
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 291 |
+| <span style='color:green'>Easy</span> | 292 |
 | <span style='color:orange'>Medium</span> | 240 |
 | <span style='color:red'>Hard</span> | 40 |
 
@@ -28,7 +28,7 @@ Welcome to my LeetCode solutions repository!
 | [Binary Search](#binary-search) | 52 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
 | [Binary Tree](#binary-tree) | 42 |
-| [Bit Manipulation](#bit-manipulation) | 29 |
+| [Bit Manipulation](#bit-manipulation) | 30 |
 | [Bitmask](#bitmask) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 39 |
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 291)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 292)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -304,6 +304,7 @@ Welcome to my LeetCode solutions repository!
 - **459. [Repeated Substring Pattern](./459-repeated-substring-pattern)**
 - **461. [Hamming Distance](./461-hamming-distance)**
 - **463. [Island Perimeter](./463-island-perimeter)**
+- **476. [Number Complement](./476-number-complement)**
 - **482. [License Key Formatting](./482-license-key-formatting)**
 - **485. [Max Consecutive Ones](./485-max-consecutive-ones)**
 - **492. [Construct the Rectangle](./492-construct-the-rectangle)**
@@ -2060,7 +2061,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 29)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 30)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2132,6 +2133,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **461. [Hamming Distance](./461-hamming-distance)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **476. [Number Complement](./476-number-complement)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **67. [Add Binary](./67-add-binary)**  
