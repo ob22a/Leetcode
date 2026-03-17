@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 572
+**Total Questions:** 573
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 292 |
-| <span style='color:orange'>Medium</span> | 240 |
+| <span style='color:orange'>Medium</span> | 241 |
 | <span style='color:red'>Hard</span> | 40 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 321 |
+| [Array](#array) | 322 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 52 |
@@ -42,7 +42,7 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 15 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 62 |
+| [Dynamic Programming](#dynamic-programming) | 63 |
 | [Enumeration](#enumeration) | 8 |
 | [Game Theory](#game-theory) | 4 |
 | [Geometry](#geometry) | 1 |
@@ -70,7 +70,7 @@ Welcome to my LeetCode solutions repository!
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 43 |
-| [Sliding Window](#sliding-window) | 42 |
+| [Sliding Window](#sliding-window) | 43 |
 | [Sorting](#sorting) | 79 |
 | [Stack](#stack) | 38 |
 | [String](#string) | 124 |
@@ -383,11 +383,12 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 240)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 241)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
+- **1020. [Longest Turbulent Subarray](./1020-longest-turbulent-subarray)**
 - **1028. [Interval List Intersections](./1028-interval-list-intersections)**
 - **1033. [Broken Calculator](./1033-broken-calculator)**
 - **1036. [Rotting Oranges](./1036-rotting-oranges)**
@@ -675,7 +676,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 321)</summary>
+<summary id="array"><strong>Array</strong> (Total: 322)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -694,6 +695,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1019. [Squares of a Sorted Array](./1019-squares-of-a-sorted-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1020. [Longest Turbulent Subarray](./1020-longest-turbulent-subarray)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2791,13 +2795,16 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 62)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 63)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1020. [Longest Turbulent Subarray](./1020-longest-turbulent-subarray)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1042. [Minimum Cost to Merge Stones](./1042-minimum-cost-to-merge-stones)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4686,7 +4693,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 42)</summary>
+<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 43)</summary>
+
+- **1020. [Longest Turbulent Subarray](./1020-longest-turbulent-subarray)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
