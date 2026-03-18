@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 573
+**Total Questions:** 574
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 292 |
+| <span style='color:green'>Easy</span> | 293 |
 | <span style='color:orange'>Medium</span> | 241 |
 | <span style='color:red'>Hard</span> | 40 |
 
@@ -70,10 +70,10 @@ Welcome to my LeetCode solutions repository!
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 43 |
-| [Sliding Window](#sliding-window) | 43 |
+| [Sliding Window](#sliding-window) | 44 |
 | [Sorting](#sorting) | 79 |
 | [Stack](#stack) | 38 |
-| [String](#string) | 124 |
+| [String](#string) | 125 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
@@ -86,7 +86,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 292)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 293)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -209,6 +209,7 @@ Welcome to my LeetCode solutions repository!
 - **2416. [Evaluate Boolean Binary Tree](./2416-evaluate-boolean-binary-tree)**
 - **242. [Valid Anagram](./242-valid-anagram)**
 - **2436. [Make Array Zero by Subtracting Equal Amounts](./2436-make-array-zero-by-subtracting-equal-amounts)**
+- **2463. [Minimum Recolors to Get K Consecutive Black Blocks](./2463-minimum-recolors-to-get-k-consecutive-black-blocks)**
 - **2486. [Most Frequent Even Element](./2486-most-frequent-even-element)**
 - **2491. [Smallest Even Multiple](./2491-smallest-even-multiple)**
 - **2502. [Sort the People](./2502-sort-the-people)**
@@ -4693,7 +4694,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 43)</summary>
+<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 44)</summary>
 
 - **1020. [Longest Turbulent Subarray](./1020-longest-turbulent-subarray)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4754,6 +4755,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2394. [Count Subarrays With Score Less Than K](./2394-count-subarrays-with-score-less-than-k)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **2463. [Minimum Recolors to Get K Consecutive Black Blocks](./2463-minimum-recolors-to-get-k-consecutive-black-blocks)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2478. [Longest Nice Subarray](./2478-longest-nice-subarray)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5188,7 +5192,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 124)</summary>
+<summary id="string"><strong>String</strong> (Total: 125)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5327,6 +5331,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2463. [Minimum Recolors to Get K Consecutive Black Blocks](./2463-minimum-recolors-to-get-k-consecutive-black-blocks)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2465. [Shifting Letters II](./2465-shifting-letters-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
