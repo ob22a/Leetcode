@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 574
+**Total Questions:** 575
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 293 |
-| <span style='color:orange'>Medium</span> | 241 |
+| <span style='color:orange'>Medium</span> | 242 |
 | <span style='color:red'>Hard</span> | 40 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 322 |
+| [Array](#array) | 323 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 52 |
@@ -54,14 +54,14 @@ Welcome to my LeetCode solutions repository!
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
 | [Math](#math) | 101 |
-| [Matrix](#matrix) | 43 |
+| [Matrix](#matrix) | 44 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 2 |
 | [Monotonic Stack](#monotonic-stack) | 14 |
 | [Number Theory](#number-theory) | 9 |
 | [Ordered Set](#ordered-set) | 1 |
-| [Prefix Sum](#prefix-sum) | 39 |
+| [Prefix Sum](#prefix-sum) | 40 |
 | [Queue](#queue) | 8 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
@@ -384,7 +384,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 241)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 242)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -527,6 +527,7 @@ Welcome to my LeetCode solutions repository!
 - **322. [Coin Change](./322-coin-change)**
 - **3234. [Double Modular Exponentiation](./3234-double-modular-exponentiation)**
 - **33. [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array)**
+- **3338. [Count Submatrices with Top-Left Element and Sum Less Than k](./3338-count-submatrices-with-top-left-element-and-sum-less-than-k)**
 - **34. [Find First and Last Position of Element in Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array)**
 - **3434. [Find the Number of Distinct Colors Among the Balls](./3434-find-the-number-of-distinct-colors-among-the-balls)**
 - **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**
@@ -677,7 +678,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 322)</summary>
+<summary id="array"><strong>Array</strong> (Total: 323)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1269,6 +1270,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3321. [Type of Triangle](./3321-type-of-triangle)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3338. [Count Submatrices with Top-Left Element and Sum Less Than k](./3338-count-submatrices-with-top-left-element-and-sum-less-than-k)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3347. [Distribute Elements Into Two Arrays I](./3347-distribute-elements-into-two-arrays-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4035,7 +4039,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 43)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 44)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4092,6 +4096,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **304. [Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3338. [Count Submatrices with Top-Left Element and Sum Less Than k](./3338-count-submatrices-with-top-left-element-and-sum-less-than-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3558. [Find a Safe Walk Through a Grid](./3558-find-a-safe-walk-through-a-grid)**  
@@ -4295,7 +4302,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 39)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 40)</summary>
 
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4382,6 +4389,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **304. [Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3338. [Count Submatrices with Top-Left Element and Sum Less Than k](./3338-count-submatrices-with-top-left-element-and-sum-less-than-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3622. [Maximum Frequency of an Element After Performing Operations I](./3622-maximum-frequency-of-an-element-after-performing-operations-i)**  
