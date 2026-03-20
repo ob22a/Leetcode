@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 575
+**Total Questions:** 576
 
 ### Difficulty Distribution
 
@@ -16,16 +16,16 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 293 |
 | <span style='color:orange'>Medium</span> | 242 |
-| <span style='color:red'>Hard</span> | 40 |
+| <span style='color:red'>Hard</span> | 41 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 323 |
+| [Array](#array) | 324 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
-| [Binary Search](#binary-search) | 52 |
+| [Binary Search](#binary-search) | 53 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
 | [Binary Tree](#binary-tree) | 42 |
 | [Bit Manipulation](#bit-manipulation) | 30 |
@@ -49,7 +49,7 @@ Welcome to my LeetCode solutions repository!
 | [Graph Theory](#graph-theory) | 5 |
 | [Greedy](#greedy) | 38 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 118 |
+| [Hash Table](#hash-table) | 119 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 20 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
@@ -70,7 +70,7 @@ Welcome to my LeetCode solutions repository!
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 43 |
-| [Sliding Window](#sliding-window) | 44 |
+| [Sliding Window](#sliding-window) | 45 |
 | [Sorting](#sorting) | 79 |
 | [Stack](#stack) | 38 |
 | [String](#string) | 125 |
@@ -631,7 +631,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 40)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 41)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -650,6 +650,7 @@ Welcome to my LeetCode solutions repository!
 - **188. [Best Time to Buy and Sell Stock IV](./188-best-time-to-buy-and-sell-stock-iv)**
 - **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**
 - **1918. [Maximum Score of a Good Subarray](./1918-maximum-score-of-a-good-subarray)**
+- **2119. [Minimum Number of Operations to Make Array Continuous](./2119-minimum-number-of-operations-to-make-array-continuous)**
 - **23. [Merge k Sorted Lists](./23-merge-k-sorted-lists)**
 - **2375. [Minimum Obstacle Removal to Reach Corner](./2375-minimum-obstacle-removal-to-reach-corner)**
 - **239. [Sliding Window Maximum](./239-sliding-window-maximum)**
@@ -678,7 +679,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 323)</summary>
+<summary id="array"><strong>Array</strong> (Total: 324)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1024,6 +1025,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2106. [Find Greatest Common Divisor of Array](./2106-find-greatest-common-divisor-of-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2119. [Minimum Number of Operations to Make Array Continuous](./2119-minimum-number-of-operations-to-make-array-continuous)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **213. [House Robber II](./213-house-robber-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1737,7 +1741,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 52)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 53)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1795,6 +1799,9 @@ Welcome to my LeetCode solutions repository!
 
 - **209. [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2119. [Minimum Number of Operations to Make Array Continuous](./2119-minimum-number-of-operations-to-make-array-continuous)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2134. [Maximize the Confusion of an Exam](./2134-maximize-the-confusion-of-an-exam)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3207,7 +3214,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 118)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 119)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3319,6 +3326,9 @@ Welcome to my LeetCode solutions repository!
 
 - **208. [Implement Trie (Prefix Tree)](./208-implement-trie-prefix-tree)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2119. [Minimum Number of Operations to Make Array Continuous](./2119-minimum-number-of-operations-to-make-array-continuous)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **217. [Contains Duplicate](./217-contains-duplicate)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4704,7 +4714,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 44)</summary>
+<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 45)</summary>
 
 - **1020. [Longest Turbulent Subarray](./1020-longest-turbulent-subarray)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4750,6 +4760,9 @@ Welcome to my LeetCode solutions repository!
 
 - **209. [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2119. [Minimum Number of Operations to Make Array Continuous](./2119-minimum-number-of-operations-to-make-array-continuous)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2134. [Maximize the Confusion of an Exam](./2134-maximize-the-confusion-of-an-exam)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
