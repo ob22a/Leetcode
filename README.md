@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 576
+**Total Questions:** 577
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 293 |
-| <span style='color:orange'>Medium</span> | 242 |
+| <span style='color:orange'>Medium</span> | 243 |
 | <span style='color:red'>Hard</span> | 41 |
 
 ### Topics Overview
@@ -70,10 +70,10 @@ Welcome to my LeetCode solutions repository!
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 43 |
-| [Sliding Window](#sliding-window) | 45 |
+| [Sliding Window](#sliding-window) | 46 |
 | [Sorting](#sorting) | 79 |
 | [Stack](#stack) | 38 |
-| [String](#string) | 125 |
+| [String](#string) | 126 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
@@ -384,7 +384,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 242)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 243)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -515,6 +515,7 @@ Welcome to my LeetCode solutions repository!
 - **2728. [Sum in a Matrix](./2728-sum-in-a-matrix)**
 - **274. [H-Index](./274-h-index)**
 - **2751. [Sliding Subarray Beauty](./2751-sliding-subarray-beauty)**
+- **2786. [Find the Longest Semi-Repetitive Substring](./2786-find-the-longest-semi-repetitive-substring)**
 - **2871. [Double a Number Represented as a Linked List](./2871-double-a-number-represented-as-a-linked-list)**
 - **299. [Bulls and Cows](./299-bulls-and-cows)**
 - **3. [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters)**
@@ -4714,7 +4715,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 45)</summary>
+<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 46)</summary>
 
 - **1020. [Longest Turbulent Subarray](./1020-longest-turbulent-subarray)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4798,6 +4799,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2751. [Sliding Subarray Beauty](./2751-sliding-subarray-beauty)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2786. [Find the Longest Semi-Repetitive Substring](./2786-find-the-longest-semi-repetitive-substring)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3. [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters)**  
@@ -5215,7 +5219,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 125)</summary>
+<summary id="string"><strong>String</strong> (Total: 126)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5383,6 +5387,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2599. [Take K of Each Character From Left and Right](./2599-take-k-of-each-character-from-left-and-right)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2786. [Find the Longest Semi-Repetitive Substring](./2786-find-the-longest-semi-repetitive-substring)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **28. [Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string)**  
