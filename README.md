@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 577
+**Total Questions:** 578
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 293 |
-| <span style='color:orange'>Medium</span> | 243 |
+| <span style='color:orange'>Medium</span> | 244 |
 | <span style='color:red'>Hard</span> | 41 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 324 |
+| [Array](#array) | 325 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 53 |
@@ -61,7 +61,7 @@ Welcome to my LeetCode solutions repository!
 | [Monotonic Stack](#monotonic-stack) | 14 |
 | [Number Theory](#number-theory) | 9 |
 | [Ordered Set](#ordered-set) | 1 |
-| [Prefix Sum](#prefix-sum) | 40 |
+| [Prefix Sum](#prefix-sum) | 41 |
 | [Queue](#queue) | 8 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
@@ -384,7 +384,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 243)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 244)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -405,6 +405,7 @@ Welcome to my LeetCode solutions repository!
 - **116. [Populating Next Right Pointers in Each Node](./116-populating-next-right-pointers-in-each-node)**
 - **12. [Integer to Roman](./12-integer-to-roman)**
 - **120. [Triangle](./120-triangle)**
+- **1206. [Corporate Flight Bookings](./1206-corporate-flight-bookings)**
 - **1218. [Lowest Common Ancestor of Deepest Leaves](./1218-lowest-common-ancestor-of-deepest-leaves)**
 - **122. [Best Time to Buy and Sell Stock II](./122-best-time-to-buy-and-sell-stock-ii)**
 - **1242. [Matrix Block Sum](./1242-matrix-block-sum)**
@@ -680,7 +681,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 324)</summary>
+<summary id="array"><strong>Array</strong> (Total: 325)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -761,6 +762,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **120. [Triangle](./120-triangle)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1206. [Corporate Flight Bookings](./1206-corporate-flight-bookings)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **121. [Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock)**  
@@ -4313,7 +4317,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 40)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 41)</summary>
 
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4322,6 +4326,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1206. [Corporate Flight Bookings](./1206-corporate-flight-bookings)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1242. [Matrix Block Sum](./1242-matrix-block-sum)**  
