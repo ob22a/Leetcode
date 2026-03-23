@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 578
+**Total Questions:** 579
 
 ### Difficulty Distribution
 
@@ -15,17 +15,17 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 293 |
-| <span style='color:orange'>Medium</span> | 244 |
+| <span style='color:orange'>Medium</span> | 245 |
 | <span style='color:red'>Hard</span> | 41 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 325 |
+| [Array](#array) | 326 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
-| [Binary Search](#binary-search) | 53 |
+| [Binary Search](#binary-search) | 54 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
 | [Binary Tree](#binary-tree) | 42 |
 | [Bit Manipulation](#bit-manipulation) | 30 |
@@ -47,7 +47,7 @@ Welcome to my LeetCode solutions repository!
 | [Game Theory](#game-theory) | 4 |
 | [Geometry](#geometry) | 1 |
 | [Graph Theory](#graph-theory) | 5 |
-| [Greedy](#greedy) | 38 |
+| [Greedy](#greedy) | 39 |
 | [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 119 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 20 |
@@ -384,7 +384,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 244)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 245)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -508,6 +508,7 @@ Welcome to my LeetCode solutions repository!
 - **2557. [Number of Subarrays With LCM Equal to K](./2557-number-of-subarrays-with-lcm-equal-to-k)**
 - **2572. [Append Characters to String to Make Subsequence](./2572-append-characters-to-string-to-make-subsequence)**
 - **2581. [Divide Players Into Teams of Equal Skill](./2581-divide-players-into-teams-of-equal-skill)**
+- **2591. [Frog Jump II](./2591-frog-jump-ii)**
 - **2599. [Take K of Each Character From Left and Right](./2599-take-k-of-each-character-from-left-and-right)**
 - **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**
 - **2626. [Count the Number of Good Subarrays](./2626-count-the-number-of-good-subarrays)**
@@ -681,7 +682,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 325)</summary>
+<summary id="array"><strong>Array</strong> (Total: 326)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1167,6 +1168,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2581. [Divide Players Into Teams of Equal Skill](./2581-divide-players-into-teams-of-equal-skill)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2591. [Frog Jump II](./2591-frog-jump-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2598. [Shortest Distance to Target String in a Circular Array](./2598-shortest-distance-to-target-string-in-a-circular-array)**  
@@ -1746,7 +1750,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 53)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 54)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1827,6 +1831,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2530. [Minimize Maximum of Array](./2530-minimize-maximum-of-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2591. [Frog Jump II](./2591-frog-jump-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2614. [Maximum Count of Positive Integer and Negative Integer](./2614-maximum-count-of-positive-integer-and-negative-integer)**  
@@ -3080,7 +3087,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 38)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 39)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3140,6 +3147,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2572. [Append Characters to String to Make Subsequence](./2572-append-characters-to-string-to-make-subsequence)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2591. [Frog Jump II](./2591-frog-jump-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2650. [Split With Minimum Sum](./2650-split-with-minimum-sum)**  
