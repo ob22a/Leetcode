@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 579
+**Total Questions:** 580
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 293 |
-| <span style='color:orange'>Medium</span> | 245 |
+| <span style='color:orange'>Medium</span> | 246 |
 | <span style='color:red'>Hard</span> | 41 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 326 |
+| [Array](#array) | 327 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 54 |
@@ -31,14 +31,14 @@ Welcome to my LeetCode solutions repository!
 | [Bit Manipulation](#bit-manipulation) | 30 |
 | [Bitmask](#bitmask) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 39 |
+| [Breadth-First Search](#breadth-first-search) | 40 |
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Combinatorics](#combinatorics) | 2 |
 | [Counting](#counting) | 30 |
 | [Counting Sort](#counting-sort) | 5 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 15 |
-| [Depth-First Search](#depth-first-search) | 50 |
+| [Depth-First Search](#depth-first-search) | 51 |
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 15 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
@@ -384,7 +384,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 245)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 246)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -426,6 +426,7 @@ Welcome to my LeetCode solutions repository!
 - **1402. [Count Square Submatrices with All Ones](./1402-count-square-submatrices-with-all-ones)**
 - **1408. [Find the Smallest Divisor Given a Threshold](./1408-find-the-smallest-divisor-given-a-threshold)**
 - **142. [Linked List Cycle II](./142-linked-list-cycle-ii)**
+- **1428. [Jump Game III](./1428-jump-game-iii)**
 - **143. [Reorder List](./143-reorder-list)**
 - **1477. [Product of the Last K Numbers](./1477-product-of-the-last-k-numbers)**
 - **148. [Sort List](./148-sort-list)**
@@ -682,7 +683,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 326)</summary>
+<summary id="array"><strong>Array</strong> (Total: 327)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -836,6 +837,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1414. [Shortest Path in a Grid with Obstacles Elimination](./1414-shortest-path-in-a-grid-with-obstacles-elimination)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **1428. [Jump Game III](./1428-jump-game-iii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1468. [Check If N and Its Double Exist](./1468-check-if-n-and-its-double-exist)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2206,7 +2210,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 39)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 40)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2252,6 +2256,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1414. [Shortest Path in a Grid with Obstacles Elimination](./1414-shortest-path-in-a-grid-with-obstacles-elimination)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **1428. [Jump Game III](./1428-jump-game-iii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1876. [Map of Highest Peak](./1876-map-of-highest-peak)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2541,7 +2548,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 50)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 51)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2580,6 +2587,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1380. [Number of Closed Islands](./1380-number-of-closed-islands)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1428. [Jump Game III](./1428-jump-game-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **144. [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal)**  
