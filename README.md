@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 580
+**Total Questions:** 581
 
 ### Difficulty Distribution
 
@@ -15,17 +15,17 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 293 |
-| <span style='color:orange'>Medium</span> | 246 |
+| <span style='color:orange'>Medium</span> | 247 |
 | <span style='color:red'>Hard</span> | 41 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 327 |
+| [Array](#array) | 328 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
-| [Binary Search](#binary-search) | 54 |
+| [Binary Search](#binary-search) | 55 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
 | [Binary Tree](#binary-tree) | 42 |
 | [Bit Manipulation](#bit-manipulation) | 30 |
@@ -47,7 +47,7 @@ Welcome to my LeetCode solutions repository!
 | [Game Theory](#game-theory) | 4 |
 | [Geometry](#geometry) | 1 |
 | [Graph Theory](#graph-theory) | 5 |
-| [Greedy](#greedy) | 39 |
+| [Greedy](#greedy) | 40 |
 | [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 119 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 20 |
@@ -71,7 +71,7 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 43 |
 | [Sliding Window](#sliding-window) | 46 |
-| [Sorting](#sorting) | 79 |
+| [Sorting](#sorting) | 80 |
 | [Stack](#stack) | 38 |
 | [String](#string) | 126 |
 | [String Matching](#string-matching) | 7 |
@@ -384,7 +384,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 246)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 247)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -511,6 +511,7 @@ Welcome to my LeetCode solutions repository!
 - **2581. [Divide Players Into Teams of Equal Skill](./2581-divide-players-into-teams-of-equal-skill)**
 - **2591. [Frog Jump II](./2591-frog-jump-ii)**
 - **2599. [Take K of Each Character From Left and Right](./2599-take-k-of-each-character-from-left-and-right)**
+- **2600. [Maximum Tastiness of Candy Basket](./2600-maximum-tastiness-of-candy-basket)**
 - **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**
 - **2626. [Count the Number of Good Subarrays](./2626-count-the-number-of-good-subarrays)**
 - **264. [Ugly Number II](./264-ugly-number-ii)**
@@ -683,7 +684,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 327)</summary>
+<summary id="array"><strong>Array</strong> (Total: 328)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1182,6 +1183,9 @@ Welcome to my LeetCode solutions repository!
 
 - **26. [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2600. [Maximum Tastiness of Candy Basket](./2600-maximum-tastiness-of-candy-basket)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2602. [Maximum Enemy Forts That Can Be Captured](./2602-maximum-enemy-forts-that-can-be-captured)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1754,7 +1758,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 54)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 55)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1838,6 +1842,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2591. [Frog Jump II](./2591-frog-jump-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2600. [Maximum Tastiness of Candy Basket](./2600-maximum-tastiness-of-candy-basket)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2614. [Maximum Count of Positive Integer and Negative Integer](./2614-maximum-count-of-positive-integer-and-negative-integer)**  
@@ -3097,7 +3104,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 39)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 40)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3160,6 +3167,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2591. [Frog Jump II](./2591-frog-jump-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2600. [Maximum Tastiness of Candy Basket](./2600-maximum-tastiness-of-candy-basket)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2650. [Split With Minimum Sum](./2650-split-with-minimum-sum)**  
@@ -4885,7 +4895,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 79)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 80)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5008,6 +5018,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2581. [Divide Players Into Teams of Equal Skill](./2581-divide-players-into-teams-of-equal-skill)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2600. [Maximum Tastiness of Candy Basket](./2600-maximum-tastiness-of-candy-basket)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2650. [Split With Minimum Sum](./2650-split-with-minimum-sum)**  
