@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 581
+**Total Questions:** 582
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 293 |
-| <span style='color:orange'>Medium</span> | 247 |
+| <span style='color:orange'>Medium</span> | 248 |
 | <span style='color:red'>Hard</span> | 41 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 328 |
+| [Array](#array) | 329 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 55 |
@@ -42,12 +42,12 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 15 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 63 |
+| [Dynamic Programming](#dynamic-programming) | 64 |
 | [Enumeration](#enumeration) | 8 |
 | [Game Theory](#game-theory) | 4 |
 | [Geometry](#geometry) | 1 |
 | [Graph Theory](#graph-theory) | 5 |
-| [Greedy](#greedy) | 40 |
+| [Greedy](#greedy) | 41 |
 | [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 119 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 20 |
@@ -58,7 +58,7 @@ Welcome to my LeetCode solutions repository!
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 2 |
-| [Monotonic Stack](#monotonic-stack) | 14 |
+| [Monotonic Stack](#monotonic-stack) | 15 |
 | [Number Theory](#number-theory) | 9 |
 | [Ordered Set](#ordered-set) | 1 |
 | [Prefix Sum](#prefix-sum) | 41 |
@@ -72,7 +72,7 @@ Welcome to my LeetCode solutions repository!
 | [Simulation](#simulation) | 43 |
 | [Sliding Window](#sliding-window) | 46 |
 | [Sorting](#sorting) | 80 |
-| [Stack](#stack) | 38 |
+| [Stack](#stack) | 39 |
 | [String](#string) | 126 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
@@ -384,7 +384,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 247)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 248)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -408,6 +408,7 @@ Welcome to my LeetCode solutions repository!
 - **1206. [Corporate Flight Bookings](./1206-corporate-flight-bookings)**
 - **1218. [Lowest Common Ancestor of Deepest Leaves](./1218-lowest-common-ancestor-of-deepest-leaves)**
 - **122. [Best Time to Buy and Sell Stock II](./122-best-time-to-buy-and-sell-stock-ii)**
+- **1228. [Minimum Cost Tree From Leaf Values](./1228-minimum-cost-tree-from-leaf-values)**
 - **1242. [Matrix Block Sum](./1242-matrix-block-sum)**
 - **1250. [Longest Common Subsequence](./1250-longest-common-subsequence)**
 - **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**
@@ -684,7 +685,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 328)</summary>
+<summary id="array"><strong>Array</strong> (Total: 329)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -781,6 +782,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1227. [Number of Equivalent Domino Pairs](./1227-number-of-equivalent-domino-pairs)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1228. [Minimum Cost Tree From Leaf Values](./1228-minimum-cost-tree-from-leaf-values)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **123. [Best Time to Buy and Sell Stock III](./123-best-time-to-buy-and-sell-stock-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2836,7 +2840,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 63)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 64)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2878,6 +2882,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **122. [Best Time to Buy and Sell Stock II](./122-best-time-to-buy-and-sell-stock-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1228. [Minimum Cost Tree From Leaf Values](./1228-minimum-cost-tree-from-leaf-values)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **123. [Best Time to Buy and Sell Stock III](./123-best-time-to-buy-and-sell-stock-iii)**  
@@ -3104,7 +3111,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 40)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 41)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3122,6 +3129,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **122. [Best Time to Buy and Sell Stock II](./122-best-time-to-buy-and-sell-stock-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1228. [Minimum Cost Tree From Leaf Values](./1228-minimum-cost-tree-from-leaf-values)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1304. [Longest Happy String](./1304-longest-happy-string)**  
@@ -4260,12 +4270,15 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="monotonic-stack"><strong>Monotonic Stack</strong> (Total: 14)</summary>
+<summary id="monotonic-stack"><strong>Monotonic Stack</strong> (Total: 15)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1159. [Smallest Subsequence of Distinct Characters](./1159-smallest-subsequence-of-distinct-characters)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1228. [Minimum Cost Tree From Leaf Values](./1228-minimum-cost-tree-from-leaf-values)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1918. [Maximum Score of a Good Subarray](./1918-maximum-score-of-a-good-subarray)**  
@@ -5140,7 +5153,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="stack"><strong>Stack</strong> (Total: 38)</summary>
+<summary id="stack"><strong>Stack</strong> (Total: 39)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5153,6 +5166,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1197. [Parsing A Boolean Expression](./1197-parsing-a-boolean-expression)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **1228. [Minimum Cost Tree From Leaf Values](./1228-minimum-cost-tree-from-leaf-values)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1320. [Remove All Adjacent Duplicates in String II](./1320-remove-all-adjacent-duplicates-in-string-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
