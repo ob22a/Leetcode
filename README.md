@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 582
+**Total Questions:** 583
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 293 |
-| <span style='color:orange'>Medium</span> | 248 |
+| <span style='color:orange'>Medium</span> | 249 |
 | <span style='color:red'>Hard</span> | 41 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 329 |
+| [Array](#array) | 330 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 55 |
@@ -45,7 +45,7 @@ Welcome to my LeetCode solutions repository!
 | [Dynamic Programming](#dynamic-programming) | 64 |
 | [Enumeration](#enumeration) | 8 |
 | [Game Theory](#game-theory) | 4 |
-| [Geometry](#geometry) | 1 |
+| [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 5 |
 | [Greedy](#greedy) | 41 |
 | [Hash Function](#hash-function) | 5 |
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 20 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
-| [Math](#math) | 101 |
+| [Math](#math) | 102 |
 | [Matrix](#matrix) | 44 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -384,7 +384,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 248)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 249)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -533,6 +533,7 @@ Welcome to my LeetCode solutions repository!
 - **322. [Coin Change](./322-coin-change)**
 - **3234. [Double Modular Exponentiation](./3234-double-modular-exponentiation)**
 - **33. [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array)**
+- **3325. [Find the Largest Area of Square Inside Two Rectangles](./3325-find-the-largest-area-of-square-inside-two-rectangles)**
 - **3338. [Count Submatrices with Top-Left Element and Sum Less Than k](./3338-count-submatrices-with-top-left-element-and-sum-less-than-k)**
 - **34. [Find First and Last Position of Element in Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array)**
 - **3434. [Find the Number of Distinct Colors Among the Balls](./3434-find-the-number-of-distinct-colors-among-the-balls)**
@@ -685,7 +686,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 329)</summary>
+<summary id="array"><strong>Array</strong> (Total: 330)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1295,6 +1296,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3321. [Type of Triangle](./3321-type-of-triangle)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3325. [Find the Largest Area of Square Inside Two Rectangles](./3325-find-the-largest-area-of-square-inside-two-rectangles)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3338. [Count Submatrices with Top-Left Element and Sum Less Than k](./3338-count-submatrices-with-top-left-element-and-sum-less-than-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3083,10 +3087,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="geometry"><strong>Geometry</strong> (Total: 1)</summary>
+<summary id="geometry"><strong>Geometry</strong> (Total: 2)</summary>
 
 - **1349. [Check If It Is a Straight Line](./1349-check-if-it-is-a-straight-line)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3325. [Find the Largest Area of Square Inside Two Rectangles](./3325-find-the-largest-area-of-square-inside-two-rectangles)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
 
@@ -3786,7 +3793,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 101)</summary>
+<summary id="math"><strong>Math</strong> (Total: 102)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3961,6 +3968,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3321. [Type of Triangle](./3321-type-of-triangle)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3325. [Find the Largest Area of Square Inside Two Rectangles](./3325-find-the-largest-area-of-square-inside-two-rectangles)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3367. [Find the Sum of Encrypted Integers](./3367-find-the-sum-of-encrypted-integers)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
