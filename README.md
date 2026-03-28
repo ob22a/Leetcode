@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 583
+**Total Questions:** 584
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 293 |
-| <span style='color:orange'>Medium</span> | 249 |
+| <span style='color:orange'>Medium</span> | 250 |
 | <span style='color:red'>Hard</span> | 41 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 330 |
+| [Array](#array) | 331 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 55 |
@@ -78,7 +78,7 @@ Welcome to my LeetCode solutions repository!
 | [Sweep Line](#sweep-line) | 1 |
 | [Tree](#tree) | 45 |
 | [Trie](#trie) | 6 |
-| [Two Pointers](#two-pointers) | 77 |
+| [Two Pointers](#two-pointers) | 78 |
 | [Union-Find](#union-find) | 6 |
 
 ---
@@ -384,7 +384,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 249)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 250)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -614,6 +614,7 @@ Welcome to my LeetCode solutions repository!
 - **77. [Combinations](./77-combinations)**
 - **78. [Subsets](./78-subsets)**
 - **79. [Word Search](./79-word-search)**
+- **80. [Remove Duplicates from Sorted Array II](./80-remove-duplicates-from-sorted-array-ii)**
 - **805. [Escape The Ghosts](./805-escape-the-ghosts)**
 - **81. [Search in Rotated Sorted Array II](./81-search-in-rotated-sorted-array-ii)**
 - **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**
@@ -686,7 +687,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 330)</summary>
+<summary id="array"><strong>Array</strong> (Total: 331)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1590,6 +1591,9 @@ Welcome to my LeetCode solutions repository!
 
 - **792. [Binary Search](./792-binary-search)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **80. [Remove Duplicates from Sorted Array II](./80-remove-duplicates-from-sorted-array-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **805. [Escape The Ghosts](./805-escape-the-ghosts)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5865,7 +5869,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 77)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 78)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6066,6 +6070,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **768. [Partition Labels](./768-partition-labels)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **80. [Remove Duplicates from Sorted Array II](./80-remove-duplicates-from-sorted-array-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **841. [Shortest Distance to a Character](./841-shortest-distance-to-a-character)**  
