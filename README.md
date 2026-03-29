@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 584
+**Total Questions:** 585
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 293 |
-| <span style='color:orange'>Medium</span> | 250 |
+| <span style='color:orange'>Medium</span> | 251 |
 | <span style='color:red'>Hard</span> | 41 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 331 |
+| [Array](#array) | 332 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 55 |
@@ -42,14 +42,14 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 15 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 64 |
+| [Dynamic Programming](#dynamic-programming) | 65 |
 | [Enumeration](#enumeration) | 8 |
 | [Game Theory](#game-theory) | 4 |
 | [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 5 |
 | [Greedy](#greedy) | 41 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 119 |
+| [Hash Table](#hash-table) | 120 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 20 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 28 |
@@ -384,7 +384,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 250)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 251)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -419,6 +419,7 @@ Welcome to my LeetCode solutions repository!
 - **131. [Palindrome Partitioning](./131-palindrome-partitioning)**
 - **1320. [Remove All Adjacent Duplicates in String II](./1320-remove-all-adjacent-duplicates-in-string-ii)**
 - **1321. [Get Equal Substrings Within Budget](./1321-get-equal-substrings-within-budget)**
+- **1330. [Longest Arithmetic Subsequence of Given Difference](./1330-longest-arithmetic-subsequence-of-given-difference)**
 - **134. [Gas Station](./134-gas-station)**
 - **1351. [Replace the Substring for Balanced String](./1351-replace-the-substring-for-balanced-string)**
 - **1354. [Find Players With Zero or One Losses](./1354-find-players-with-zero-or-one-losses)**
@@ -687,7 +688,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 331)</summary>
+<summary id="array"><strong>Array</strong> (Total: 332)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -805,6 +806,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1329. [Minimum Cost to Move Chips to The Same Position](./1329-minimum-cost-to-move-chips-to-the-same-position)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1330. [Longest Arithmetic Subsequence of Given Difference](./1330-longest-arithmetic-subsequence-of-given-difference)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **134. [Gas Station](./134-gas-station)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2848,7 +2852,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 64)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 65)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2909,6 +2913,9 @@ Welcome to my LeetCode solutions repository!
 
 - **132. [Palindrome Partitioning II](./132-palindrome-partitioning-ii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **1330. [Longest Arithmetic Subsequence of Given Difference](./1330-longest-arithmetic-subsequence-of-given-difference)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1402. [Count Square Submatrices with All Ones](./1402-count-square-submatrices-with-all-ones)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3270,7 +3277,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 119)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 120)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3307,6 +3314,9 @@ Welcome to my LeetCode solutions repository!
 
 - **13. [Roman to Integer](./13-roman-to-integer)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1330. [Longest Arithmetic Subsequence of Given Difference](./1330-longest-arithmetic-subsequence-of-given-difference)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1353. [Find Resultant Array After Removing Anagrams](./1353-find-resultant-array-after-removing-anagrams)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
