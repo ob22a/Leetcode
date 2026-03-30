@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 585
+**Total Questions:** 586
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 293 |
-| <span style='color:orange'>Medium</span> | 251 |
+| <span style='color:orange'>Medium</span> | 252 |
 | <span style='color:red'>Hard</span> | 41 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 332 |
+| [Array](#array) | 333 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 55 |
@@ -47,7 +47,7 @@ Welcome to my LeetCode solutions repository!
 | [Game Theory](#game-theory) | 4 |
 | [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 5 |
-| [Greedy](#greedy) | 41 |
+| [Greedy](#greedy) | 42 |
 | [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 120 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 20 |
@@ -71,7 +71,7 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 2 |
 | [Simulation](#simulation) | 43 |
 | [Sliding Window](#sliding-window) | 46 |
-| [Sorting](#sorting) | 80 |
+| [Sorting](#sorting) | 81 |
 | [Stack](#stack) | 39 |
 | [String](#string) | 126 |
 | [String Matching](#string-matching) | 7 |
@@ -384,7 +384,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 251)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 252)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -562,6 +562,7 @@ Welcome to my LeetCode solutions repository!
 - **45. [Jump Game II](./45-jump-game-ii)**
 - **450. [Delete Node in a BST](./450-delete-node-in-a-bst)**
 - **451. [Sort Characters By Frequency](./451-sort-characters-by-frequency)**
+- **452. [Minimum Number of Arrows to Burst Balloons](./452-minimum-number-of-arrows-to-burst-balloons)**
 - **457. [Circular Array Loop](./457-circular-array-loop)**
 - **46. [Permutations](./46-permutations)**
 - **47. [Permutations II](./47-permutations-ii)**
@@ -688,7 +689,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 332)</summary>
+<summary id="array"><strong>Array</strong> (Total: 333)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1417,6 +1418,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **45. [Jump Game II](./45-jump-game-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **452. [Minimum Number of Arrows to Burst Balloons](./452-minimum-number-of-arrows-to-burst-balloons)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **455. [Assign Cookies](./455-assign-cookies)**  
@@ -3129,7 +3133,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 41)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 42)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3222,6 +3226,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **45. [Jump Game II](./45-jump-game-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **452. [Minimum Number of Arrows to Burst Balloons](./452-minimum-number-of-arrows-to-burst-balloons)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **455. [Assign Cookies](./455-assign-cookies)**  
@@ -4932,7 +4939,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 80)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 81)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5118,6 +5125,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **451. [Sort Characters By Frequency](./451-sort-characters-by-frequency)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **452. [Minimum Number of Arrows to Burst Balloons](./452-minimum-number-of-arrows-to-burst-balloons)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **455. [Assign Cookies](./455-assign-cookies)**  
