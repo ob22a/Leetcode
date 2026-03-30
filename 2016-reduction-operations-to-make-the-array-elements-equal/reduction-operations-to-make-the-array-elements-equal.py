@@ -7,7 +7,7 @@ class Solution:
 
         cumm = 0
         for i in range(n-1,0,-1):
-            sol+=cumm+x[i][1]
             cumm+=x[i][1]
+            sol+=cumm
 
         return sol
