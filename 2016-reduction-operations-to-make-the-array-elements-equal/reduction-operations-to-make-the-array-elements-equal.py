@@ -1,13 +1,14 @@
 class Solution:
     def reductionOperations(self, nums: List[int]) -> int:
-        cnt = Counter(nums)
-        x = sorted((val,cnt) for val,cnt in cnt.items())
-        n = len(x)
+        n = len(nums)
+        nums.sort(reverse=True)
+
         sol = 0
+        prev = -1
 
-        cumm = 0
-        for i in range(n-1,0,-1):
-            cumm+=x[i][1]
-            sol+=cumm
-
+        for i in range(n):
+            if nums[i]!=prev:
+                sol+=i
+                prev=nums[i]
+        
         return sol
