@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 586
+**Total Questions:** 588
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 293 |
-| <span style='color:orange'>Medium</span> | 252 |
+| <span style='color:orange'>Medium</span> | 254 |
 | <span style='color:red'>Hard</span> | 41 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 333 |
+| [Array](#array) | 334 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 55 |
@@ -42,12 +42,12 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 19 |
 | [Divide and Conquer](#divide-and-conquer) | 15 |
 | [Doubly-Linked List](#doubly-linked-list) | 2 |
-| [Dynamic Programming](#dynamic-programming) | 65 |
+| [Dynamic Programming](#dynamic-programming) | 66 |
 | [Enumeration](#enumeration) | 8 |
 | [Game Theory](#game-theory) | 4 |
 | [Geometry](#geometry) | 2 |
-| [Graph Theory](#graph-theory) | 5 |
-| [Greedy](#greedy) | 42 |
+| [Graph Theory](#graph-theory) | 6 |
+| [Greedy](#greedy) | 43 |
 | [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 120 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 20 |
@@ -68,14 +68,15 @@ Welcome to my LeetCode solutions repository!
 | [Recursion](#recursion) | 19 |
 | [Rolling Hash](#rolling-hash) | 2 |
 | [Segment Tree](#segment-tree) | 1 |
-| [Shortest Path](#shortest-path) | 2 |
+| [Shortest Path](#shortest-path) | 3 |
 | [Simulation](#simulation) | 43 |
 | [Sliding Window](#sliding-window) | 46 |
-| [Sorting](#sorting) | 81 |
+| [Sorting](#sorting) | 82 |
 | [Stack](#stack) | 39 |
 | [String](#string) | 126 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
+| [Topological Sort](#topological-sort) | 1 |
 | [Tree](#tree) | 45 |
 | [Trie](#trie) | 6 |
 | [Two Pointers](#two-pointers) | 78 |
@@ -384,7 +385,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 252)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 254)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -464,6 +465,7 @@ Welcome to my LeetCode solutions repository!
 - **189. [Rotate Array](./189-rotate-array)**
 - **19. [Remove Nth Node From End of List](./19-remove-nth-node-from-end-of-list)**
 - **1951. [Find the Winner of the Circular Game](./1951-find-the-winner-of-the-circular-game)**
+- **1956. [Maximum Element After Decreasing and Rearranging](./1956-maximum-element-after-decreasing-and-rearranging)**
 - **198. [House Robber](./198-house-robber)**
 - **199. [Binary Tree Right Side View](./199-binary-tree-right-side-view)**
 - **2. [Add Two Numbers](./2-add-two-numbers)**
@@ -474,6 +476,7 @@ Welcome to my LeetCode solutions repository!
 - **2047. [Find a Peak Element II](./2047-find-a-peak-element-ii)**
 - **208. [Implement Trie (Prefix Tree)](./208-implement-trie-prefix-tree)**
 - **209. [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum)**
+- **2090. [Number of Ways to Arrive at Destination](./2090-number-of-ways-to-arrive-at-destination)**
 - **2103. [Find All Groups of Farmland](./2103-find-all-groups-of-farmland)**
 - **213. [House Robber II](./213-house-robber-ii)**
 - **2134. [Maximize the Confusion of an Exam](./2134-maximize-the-confusion-of-an-exam)**
@@ -689,7 +692,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 333)</summary>
+<summary id="array"><strong>Array</strong> (Total: 334)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1004,6 +1007,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1951. [Find the Winner of the Circular Game](./1951-find-the-winner-of-the-circular-game)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1956. [Maximum Element After Decreasing and Rearranging](./1956-maximum-element-after-decreasing-and-rearranging)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **198. [House Robber](./198-house-robber)**  
@@ -2856,7 +2862,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 65)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 66)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2940,6 +2946,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **198. [House Robber](./198-house-robber)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2090. [Number of Ways to Arrive at Destination](./2090-number-of-ways-to-arrive-at-destination)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **213. [House Robber II](./213-house-robber-ii)**  
@@ -3113,10 +3122,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="graph-theory"><strong>Graph Theory</strong> (Total: 5)</summary>
+<summary id="graph-theory"><strong>Graph Theory</strong> (Total: 6)</summary>
 
 - **1916. [Find Center of Star Graph](./1916-find-center-of-star-graph)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2090. [Number of Ways to Arrive at Destination](./2090-number-of-ways-to-arrive-at-destination)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3133,7 +3145,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 42)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 43)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3179,6 +3191,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1829. [Maximum Units on a Truck](./1829-maximum-units-on-a-truck)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1956. [Maximum Element After Decreasing and Rearranging](./1956-maximum-element-after-decreasing-and-rearranging)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2148. [Minimum Number of Moves to Seat Everyone](./2148-minimum-number-of-moves-to-seat-everyone)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4651,7 +4666,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="shortest-path"><strong>Shortest Path</strong> (Total: 2)</summary>
+<summary id="shortest-path"><strong>Shortest Path</strong> (Total: 3)</summary>
+
+- **2090. [Number of Ways to Arrive at Destination](./2090-number-of-ways-to-arrive-at-destination)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2375. [Minimum Obstacle Removal to Reach Corner](./2375-minimum-obstacle-removal-to-reach-corner)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4939,7 +4957,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 81)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 82)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5018,6 +5036,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1829. [Maximum Units on a Truck](./1829-maximum-units-on-a-truck)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1956. [Maximum Element After Decreasing and Rearranging](./1956-maximum-element-after-decreasing-and-rearranging)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1970. [Sorting the Sentence](./1970-sorting-the-sentence)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5721,6 +5742,14 @@ Welcome to my LeetCode solutions repository!
 <summary id="sweep-line"><strong>Sweep Line</strong> (Total: 1)</summary>
 
 - **1028. [Interval List Intersections](./1028-interval-list-intersections)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="topological-sort"><strong>Topological Sort</strong> (Total: 1)</summary>
+
+- **2090. [Number of Ways to Arrive at Destination](./2090-number-of-ways-to-arrive-at-destination)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
