@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 588
+**Total Questions:** 592
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 293 |
-| <span style='color:orange'>Medium</span> | 254 |
+| <span style='color:orange'>Medium</span> | 258 |
 | <span style='color:red'>Hard</span> | 41 |
 
 ### Topics Overview
@@ -39,9 +39,9 @@ Welcome to my LeetCode solutions repository!
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 15 |
 | [Depth-First Search](#depth-first-search) | 51 |
-| [Design](#design) | 19 |
+| [Design](#design) | 20 |
 | [Divide and Conquer](#divide-and-conquer) | 15 |
-| [Doubly-Linked List](#doubly-linked-list) | 2 |
+| [Doubly-Linked List](#doubly-linked-list) | 3 |
 | [Dynamic Programming](#dynamic-programming) | 66 |
 | [Enumeration](#enumeration) | 8 |
 | [Game Theory](#game-theory) | 4 |
@@ -49,10 +49,10 @@ Welcome to my LeetCode solutions repository!
 | [Graph Theory](#graph-theory) | 6 |
 | [Greedy](#greedy) | 43 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 120 |
+| [Hash Table](#hash-table) | 121 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 20 |
 | [Interactive](#interactive) | 2 |
-| [Linked List](#linked-list) | 28 |
+| [Linked List](#linked-list) | 32 |
 | [Math](#math) | 102 |
 | [Matrix](#matrix) | 44 |
 | [Memoization](#memoization) | 3 |
@@ -79,7 +79,7 @@ Welcome to my LeetCode solutions repository!
 | [Topological Sort](#topological-sort) | 1 |
 | [Tree](#tree) | 45 |
 | [Trie](#trie) | 6 |
-| [Two Pointers](#two-pointers) | 78 |
+| [Two Pointers](#two-pointers) | 79 |
 | [Union-Find](#union-find) | 6 |
 
 ---
@@ -385,7 +385,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 254)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 258)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -431,6 +431,7 @@ Welcome to my LeetCode solutions repository!
 - **142. [Linked List Cycle II](./142-linked-list-cycle-ii)**
 - **1428. [Jump Game III](./1428-jump-game-iii)**
 - **143. [Reorder List](./143-reorder-list)**
+- **146. [LRU Cache](./146-lru-cache)**
 - **1477. [Product of the Last K Numbers](./1477-product-of-the-last-k-numbers)**
 - **148. [Sort List](./148-sort-list)**
 - **1497. [Design a Stack With Increment Operation](./1497-design-a-stack-with-increment-operation)**
@@ -536,6 +537,7 @@ Welcome to my LeetCode solutions repository!
 - **3213. [Count Subarrays Where Max Element Appears at Least K Times](./3213-count-subarrays-where-max-element-appears-at-least-k-times)**
 - **322. [Coin Change](./322-coin-change)**
 - **3234. [Double Modular Exponentiation](./3234-double-modular-exponentiation)**
+- **328. [Odd Even Linked List](./328-odd-even-linked-list)**
 - **33. [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array)**
 - **3325. [Find the Largest Area of Square Inside Two Rectangles](./3325-find-the-largest-area-of-square-inside-two-rectangles)**
 - **3338. [Count Submatrices with Top-Left Element and Sum Less Than k](./3338-count-submatrices-with-top-left-element-and-sum-less-than-k)**
@@ -623,6 +625,7 @@ Welcome to my LeetCode solutions repository!
 - **805. [Escape The Ghosts](./805-escape-the-ghosts)**
 - **81. [Search in Rotated Sorted Array II](./81-search-in-rotated-sorted-array-ii)**
 - **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**
+- **82. [Remove Duplicates from Sorted List II](./82-remove-duplicates-from-sorted-list-ii)**
 - **838. [Design Linked List](./838-design-linked-list)**
 - **860. [Design Circular Queue](./860-design-circular-queue)**
 - **875. [Longest Mountain in Array](./875-longest-mountain-in-array)**
@@ -634,6 +637,7 @@ Welcome to my LeetCode solutions repository!
 - **907. [Koko Eating Bananas](./907-koko-eating-bananas)**
 - **909. [Stone Game](./909-stone-game)**
 - **917. [Boats to Save People](./917-boats-to-save-people)**
+- **92. [Reverse Linked List II](./92-reverse-linked-list-ii)**
 - **921. [Spiral Matrix III](./921-spiral-matrix-iii)**
 - **93. [Restore IP Addresses](./93-restore-ip-addresses)**
 - **937. [Online Stock Span](./937-online-stock-span)**
@@ -2739,7 +2743,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="design"><strong>Design</strong> (Total: 19)</summary>
+<summary id="design"><strong>Design</strong> (Total: 20)</summary>
+
+- **146. [LRU Cache](./146-lru-cache)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1477. [Product of the Last K Numbers](./1477-product-of-the-last-k-numbers)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2851,7 +2858,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="doubly-linked-list"><strong>Doubly-Linked List</strong> (Total: 2)</summary>
+<summary id="doubly-linked-list"><strong>Doubly-Linked List</strong> (Total: 3)</summary>
+
+- **146. [LRU Cache](./146-lru-cache)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1582. [Design Browser History](./1582-design-browser-history)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3299,7 +3309,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 120)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 121)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3356,6 +3366,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **142. [Linked List Cycle II](./142-linked-list-cycle-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **146. [LRU Cache](./146-lru-cache)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1468. [Check If N and Its Double Exist](./1468-check-if-n-and-its-double-exist)**  
@@ -3740,7 +3753,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="linked-list"><strong>Linked List</strong> (Total: 28)</summary>
+<summary id="linked-list"><strong>Linked List</strong> (Total: 32)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3755,6 +3768,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **143. [Reorder List](./143-reorder-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **146. [LRU Cache](./146-lru-cache)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **148. [Sort List](./148-sort-list)**  
@@ -3796,6 +3812,9 @@ Welcome to my LeetCode solutions repository!
 - **2871. [Double a Number Represented as a Linked List](./2871-double-a-number-represented-as-a-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **328. [Odd Even Linked List](./328-odd-even-linked-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **355. [Design Twitter](./355-design-twitter)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -3814,6 +3833,9 @@ Welcome to my LeetCode solutions repository!
 - **817. [Design HashMap](./817-design-hashmap)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **82. [Remove Duplicates from Sorted List II](./82-remove-duplicates-from-sorted-list-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **83. [Remove Duplicates from Sorted List](./83-remove-duplicates-from-sorted-list)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -3825,6 +3847,9 @@ Welcome to my LeetCode solutions repository!
 
 - **908. [Middle of the Linked List](./908-middle-of-the-linked-list)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **92. [Reverse Linked List II](./92-reverse-linked-list-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
 
@@ -5918,7 +5943,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 78)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 79)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6122,6 +6147,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **80. [Remove Duplicates from Sorted Array II](./80-remove-duplicates-from-sorted-array-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **82. [Remove Duplicates from Sorted List II](./82-remove-duplicates-from-sorted-list-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **841. [Shortest Distance to a Character](./841-shortest-distance-to-a-character)**  
