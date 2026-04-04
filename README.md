@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 592
+**Total Questions:** 593
 
 ### Difficulty Distribution
 
@@ -14,15 +14,15 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 293 |
-| <span style='color:orange'>Medium</span> | 258 |
-| <span style='color:red'>Hard</span> | 41 |
+| <span style='color:green'>Easy</span> | 292 |
+| <span style='color:orange'>Medium</span> | 259 |
+| <span style='color:red'>Hard</span> | 42 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 334 |
+| [Array](#array) | 333 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 55 |
@@ -35,24 +35,24 @@ Welcome to my LeetCode solutions repository!
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Combinatorics](#combinatorics) | 2 |
 | [Counting](#counting) | 30 |
-| [Counting Sort](#counting-sort) | 5 |
+| [Counting Sort](#counting-sort) | 4 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 15 |
 | [Depth-First Search](#depth-first-search) | 51 |
 | [Design](#design) | 20 |
 | [Divide and Conquer](#divide-and-conquer) | 15 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
-| [Dynamic Programming](#dynamic-programming) | 66 |
+| [Dynamic Programming](#dynamic-programming) | 67 |
 | [Enumeration](#enumeration) | 8 |
 | [Game Theory](#game-theory) | 4 |
 | [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 6 |
-| [Greedy](#greedy) | 43 |
+| [Greedy](#greedy) | 42 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 121 |
+| [Hash Table](#hash-table) | 122 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 20 |
 | [Interactive](#interactive) | 2 |
-| [Linked List](#linked-list) | 32 |
+| [Linked List](#linked-list) | 33 |
 | [Math](#math) | 102 |
 | [Matrix](#matrix) | 44 |
 | [Memoization](#memoization) | 3 |
@@ -71,9 +71,9 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 3 |
 | [Simulation](#simulation) | 43 |
 | [Sliding Window](#sliding-window) | 46 |
-| [Sorting](#sorting) | 82 |
-| [Stack](#stack) | 39 |
-| [String](#string) | 126 |
+| [Sorting](#sorting) | 81 |
+| [Stack](#stack) | 40 |
+| [String](#string) | 127 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Topological Sort](#topological-sort) | 1 |
@@ -87,7 +87,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 293)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 292)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -187,7 +187,6 @@ Welcome to my LeetCode solutions repository!
 - **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**
 - **2137. [Final Value of Variable After Performing Operations](./2137-final-value-of-variable-after-performing-operations)**
 - **2144. [Maximum Difference Between Increasing Elements](./2144-maximum-difference-between-increasing-elements)**
-- **2148. [Minimum Number of Moves to Seat Everyone](./2148-minimum-number-of-moves-to-seat-everyone)**
 - **217. [Contains Duplicate](./217-contains-duplicate)**
 - **2186. [Count Vowel Substrings of a String](./2186-count-vowel-substrings-of-a-string)**
 - **219. [Contains Duplicate II](./219-contains-duplicate-ii)**
@@ -385,7 +384,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 258)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 259)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -425,6 +424,7 @@ Welcome to my LeetCode solutions repository!
 - **1351. [Replace the Substring for Balanced String](./1351-replace-the-substring-for-balanced-string)**
 - **1354. [Find Players With Zero or One Losses](./1354-find-players-with-zero-or-one-losses)**
 - **1370. [Count Number of Nice Subarrays](./1370-count-number-of-nice-subarrays)**
+- **138. [Copy List with Random Pointer](./138-copy-list-with-random-pointer)**
 - **1380. [Number of Closed Islands](./1380-number-of-closed-islands)**
 - **1402. [Count Square Submatrices with All Ones](./1402-count-square-submatrices-with-all-ones)**
 - **1408. [Find the Smallest Divisor Given a Threshold](./1408-find-the-smallest-divisor-given-a-threshold)**
@@ -648,7 +648,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 41)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 42)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -676,6 +676,7 @@ Welcome to my LeetCode solutions repository!
 - **2527. [Count Subarrays With Fixed Bounds](./2527-count-subarrays-with-fixed-bounds)**
 - **30. [Substring with Concatenation of All Words](./30-substring-with-concatenation-of-all-words)**
 - **312. [Burst Balloons](./312-burst-balloons)**
+- **32. [Longest Valid Parentheses](./32-longest-valid-parentheses)**
 - **37. [Sudoku Solver](./37-sudoku-solver)**
 - **3761. [Maximum Difference Between Even and Odd Frequency II](./3761-maximum-difference-between-even-and-odd-frequency-ii)**
 - **4. [Median of Two Sorted Arrays](./4-median-of-two-sorted-arrays)**
@@ -696,7 +697,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 334)</summary>
+<summary id="array"><strong>Array</strong> (Total: 333)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1068,9 +1069,6 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2144. [Maximum Difference Between Increasing Elements](./2144-maximum-difference-between-increasing-elements)**  
-  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
-
-- **2148. [Minimum Number of Moves to Seat Everyone](./2148-minimum-number-of-moves-to-seat-everyone)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**  
@@ -2495,12 +2493,9 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="counting-sort"><strong>Counting Sort</strong> (Total: 5)</summary>
+<summary id="counting-sort"><strong>Counting Sort</strong> (Total: 4)</summary>
 
 - **1482. [How Many Numbers Are Smaller Than the Current Number](./1482-how-many-numbers-are-smaller-than-the-current-number)**  
-  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
-
-- **2148. [Minimum Number of Moves to Seat Everyone](./2148-minimum-number-of-moves-to-seat-everyone)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **274. [H-Index](./274-h-index)**  
@@ -2872,7 +2867,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 66)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 67)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2980,6 +2975,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **312. [Burst Balloons](./312-burst-balloons)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **32. [Longest Valid Parentheses](./32-longest-valid-parentheses)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **322. [Coin Change](./322-coin-change)**  
@@ -3155,7 +3153,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 43)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 42)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3204,9 +3202,6 @@ Welcome to my LeetCode solutions repository!
 
 - **1956. [Maximum Element After Decreasing and Rearranging](./1956-maximum-element-after-decreasing-and-rearranging)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
-
-- **2148. [Minimum Number of Moves to Seat Everyone](./2148-minimum-number-of-moves-to-seat-everyone)**  
-  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2245. [Destroying Asteroids](./2245-destroying-asteroids)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3309,7 +3304,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 121)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 122)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3357,6 +3352,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1370. [Count Number of Nice Subarrays](./1370-count-number-of-nice-subarrays)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **138. [Copy List with Random Pointer](./138-copy-list-with-random-pointer)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1392. [Find the Difference of Two Arrays](./1392-find-the-difference-of-two-arrays)**  
@@ -3753,12 +3751,15 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="linked-list"><strong>Linked List</strong> (Total: 32)</summary>
+<summary id="linked-list"><strong>Linked List</strong> (Total: 33)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **116. [Populating Next Right Pointers in Each Node](./116-populating-next-right-pointers-in-each-node)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **138. [Copy List with Random Pointer](./138-copy-list-with-random-pointer)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **141. [Linked List Cycle](./141-linked-list-cycle)**  
@@ -4982,7 +4983,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 82)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 81)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5070,9 +5071,6 @@ Welcome to my LeetCode solutions repository!
 
 - **2016. [Reduction Operations to Make the Array Elements Equal](./2016-reduction-operations-to-make-the-array-elements-equal)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
-
-- **2148. [Minimum Number of Moves to Seat Everyone](./2148-minimum-number-of-moves-to-seat-everyone)**  
-  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5233,7 +5231,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="stack"><strong>Stack</strong> (Total: 39)</summary>
+<summary id="stack"><strong>Stack</strong> (Total: 40)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5304,6 +5302,9 @@ Welcome to my LeetCode solutions repository!
 - **316. [Remove Duplicate Letters](./316-remove-duplicate-letters)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **32. [Longest Valid Parentheses](./32-longest-valid-parentheses)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **402. [Remove K Digits](./402-remove-k-digits)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -5355,7 +5356,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 126)</summary>
+<summary id="string"><strong>String</strong> (Total: 127)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5545,6 +5546,9 @@ Welcome to my LeetCode solutions repository!
 
 - **316. [Remove Duplicate Letters](./316-remove-duplicate-letters)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **32. [Longest Valid Parentheses](./32-longest-valid-parentheses)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **3207. [Make Three Strings Equal](./3207-make-three-strings-equal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
