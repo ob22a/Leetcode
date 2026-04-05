@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 593
+**Total Questions:** 595
 
 ### Difficulty Distribution
 
@@ -14,15 +14,15 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 292 |
-| <span style='color:orange'>Medium</span> | 259 |
+| <span style='color:green'>Easy</span> | 293 |
+| <span style='color:orange'>Medium</span> | 260 |
 | <span style='color:red'>Hard</span> | 42 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 333 |
+| [Array](#array) | 335 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 55 |
@@ -35,7 +35,7 @@ Welcome to my LeetCode solutions repository!
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Combinatorics](#combinatorics) | 2 |
 | [Counting](#counting) | 30 |
-| [Counting Sort](#counting-sort) | 4 |
+| [Counting Sort](#counting-sort) | 5 |
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 15 |
 | [Depth-First Search](#depth-first-search) | 51 |
@@ -47,14 +47,14 @@ Welcome to my LeetCode solutions repository!
 | [Game Theory](#game-theory) | 4 |
 | [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 6 |
-| [Greedy](#greedy) | 42 |
+| [Greedy](#greedy) | 43 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 122 |
+| [Hash Table](#hash-table) | 123 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 20 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 33 |
 | [Math](#math) | 102 |
-| [Matrix](#matrix) | 44 |
+| [Matrix](#matrix) | 45 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 2 |
@@ -71,7 +71,7 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 3 |
 | [Simulation](#simulation) | 43 |
 | [Sliding Window](#sliding-window) | 46 |
-| [Sorting](#sorting) | 81 |
+| [Sorting](#sorting) | 82 |
 | [Stack](#stack) | 40 |
 | [String](#string) | 127 |
 | [String Matching](#string-matching) | 7 |
@@ -87,7 +87,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 292)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 293)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -187,6 +187,7 @@ Welcome to my LeetCode solutions repository!
 - **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**
 - **2137. [Final Value of Variable After Performing Operations](./2137-final-value-of-variable-after-performing-operations)**
 - **2144. [Maximum Difference Between Increasing Elements](./2144-maximum-difference-between-increasing-elements)**
+- **2148. [Minimum Number of Moves to Seat Everyone](./2148-minimum-number-of-moves-to-seat-everyone)**
 - **217. [Contains Duplicate](./217-contains-duplicate)**
 - **2186. [Count Vowel Substrings of a String](./2186-count-vowel-substrings-of-a-string)**
 - **219. [Contains Duplicate II](./219-contains-duplicate-ii)**
@@ -384,7 +385,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 259)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 260)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -612,6 +613,7 @@ Welcome to my LeetCode solutions repository!
 - **695. [Max Area of Island](./695-max-area-of-island)**
 - **7. [Reverse Integer](./7-reverse-integer)**
 - **72. [Edit Distance](./72-edit-distance)**
+- **73. [Set Matrix Zeroes](./73-set-matrix-zeroes)**
 - **735. [Asteroid Collision](./735-asteroid-collision)**
 - **739. [Daily Temperatures](./739-daily-temperatures)**
 - **74. [Search a 2D Matrix](./74-search-a-2d-matrix)**
@@ -697,7 +699,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 333)</summary>
+<summary id="array"><strong>Array</strong> (Total: 335)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1069,6 +1071,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2144. [Maximum Difference Between Increasing Elements](./2144-maximum-difference-between-increasing-elements)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2148. [Minimum Number of Moves to Seat Everyone](./2148-minimum-number-of-moves-to-seat-everyone)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**  
@@ -1577,6 +1582,9 @@ Welcome to my LeetCode solutions repository!
 
 - **724. [Find Pivot Index](./724-find-pivot-index)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **73. [Set Matrix Zeroes](./73-set-matrix-zeroes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **733. [Flood Fill](./733-flood-fill)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2493,9 +2501,12 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="counting-sort"><strong>Counting Sort</strong> (Total: 4)</summary>
+<summary id="counting-sort"><strong>Counting Sort</strong> (Total: 5)</summary>
 
 - **1482. [How Many Numbers Are Smaller Than the Current Number](./1482-how-many-numbers-are-smaller-than-the-current-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2148. [Minimum Number of Moves to Seat Everyone](./2148-minimum-number-of-moves-to-seat-everyone)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **274. [H-Index](./274-h-index)**  
@@ -3153,7 +3164,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 42)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 43)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3202,6 +3213,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1956. [Maximum Element After Decreasing and Rearranging](./1956-maximum-element-after-decreasing-and-rearranging)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2148. [Minimum Number of Moves to Seat Everyone](./2148-minimum-number-of-moves-to-seat-everyone)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2245. [Destroying Asteroids](./2245-destroying-asteroids)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3304,7 +3318,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 122)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 123)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3638,6 +3652,9 @@ Welcome to my LeetCode solutions repository!
 
 - **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **73. [Set Matrix Zeroes](./73-set-matrix-zeroes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **76. [Minimum Window Substring](./76-minimum-window-substring)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4166,7 +4183,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 44)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 45)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4274,6 +4291,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **695. [Max Area of Island](./695-max-area-of-island)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **73. [Set Matrix Zeroes](./73-set-matrix-zeroes)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **733. [Flood Fill](./733-flood-fill)**  
@@ -4983,7 +5003,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 81)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 82)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5071,6 +5091,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2016. [Reduction Operations to Make the Array Elements Equal](./2016-reduction-operations-to-make-the-array-elements-equal)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2148. [Minimum Number of Moves to Seat Everyone](./2148-minimum-number-of-moves-to-seat-everyone)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
