@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 595
+**Total Questions:** 596
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 293 |
+| <span style='color:green'>Easy</span> | 294 |
 | <span style='color:orange'>Medium</span> | 260 |
 | <span style='color:red'>Hard</span> | 42 |
 
@@ -69,11 +69,11 @@ Welcome to my LeetCode solutions repository!
 | [Rolling Hash](#rolling-hash) | 2 |
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 3 |
-| [Simulation](#simulation) | 43 |
+| [Simulation](#simulation) | 44 |
 | [Sliding Window](#sliding-window) | 46 |
 | [Sorting](#sorting) | 82 |
 | [Stack](#stack) | 40 |
-| [String](#string) | 127 |
+| [String](#string) | 128 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Topological Sort](#topological-sort) | 1 |
@@ -87,7 +87,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 293)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 294)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -339,6 +339,7 @@ Welcome to my LeetCode solutions repository!
 - **637. [Average of Levels in Binary Tree](./637-average-of-levels-in-binary-tree)**
 - **643. [Maximum Average Subarray I](./643-maximum-average-subarray-i)**
 - **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**
+- **657. [Robot Return to Origin](./657-robot-return-to-origin)**
 - **66. [Plus One](./66-plus-one)**
 - **661. [Image Smoother](./661-image-smoother)**
 - **67. [Add Binary](./67-add-binary)**
@@ -4726,7 +4727,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 43)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 44)</summary>
 
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4835,6 +4836,9 @@ Welcome to my LeetCode solutions repository!
 
 - **59. [Spiral Matrix II](./59-spiral-matrix-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **657. [Robot Return to Origin](./657-robot-return-to-origin)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **67. [Add Binary](./67-add-binary)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5379,7 +5383,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 127)</summary>
+<summary id="string"><strong>String</strong> (Total: 128)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5710,6 +5714,9 @@ Welcome to my LeetCode solutions repository!
 
 - **6. [Zigzag Conversion](./6-zigzag-conversion)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **657. [Robot Return to Origin](./657-robot-return-to-origin)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **67. [Add Binary](./67-add-binary)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
