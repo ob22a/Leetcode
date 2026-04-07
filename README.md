@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 596
+**Total Questions:** 599
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 294 |
-| <span style='color:orange'>Medium</span> | 260 |
-| <span style='color:red'>Hard</span> | 42 |
+| <span style='color:orange'>Medium</span> | 262 |
+| <span style='color:red'>Hard</span> | 43 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 335 |
+| [Array](#array) | 336 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 55 |
@@ -39,7 +39,7 @@ Welcome to my LeetCode solutions repository!
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 15 |
 | [Depth-First Search](#depth-first-search) | 51 |
-| [Design](#design) | 20 |
+| [Design](#design) | 21 |
 | [Divide and Conquer](#divide-and-conquer) | 15 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
 | [Dynamic Programming](#dynamic-programming) | 67 |
@@ -49,10 +49,10 @@ Welcome to my LeetCode solutions repository!
 | [Graph Theory](#graph-theory) | 6 |
 | [Greedy](#greedy) | 43 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 123 |
+| [Hash Table](#hash-table) | 125 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 20 |
 | [Interactive](#interactive) | 2 |
-| [Linked List](#linked-list) | 33 |
+| [Linked List](#linked-list) | 34 |
 | [Math](#math) | 102 |
 | [Matrix](#matrix) | 45 |
 | [Memoization](#memoization) | 3 |
@@ -60,7 +60,7 @@ Welcome to my LeetCode solutions repository!
 | [Monotonic Queue](#monotonic-queue) | 2 |
 | [Monotonic Stack](#monotonic-stack) | 15 |
 | [Number Theory](#number-theory) | 9 |
-| [Ordered Set](#ordered-set) | 1 |
+| [Ordered Set](#ordered-set) | 2 |
 | [Prefix Sum](#prefix-sum) | 41 |
 | [Queue](#queue) | 8 |
 | [Quickselect](#quickselect) | 2 |
@@ -69,10 +69,10 @@ Welcome to my LeetCode solutions repository!
 | [Rolling Hash](#rolling-hash) | 2 |
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 3 |
-| [Simulation](#simulation) | 44 |
+| [Simulation](#simulation) | 45 |
 | [Sliding Window](#sliding-window) | 46 |
 | [Sorting](#sorting) | 82 |
-| [Stack](#stack) | 40 |
+| [Stack](#stack) | 41 |
 | [String](#string) | 128 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
@@ -386,7 +386,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 260)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 262)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -614,6 +614,7 @@ Welcome to my LeetCode solutions repository!
 - **695. [Max Area of Island](./695-max-area-of-island)**
 - **7. [Reverse Integer](./7-reverse-integer)**
 - **72. [Edit Distance](./72-edit-distance)**
+- **725. [Split Linked List in Parts](./725-split-linked-list-in-parts)**
 - **73. [Set Matrix Zeroes](./73-set-matrix-zeroes)**
 - **735. [Asteroid Collision](./735-asteroid-collision)**
 - **739. [Daily Temperatures](./739-daily-temperatures)**
@@ -637,6 +638,7 @@ Welcome to my LeetCode solutions repository!
 - **896. [Smallest Subtree with all the Deepest Nodes](./896-smallest-subtree-with-all-the-deepest-nodes)**
 - **90. [Subsets II](./90-subsets-ii)**
 - **905. [Length of Longest Fibonacci Subsequence](./905-length-of-longest-fibonacci-subsequence)**
+- **906. [Walking Robot Simulation](./906-walking-robot-simulation)**
 - **907. [Koko Eating Bananas](./907-koko-eating-bananas)**
 - **909. [Stone Game](./909-stone-game)**
 - **917. [Boats to Save People](./917-boats-to-save-people)**
@@ -651,7 +653,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 42)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 43)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -694,13 +696,14 @@ Welcome to my LeetCode solutions repository!
 - **76. [Minimum Window Substring](./76-minimum-window-substring)**
 - **84. [Largest Rectangle in Histogram](./84-largest-rectangle-in-histogram)**
 - **85. [Maximal Rectangle](./85-maximal-rectangle)**
+- **931. [Maximum Frequency Stack](./931-maximum-frequency-stack)**
 - **977. [Distinct Subsequences II](./977-distinct-subsequences-ii)**
 </details>
 
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 335)</summary>
+<summary id="array"><strong>Array</strong> (Total: 336)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1669,6 +1672,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **905. [Length of Longest Fibonacci Subsequence](./905-length-of-longest-fibonacci-subsequence)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **906. [Walking Robot Simulation](./906-walking-robot-simulation)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **907. [Koko Eating Bananas](./907-koko-eating-bananas)**  
@@ -2750,7 +2756,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="design"><strong>Design</strong> (Total: 20)</summary>
+<summary id="design"><strong>Design</strong> (Total: 21)</summary>
 
 - **146. [LRU Cache](./146-lru-cache)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2805,6 +2811,9 @@ Welcome to my LeetCode solutions repository!
 
 - **860. [Design Circular Queue](./860-design-circular-queue)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **931. [Maximum Frequency Stack](./931-maximum-frequency-stack)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **937. [Online Stock Span](./937-online-stock-span)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3319,7 +3328,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 123)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 125)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3681,6 +3690,12 @@ Welcome to my LeetCode solutions repository!
 - **905. [Length of Longest Fibonacci Subsequence](./905-length-of-longest-fibonacci-subsequence)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **906. [Walking Robot Simulation](./906-walking-robot-simulation)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **931. [Maximum Frequency Stack](./931-maximum-frequency-stack)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **940. [Fruit Into Baskets](./940-fruit-into-baskets)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -3769,7 +3784,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="linked-list"><strong>Linked List</strong> (Total: 33)</summary>
+<summary id="linked-list"><strong>Linked List</strong> (Total: 34)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3841,6 +3856,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **61. [Rotate List](./61-rotate-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **725. [Split Linked List in Parts](./725-split-linked-list-in-parts)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **766. [Flatten a Multilevel Doubly Linked List](./766-flatten-a-multilevel-doubly-linked-list)**  
@@ -4445,10 +4463,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="ordered-set"><strong>Ordered Set</strong> (Total: 1)</summary>
+<summary id="ordered-set"><strong>Ordered Set</strong> (Total: 2)</summary>
 
 - **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **931. [Maximum Frequency Stack](./931-maximum-frequency-stack)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 </details>
 
@@ -4727,7 +4748,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 44)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 45)</summary>
 
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4857,6 +4878,9 @@ Welcome to my LeetCode solutions repository!
 
 - **898. [Transpose Matrix](./898-transpose-matrix)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **906. [Walking Robot Simulation](./906-walking-robot-simulation)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **921. [Spiral Matrix III](./921-spiral-matrix-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5258,7 +5282,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="stack"><strong>Stack</strong> (Total: 40)</summary>
+<summary id="stack"><strong>Stack</strong> (Total: 41)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5373,6 +5397,9 @@ Welcome to my LeetCode solutions repository!
 
 - **883. [Car Fleet](./883-car-fleet)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **931. [Maximum Frequency Stack](./931-maximum-frequency-stack)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **937. [Online Stock Span](./937-online-stock-span)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
