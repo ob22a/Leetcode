@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 599
+**Total Questions:** 600
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 294 |
-| <span style='color:orange'>Medium</span> | 262 |
+| <span style='color:orange'>Medium</span> | 263 |
 | <span style='color:red'>Hard</span> | 43 |
 
 ### Topics Overview
@@ -39,7 +39,7 @@ Welcome to my LeetCode solutions repository!
 | [Data Stream](#data-stream) | 5 |
 | [Database](#database) | 15 |
 | [Depth-First Search](#depth-first-search) | 51 |
-| [Design](#design) | 21 |
+| [Design](#design) | 22 |
 | [Divide and Conquer](#divide-and-conquer) | 15 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
 | [Dynamic Programming](#dynamic-programming) | 67 |
@@ -69,7 +69,7 @@ Welcome to my LeetCode solutions repository!
 | [Rolling Hash](#rolling-hash) | 2 |
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 3 |
-| [Simulation](#simulation) | 45 |
+| [Simulation](#simulation) | 46 |
 | [Sliding Window](#sliding-window) | 46 |
 | [Sorting](#sorting) | 82 |
 | [Stack](#stack) | 41 |
@@ -386,7 +386,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 262)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 263)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -485,6 +485,7 @@ Welcome to my LeetCode solutions repository!
 - **2134. [Maximize the Confusion of an Exam](./2134-maximize-the-confusion-of-an-exam)**
 - **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**
 - **216. [Combination Sum III](./216-combination-sum-iii)**
+- **2178. [Walking Robot Simulation II](./2178-walking-robot-simulation-ii)**
 - **22. [Generate Parentheses](./22-generate-parentheses)**
 - **2205. [Find Good Days to Rob the Bank](./2205-find-good-days-to-rob-the-bank)**
 - **2211. [K Radius Subarray Averages](./2211-k-radius-subarray-averages)**
@@ -2756,7 +2757,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="design"><strong>Design</strong> (Total: 21)</summary>
+<summary id="design"><strong>Design</strong> (Total: 22)</summary>
 
 - **146. [LRU Cache](./146-lru-cache)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2777,6 +2778,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **208. [Implement Trie (Prefix Tree)](./208-implement-trie-prefix-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2178. [Walking Robot Simulation II](./2178-walking-robot-simulation-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **225. [Implement Stack using Queues](./225-implement-stack-using-queues)**  
@@ -4748,7 +4752,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 45)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 46)</summary>
 
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4773,6 +4777,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2137. [Final Value of Variable After Performing Operations](./2137-final-value-of-variable-after-performing-operations)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2178. [Walking Robot Simulation II](./2178-walking-robot-simulation-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2265. [Partition Array According to Given Pivot](./2265-partition-array-according-to-given-pivot)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
