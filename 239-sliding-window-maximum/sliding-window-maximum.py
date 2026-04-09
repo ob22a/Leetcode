@@ -1,25 +1,21 @@
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
-        # when incoming num is smaller is smaller just add to num 
-        # if left(max) is moved or not part then popleft
-
         n = len(nums)
-        dq = deque()
-        sol = []
         left = 0
-
+        q=deque()
+        
+        sol = []
+        
         for right in range(n):
-            # Remove if the window past the number
-            while dq and right-dq[0]>=k:
-                dq.popleft()
+            while q and nums[q[-1]]<nums[right]:
+                q.pop()
+            q.append(right)
 
-            while dq and nums[dq[-1]]<nums[right]:
-                dq.pop()
+            if right-left+1==k:
+                if q[0]<left:
+                    q.popleft()
 
-            dq.append(right)
-            if right-left+1 == k:
-                sol.append(nums[dq[0]])
+                sol.append(nums[q[0]])
                 left+=1
         
         return sol
-            
