@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 600
+**Total Questions:** 604
 
 ### Difficulty Distribution
 
@@ -14,15 +14,15 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 294 |
-| <span style='color:orange'>Medium</span> | 263 |
+| <span style='color:green'>Easy</span> | 295 |
+| <span style='color:orange'>Medium</span> | 266 |
 | <span style='color:red'>Hard</span> | 43 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 336 |
+| [Array](#array) | 339 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 55 |
@@ -34,13 +34,13 @@ Welcome to my LeetCode solutions repository!
 | [Breadth-First Search](#breadth-first-search) | 40 |
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Combinatorics](#combinatorics) | 2 |
-| [Counting](#counting) | 30 |
+| [Counting](#counting) | 31 |
 | [Counting Sort](#counting-sort) | 5 |
-| [Data Stream](#data-stream) | 5 |
+| [Data Stream](#data-stream) | 6 |
 | [Database](#database) | 15 |
 | [Depth-First Search](#depth-first-search) | 51 |
-| [Design](#design) | 22 |
-| [Divide and Conquer](#divide-and-conquer) | 15 |
+| [Design](#design) | 23 |
+| [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
 | [Dynamic Programming](#dynamic-programming) | 67 |
 | [Enumeration](#enumeration) | 8 |
@@ -49,28 +49,28 @@ Welcome to my LeetCode solutions repository!
 | [Graph Theory](#graph-theory) | 6 |
 | [Greedy](#greedy) | 43 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 125 |
-| [Heap (Priority Queue)](#heap-(priority-queue)) | 20 |
+| [Hash Table](#hash-table) | 126 |
+| [Heap (Priority Queue)](#heap-(priority-queue)) | 21 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 34 |
 | [Math](#math) | 102 |
 | [Matrix](#matrix) | 45 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
-| [Monotonic Queue](#monotonic-queue) | 2 |
+| [Monotonic Queue](#monotonic-queue) | 3 |
 | [Monotonic Stack](#monotonic-stack) | 15 |
 | [Number Theory](#number-theory) | 9 |
-| [Ordered Set](#ordered-set) | 2 |
+| [Ordered Set](#ordered-set) | 3 |
 | [Prefix Sum](#prefix-sum) | 41 |
-| [Queue](#queue) | 8 |
+| [Queue](#queue) | 11 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
 | [Recursion](#recursion) | 19 |
 | [Rolling Hash](#rolling-hash) | 2 |
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 3 |
-| [Simulation](#simulation) | 46 |
-| [Sliding Window](#sliding-window) | 46 |
+| [Simulation](#simulation) | 48 |
+| [Sliding Window](#sliding-window) | 47 |
 | [Sorting](#sorting) | 82 |
 | [Stack](#stack) | 41 |
 | [String](#string) | 128 |
@@ -87,7 +87,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 294)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 295)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -191,6 +191,7 @@ Welcome to my LeetCode solutions repository!
 - **217. [Contains Duplicate](./217-contains-duplicate)**
 - **2186. [Count Vowel Substrings of a String](./2186-count-vowel-substrings-of-a-string)**
 - **219. [Contains Duplicate II](./219-contains-duplicate-ii)**
+- **2195. [Time Needed to Buy Tickets](./2195-time-needed-to-buy-tickets)**
 - **2210. [Find Target Indices After Sorting Array](./2210-find-target-indices-after-sorting-array)**
 - **222. [Count Complete Tree Nodes](./222-count-complete-tree-nodes)**
 - **225. [Implement Stack using Queues](./225-implement-stack-using-queues)**
@@ -386,7 +387,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 263)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 266)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -441,6 +442,7 @@ Welcome to my LeetCode solutions repository!
 - **150. [Evaluate Reverse Polish Notation](./150-evaluate-reverse-polish-notation)**
 - **153. [Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array)**
 - **1538. [Maximum Points You Can Obtain from Cards](./1538-maximum-points-you-can-obtain-from-cards)**
+- **1549. [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)**
 - **155. [Min Stack](./155-min-stack)**
 - **1567. [Maximum Number of Vowels in a Substring of Given Length](./1567-maximum-number-of-vowels-in-a-substring-of-given-length)**
 - **1582. [Design Browser History](./1582-design-browser-history)**
@@ -522,6 +524,7 @@ Welcome to my LeetCode solutions repository!
 - **2599. [Take K of Each Character From Left and Right](./2599-take-k-of-each-character-from-left-and-right)**
 - **2600. [Maximum Tastiness of Candy Basket](./2600-maximum-tastiness-of-candy-basket)**
 - **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**
+- **2620. [Find Consecutive Integers from a Data Stream](./2620-find-consecutive-integers-from-a-data-stream)**
 - **2626. [Count the Number of Good Subarrays](./2626-count-the-number-of-good-subarrays)**
 - **264. [Ugly Number II](./264-ugly-number-ii)**
 - **2721. [Sum of Distances](./2721-sum-of-distances)**
@@ -558,6 +561,7 @@ Welcome to my LeetCode solutions repository!
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**
 - **386. [Lexicographical Numbers](./386-lexicographical-numbers)**
 - **39. [Combination Sum](./39-combination-sum)**
+- **3974. [XOR After Range Multiplication Queries I](./3974-xor-after-range-multiplication-queries-i)**
 - **40. [Combination Sum II](./40-combination-sum-ii)**
 - **402. [Remove K Digits](./402-remove-k-digits)**
 - **416. [Partition Equal Subset Sum](./416-partition-equal-subset-sum)**
@@ -704,7 +708,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 336)</summary>
+<summary id="array"><strong>Array</strong> (Total: 339)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -901,6 +905,9 @@ Welcome to my LeetCode solutions repository!
 - **154. [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
+- **1549. [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **1559. [Cherry Pickup II](./1559-cherry-pickup-ii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
@@ -1091,6 +1098,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **219. [Contains Duplicate II](./219-contains-duplicate-ii)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2195. [Time Needed to Buy Tickets](./2195-time-needed-to-buy-tickets)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2205. [Find Good Days to Rob the Bank](./2205-find-good-days-to-rob-the-bank)**  
@@ -1404,6 +1414,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3973. [Flip Square Submatrix Vertically](./3973-flip-square-submatrix-vertically)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3974. [XOR After Range Multiplication Queries I](./3974-xor-after-range-multiplication-queries-i)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **4. [Median of Two Sorted Arrays](./4-median-of-two-sorted-arrays)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2414,7 +2427,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="counting"><strong>Counting</strong> (Total: 30)</summary>
+<summary id="counting"><strong>Counting</strong> (Total: 31)</summary>
 
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2463,6 +2476,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2614. [Maximum Count of Positive Integer and Negative Integer](./2614-maximum-count-of-positive-integer-and-negative-integer)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2620. [Find Consecutive Integers from a Data Stream](./2620-find-consecutive-integers-from-a-data-stream)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **299. [Bulls and Cows](./299-bulls-and-cows)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2529,12 +2545,15 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="data-stream"><strong>Data Stream</strong> (Total: 5)</summary>
+<summary id="data-stream"><strong>Data Stream</strong> (Total: 6)</summary>
 
 - **1477. [Product of the Last K Numbers](./1477-product-of-the-last-k-numbers)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1582. [Design Browser History](./1582-design-browser-history)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2620. [Find Consecutive Integers from a Data Stream](./2620-find-consecutive-integers-from-a-data-stream)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
@@ -2757,7 +2776,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="design"><strong>Design</strong> (Total: 22)</summary>
+<summary id="design"><strong>Design</strong> (Total: 23)</summary>
 
 - **146. [LRU Cache](./146-lru-cache)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2790,6 +2809,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2620. [Find Consecutive Integers from a Data Stream](./2620-find-consecutive-integers-from-a-data-stream)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **303. [Range Sum Query - Immutable](./303-range-sum-query-immutable)**  
@@ -2828,7 +2850,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="divide-and-conquer"><strong>Divide and Conquer</strong> (Total: 15)</summary>
+<summary id="divide-and-conquer"><strong>Divide and Conquer</strong> (Total: 16)</summary>
 
 - **105. [Construct Binary Tree from Preorder and Inorder Traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2864,6 +2886,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **372. [Super Pow](./372-super-pow)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3974. [XOR After Range Multiplication Queries I](./3974-xor-after-range-multiplication-queries-i)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **4. [Median of Two Sorted Arrays](./4-median-of-two-sorted-arrays)**  
@@ -3332,7 +3357,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 125)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 126)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3506,6 +3531,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2620. [Find Consecutive Integers from a Data Stream](./2620-find-consecutive-integers-from-a-data-stream)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2626. [Count the Number of Good Subarrays](./2626-count-the-number-of-good-subarrays)**  
@@ -3712,7 +3740,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="heap-(priority-queue)"><strong>Heap (Priority Queue)</strong> (Total: 20)</summary>
+<summary id="heap-(priority-queue)"><strong>Heap (Priority Queue)</strong> (Total: 21)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3721,6 +3749,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1304. [Longest Happy String](./1304-longest-happy-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1549. [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**  
@@ -4374,7 +4405,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="monotonic-queue"><strong>Monotonic Queue</strong> (Total: 2)</summary>
+<summary id="monotonic-queue"><strong>Monotonic Queue</strong> (Total: 3)</summary>
+
+- **1549. [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **239. [Sliding Window Maximum](./239-sliding-window-maximum)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4467,7 +4501,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="ordered-set"><strong>Ordered Set</strong> (Total: 2)</summary>
+<summary id="ordered-set"><strong>Ordered Set</strong> (Total: 3)</summary>
+
+- **1549. [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4606,10 +4643,16 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="queue"><strong>Queue</strong> (Total: 8)</summary>
+<summary id="queue"><strong>Queue</strong> (Total: 11)</summary>
+
+- **1549. [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1951. [Find the Winner of the Circular Game](./1951-find-the-winner-of-the-circular-game)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2195. [Time Needed to Buy Tickets](./2195-time-needed-to-buy-tickets)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **225. [Implement Stack using Queues](./225-implement-stack-using-queues)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4622,6 +4665,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2527. [Count Subarrays With Fixed Bounds](./2527-count-subarrays-with-fixed-bounds)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **2620. [Find Consecutive Integers from a Data Stream](./2620-find-consecutive-integers-from-a-data-stream)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **387. [First Unique Character in a String](./387-first-unique-character-in-a-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4752,7 +4798,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 46)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 48)</summary>
 
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4780,6 +4826,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2178. [Walking Robot Simulation II](./2178-walking-robot-simulation-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2195. [Time Needed to Buy Tickets](./2195-time-needed-to-buy-tickets)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2265. [Partition Array According to Given Pivot](./2265-partition-array-according-to-given-pivot)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4841,6 +4890,9 @@ Welcome to my LeetCode solutions repository!
 - **3811. [Reverse Degree of a String](./3811-reverse-degree-of-a-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **3974. [XOR After Range Multiplication Queries I](./3974-xor-after-range-multiplication-queries-i)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **412. [Fizz Buzz](./412-fizz-buzz)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -4895,7 +4947,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 46)</summary>
+<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 47)</summary>
 
 - **1020. [Longest Turbulent Subarray](./1020-longest-turbulent-subarray)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4916,6 +4968,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1538. [Maximum Points You Can Obtain from Cards](./1538-maximum-points-you-can-obtain-from-cards)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1549. [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1567. [Maximum Number of Vowels in a Substring of Given Length](./1567-maximum-number-of-vowels-in-a-substring-of-given-length)**  
