@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 604
+**Total Questions:** 606
 
 ### Difficulty Distribution
 
@@ -15,8 +15,8 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 295 |
-| <span style='color:orange'>Medium</span> | 266 |
-| <span style='color:red'>Hard</span> | 43 |
+| <span style='color:orange'>Medium</span> | 267 |
+| <span style='color:red'>Hard</span> | 44 |
 
 ### Topics Overview
 
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 21 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 34 |
-| [Math](#math) | 102 |
+| [Math](#math) | 103 |
 | [Matrix](#matrix) | 45 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -65,15 +65,15 @@ Welcome to my LeetCode solutions repository!
 | [Queue](#queue) | 11 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
-| [Recursion](#recursion) | 19 |
+| [Recursion](#recursion) | 20 |
 | [Rolling Hash](#rolling-hash) | 2 |
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 3 |
 | [Simulation](#simulation) | 48 |
 | [Sliding Window](#sliding-window) | 47 |
 | [Sorting](#sorting) | 82 |
-| [Stack](#stack) | 41 |
-| [String](#string) | 128 |
+| [Stack](#stack) | 43 |
+| [String](#string) | 130 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Topological Sort](#topological-sort) | 1 |
@@ -387,7 +387,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 266)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 267)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -618,6 +618,7 @@ Welcome to my LeetCode solutions repository!
 - **686. [Repeated String Match](./686-repeated-string-match)**
 - **695. [Max Area of Island](./695-max-area-of-island)**
 - **7. [Reverse Integer](./7-reverse-integer)**
+- **71. [Simplify Path](./71-simplify-path)**
 - **72. [Edit Distance](./72-edit-distance)**
 - **725. [Split Linked List in Parts](./725-split-linked-list-in-parts)**
 - **73. [Set Matrix Zeroes](./73-set-matrix-zeroes)**
@@ -658,7 +659,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 43)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 44)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -678,6 +679,7 @@ Welcome to my LeetCode solutions repository!
 - **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**
 - **1918. [Maximum Score of a Good Subarray](./1918-maximum-score-of-a-good-subarray)**
 - **2119. [Minimum Number of Operations to Make Array Continuous](./2119-minimum-number-of-operations-to-make-array-continuous)**
+- **224. [Basic Calculator](./224-basic-calculator)**
 - **23. [Merge k Sorted Lists](./23-merge-k-sorted-lists)**
 - **2375. [Minimum Obstacle Removal to Reach Corner](./2375-minimum-obstacle-removal-to-reach-corner)**
 - **239. [Sliding Window Maximum](./239-sliding-window-maximum)**
@@ -3926,7 +3928,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 102)</summary>
+<summary id="math"><strong>Math</strong> (Total: 103)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4020,6 +4022,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2106. [Find Greatest Common Divisor of Array](./2106-find-greatest-common-divisor-of-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **224. [Basic Calculator](./224-basic-calculator)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **227. [Basic Calculator II](./227-basic-calculator-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4703,7 +4708,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="recursion"><strong>Recursion</strong> (Total: 19)</summary>
+<summary id="recursion"><strong>Recursion</strong> (Total: 20)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4731,6 +4736,9 @@ Welcome to my LeetCode solutions repository!
 
 - **21. [Merge Two Sorted Lists](./21-merge-two-sorted-lists)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **224. [Basic Calculator](./224-basic-calculator)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **231. [Power of Two](./231-power-of-two)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5344,7 +5352,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="stack"><strong>Stack</strong> (Total: 41)</summary>
+<summary id="stack"><strong>Stack</strong> (Total: 43)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5394,6 +5402,9 @@ Welcome to my LeetCode solutions repository!
 - **20. [Valid Parentheses](./20-valid-parentheses)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **224. [Basic Calculator](./224-basic-calculator)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **225. [Implement Stack using Queues](./225-implement-stack-using-queues)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -5436,6 +5447,9 @@ Welcome to my LeetCode solutions repository!
 - **682. [Baseball Game](./682-baseball-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **71. [Simplify Path](./71-simplify-path)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **735. [Asteroid Collision](./735-asteroid-collision)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -5472,7 +5486,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 128)</summary>
+<summary id="string"><strong>String</strong> (Total: 130)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5599,6 +5613,9 @@ Welcome to my LeetCode solutions repository!
 
 - **22. [Generate Parentheses](./22-generate-parentheses)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **224. [Basic Calculator](./224-basic-calculator)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **227. [Basic Calculator II](./227-basic-calculator-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5814,6 +5831,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **686. [Repeated String Match](./686-repeated-string-match)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **71. [Simplify Path](./71-simplify-path)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **72. [Edit Distance](./72-edit-distance)**  
