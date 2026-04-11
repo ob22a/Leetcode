@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 606
+**Total Questions:** 607
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 295 |
-| <span style='color:orange'>Medium</span> | 267 |
+| <span style='color:orange'>Medium</span> | 268 |
 | <span style='color:red'>Hard</span> | 44 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 339 |
+| [Array](#array) | 340 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 55 |
@@ -31,7 +31,7 @@ Welcome to my LeetCode solutions repository!
 | [Bit Manipulation](#bit-manipulation) | 30 |
 | [Bitmask](#bitmask) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 40 |
+| [Breadth-First Search](#breadth-first-search) | 41 |
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Combinatorics](#combinatorics) | 2 |
 | [Counting](#counting) | 31 |
@@ -42,7 +42,7 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 23 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
-| [Dynamic Programming](#dynamic-programming) | 67 |
+| [Dynamic Programming](#dynamic-programming) | 68 |
 | [Enumeration](#enumeration) | 8 |
 | [Game Theory](#game-theory) | 4 |
 | [Geometry](#geometry) | 2 |
@@ -54,7 +54,7 @@ Welcome to my LeetCode solutions repository!
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 34 |
 | [Math](#math) | 103 |
-| [Matrix](#matrix) | 45 |
+| [Matrix](#matrix) | 46 |
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 3 |
@@ -387,7 +387,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 267)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 268)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -402,6 +402,7 @@ Welcome to my LeetCode solutions repository!
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**
 - **1080. [Camelcase Matching](./1080-camelcase-matching)**
 - **11. [Container With Most Water](./11-container-with-most-water)**
+- **1117. [As Far from Land as Possible](./1117-as-far-from-land-as-possible)**
 - **1121. [Partition Array for Maximum Sum](./1121-partition-array-for-maximum-sum)**
 - **1129. [Longest String Chain](./1129-longest-string-chain)**
 - **1159. [Smallest Subsequence of Distinct Characters](./1159-smallest-subsequence-of-distinct-characters)**
@@ -710,7 +711,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 339)</summary>
+<summary id="array"><strong>Array</strong> (Total: 340)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -770,6 +771,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **11. [Container With Most Water](./11-container-with-most-water)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1117. [As Far from Land as Possible](./1117-as-far-from-land-as-possible)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1121. [Partition Array for Maximum Sum](./1121-partition-array-for-maximum-sum)**  
@@ -2276,7 +2280,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 40)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 41)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2301,6 +2305,9 @@ Welcome to my LeetCode solutions repository!
 
 - **111. [Minimum Depth of Binary Tree](./111-minimum-depth-of-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1117. [As Far from Land as Possible](./1117-as-far-from-land-as-possible)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **112. [Path Sum](./112-path-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2919,7 +2926,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 67)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 68)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2935,6 +2942,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1086. [Divisor Game](./1086-divisor-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1117. [As Far from Land as Possible](./1117-as-far-from-land-as-possible)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1121. [Partition Array for Maximum Sum](./1121-partition-array-for-maximum-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4242,12 +4252,15 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 45)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 46)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1036. [Rotting Oranges](./1036-rotting-oranges)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1117. [As Far from Land as Possible](./1117-as-far-from-land-as-possible)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1242. [Matrix Block Sum](./1242-matrix-block-sum)**  
