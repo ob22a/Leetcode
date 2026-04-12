@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 607
+**Total Questions:** 608
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 295 |
-| <span style='color:orange'>Medium</span> | 268 |
+| <span style='color:orange'>Medium</span> | 269 |
 | <span style='color:red'>Hard</span> | 44 |
 
 ### Topics Overview
@@ -65,15 +65,15 @@ Welcome to my LeetCode solutions repository!
 | [Queue](#queue) | 11 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
-| [Recursion](#recursion) | 20 |
+| [Recursion](#recursion) | 21 |
 | [Rolling Hash](#rolling-hash) | 2 |
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 3 |
 | [Simulation](#simulation) | 48 |
 | [Sliding Window](#sliding-window) | 47 |
 | [Sorting](#sorting) | 82 |
-| [Stack](#stack) | 43 |
-| [String](#string) | 130 |
+| [Stack](#stack) | 44 |
+| [String](#string) | 131 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Topological Sort](#topological-sort) | 1 |
@@ -387,7 +387,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 268)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 269)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -562,6 +562,7 @@ Welcome to my LeetCode solutions repository!
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**
 - **386. [Lexicographical Numbers](./386-lexicographical-numbers)**
 - **39. [Combination Sum](./39-combination-sum)**
+- **394. [Decode String](./394-decode-string)**
 - **3974. [XOR After Range Multiplication Queries I](./3974-xor-after-range-multiplication-queries-i)**
 - **40. [Combination Sum II](./40-combination-sum-ii)**
 - **402. [Remove K Digits](./402-remove-k-digits)**
@@ -4721,7 +4722,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="recursion"><strong>Recursion</strong> (Total: 20)</summary>
+<summary id="recursion"><strong>Recursion</strong> (Total: 21)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4773,6 +4774,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3600. [Find the K-th Character in String Game I](./3600-find-the-k-th-character-in-string-game-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **394. [Decode String](./394-decode-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **44. [Wildcard Matching](./44-wildcard-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5365,7 +5369,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="stack"><strong>Stack</strong> (Total: 43)</summary>
+<summary id="stack"><strong>Stack</strong> (Total: 44)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5442,6 +5446,9 @@ Welcome to my LeetCode solutions repository!
 - **32. [Longest Valid Parentheses](./32-longest-valid-parentheses)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
+- **394. [Decode String](./394-decode-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **402. [Remove K Digits](./402-remove-k-digits)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -5499,7 +5506,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 130)</summary>
+<summary id="string"><strong>String</strong> (Total: 131)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5752,6 +5759,9 @@ Welcome to my LeetCode solutions repository!
 
 - **392. [Is Subsequence](./392-is-subsequence)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **394. [Decode String](./394-decode-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **402. [Remove K Digits](./402-remove-k-digits)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
