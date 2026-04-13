@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 608
+**Total Questions:** 609
 
 ### Difficulty Distribution
 
@@ -15,17 +15,17 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 295 |
-| <span style='color:orange'>Medium</span> | 269 |
+| <span style='color:orange'>Medium</span> | 270 |
 | <span style='color:red'>Hard</span> | 44 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 340 |
+| [Array](#array) | 341 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
-| [Binary Search](#binary-search) | 55 |
+| [Binary Search](#binary-search) | 56 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
 | [Binary Tree](#binary-tree) | 42 |
 | [Bit Manipulation](#bit-manipulation) | 30 |
@@ -58,9 +58,9 @@ Welcome to my LeetCode solutions repository!
 | [Memoization](#memoization) | 3 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 3 |
-| [Monotonic Stack](#monotonic-stack) | 15 |
+| [Monotonic Stack](#monotonic-stack) | 16 |
 | [Number Theory](#number-theory) | 9 |
-| [Ordered Set](#ordered-set) | 3 |
+| [Ordered Set](#ordered-set) | 4 |
 | [Prefix Sum](#prefix-sum) | 41 |
 | [Queue](#queue) | 11 |
 | [Quickselect](#quickselect) | 2 |
@@ -72,7 +72,7 @@ Welcome to my LeetCode solutions repository!
 | [Simulation](#simulation) | 48 |
 | [Sliding Window](#sliding-window) | 47 |
 | [Sorting](#sorting) | 82 |
-| [Stack](#stack) | 44 |
+| [Stack](#stack) | 45 |
 | [String](#string) | 131 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
@@ -387,7 +387,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 269)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 270)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -577,6 +577,7 @@ Welcome to my LeetCode solutions repository!
 - **450. [Delete Node in a BST](./450-delete-node-in-a-bst)**
 - **451. [Sort Characters By Frequency](./451-sort-characters-by-frequency)**
 - **452. [Minimum Number of Arrows to Burst Balloons](./452-minimum-number-of-arrows-to-burst-balloons)**
+- **456. [132 Pattern](./456-132-pattern)**
 - **457. [Circular Array Loop](./457-circular-array-loop)**
 - **46. [Permutations](./46-permutations)**
 - **47. [Permutations II](./47-permutations-ii)**
@@ -712,7 +713,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 340)</summary>
+<summary id="array"><strong>Array</strong> (Total: 341)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1464,6 +1465,9 @@ Welcome to my LeetCode solutions repository!
 - **455. [Assign Cookies](./455-assign-cookies)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **456. [132 Pattern](./456-132-pattern)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **457. [Circular Array Loop](./457-circular-array-loop)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -1822,7 +1826,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 55)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 56)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1961,6 +1965,9 @@ Welcome to my LeetCode solutions repository!
 
 - **441. [Arranging Coins](./441-arranging-coins)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **456. [132 Pattern](./456-132-pattern)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **532. [K-diff Pairs in an Array](./532-k-diff-pairs-in-an-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4438,7 +4445,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="monotonic-stack"><strong>Monotonic Stack</strong> (Total: 15)</summary>
+<summary id="monotonic-stack"><strong>Monotonic Stack</strong> (Total: 16)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4460,6 +4467,9 @@ Welcome to my LeetCode solutions repository!
 
 - **42. [Trapping Rain Water](./42-trapping-rain-water)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **456. [132 Pattern](./456-132-pattern)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **496. [Next Greater Element I](./496-next-greater-element-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4520,12 +4530,15 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="ordered-set"><strong>Ordered Set</strong> (Total: 3)</summary>
+<summary id="ordered-set"><strong>Ordered Set</strong> (Total: 4)</summary>
 
 - **1549. [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **456. [132 Pattern](./456-132-pattern)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **931. [Maximum Frequency Stack](./931-maximum-frequency-stack)**  
@@ -5369,7 +5382,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="stack"><strong>Stack</strong> (Total: 44)</summary>
+<summary id="stack"><strong>Stack</strong> (Total: 45)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5454,6 +5467,9 @@ Welcome to my LeetCode solutions repository!
 
 - **42. [Trapping Rain Water](./42-trapping-rain-water)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **456. [132 Pattern](./456-132-pattern)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **496. [Next Greater Element I](./496-next-greater-element-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
