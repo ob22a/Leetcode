@@ -1,6 +1,9 @@
 class Solution:
-    @cache
     def fib(self, n: int) -> int:
-        if n<=1:
-            return n
-        else: return self.fib(n-1)+self.fib(n-2)
+        a,b=0,1
+        for _ in range(n):
+            temp=a
+            a=b
+            b+=temp
+        
+        return a
