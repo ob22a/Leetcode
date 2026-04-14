@@ -1,14 +1,13 @@
-class Solution(object):
-    def getRow(self, rowIndex):
-        """
-        :type rowIndex: int
-        :rtype: List[int]
-        """
-        res=[[1]]
-        for i in range(2,rowIndex+2):
-            val=[1]*i
-            for j in range(1,i-1):
-                val[j]=res[-1][j-1]+res[-1][j]
-            res.append(val)
+class Solution:
+    def getRow(self, rowIndex: int) -> List[int]:
+        sol = []
 
-        return res[-1]
+        for row in range(rowIndex+1):
+            newRow = [1]*(row+1)
+            
+            for idx in range(1,row):
+                newRow[idx]=sol[idx]+sol[idx-1]
+            
+            sol=newRow
+        
+        return sol
