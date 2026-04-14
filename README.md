@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 609
+**Total Questions:** 610
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 295 |
-| <span style='color:orange'>Medium</span> | 270 |
+| <span style='color:orange'>Medium</span> | 271 |
 | <span style='color:red'>Hard</span> | 44 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 341 |
+| [Array](#array) | 342 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 56 |
@@ -39,7 +39,7 @@ Welcome to my LeetCode solutions repository!
 | [Data Stream](#data-stream) | 6 |
 | [Database](#database) | 15 |
 | [Depth-First Search](#depth-first-search) | 51 |
-| [Design](#design) | 23 |
+| [Design](#design) | 24 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
 | [Dynamic Programming](#dynamic-programming) | 68 |
@@ -52,7 +52,7 @@ Welcome to my LeetCode solutions repository!
 | [Hash Table](#hash-table) | 126 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 21 |
 | [Interactive](#interactive) | 2 |
-| [Linked List](#linked-list) | 34 |
+| [Linked List](#linked-list) | 35 |
 | [Math](#math) | 103 |
 | [Matrix](#matrix) | 46 |
 | [Memoization](#memoization) | 3 |
@@ -62,7 +62,7 @@ Welcome to my LeetCode solutions repository!
 | [Number Theory](#number-theory) | 9 |
 | [Ordered Set](#ordered-set) | 4 |
 | [Prefix Sum](#prefix-sum) | 41 |
-| [Queue](#queue) | 11 |
+| [Queue](#queue) | 12 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
 | [Recursion](#recursion) | 21 |
@@ -387,7 +387,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 270)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 271)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -640,6 +640,7 @@ Welcome to my LeetCode solutions repository!
 - **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**
 - **82. [Remove Duplicates from Sorted List II](./82-remove-duplicates-from-sorted-list-ii)**
 - **838. [Design Linked List](./838-design-linked-list)**
+- **859. [Design Circular Deque](./859-design-circular-deque)**
 - **860. [Design Circular Queue](./860-design-circular-queue)**
 - **875. [Longest Mountain in Array](./875-longest-mountain-in-array)**
 - **883. [Car Fleet](./883-car-fleet)**
@@ -713,7 +714,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 341)</summary>
+<summary id="array"><strong>Array</strong> (Total: 342)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1671,6 +1672,9 @@ Welcome to my LeetCode solutions repository!
 
 - **85. [Maximal Rectangle](./85-maximal-rectangle)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **859. [Design Circular Deque](./859-design-circular-deque)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **860. [Design Circular Queue](./860-design-circular-queue)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2793,7 +2797,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="design"><strong>Design</strong> (Total: 23)</summary>
+<summary id="design"><strong>Design</strong> (Total: 24)</summary>
 
 - **146. [LRU Cache](./146-lru-cache)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2850,6 +2854,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **838. [Design Linked List](./838-design-linked-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **859. [Design Circular Deque](./859-design-circular-deque)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **860. [Design Circular Queue](./860-design-circular-queue)**  
@@ -3839,7 +3846,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="linked-list"><strong>Linked List</strong> (Total: 34)</summary>
+<summary id="linked-list"><strong>Linked List</strong> (Total: 35)</summary>
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3932,6 +3939,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **838. [Design Linked List](./838-design-linked-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **859. [Design Circular Deque](./859-design-circular-deque)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **860. [Design Circular Queue](./860-design-circular-queue)**  
@@ -4675,7 +4685,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="queue"><strong>Queue</strong> (Total: 11)</summary>
+<summary id="queue"><strong>Queue</strong> (Total: 12)</summary>
 
 - **1549. [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4703,6 +4713,9 @@ Welcome to my LeetCode solutions repository!
 
 - **387. [First Unique Character in a String](./387-first-unique-character-in-a-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **859. [Design Circular Deque](./859-design-circular-deque)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **860. [Design Circular Queue](./860-design-circular-queue)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
