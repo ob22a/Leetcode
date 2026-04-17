@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 613
+**Total Questions:** 615
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 295 |
-| <span style='color:orange'>Medium</span> | 273 |
+| <span style='color:orange'>Medium</span> | 275 |
 | <span style='color:red'>Hard</span> | 45 |
 
 ### Topics Overview
@@ -28,7 +28,7 @@ Welcome to my LeetCode solutions repository!
 | [Binary Search](#binary-search) | 56 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
 | [Binary Tree](#binary-tree) | 42 |
-| [Bit Manipulation](#bit-manipulation) | 30 |
+| [Bit Manipulation](#bit-manipulation) | 31 |
 | [Bitmask](#bitmask) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 43 |
@@ -42,7 +42,7 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 24 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
-| [Dynamic Programming](#dynamic-programming) | 68 |
+| [Dynamic Programming](#dynamic-programming) | 69 |
 | [Enumeration](#enumeration) | 8 |
 | [Game Theory](#game-theory) | 4 |
 | [Geometry](#geometry) | 2 |
@@ -53,9 +53,9 @@ Welcome to my LeetCode solutions repository!
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 21 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 35 |
-| [Math](#math) | 104 |
+| [Math](#math) | 106 |
 | [Matrix](#matrix) | 47 |
-| [Memoization](#memoization) | 3 |
+| [Memoization](#memoization) | 4 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 3 |
 | [Monotonic Stack](#monotonic-stack) | 16 |
@@ -65,7 +65,7 @@ Welcome to my LeetCode solutions repository!
 | [Queue](#queue) | 12 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
-| [Recursion](#recursion) | 22 |
+| [Recursion](#recursion) | 24 |
 | [Rolling Hash](#rolling-hash) | 2 |
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 3 |
@@ -73,7 +73,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 47 |
 | [Sorting](#sorting) | 82 |
 | [Stack](#stack) | 45 |
-| [String](#string) | 131 |
+| [String](#string) | 132 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Topological Sort](#topological-sort) | 1 |
@@ -387,7 +387,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 273)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 275)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -512,6 +512,7 @@ Welcome to my LeetCode solutions repository!
 - **238. [Product of Array Except Self](./238-product-of-array-except-self)**
 - **24. [Swap Nodes in Pairs](./24-swap-nodes-in-pairs)**
 - **240. [Search a 2D Matrix II](./240-search-a-2d-matrix-ii)**
+- **241. [Different Ways to Add Parentheses](./241-different-ways-to-add-parentheses)**
 - **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**
 - **2465. [Shifting Letters II](./2465-shifting-letters-ii)**
 - **2470. [Removing Stars From a String](./2470-removing-stars-from-a-string)**
@@ -636,6 +637,7 @@ Welcome to my LeetCode solutions repository!
 - **77. [Combinations](./77-combinations)**
 - **78. [Subsets](./78-subsets)**
 - **79. [Word Search](./79-word-search)**
+- **795. [K-th Symbol in Grammar](./795-k-th-symbol-in-grammar)**
 - **80. [Remove Duplicates from Sorted Array II](./80-remove-duplicates-from-sorted-array-ii)**
 - **805. [Escape The Ghosts](./805-escape-the-ghosts)**
 - **81. [Search in Rotated Sorted Array II](./81-search-in-rotated-sorted-array-ii)**
@@ -2184,7 +2186,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 30)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 31)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2265,6 +2267,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **78. [Subsets](./78-subsets)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **795. [K-th Symbol in Grammar](./795-k-th-symbol-in-grammar)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **861. [Flipping an Image](./861-flipping-an-image)**  
@@ -2962,7 +2967,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 68)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 69)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3061,6 +3066,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2205. [Find Good Days to Rob the Bank](./2205-find-good-days-to-rob-the-bank)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **241. [Different Ways to Add Parentheses](./241-different-ways-to-add-parentheses)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2530. [Minimize Maximum of Array](./2530-minimize-maximum-of-array)**  
@@ -3980,7 +3988,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 104)</summary>
+<summary id="math"><strong>Math</strong> (Total: 106)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4098,6 +4106,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2383. [Add Two Integers](./2383-add-two-integers)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **241. [Different Ways to Add Parentheses](./241-different-ways-to-add-parentheses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2491. [Smallest Even Multiple](./2491-smallest-even-multiple)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4276,6 +4287,9 @@ Welcome to my LeetCode solutions repository!
 - **728. [Self Dividing Numbers](./728-self-dividing-numbers)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **795. [K-th Symbol in Grammar](./795-k-th-symbol-in-grammar)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **805. [Escape The Ghosts](./805-escape-the-ghosts)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -4443,13 +4457,16 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="memoization"><strong>Memoization</strong> (Total: 3)</summary>
+<summary id="memoization"><strong>Memoization</strong> (Total: 4)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1236. [N-th Tribonacci Number](./1236-n-th-tribonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **241. [Different Ways to Add Parentheses](./241-different-ways-to-add-parentheses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **70. [Climbing Stairs](./70-climbing-stairs)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4778,7 +4795,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="recursion"><strong>Recursion</strong> (Total: 22)</summary>
+<summary id="recursion"><strong>Recursion</strong> (Total: 24)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4822,6 +4839,9 @@ Welcome to my LeetCode solutions repository!
 - **24. [Swap Nodes in Pairs](./24-swap-nodes-in-pairs)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **241. [Different Ways to Add Parentheses](./241-different-ways-to-add-parentheses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **25. [Reverse Nodes in k-Group](./25-reverse-nodes-in-k-group)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
@@ -4845,6 +4865,9 @@ Welcome to my LeetCode solutions repository!
 
 - **60. [Permutation Sequence](./60-permutation-sequence)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **795. [K-th Symbol in Grammar](./795-k-th-symbol-in-grammar)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
 
@@ -5568,7 +5591,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 131)</summary>
+<summary id="string"><strong>String</strong> (Total: 132)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5704,6 +5727,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2377. [Check if Number Has Equal Digit Count and Digit Value](./2377-check-if-number-has-equal-digit-count-and-digit-value)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **241. [Different Ways to Add Parentheses](./241-different-ways-to-add-parentheses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **242. [Valid Anagram](./242-valid-anagram)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
