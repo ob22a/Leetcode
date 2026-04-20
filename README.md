@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 615
+**Total Questions:** 616
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 295 |
-| <span style='color:orange'>Medium</span> | 275 |
+| <span style='color:orange'>Medium</span> | 276 |
 | <span style='color:red'>Hard</span> | 45 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 344 |
+| [Array](#array) | 345 |
 | [Backtracking](#backtracking) | 24 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 56 |
@@ -42,9 +42,9 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 24 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
-| [Dynamic Programming](#dynamic-programming) | 69 |
+| [Dynamic Programming](#dynamic-programming) | 70 |
 | [Enumeration](#enumeration) | 8 |
-| [Game Theory](#game-theory) | 4 |
+| [Game Theory](#game-theory) | 5 |
 | [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 6 |
 | [Greedy](#greedy) | 43 |
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 21 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 35 |
-| [Math](#math) | 106 |
+| [Math](#math) | 107 |
 | [Matrix](#matrix) | 47 |
 | [Memoization](#memoization) | 4 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -65,7 +65,7 @@ Welcome to my LeetCode solutions repository!
 | [Queue](#queue) | 12 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
-| [Recursion](#recursion) | 24 |
+| [Recursion](#recursion) | 25 |
 | [Rolling Hash](#rolling-hash) | 2 |
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 3 |
@@ -387,7 +387,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 275)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 276)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
@@ -585,6 +585,7 @@ Welcome to my LeetCode solutions repository!
 - **46. [Permutations](./46-permutations)**
 - **47. [Permutations II](./47-permutations-ii)**
 - **48. [Rotate Image](./48-rotate-image)**
+- **486. [Predict the Winner](./486-predict-the-winner)**
 - **49. [Group Anagrams](./49-group-anagrams)**
 - **494. [Target Sum](./494-target-sum)**
 - **498. [Diagonal Traverse](./498-diagonal-traverse)**
@@ -719,7 +720,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 344)</summary>
+<summary id="array"><strong>Array</strong> (Total: 345)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1497,6 +1498,9 @@ Welcome to my LeetCode solutions repository!
 
 - **485. [Max Consecutive Ones](./485-max-consecutive-ones)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **486. [Predict the Winner](./486-predict-the-winner)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **49. [Group Anagrams](./49-group-anagrams)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2967,7 +2971,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 69)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 70)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3113,6 +3117,9 @@ Welcome to my LeetCode solutions repository!
 - **45. [Jump Game II](./45-jump-game-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **486. [Predict the Winner](./486-predict-the-winner)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **494. [Target Sum](./494-target-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -3208,7 +3215,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="game-theory"><strong>Game Theory</strong> (Total: 4)</summary>
+<summary id="game-theory"><strong>Game Theory</strong> (Total: 5)</summary>
 
 - **1086. [Divisor Game](./1086-divisor-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3218,6 +3225,9 @@ Welcome to my LeetCode solutions repository!
 
 - **292. [Nim Game](./292-nim-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **486. [Predict the Winner](./486-predict-the-winner)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **909. [Stone Game](./909-stone-game)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3988,7 +3998,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 106)</summary>
+<summary id="math"><strong>Math</strong> (Total: 107)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4228,6 +4238,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **48. [Rotate Image](./48-rotate-image)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **486. [Predict the Winner](./486-predict-the-winner)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **492. [Construct the Rectangle](./492-construct-the-rectangle)**  
@@ -4795,7 +4808,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="recursion"><strong>Recursion</strong> (Total: 24)</summary>
+<summary id="recursion"><strong>Recursion</strong> (Total: 25)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4859,6 +4872,9 @@ Welcome to my LeetCode solutions repository!
 
 - **44. [Wildcard Matching](./44-wildcard-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **486. [Predict the Winner](./486-predict-the-winner)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **50. [Pow(x, n)](./50-powx-n)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
