@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 616
+**Total Questions:** 620
 
 ### Difficulty Distribution
 
@@ -14,16 +14,16 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 295 |
-| <span style='color:orange'>Medium</span> | 276 |
-| <span style='color:red'>Hard</span> | 45 |
+| <span style='color:green'>Easy</span> | 296 |
+| <span style='color:orange'>Medium</span> | 278 |
+| <span style='color:red'>Hard</span> | 46 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 345 |
-| [Backtracking](#backtracking) | 24 |
+| [Array](#array) | 348 |
+| [Backtracking](#backtracking) | 25 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 56 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
@@ -31,7 +31,7 @@ Welcome to my LeetCode solutions repository!
 | [Bit Manipulation](#bit-manipulation) | 31 |
 | [Bitmask](#bitmask) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 43 |
+| [Breadth-First Search](#breadth-first-search) | 45 |
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Combinatorics](#combinatorics) | 2 |
 | [Counting](#counting) | 31 |
@@ -42,23 +42,23 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 24 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
-| [Dynamic Programming](#dynamic-programming) | 70 |
+| [Dynamic Programming](#dynamic-programming) | 71 |
 | [Enumeration](#enumeration) | 8 |
 | [Game Theory](#game-theory) | 5 |
 | [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 6 |
 | [Greedy](#greedy) | 43 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 127 |
+| [Hash Table](#hash-table) | 128 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 21 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 35 |
 | [Math](#math) | 107 |
-| [Matrix](#matrix) | 47 |
-| [Memoization](#memoization) | 4 |
+| [Matrix](#matrix) | 48 |
+| [Memoization](#memoization) | 5 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 3 |
-| [Monotonic Stack](#monotonic-stack) | 16 |
+| [Monotonic Stack](#monotonic-stack) | 17 |
 | [Number Theory](#number-theory) | 9 |
 | [Ordered Set](#ordered-set) | 4 |
 | [Prefix Sum](#prefix-sum) | 41 |
@@ -69,17 +69,17 @@ Welcome to my LeetCode solutions repository!
 | [Rolling Hash](#rolling-hash) | 2 |
 | [Segment Tree](#segment-tree) | 1 |
 | [Shortest Path](#shortest-path) | 3 |
-| [Simulation](#simulation) | 48 |
+| [Simulation](#simulation) | 49 |
 | [Sliding Window](#sliding-window) | 47 |
 | [Sorting](#sorting) | 82 |
-| [Stack](#stack) | 45 |
-| [String](#string) | 132 |
+| [Stack](#stack) | 47 |
+| [String](#string) | 134 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Topological Sort](#topological-sort) | 1 |
 | [Tree](#tree) | 45 |
 | [Trie](#trie) | 6 |
-| [Two Pointers](#two-pointers) | 79 |
+| [Two Pointers](#two-pointers) | 80 |
 | [Union-Find](#union-find) | 7 |
 
 ---
@@ -87,7 +87,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 295)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 296)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -263,6 +263,7 @@ Welcome to my LeetCode solutions repository!
 - **3381. [Shortest Subarray With OR at Least K I](./3381-shortest-subarray-with-or-at-least-k-i)**
 - **342. [Power of Four](./342-power-of-four)**
 - **344. [Reverse String](./344-reverse-string)**
+- **3447. [Clear Digits](./3447-clear-digits)**
 - **345. [Reverse Vowels of a String](./345-reverse-vowels-of-a-string)**
 - **3450. [Find the Child Who Has the Ball After K Seconds](./3450-find-the-child-who-has-the-ball-after-k-seconds)**
 - **3468. [Find the Encrypted String](./3468-find-the-encrypted-string)**
@@ -387,8 +388,9 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 276)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 278)</summary>
 
+- **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**
 - **102. [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal)**
@@ -633,6 +635,7 @@ Welcome to my LeetCode solutions repository!
 - **739. [Daily Temperatures](./739-daily-temperatures)**
 - **74. [Search a 2D Matrix](./74-search-a-2d-matrix)**
 - **75. [Sort Colors](./75-sort-colors)**
+- **753. [Open the Lock](./753-open-the-lock)**
 - **766. [Flatten a Multilevel Doubly Linked List](./766-flatten-a-multilevel-doubly-linked-list)**
 - **768. [Partition Labels](./768-partition-labels)**
 - **77. [Combinations](./77-combinations)**
@@ -668,7 +671,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 45)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 46)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -711,6 +714,7 @@ Welcome to my LeetCode solutions repository!
 - **60. [Permutation Sequence](./60-permutation-sequence)**
 - **741. [Cherry Pickup](./741-cherry-pickup)**
 - **76. [Minimum Window Substring](./76-minimum-window-substring)**
+- **787. [Sliding Puzzle](./787-sliding-puzzle)**
 - **84. [Largest Rectangle in Histogram](./84-largest-rectangle-in-histogram)**
 - **85. [Maximal Rectangle](./85-maximal-rectangle)**
 - **931. [Maximum Frequency Stack](./931-maximum-frequency-stack)**
@@ -720,13 +724,16 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 345)</summary>
+<summary id="array"><strong>Array</strong> (Total: 348)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1. [Two Sum](./1-two-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1652,8 +1659,14 @@ Welcome to my LeetCode solutions repository!
 - **75. [Sort Colors](./75-sort-colors)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **753. [Open the Lock](./753-open-the-lock)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **78. [Subsets](./78-subsets)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **787. [Sliding Puzzle](./787-sliding-puzzle)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **79. [Word Search](./79-word-search)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1760,7 +1773,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="backtracking"><strong>Backtracking</strong> (Total: 24)</summary>
+<summary id="backtracking"><strong>Backtracking</strong> (Total: 25)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -1818,6 +1831,9 @@ Welcome to my LeetCode solutions repository!
 
 - **78. [Subsets](./78-subsets)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **787. [Sliding Puzzle](./787-sliding-puzzle)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **79. [Word Search](./79-word-search)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2310,7 +2326,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 43)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 45)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2429,8 +2445,14 @@ Welcome to my LeetCode solutions repository!
 - **733. [Flood Fill](./733-flood-fill)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **753. [Open the Lock](./753-open-the-lock)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **774. [Maximum Depth of N-ary Tree](./774-maximum-depth-of-n-ary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **787. [Sliding Puzzle](./787-sliding-puzzle)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **799. [Minimum Distance Between BST Nodes](./799-minimum-distance-between-bst-nodes)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2971,7 +2993,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 70)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 71)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3167,6 +3189,9 @@ Welcome to my LeetCode solutions repository!
 
 - **747. [Min Cost Climbing Stairs](./747-min-cost-climbing-stairs)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **787. [Sliding Puzzle](./787-sliding-puzzle)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **85. [Maximal Rectangle](./85-maximal-rectangle)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3423,7 +3448,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 127)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 128)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3765,6 +3790,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **73. [Set Matrix Zeroes](./73-set-matrix-zeroes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **753. [Open the Lock](./753-open-the-lock)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **76. [Minimum Window Substring](./76-minimum-window-substring)**  
@@ -4324,7 +4352,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 47)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 48)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4452,6 +4480,9 @@ Welcome to my LeetCode solutions repository!
 - **741. [Cherry Pickup](./741-cherry-pickup)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
+- **787. [Sliding Puzzle](./787-sliding-puzzle)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **79. [Word Search](./79-word-search)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -4470,7 +4501,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="memoization"><strong>Memoization</strong> (Total: 4)</summary>
+<summary id="memoization"><strong>Memoization</strong> (Total: 5)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4483,6 +4514,9 @@ Welcome to my LeetCode solutions repository!
 
 - **70. [Climbing Stairs](./70-climbing-stairs)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **787. [Sliding Puzzle](./787-sliding-puzzle)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 </details>
 
@@ -4515,7 +4549,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="monotonic-stack"><strong>Monotonic Stack</strong> (Total: 16)</summary>
+<summary id="monotonic-stack"><strong>Monotonic Stack</strong> (Total: 17)</summary>
+
+- **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4921,7 +4958,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 48)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 49)</summary>
 
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4994,6 +5031,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3434. [Find the Number of Distinct Colors Among the Balls](./3434-find-the-number-of-distinct-colors-among-the-balls)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3447. [Clear Digits](./3447-clear-digits)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3450. [Find the Child Who Has the Ball After K Seconds](./3450-find-the-child-who-has-the-ball-after-k-seconds)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5467,7 +5507,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="stack"><strong>Stack</strong> (Total: 45)</summary>
+<summary id="stack"><strong>Stack</strong> (Total: 47)</summary>
+
+- **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5544,6 +5587,9 @@ Welcome to my LeetCode solutions repository!
 - **32. [Longest Valid Parentheses](./32-longest-valid-parentheses)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
+- **3447. [Clear Digits](./3447-clear-digits)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **394. [Decode String](./394-decode-string)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -5607,7 +5653,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 132)</summary>
+<summary id="string"><strong>String</strong> (Total: 134)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5819,6 +5865,9 @@ Welcome to my LeetCode solutions repository!
 - **344. [Reverse String](./344-reverse-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **3447. [Clear Digits](./3447-clear-digits)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **345. [Reverse Vowels of a String](./345-reverse-vowels-of-a-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -5968,6 +6017,9 @@ Welcome to my LeetCode solutions repository!
 
 - **742. [To Lower Case](./742-to-lower-case)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **753. [Open the Lock](./753-open-the-lock)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **76. [Minimum Window Substring](./76-minimum-window-substring)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -6213,10 +6265,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 79)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 80)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
