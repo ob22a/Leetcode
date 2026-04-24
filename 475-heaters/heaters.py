@@ -1,43 +1,18 @@
 class Solution:
     def findRadius(self, houses: List[int], heaters: List[int]) -> int:
-        # Heater doesn't have to be in a house
-
-        n=len(houses)
-        m=len(heaters)
-        posHeaters=set(heaters)
-
-        houses.sort()
+        sol=0
         heaters.sort()
+        n=len(heaters)
 
-        def warmAllHouses(radius):
-            isWarm = [False]*n
-            i=0
-            j=0
-
-            while i<n and j<m:
-                lb=heaters[j]-radius
-                ub=heaters[j]+radius
-
-                if lb<=houses[i]<=ub:
-                    isWarm[i]=True
-                    i+=1
-                else:
-                    j+=1
-            
-            #print(isWarm,radius)
-            return all(isWarm)
-
-
-        l = 0
-        r = max(max(houses),max(heaters))
-
-        while l<r:
-            mid=(l+r)//2
-
-            if warmAllHouses(mid):
-                r=mid
+        for house in houses:
+            idx = bisect_right(heaters,house)
+            if idx==0:
+                min_distance_heater=heaters[0]-house
+            elif idx==n:
+                min_distance_heater=house-heaters[idx-1]
             else:
-                l=mid+1
-        
-        #print(warmAllHouses(5))
-        return l
+                min_distance_heater = min(heaters[idx]-house,house-heaters[idx-1])
+            
+            sol=max(sol,min_distance_heater)
+
+        return sol
