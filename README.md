@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 620
+**Total Questions:** 622
 
 ### Difficulty Distribution
 
@@ -15,17 +15,17 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 296 |
-| <span style='color:orange'>Medium</span> | 278 |
+| <span style='color:orange'>Medium</span> | 280 |
 | <span style='color:red'>Hard</span> | 46 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 348 |
+| [Array](#array) | 350 |
 | [Backtracking](#backtracking) | 25 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
-| [Binary Search](#binary-search) | 56 |
+| [Binary Search](#binary-search) | 58 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
 | [Binary Tree](#binary-tree) | 42 |
 | [Bit Manipulation](#bit-manipulation) | 31 |
@@ -71,7 +71,7 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 3 |
 | [Simulation](#simulation) | 49 |
 | [Sliding Window](#sliding-window) | 47 |
-| [Sorting](#sorting) | 82 |
+| [Sorting](#sorting) | 84 |
 | [Stack](#stack) | 47 |
 | [String](#string) | 134 |
 | [String Matching](#string-matching) | 7 |
@@ -79,7 +79,7 @@ Welcome to my LeetCode solutions repository!
 | [Topological Sort](#topological-sort) | 1 |
 | [Tree](#tree) | 45 |
 | [Trie](#trie) | 6 |
-| [Two Pointers](#two-pointers) | 80 |
+| [Two Pointers](#two-pointers) | 81 |
 | [Union-Find](#union-find) | 7 |
 
 ---
@@ -388,7 +388,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 278)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 280)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -574,6 +574,7 @@ Welcome to my LeetCode solutions repository!
 - **416. [Partition Equal Subset Sum](./416-partition-equal-subset-sum)**
 - **424. [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)**
 - **43. [Multiply Strings](./43-multiply-strings)**
+- **436. [Find Right Interval](./436-find-right-interval)**
 - **438. [Find All Anagrams in a String](./438-find-all-anagrams-in-a-string)**
 - **442. [Find All Duplicates in an Array](./442-find-all-duplicates-in-an-array)**
 - **443. [String Compression](./443-string-compression)**
@@ -586,6 +587,7 @@ Welcome to my LeetCode solutions repository!
 - **457. [Circular Array Loop](./457-circular-array-loop)**
 - **46. [Permutations](./46-permutations)**
 - **47. [Permutations II](./47-permutations-ii)**
+- **475. [Heaters](./475-heaters)**
 - **48. [Rotate Image](./48-rotate-image)**
 - **486. [Predict the Winner](./486-predict-the-winner)**
 - **49. [Group Anagrams](./49-group-anagrams)**
@@ -724,7 +726,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 348)</summary>
+<summary id="array"><strong>Array</strong> (Total: 350)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1467,6 +1469,9 @@ Welcome to my LeetCode solutions repository!
 - **42. [Trapping Rain Water](./42-trapping-rain-water)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
+- **436. [Find Right Interval](./436-find-right-interval)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **442. [Find All Duplicates in an Array](./442-find-all-duplicates-in-an-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -1498,6 +1503,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **47. [Permutations II](./47-permutations-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **475. [Heaters](./475-heaters)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **48. [Rotate Image](./48-rotate-image)**  
@@ -1861,7 +1869,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 56)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 58)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1998,10 +2006,16 @@ Welcome to my LeetCode solutions repository!
 - **410. [Split Array Largest Sum](./410-split-array-largest-sum)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
+- **436. [Find Right Interval](./436-find-right-interval)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **441. [Arranging Coins](./441-arranging-coins)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **456. [132 Pattern](./456-132-pattern)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **475. [Heaters](./475-heaters)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **532. [K-diff Pairs in an Array](./532-k-diff-pairs-in-an-array)**  
@@ -5256,7 +5270,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 82)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 84)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5441,6 +5455,9 @@ Welcome to my LeetCode solutions repository!
 - **414. [Third Maximum Number](./414-third-maximum-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **436. [Find Right Interval](./436-find-right-interval)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **442. [Find All Duplicates in an Array](./442-find-all-duplicates-in-an-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -5454,6 +5471,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **47. [Permutations II](./47-permutations-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **475. [Heaters](./475-heaters)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **49. [Group Anagrams](./49-group-anagrams)**  
@@ -6265,7 +6285,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 80)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 81)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6427,6 +6447,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **457. [Circular Array Loop](./457-circular-array-loop)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **475. [Heaters](./475-heaters)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **5. [Longest Palindromic Substring](./5-longest-palindromic-substring)**  
