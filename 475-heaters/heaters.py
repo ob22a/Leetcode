@@ -5,7 +5,7 @@ class Solution:
         n=len(heaters)
 
         for house in houses:
-            idx = bisect_right(heaters,house)
+            idx = bisect_left(heaters,house)
             if idx==0:
                 min_distance_heater=heaters[0]-house
             elif idx==n:
