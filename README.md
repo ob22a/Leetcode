@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 622
+**Total Questions:** 625
 
 ### Difficulty Distribution
 
@@ -15,20 +15,20 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 296 |
-| <span style='color:orange'>Medium</span> | 280 |
+| <span style='color:orange'>Medium</span> | 283 |
 | <span style='color:red'>Hard</span> | 46 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 350 |
+| [Array](#array) | 353 |
 | [Backtracking](#backtracking) | 25 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
-| [Binary Search](#binary-search) | 58 |
+| [Binary Search](#binary-search) | 61 |
 | [Binary Search Tree](#binary-search-tree) | 12 |
 | [Binary Tree](#binary-tree) | 42 |
-| [Bit Manipulation](#bit-manipulation) | 31 |
+| [Bit Manipulation](#bit-manipulation) | 32 |
 | [Bitmask](#bitmask) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 45 |
@@ -39,7 +39,7 @@ Welcome to my LeetCode solutions repository!
 | [Data Stream](#data-stream) | 6 |
 | [Database](#database) | 15 |
 | [Depth-First Search](#depth-first-search) | 53 |
-| [Design](#design) | 24 |
+| [Design](#design) | 25 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
 | [Dynamic Programming](#dynamic-programming) | 71 |
@@ -60,14 +60,14 @@ Welcome to my LeetCode solutions repository!
 | [Monotonic Queue](#monotonic-queue) | 3 |
 | [Monotonic Stack](#monotonic-stack) | 17 |
 | [Number Theory](#number-theory) | 9 |
-| [Ordered Set](#ordered-set) | 4 |
+| [Ordered Set](#ordered-set) | 5 |
 | [Prefix Sum](#prefix-sum) | 41 |
 | [Queue](#queue) | 12 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
 | [Recursion](#recursion) | 25 |
 | [Rolling Hash](#rolling-hash) | 2 |
-| [Segment Tree](#segment-tree) | 1 |
+| [Segment Tree](#segment-tree) | 2 |
 | [Shortest Path](#shortest-path) | 3 |
 | [Simulation](#simulation) | 49 |
 | [Sliding Window](#sliding-window) | 47 |
@@ -79,7 +79,7 @@ Welcome to my LeetCode solutions repository!
 | [Topological Sort](#topological-sort) | 1 |
 | [Tree](#tree) | 45 |
 | [Trie](#trie) | 6 |
-| [Two Pointers](#two-pointers) | 81 |
+| [Two Pointers](#two-pointers) | 82 |
 | [Union-Find](#union-find) | 7 |
 
 ---
@@ -388,7 +388,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 280)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 283)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -536,8 +536,10 @@ Welcome to my LeetCode solutions repository!
 - **2721. [Sum of Distances](./2721-sum-of-distances)**
 - **2728. [Sum in a Matrix](./2728-sum-in-a-matrix)**
 - **274. [H-Index](./274-h-index)**
+- **275. [H-Index II](./275-h-index-ii)**
 - **2751. [Sliding Subarray Beauty](./2751-sliding-subarray-beauty)**
 - **2786. [Find the Longest Semi-Repetitive Substring](./2786-find-the-longest-semi-repetitive-substring)**
+- **287. [Find the Duplicate Number](./287-find-the-duplicate-number)**
 - **2871. [Double a Number Represented as a Linked List](./2871-double-a-number-represented-as-a-linked-list)**
 - **299. [Bulls and Cows](./299-bulls-and-cows)**
 - **3. [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters)**
@@ -632,6 +634,7 @@ Welcome to my LeetCode solutions repository!
 - **71. [Simplify Path](./71-simplify-path)**
 - **72. [Edit Distance](./72-edit-distance)**
 - **725. [Split Linked List in Parts](./725-split-linked-list-in-parts)**
+- **729. [My Calendar I](./729-my-calendar-i)**
 - **73. [Set Matrix Zeroes](./73-set-matrix-zeroes)**
 - **735. [Asteroid Collision](./735-asteroid-collision)**
 - **739. [Daily Temperatures](./739-daily-temperatures)**
@@ -726,7 +729,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 350)</summary>
+<summary id="array"><strong>Array</strong> (Total: 353)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1295,6 +1298,9 @@ Welcome to my LeetCode solutions repository!
 - **274. [H-Index](./274-h-index)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **275. [H-Index II](./275-h-index-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **2751. [Sliding Subarray Beauty](./2751-sliding-subarray-beauty)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -1306,6 +1312,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2836. [Neither Minimum nor Maximum](./2836-neither-minimum-nor-maximum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **287. [Find the Duplicate Number](./287-find-the-duplicate-number)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2876. [Number of Employees Who Met the Target](./2876-number-of-employees-who-met-the-target)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1643,6 +1652,9 @@ Welcome to my LeetCode solutions repository!
 - **724. [Find Pivot Index](./724-find-pivot-index)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **729. [My Calendar I](./729-my-calendar-i)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **73. [Set Matrix Zeroes](./73-set-matrix-zeroes)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -1869,7 +1881,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 58)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 61)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1967,8 +1979,14 @@ Welcome to my LeetCode solutions repository!
 - **268. [Missing Number](./268-missing-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **275. [H-Index II](./275-h-index-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **278. [First Bad Version](./278-first-bad-version)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **287. [Find the Duplicate Number](./287-find-the-duplicate-number)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2917. [Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2032,6 +2050,9 @@ Welcome to my LeetCode solutions repository!
 
 - **69. [Sqrt(x)](./69-sqrtx)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **729. [My Calendar I](./729-my-calendar-i)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **74. [Search a 2D Matrix](./74-search-a-2d-matrix)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2220,7 +2241,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 31)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 32)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2263,6 +2284,9 @@ Welcome to my LeetCode solutions repository!
 
 - **268. [Missing Number](./268-missing-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **287. [Find the Duplicate Number](./287-find-the-duplicate-number)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3193. [Maximum Strong Pair XOR I](./3193-maximum-strong-pair-xor-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2863,7 +2887,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="design"><strong>Design</strong> (Total: 24)</summary>
+<summary id="design"><strong>Design</strong> (Total: 25)</summary>
 
 - **146. [LRU Cache](./146-lru-cache)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2908,6 +2932,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **355. [Design Twitter](./355-design-twitter)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **729. [My Calendar I](./729-my-calendar-i)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
@@ -4651,7 +4678,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="ordered-set"><strong>Ordered Set</strong> (Total: 4)</summary>
+<summary id="ordered-set"><strong>Ordered Set</strong> (Total: 5)</summary>
 
 - **1549. [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4660,6 +4687,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **456. [132 Pattern](./456-132-pattern)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **729. [My Calendar I](./729-my-calendar-i)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **931. [Maximum Frequency Stack](./931-maximum-frequency-stack)**  
@@ -4950,9 +4980,12 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="segment-tree"><strong>Segment Tree</strong> (Total: 1)</summary>
+<summary id="segment-tree"><strong>Segment Tree</strong> (Total: 2)</summary>
 
 - **673. [Number of Longest Increasing Subsequence](./673-number-of-longest-increasing-subsequence)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **729. [My Calendar I](./729-my-calendar-i)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
@@ -6285,7 +6318,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 81)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 82)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6409,6 +6442,9 @@ Welcome to my LeetCode solutions repository!
 
 - **283. [Move Zeroes](./283-move-zeroes)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **287. [Find the Duplicate Number](./287-find-the-duplicate-number)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2917. [Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
