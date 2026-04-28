@@ -9,7 +9,7 @@ class Solution:
 
         while left<right:
             mid = (left+right)//2
-            if x-arr[mid]>arr[mid+k]-x:
+            if x-arr[mid]>arr[mid+k]-x: # This handles being equal since the other one will be negative
                 left=mid+1
             else:
                 right=mid
