@@ -13,12 +13,12 @@ class Solution:
                 else:
                     left=mid
             
-            print(left)
+            # print(left)
             return left
 
         index = b_left(x)
         left,right = index,index+1
-        print(left,right)
+        # print(left,right)
 
         for _ in range(k):
             if left>=0 and right<n:
