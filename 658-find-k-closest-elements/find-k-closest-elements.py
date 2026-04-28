@@ -2,35 +2,16 @@ class Solution:
     def findClosestElements(self, arr: List[int], k: int, x: int) -> List[int]: 
         n=len(arr)
 
-        def b_left(num):
-            left = 0
-            right = len(arr)-1
+        # We can search using binary search to find the first point of the solution
 
-            while left<right:
-                mid = (left+right+1)//2
-                if arr[mid]>num:
-                    right=mid-1
-                else:
-                    left=mid
-            
-            # print(left)
-            return left
+        left = 0
+        right = n-k
 
-        index = b_left(x)
-        left,right = index,index+1
-        # print(left,right)
-
-        for _ in range(k):
-            if left>=0 and right<n:
-                left_diff = x-arr[left]
-                right_diff = arr[right]-x
-                if right_diff<left_diff:
-                    right+=1
-                else:
-                    left-=1
-            elif left>=0:
-                left-=1
+        while left<right:
+            mid = (left+right)//2
+            if x-arr[mid]>arr[mid+k]-x:
+                left=mid+1
             else:
-                right+=1
+                right=mid
         
-        return arr[left+1:right]
+        return arr[left:left+k]
