@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 629
+**Total Questions:** 631
 
 ### Difficulty Distribution
 
@@ -15,19 +15,19 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 296 |
-| <span style='color:orange'>Medium</span> | 287 |
+| <span style='color:orange'>Medium</span> | 289 |
 | <span style='color:red'>Hard</span> | 46 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 355 |
+| [Array](#array) | 356 |
 | [Backtracking](#backtracking) | 25 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
-| [Binary Search](#binary-search) | 65 |
-| [Binary Search Tree](#binary-search-tree) | 12 |
-| [Binary Tree](#binary-tree) | 42 |
+| [Binary Search](#binary-search) | 66 |
+| [Binary Search Tree](#binary-search-tree) | 13 |
+| [Binary Tree](#binary-tree) | 43 |
 | [Bit Manipulation](#bit-manipulation) | 32 |
 | [Bitmask](#bitmask) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 22 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 35 |
-| [Math](#math) | 109 |
+| [Math](#math) | 110 |
 | [Matrix](#matrix) | 49 |
 | [Memoization](#memoization) | 5 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -61,10 +61,11 @@ Welcome to my LeetCode solutions repository!
 | [Monotonic Stack](#monotonic-stack) | 17 |
 | [Number Theory](#number-theory) | 9 |
 | [Ordered Set](#ordered-set) | 5 |
-| [Prefix Sum](#prefix-sum) | 42 |
+| [Prefix Sum](#prefix-sum) | 43 |
 | [Queue](#queue) | 12 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
+| [Randomized](#randomized) | 1 |
 | [Recursion](#recursion) | 25 |
 | [Rolling Hash](#rolling-hash) | 2 |
 | [Segment Tree](#segment-tree) | 2 |
@@ -77,7 +78,7 @@ Welcome to my LeetCode solutions repository!
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Topological Sort](#topological-sort) | 1 |
-| [Tree](#tree) | 45 |
+| [Tree](#tree) | 46 |
 | [Trie](#trie) | 6 |
 | [Two Pointers](#two-pointers) | 82 |
 | [Union-Find](#union-find) | 7 |
@@ -388,7 +389,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 287)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 289)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -649,6 +650,7 @@ Welcome to my LeetCode solutions repository!
 - **768. [Partition Labels](./768-partition-labels)**
 - **77. [Combinations](./77-combinations)**
 - **78. [Subsets](./78-subsets)**
+- **784. [Insert into a Binary Search Tree](./784-insert-into-a-binary-search-tree)**
 - **79. [Word Search](./79-word-search)**
 - **795. [K-th Symbol in Grammar](./795-k-th-symbol-in-grammar)**
 - **80. [Remove Duplicates from Sorted Array II](./80-remove-duplicates-from-sorted-array-ii)**
@@ -668,6 +670,7 @@ Welcome to my LeetCode solutions repository!
 - **906. [Walking Robot Simulation](./906-walking-robot-simulation)**
 - **907. [Koko Eating Bananas](./907-koko-eating-bananas)**
 - **909. [Stone Game](./909-stone-game)**
+- **912. [Random Pick with Weight](./912-random-pick-with-weight)**
 - **917. [Boats to Save People](./917-boats-to-save-people)**
 - **92. [Reverse Linked List II](./92-reverse-linked-list-ii)**
 - **921. [Spiral Matrix III](./921-spiral-matrix-iii)**
@@ -733,7 +736,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 355)</summary>
+<summary id="array"><strong>Array</strong> (Total: 356)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1770,6 +1773,9 @@ Welcome to my LeetCode solutions repository!
 - **909. [Stone Game](./909-stone-game)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **912. [Random Pick with Weight](./912-random-pick-with-weight)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **917. [Boats to Save People](./917-boats-to-save-people)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -1891,7 +1897,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 65)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 66)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2088,10 +2094,13 @@ Welcome to my LeetCode solutions repository!
 - **907. [Koko Eating Bananas](./907-koko-eating-bananas)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **912. [Random Pick with Weight](./912-random-pick-with-weight)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 </details>
 
 <details>
-<summary id="binary-search-tree"><strong>Binary Search Tree</strong> (Total: 12)</summary>
+<summary id="binary-search-tree"><strong>Binary Search Tree</strong> (Total: 13)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2117,6 +2126,9 @@ Welcome to my LeetCode solutions repository!
 - **783. [Search in a Binary Search Tree](./783-search-in-a-binary-search-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **784. [Insert into a Binary Search Tree](./784-insert-into-a-binary-search-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -2132,7 +2144,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-tree"><strong>Binary Tree</strong> (Total: 42)</summary>
+<summary id="binary-tree"><strong>Binary Tree</strong> (Total: 43)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2241,6 +2253,9 @@ Welcome to my LeetCode solutions repository!
 
 - **783. [Search in a Binary Search Tree](./783-search-in-a-binary-search-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **784. [Insert into a Binary Search Tree](./784-insert-into-a-binary-search-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4092,7 +4107,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 109)</summary>
+<summary id="math"><strong>Math</strong> (Total: 110)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4415,6 +4430,9 @@ Welcome to my LeetCode solutions repository!
 - **909. [Stone Game](./909-stone-game)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **912. [Random Pick with Weight](./912-random-pick-with-weight)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **944. [Smallest Range I](./944-smallest-range-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -4732,7 +4750,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 42)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 43)</summary>
 
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4857,6 +4875,9 @@ Welcome to my LeetCode solutions repository!
 - **724. [Find Pivot Index](./724-find-pivot-index)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **912. [Random Pick with Weight](./912-random-pick-with-weight)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **966. [Binary Subarrays With Sum](./966-binary-subarrays-with-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -4921,6 +4942,14 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **948. [Sort an Array](./948-sort-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="randomized"><strong>Randomized</strong> (Total: 1)</summary>
+
+- **912. [Random Pick with Weight](./912-random-pick-with-weight)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
@@ -6198,7 +6227,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="tree"><strong>Tree</strong> (Total: 45)</summary>
+<summary id="tree"><strong>Tree</strong> (Total: 46)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6316,6 +6345,9 @@ Welcome to my LeetCode solutions repository!
 
 - **783. [Search in a Binary Search Tree](./783-search-in-a-binary-search-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **784. [Insert into a Binary Search Tree](./784-insert-into-a-binary-search-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **789. [Kth Largest Element in a Stream](./789-kth-largest-element-in-a-stream)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
