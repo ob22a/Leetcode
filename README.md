@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 631
+**Total Questions:** 632
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 296 |
-| <span style='color:orange'>Medium</span> | 289 |
+| <span style='color:orange'>Medium</span> | 290 |
 | <span style='color:red'>Hard</span> | 46 |
 
 ### Topics Overview
@@ -42,7 +42,7 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 25 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
-| [Dynamic Programming](#dynamic-programming) | 71 |
+| [Dynamic Programming](#dynamic-programming) | 72 |
 | [Enumeration](#enumeration) | 8 |
 | [Game Theory](#game-theory) | 5 |
 | [Geometry](#geometry) | 2 |
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 22 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 35 |
-| [Math](#math) | 110 |
+| [Math](#math) | 111 |
 | [Matrix](#matrix) | 49 |
 | [Memoization](#memoization) | 5 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -389,7 +389,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 289)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 290)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -654,6 +654,7 @@ Welcome to my LeetCode solutions repository!
 - **79. [Word Search](./79-word-search)**
 - **795. [K-th Symbol in Grammar](./795-k-th-symbol-in-grammar)**
 - **80. [Remove Duplicates from Sorted Array II](./80-remove-duplicates-from-sorted-array-ii)**
+- **804. [Rotated Digits](./804-rotated-digits)**
 - **805. [Escape The Ghosts](./805-escape-the-ghosts)**
 - **81. [Search in Rotated Sorted Array II](./81-search-in-rotated-sorted-array-ii)**
 - **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**
@@ -3071,7 +3072,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 71)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 72)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3270,6 +3271,9 @@ Welcome to my LeetCode solutions repository!
 
 - **787. [Sliding Puzzle](./787-sliding-puzzle)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **804. [Rotated Digits](./804-rotated-digits)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **85. [Maximal Rectangle](./85-maximal-rectangle)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4107,7 +4111,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 110)</summary>
+<summary id="math"><strong>Math</strong> (Total: 111)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4416,6 +4420,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **795. [K-th Symbol in Grammar](./795-k-th-symbol-in-grammar)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **804. [Rotated Digits](./804-rotated-digits)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **805. [Escape The Ghosts](./805-escape-the-ghosts)**  
