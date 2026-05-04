@@ -9,11 +9,8 @@ class Solution:
             numModified=False
             for idx in range(n):
                 if s[idx].isalpha() and mask&(1<<idx):
-                    if ans[idx].isupper():
-                        ans[idx]=ans[idx].lower()
-                    else:
-                        ans[idx]=ans[idx].upper()
-                        
+                    ans[idx]=ans[idx].swapcase()
+                
                 elif s[idx].isdigit() and mask&(1<<idx):
                     numModified=True
                     break
