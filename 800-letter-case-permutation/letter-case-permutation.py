@@ -2,10 +2,11 @@ class Solution:
     def letterCasePermutation(self, s: str) -> List[str]:
         n=len(s)
 
+        lst=list(s)
         sol = []
 
         for mask in range(1<<n):
-            ans = list(s)
+            ans = lst[:]
             numModified=False
             for idx in range(n):
                 if s[idx].isalpha() and mask&(1<<idx):
