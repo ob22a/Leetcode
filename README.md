@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 632
+**Total Questions:** 635
 
 ### Difficulty Distribution
 
@@ -15,20 +15,20 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 296 |
-| <span style='color:orange'>Medium</span> | 290 |
+| <span style='color:orange'>Medium</span> | 293 |
 | <span style='color:red'>Hard</span> | 46 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 356 |
-| [Backtracking](#backtracking) | 25 |
+| [Array](#array) | 358 |
+| [Backtracking](#backtracking) | 27 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 66 |
 | [Binary Search Tree](#binary-search-tree) | 13 |
 | [Binary Tree](#binary-tree) | 43 |
-| [Bit Manipulation](#bit-manipulation) | 32 |
+| [Bit Manipulation](#bit-manipulation) | 35 |
 | [Bitmask](#bitmask) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 45 |
@@ -43,7 +43,7 @@ Welcome to my LeetCode solutions repository!
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
 | [Dynamic Programming](#dynamic-programming) | 72 |
-| [Enumeration](#enumeration) | 8 |
+| [Enumeration](#enumeration) | 9 |
 | [Game Theory](#game-theory) | 5 |
 | [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 6 |
@@ -74,7 +74,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 48 |
 | [Sorting](#sorting) | 85 |
 | [Stack](#stack) | 47 |
-| [String](#string) | 134 |
+| [String](#string) | 135 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Topological Sort](#topological-sort) | 1 |
@@ -389,7 +389,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 290)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 293)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -493,6 +493,7 @@ Welcome to my LeetCode solutions repository!
 - **2134. [Maximize the Confusion of an Exam](./2134-maximize-the-confusion-of-an-exam)**
 - **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**
 - **216. [Combination Sum III](./216-combination-sum-iii)**
+- **2170. [Count Number of Maximum Bitwise-OR Subsets](./2170-count-number-of-maximum-bitwise-or-subsets)**
 - **2178. [Walking Robot Simulation II](./2178-walking-robot-simulation-ii)**
 - **22. [Generate Parentheses](./22-generate-parentheses)**
 - **2205. [Find Good Days to Rob the Bank](./2205-find-good-days-to-rob-the-bank)**
@@ -521,6 +522,7 @@ Welcome to my LeetCode solutions repository!
 - **2470. [Removing Stars From a String](./2470-removing-stars-from-a-string)**
 - **2478. [Longest Nice Subarray](./2478-longest-nice-subarray)**
 - **2497. [Maximum Matching of Players With Trainers](./2497-maximum-matching-of-players-with-trainers)**
+- **2519. [Find The Original Array of Prefix Xor](./2519-find-the-original-array-of-prefix-xor)**
 - **2530. [Minimize Maximum of Array](./2530-minimize-maximum-of-array)**
 - **2546. [Number of Subarrays With GCD Equal to K](./2546-number-of-subarrays-with-gcd-equal-to-k)**
 - **2552. [Maximum Sum of Distinct Subarrays With Length K](./2552-maximum-sum-of-distinct-subarrays-with-length-k)**
@@ -654,6 +656,7 @@ Welcome to my LeetCode solutions repository!
 - **79. [Word Search](./79-word-search)**
 - **795. [K-th Symbol in Grammar](./795-k-th-symbol-in-grammar)**
 - **80. [Remove Duplicates from Sorted Array II](./80-remove-duplicates-from-sorted-array-ii)**
+- **800. [Letter Case Permutation](./800-letter-case-permutation)**
 - **804. [Rotated Digits](./804-rotated-digits)**
 - **805. [Escape The Ghosts](./805-escape-the-ghosts)**
 - **81. [Search in Rotated Sorted Array II](./81-search-in-rotated-sorted-array-ii)**
@@ -737,7 +740,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 356)</summary>
+<summary id="array"><strong>Array</strong> (Total: 358)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1138,6 +1141,9 @@ Welcome to my LeetCode solutions repository!
 - **217. [Contains Duplicate](./217-contains-duplicate)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **2170. [Count Number of Maximum Bitwise-OR Subsets](./2170-count-number-of-maximum-bitwise-or-subsets)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **219. [Contains Duplicate II](./219-contains-duplicate-ii)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -1233,6 +1239,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2502. [Sort the People](./2502-sort-the-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2519. [Find The Original Array of Prefix Xor](./2519-find-the-original-array-of-prefix-xor)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2527. [Count Subarrays With Fixed Bounds](./2527-count-subarrays-with-fixed-bounds)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -1810,7 +1819,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="backtracking"><strong>Backtracking</strong> (Total: 25)</summary>
+<summary id="backtracking"><strong>Backtracking</strong> (Total: 27)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -1828,6 +1837,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **216. [Combination Sum III](./216-combination-sum-iii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2170. [Count Number of Maximum Bitwise-OR Subsets](./2170-count-number-of-maximum-bitwise-or-subsets)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **22. [Generate Parentheses](./22-generate-parentheses)**  
@@ -1873,6 +1885,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **79. [Word Search](./79-word-search)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **800. [Letter Case Permutation](./800-letter-case-permutation)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**  
@@ -2279,7 +2294,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 32)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 35)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2305,6 +2320,9 @@ Welcome to my LeetCode solutions repository!
 - **1993. [Sum of All Subset XOR Totals](./1993-sum-of-all-subset-xor-totals)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **2170. [Count Number of Maximum Bitwise-OR Subsets](./2170-count-number-of-maximum-bitwise-or-subsets)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **222. [Count Complete Tree Nodes](./222-count-complete-tree-nodes)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -2318,6 +2336,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2478. [Longest Nice Subarray](./2478-longest-nice-subarray)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2519. [Find The Original Array of Prefix Xor](./2519-find-the-original-array-of-prefix-xor)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **268. [Missing Number](./268-missing-number)**  
@@ -2366,6 +2387,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **795. [K-th Symbol in Grammar](./795-k-th-symbol-in-grammar)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **800. [Letter Case Permutation](./800-letter-case-permutation)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **861. [Flipping an Image](./861-flipping-an-image)**  
@@ -3293,7 +3317,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="enumeration"><strong>Enumeration</strong> (Total: 8)</summary>
+<summary id="enumeration"><strong>Enumeration</strong> (Total: 9)</summary>
 
 - **1656. [Count Good Triplets](./1656-count-good-triplets)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3302,6 +3326,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **204. [Count Primes](./204-count-primes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2170. [Count Number of Maximum Bitwise-OR Subsets](./2170-count-number-of-maximum-bitwise-or-subsets)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2351. [Number of Ways to Buy Pens and Pencils](./2351-number-of-ways-to-buy-pens-and-pencils)**  
@@ -5785,7 +5812,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 134)</summary>
+<summary id="string"><strong>String</strong> (Total: 135)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -6163,6 +6190,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **79. [Word Search](./79-word-search)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **800. [Letter Case Permutation](./800-letter-case-permutation)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **812. [Rotate String](./812-rotate-string)**  
