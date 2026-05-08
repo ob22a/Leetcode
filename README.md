@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 638
+**Total Questions:** 639
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 296 |
-| <span style='color:orange'>Medium</span> | 295 |
+| <span style='color:orange'>Medium</span> | 296 |
 | <span style='color:red'>Hard</span> | 47 |
 
 ### Topics Overview
@@ -28,7 +28,7 @@ Welcome to my LeetCode solutions repository!
 | [Binary Search](#binary-search) | 66 |
 | [Binary Search Tree](#binary-search-tree) | 13 |
 | [Binary Tree](#binary-tree) | 43 |
-| [Bit Manipulation](#bit-manipulation) | 37 |
+| [Bit Manipulation](#bit-manipulation) | 38 |
 | [Bitmask](#bitmask) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 45 |
@@ -389,7 +389,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 295)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 296)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -482,6 +482,7 @@ Welcome to my LeetCode solutions repository!
 - **2. [Add Two Numbers](./2-add-two-numbers)**
 - **200. [Number of Islands](./200-number-of-islands)**
 - **2000. [Minimum Speed to Arrive on Time](./2000-minimum-speed-to-arrive-on-time)**
+- **201. [Bitwise AND of Numbers Range](./201-bitwise-and-of-numbers-range)**
 - **2016. [Reduction Operations to Make the Array Elements Equal](./2016-reduction-operations-to-make-the-array-elements-equal)**
 - **204. [Count Primes](./204-count-primes)**
 - **2047. [Find a Peak Element II](./2047-find-a-peak-element-ii)**
@@ -2306,7 +2307,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 37)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 38)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2334,6 +2335,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1993. [Sum of All Subset XOR Totals](./1993-sum-of-all-subset-xor-totals)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **201. [Bitwise AND of Numbers Range](./201-bitwise-and-of-numbers-range)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2170. [Count Number of Maximum Bitwise-OR Subsets](./2170-count-number-of-maximum-bitwise-or-subsets)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
