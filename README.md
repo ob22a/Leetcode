@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 639
+**Total Questions:** 640
 
 ### Difficulty Distribution
 
@@ -15,20 +15,20 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 296 |
-| <span style='color:orange'>Medium</span> | 296 |
+| <span style='color:orange'>Medium</span> | 297 |
 | <span style='color:red'>Hard</span> | 47 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 361 |
+| [Array](#array) | 362 |
 | [Backtracking](#backtracking) | 27 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 66 |
 | [Binary Search Tree](#binary-search-tree) | 13 |
 | [Binary Tree](#binary-tree) | 43 |
-| [Bit Manipulation](#bit-manipulation) | 38 |
+| [Bit Manipulation](#bit-manipulation) | 39 |
 | [Bitmask](#bitmask) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 45 |
@@ -74,7 +74,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 48 |
 | [Sorting](#sorting) | 86 |
 | [Stack](#stack) | 47 |
-| [String](#string) | 135 |
+| [String](#string) | 136 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Topological Sort](#topological-sort) | 1 |
@@ -389,7 +389,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 296)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 297)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -553,6 +553,7 @@ Welcome to my LeetCode solutions repository!
 - **304. [Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable)**
 - **31. [Next Permutation](./31-next-permutation)**
 - **316. [Remove Duplicate Letters](./316-remove-duplicate-letters)**
+- **318. [Maximum Product of Word Lengths](./318-maximum-product-of-word-lengths)**
 - **319. [Bulb Switcher](./319-bulb-switcher)**
 - **3213. [Count Subarrays Where Max Element Appears at Least K Times](./3213-count-subarrays-where-max-element-appears-at-least-k-times)**
 - **322. [Coin Change](./322-coin-change)**
@@ -744,7 +745,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 361)</summary>
+<summary id="array"><strong>Array</strong> (Total: 362)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1372,6 +1373,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3154. [Maximum Value of an Ordered Triplet I](./3154-maximum-value-of-an-ordered-triplet-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **318. [Maximum Product of Word Lengths](./318-maximum-product-of-word-lengths)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3193. [Maximum Strong Pair XOR I](./3193-maximum-strong-pair-xor-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2307,7 +2311,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 38)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 39)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2367,6 +2371,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **287. [Find the Duplicate Number](./287-find-the-duplicate-number)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **318. [Maximum Product of Word Lengths](./318-maximum-product-of-word-lengths)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3193. [Maximum Strong Pair XOR I](./3193-maximum-strong-pair-xor-i)**  
@@ -5843,7 +5850,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 135)</summary>
+<summary id="string"><strong>String</strong> (Total: 136)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -6038,6 +6045,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **316. [Remove Duplicate Letters](./316-remove-duplicate-letters)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **318. [Maximum Product of Word Lengths](./318-maximum-product-of-word-lengths)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **32. [Longest Valid Parentheses](./32-longest-valid-parentheses)**  
