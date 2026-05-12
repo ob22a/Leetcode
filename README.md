@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 640
+**Total Questions:** 641
 
 ### Difficulty Distribution
 
@@ -15,20 +15,20 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 296 |
-| <span style='color:orange'>Medium</span> | 297 |
+| <span style='color:orange'>Medium</span> | 298 |
 | <span style='color:red'>Hard</span> | 47 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 362 |
+| [Array](#array) | 363 |
 | [Backtracking](#backtracking) | 27 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 66 |
 | [Binary Search Tree](#binary-search-tree) | 13 |
 | [Binary Tree](#binary-tree) | 43 |
-| [Bit Manipulation](#bit-manipulation) | 39 |
+| [Bit Manipulation](#bit-manipulation) | 40 |
 | [Bitmask](#bitmask) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 45 |
@@ -71,7 +71,7 @@ Welcome to my LeetCode solutions repository!
 | [Segment Tree](#segment-tree) | 2 |
 | [Shortest Path](#shortest-path) | 3 |
 | [Simulation](#simulation) | 49 |
-| [Sliding Window](#sliding-window) | 48 |
+| [Sliding Window](#sliding-window) | 49 |
 | [Sorting](#sorting) | 86 |
 | [Stack](#stack) | 47 |
 | [String](#string) | 136 |
@@ -389,7 +389,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 297)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 298)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -562,6 +562,7 @@ Welcome to my LeetCode solutions repository!
 - **33. [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array)**
 - **3325. [Find the Largest Area of Square Inside Two Rectangles](./3325-find-the-largest-area-of-square-inside-two-rectangles)**
 - **3338. [Count Submatrices with Top-Left Element and Sum Less Than k](./3338-count-submatrices-with-top-left-element-and-sum-less-than-k)**
+- **3380. [Shortest Subarray With OR at Least K II](./3380-shortest-subarray-with-or-at-least-k-ii)**
 - **34. [Find First and Last Position of Element in Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array)**
 - **3434. [Find the Number of Distinct Colors Among the Balls](./3434-find-the-number-of-distinct-colors-among-the-balls)**
 - **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**
@@ -745,7 +746,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 362)</summary>
+<summary id="array"><strong>Array</strong> (Total: 363)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1415,6 +1416,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3367. [Find the Sum of Encrypted Integers](./3367-find-the-sum-of-encrypted-integers)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3380. [Shortest Subarray With OR at Least K II](./3380-shortest-subarray-with-or-at-least-k-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3381. [Shortest Subarray With OR at Least K I](./3381-shortest-subarray-with-or-at-least-k-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2311,7 +2315,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 39)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 40)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2381,6 +2385,9 @@ Welcome to my LeetCode solutions repository!
 
 - **338. [Counting Bits](./338-counting-bits)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3380. [Shortest Subarray With OR at Least K II](./3380-shortest-subarray-with-or-at-least-k-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3381. [Shortest Subarray With OR at Least K I](./3381-shortest-subarray-with-or-at-least-k-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5292,7 +5299,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 48)</summary>
+<summary id="sliding-window"><strong>Sliding Window</strong> (Total: 49)</summary>
 
 - **1020. [Longest Turbulent Subarray](./1020-longest-turbulent-subarray)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5394,6 +5401,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3213. [Count Subarrays Where Max Element Appears at Least K Times](./3213-count-subarrays-where-max-element-appears-at-least-k-times)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3380. [Shortest Subarray With OR at Least K II](./3380-shortest-subarray-with-or-at-least-k-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3381. [Shortest Subarray With OR at Least K I](./3381-shortest-subarray-with-or-at-least-k-i)**  
