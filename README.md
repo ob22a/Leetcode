@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 641
+**Total Questions:** 642
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 296 |
+| <span style='color:green'>Easy</span> | 297 |
 | <span style='color:orange'>Medium</span> | 298 |
 | <span style='color:red'>Hard</span> | 47 |
 
@@ -22,7 +22,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 363 |
+| [Array](#array) | 364 |
 | [Backtracking](#backtracking) | 27 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 66 |
@@ -70,11 +70,11 @@ Welcome to my LeetCode solutions repository!
 | [Rolling Hash](#rolling-hash) | 2 |
 | [Segment Tree](#segment-tree) | 2 |
 | [Shortest Path](#shortest-path) | 3 |
-| [Simulation](#simulation) | 49 |
+| [Simulation](#simulation) | 50 |
 | [Sliding Window](#sliding-window) | 49 |
 | [Sorting](#sorting) | 86 |
 | [Stack](#stack) | 47 |
-| [String](#string) | 136 |
+| [String](#string) | 137 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Topological Sort](#topological-sort) | 1 |
@@ -88,7 +88,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 296)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 297)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -302,6 +302,7 @@ Welcome to my LeetCode solutions repository!
 - **412. [Fizz Buzz](./412-fizz-buzz)**
 - **414. [Third Maximum Number](./414-third-maximum-number)**
 - **415. [Add Strings](./415-add-strings)**
+- **4216. [Weighted Word Mapping](./4216-weighted-word-mapping)**
 - **434. [Number of Segments in a String](./434-number-of-segments-in-a-string)**
 - **441. [Arranging Coins](./441-arranging-coins)**
 - **448. [Find All Numbers Disappeared in an Array](./448-find-all-numbers-disappeared-in-an-array)**
@@ -746,7 +747,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 363)</summary>
+<summary id="array"><strong>Array</strong> (Total: 364)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1518,6 +1519,9 @@ Welcome to my LeetCode solutions repository!
 
 - **42. [Trapping Rain Water](./42-trapping-rain-water)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **4216. [Weighted Word Mapping](./4216-weighted-word-mapping)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **436. [Find Right Interval](./436-find-right-interval)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5147,7 +5151,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="simulation"><strong>Simulation</strong> (Total: 49)</summary>
+<summary id="simulation"><strong>Simulation</strong> (Total: 50)</summary>
 
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5249,6 +5253,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **415. [Add Strings](./415-add-strings)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **4216. [Weighted Word Mapping](./4216-weighted-word-mapping)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **43. [Multiply Strings](./43-multiply-strings)**  
@@ -5860,7 +5867,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 136)</summary>
+<summary id="string"><strong>String</strong> (Total: 137)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -6139,6 +6146,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **415. [Add Strings](./415-add-strings)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **4216. [Weighted Word Mapping](./4216-weighted-word-mapping)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **424. [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)**  
