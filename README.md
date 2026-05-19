@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 642
+**Total Questions:** 643
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 297 |
-| <span style='color:orange'>Medium</span> | 298 |
+| <span style='color:orange'>Medium</span> | 299 |
 | <span style='color:red'>Hard</span> | 47 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 364 |
+| [Array](#array) | 365 |
 | [Backtracking](#backtracking) | 27 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 66 |
@@ -31,14 +31,14 @@ Welcome to my LeetCode solutions repository!
 | [Bit Manipulation](#bit-manipulation) | 40 |
 | [Bitmask](#bitmask) | 1 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 45 |
+| [Breadth-First Search](#breadth-first-search) | 46 |
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Combinatorics](#combinatorics) | 2 |
 | [Counting](#counting) | 32 |
 | [Counting Sort](#counting-sort) | 5 |
 | [Data Stream](#data-stream) | 6 |
 | [Database](#database) | 15 |
-| [Depth-First Search](#depth-first-search) | 53 |
+| [Depth-First Search](#depth-first-search) | 54 |
 | [Design](#design) | 25 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
@@ -54,7 +54,7 @@ Welcome to my LeetCode solutions repository!
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 35 |
 | [Math](#math) | 111 |
-| [Matrix](#matrix) | 49 |
+| [Matrix](#matrix) | 50 |
 | [Memoization](#memoization) | 5 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 3 |
@@ -81,7 +81,7 @@ Welcome to my LeetCode solutions repository!
 | [Tree](#tree) | 46 |
 | [Trie](#trie) | 6 |
 | [Two Pointers](#two-pointers) | 82 |
-| [Union-Find](#union-find) | 7 |
+| [Union-Find](#union-find) | 8 |
 
 ---
 
@@ -390,7 +390,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 298)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 299)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -485,6 +485,7 @@ Welcome to my LeetCode solutions repository!
 - **2000. [Minimum Speed to Arrive on Time](./2000-minimum-speed-to-arrive-on-time)**
 - **201. [Bitwise AND of Numbers Range](./201-bitwise-and-of-numbers-range)**
 - **2016. [Reduction Operations to Make the Array Elements Equal](./2016-reduction-operations-to-make-the-array-elements-equal)**
+- **2035. [Count Sub Islands](./2035-count-sub-islands)**
 - **204. [Count Primes](./204-count-primes)**
 - **2047. [Find a Peak Element II](./2047-find-a-peak-element-ii)**
 - **2050. [Count Good Numbers](./2050-count-good-numbers)**
@@ -747,7 +748,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 364)</summary>
+<summary id="array"><strong>Array</strong> (Total: 365)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1101,6 +1102,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2016. [Reduction Operations to Make the Array Elements Equal](./2016-reduction-operations-to-make-the-array-elements-equal)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2035. [Count Sub Islands](./2035-count-sub-islands)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **204. [Count Primes](./204-count-primes)**  
@@ -2466,7 +2470,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 45)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 46)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2532,6 +2536,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **200. [Number of Islands](./200-number-of-islands)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2035. [Count Sub Islands](./2035-count-sub-islands)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2103. [Find All Groups of Farmland](./2103-find-all-groups-of-farmland)**  
@@ -2828,7 +2835,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 53)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 54)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2888,6 +2895,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **200. [Number of Islands](./200-number-of-islands)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2035. [Count Sub Islands](./2035-count-sub-islands)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2103. [Find All Groups of Farmland](./2103-find-all-groups-of-farmland)**  
@@ -4522,7 +4532,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 49)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 50)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4564,6 +4574,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **200. [Number of Islands](./200-number-of-islands)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2035. [Count Sub Islands](./2035-count-sub-islands)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2047. [Find a Peak Element II](./2047-find-a-peak-element-ii)**  
@@ -6742,7 +6755,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="union-find"><strong>Union-Find</strong> (Total: 7)</summary>
+<summary id="union-find"><strong>Union-Find</strong> (Total: 8)</summary>
 
 - **128. [Longest Consecutive Sequence](./128-longest-consecutive-sequence)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -6757,6 +6770,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **200. [Number of Islands](./200-number-of-islands)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2035. [Count Sub Islands](./2035-count-sub-islands)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**  
