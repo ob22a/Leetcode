@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 643
+**Total Questions:** 644
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 297 |
-| <span style='color:orange'>Medium</span> | 299 |
+| <span style='color:orange'>Medium</span> | 300 |
 | <span style='color:red'>Hard</span> | 47 |
 
 ### Topics Overview
@@ -23,7 +23,7 @@ Welcome to my LeetCode solutions repository!
 | Topic | Number of Questions |
 |-------|---------------------|
 | [Array](#array) | 365 |
-| [Backtracking](#backtracking) | 27 |
+| [Backtracking](#backtracking) | 28 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 66 |
 | [Binary Search Tree](#binary-search-tree) | 13 |
@@ -43,7 +43,7 @@ Welcome to my LeetCode solutions repository!
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
 | [Dynamic Programming](#dynamic-programming) | 72 |
-| [Enumeration](#enumeration) | 9 |
+| [Enumeration](#enumeration) | 10 |
 | [Game Theory](#game-theory) | 5 |
 | [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 6 |
@@ -74,7 +74,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 49 |
 | [Sorting](#sorting) | 86 |
 | [Stack](#stack) | 47 |
-| [String](#string) | 137 |
+| [String](#string) | 138 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Topological Sort](#topological-sort) | 1 |
@@ -390,7 +390,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 299)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 300)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -478,6 +478,7 @@ Welcome to my LeetCode solutions repository!
 - **19. [Remove Nth Node From End of List](./19-remove-nth-node-from-end-of-list)**
 - **1951. [Find the Winner of the Circular Game](./1951-find-the-winner-of-the-circular-game)**
 - **1956. [Maximum Element After Decreasing and Rearranging](./1956-maximum-element-after-decreasing-and-rearranging)**
+- **1976. [Splitting a String Into Descending Consecutive Values](./1976-splitting-a-string-into-descending-consecutive-values)**
 - **198. [House Robber](./198-house-robber)**
 - **199. [Binary Tree Right Side View](./199-binary-tree-right-side-view)**
 - **2. [Add Two Numbers](./2-add-two-numbers)**
@@ -1848,7 +1849,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="backtracking"><strong>Backtracking</strong> (Total: 27)</summary>
+<summary id="backtracking"><strong>Backtracking</strong> (Total: 28)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -1861,6 +1862,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **1976. [Splitting a String Into Descending Consecutive Values](./1976-splitting-a-string-into-descending-consecutive-values)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1993. [Sum of All Subset XOR Totals](./1993-sum-of-all-subset-xor-totals)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3370,10 +3374,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="enumeration"><strong>Enumeration</strong> (Total: 9)</summary>
+<summary id="enumeration"><strong>Enumeration</strong> (Total: 10)</summary>
 
 - **1656. [Count Good Triplets](./1656-count-good-triplets)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1976. [Splitting a String Into Descending Consecutive Values](./1976-splitting-a-string-into-descending-consecutive-values)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1993. [Sum of All Subset XOR Totals](./1993-sum-of-all-subset-xor-totals)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5880,7 +5887,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 137)</summary>
+<summary id="string"><strong>String</strong> (Total: 138)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5983,6 +5990,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1970. [Sorting the Sentence](./1970-sorting-the-sentence)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1976. [Splitting a String Into Descending Consecutive Values](./1976-splitting-a-string-into-descending-consecutive-values)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **20. [Valid Parentheses](./20-valid-parentheses)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
