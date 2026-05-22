@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 644
+**Total Questions:** 645
 
 ### Difficulty Distribution
 
@@ -15,21 +15,21 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 297 |
-| <span style='color:orange'>Medium</span> | 300 |
+| <span style='color:orange'>Medium</span> | 301 |
 | <span style='color:red'>Hard</span> | 47 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 365 |
-| [Backtracking](#backtracking) | 28 |
+| [Array](#array) | 366 |
+| [Backtracking](#backtracking) | 29 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 66 |
 | [Binary Search Tree](#binary-search-tree) | 13 |
 | [Binary Tree](#binary-tree) | 43 |
-| [Bit Manipulation](#bit-manipulation) | 40 |
-| [Bitmask](#bitmask) | 1 |
+| [Bit Manipulation](#bit-manipulation) | 41 |
+| [Bitmask](#bitmask) | 2 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 46 |
 | [Bucket Sort](#bucket-sort) | 4 |
@@ -42,7 +42,7 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 25 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
-| [Dynamic Programming](#dynamic-programming) | 72 |
+| [Dynamic Programming](#dynamic-programming) | 73 |
 | [Enumeration](#enumeration) | 10 |
 | [Game Theory](#game-theory) | 5 |
 | [Geometry](#geometry) | 2 |
@@ -390,7 +390,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 300)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 301)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -437,6 +437,7 @@ Welcome to my LeetCode solutions repository!
 - **1380. [Number of Closed Islands](./1380-number-of-closed-islands)**
 - **1402. [Count Square Submatrices with All Ones](./1402-count-square-submatrices-with-all-ones)**
 - **1408. [Find the Smallest Divisor Given a Threshold](./1408-find-the-smallest-divisor-given-a-threshold)**
+- **1418. [Fair Distribution of Cookies](./1418-fair-distribution-of-cookies)**
 - **142. [Linked List Cycle II](./142-linked-list-cycle-ii)**
 - **1428. [Jump Game III](./1428-jump-game-iii)**
 - **143. [Reorder List](./143-reorder-list)**
@@ -749,7 +750,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 365)</summary>
+<summary id="array"><strong>Array</strong> (Total: 366)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -921,6 +922,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1414. [Shortest Path in a Grid with Obstacles Elimination](./1414-shortest-path-in-a-grid-with-obstacles-elimination)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **1418. [Fair Distribution of Cookies](./1418-fair-distribution-of-cookies)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1428. [Jump Game III](./1428-jump-game-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -1849,12 +1853,15 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="backtracking"><strong>Backtracking</strong> (Total: 28)</summary>
+<summary id="backtracking"><strong>Backtracking</strong> (Total: 29)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **131. [Palindrome Partitioning](./131-palindrome-partitioning)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1418. [Fair Distribution of Cookies](./1418-fair-distribution-of-cookies)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **17. [Letter Combinations of a Phone Number](./17-letter-combinations-of-a-phone-number)**  
@@ -2327,7 +2334,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 40)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 41)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2336,6 +2343,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **137. [Single Number II](./137-single-number-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1418. [Fair Distribution of Cookies](./1418-fair-distribution-of-cookies)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **187. [Repeated DNA Sequences](./187-repeated-dna-sequences)**  
@@ -2452,7 +2462,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bitmask"><strong>Bitmask</strong> (Total: 1)</summary>
+<summary id="bitmask"><strong>Bitmask</strong> (Total: 2)</summary>
+
+- **1418. [Fair Distribution of Cookies](./1418-fair-distribution-of-cookies)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3153,7 +3166,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 72)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 73)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3222,6 +3235,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1402. [Count Square Submatrices with All Ones](./1402-count-square-submatrices-with-all-ones)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1418. [Fair Distribution of Cookies](./1418-fair-distribution-of-cookies)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1559. [Cherry Pickup II](./1559-cherry-pickup-ii)**  
