@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 645
+**Total Questions:** 647
 
 ### Difficulty Distribution
 
@@ -16,20 +16,20 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 297 |
 | <span style='color:orange'>Medium</span> | 301 |
-| <span style='color:red'>Hard</span> | 47 |
+| <span style='color:red'>Hard</span> | 49 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 366 |
+| [Array](#array) | 368 |
 | [Backtracking](#backtracking) | 29 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
-| [Binary Search](#binary-search) | 66 |
+| [Binary Search](#binary-search) | 67 |
 | [Binary Search Tree](#binary-search-tree) | 13 |
 | [Binary Tree](#binary-tree) | 43 |
-| [Bit Manipulation](#bit-manipulation) | 41 |
-| [Bitmask](#bitmask) | 2 |
+| [Bit Manipulation](#bit-manipulation) | 43 |
+| [Bitmask](#bitmask) | 4 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 46 |
 | [Bucket Sort](#bucket-sort) | 4 |
@@ -42,7 +42,7 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 25 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
-| [Dynamic Programming](#dynamic-programming) | 73 |
+| [Dynamic Programming](#dynamic-programming) | 75 |
 | [Enumeration](#enumeration) | 10 |
 | [Game Theory](#game-theory) | 5 |
 | [Geometry](#geometry) | 2 |
@@ -60,7 +60,7 @@ Welcome to my LeetCode solutions repository!
 | [Monotonic Queue](#monotonic-queue) | 3 |
 | [Monotonic Stack](#monotonic-stack) | 17 |
 | [Number Theory](#number-theory) | 9 |
-| [Ordered Set](#ordered-set) | 5 |
+| [Ordered Set](#ordered-set) | 6 |
 | [Prefix Sum](#prefix-sum) | 43 |
 | [Queue](#queue) | 12 |
 | [Quickselect](#quickselect) | 2 |
@@ -72,7 +72,7 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 3 |
 | [Simulation](#simulation) | 50 |
 | [Sliding Window](#sliding-window) | 49 |
-| [Sorting](#sorting) | 86 |
+| [Sorting](#sorting) | 88 |
 | [Stack](#stack) | 47 |
 | [String](#string) | 138 |
 | [String Matching](#string-matching) | 7 |
@@ -80,7 +80,7 @@ Welcome to my LeetCode solutions repository!
 | [Topological Sort](#topological-sort) | 1 |
 | [Tree](#tree) | 46 |
 | [Trie](#trie) | 6 |
-| [Two Pointers](#two-pointers) | 82 |
+| [Two Pointers](#two-pointers) | 84 |
 | [Union-Find](#union-find) | 8 |
 
 ---
@@ -696,7 +696,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 47)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 49)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -714,10 +714,12 @@ Welcome to my LeetCode solutions repository!
 - **1559. [Cherry Pickup II](./1559-cherry-pickup-ii)**
 - **1669. [Minimum Cost to Cut a Stick](./1669-minimum-cost-to-cut-a-stick)**
 - **188. [Best Time to Buy and Sell Stock IV](./188-best-time-to-buy-and-sell-stock-iv)**
+- **1881. [Closest Subsequence Sum](./1881-closest-subsequence-sum)**
 - **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**
 - **1918. [Maximum Score of a Good Subarray](./1918-maximum-score-of-a-good-subarray)**
 - **2109. [Find Array Given Subset Sums](./2109-find-array-given-subset-sums)**
 - **2119. [Minimum Number of Operations to Make Array Continuous](./2119-minimum-number-of-operations-to-make-array-continuous)**
+- **2162. [Partition Array Into Two Arrays to Minimize Sum Difference](./2162-partition-array-into-two-arrays-to-minimize-sum-difference)**
 - **224. [Basic Calculator](./224-basic-calculator)**
 - **23. [Merge k Sorted Lists](./23-merge-k-sorted-lists)**
 - **2375. [Minimum Obstacle Removal to Reach Corner](./2375-minimum-obstacle-removal-to-reach-corner)**
@@ -750,7 +752,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 366)</summary>
+<summary id="array"><strong>Array</strong> (Total: 368)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1076,6 +1078,9 @@ Welcome to my LeetCode solutions repository!
 - **188. [Best Time to Buy and Sell Stock IV](./188-best-time-to-buy-and-sell-stock-iv)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
+- **1881. [Closest Subsequence Sum](./1881-closest-subsequence-sum)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **189. [Rotate Array](./189-rotate-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -1159,6 +1164,9 @@ Welcome to my LeetCode solutions repository!
 
 - **216. [Combination Sum III](./216-combination-sum-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2162. [Partition Array Into Two Arrays to Minimize Sum Difference](./2162-partition-array-into-two-arrays-to-minimize-sum-difference)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **217. [Contains Duplicate](./217-contains-duplicate)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1953,7 +1961,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 66)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 67)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2017,6 +2025,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2134. [Maximize the Confusion of an Exam](./2134-maximize-the-confusion-of-an-exam)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2162. [Partition Array Into Two Arrays to Minimize Sum Difference](./2162-partition-array-into-two-arrays-to-minimize-sum-difference)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2210. [Find Target Indices After Sorting Array](./2210-find-target-indices-after-sorting-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2334,7 +2345,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 41)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 43)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2354,6 +2365,9 @@ Welcome to my LeetCode solutions repository!
 - **1873. [Longest Nice Substring](./1873-longest-nice-substring)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **1881. [Closest Subsequence Sum](./1881-closest-subsequence-sum)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **190. [Reverse Bits](./190-reverse-bits)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -2368,6 +2382,9 @@ Welcome to my LeetCode solutions repository!
 
 - **201. [Bitwise AND of Numbers Range](./201-bitwise-and-of-numbers-range)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2162. [Partition Array Into Two Arrays to Minimize Sum Difference](./2162-partition-array-into-two-arrays-to-minimize-sum-difference)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2170. [Count Number of Maximum Bitwise-OR Subsets](./2170-count-number-of-maximum-bitwise-or-subsets)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2462,12 +2479,18 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bitmask"><strong>Bitmask</strong> (Total: 2)</summary>
+<summary id="bitmask"><strong>Bitmask</strong> (Total: 4)</summary>
 
 - **1418. [Fair Distribution of Cookies](./1418-fair-distribution-of-cookies)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **1881. [Closest Subsequence Sum](./1881-closest-subsequence-sum)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **2162. [Partition Array Into Two Arrays to Minimize Sum Difference](./2162-partition-array-into-two-arrays-to-minimize-sum-difference)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 </details>
@@ -3166,7 +3189,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 73)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 75)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3252,6 +3275,9 @@ Welcome to my LeetCode solutions repository!
 - **188. [Best Time to Buy and Sell Stock IV](./188-best-time-to-buy-and-sell-stock-iv)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
+- **1881. [Closest Subsequence Sum](./1881-closest-subsequence-sum)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
@@ -3263,6 +3289,9 @@ Welcome to my LeetCode solutions repository!
 
 - **213. [House Robber II](./213-house-robber-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2162. [Partition Array Into Two Arrays to Minimize Sum Difference](./2162-partition-array-into-two-arrays-to-minimize-sum-difference)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **22. [Generate Parentheses](./22-generate-parentheses)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4846,10 +4875,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="ordered-set"><strong>Ordered Set</strong> (Total: 5)</summary>
+<summary id="ordered-set"><strong>Ordered Set</strong> (Total: 6)</summary>
 
 - **1549. [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2162. [Partition Array Into Two Arrays to Minimize Sum Difference](./2162-partition-array-into-two-arrays-to-minimize-sum-difference)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5494,7 +5526,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 86)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 88)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5574,6 +5606,9 @@ Welcome to my LeetCode solutions repository!
 - **1829. [Maximum Units on a Truck](./1829-maximum-units-on-a-truck)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **1881. [Closest Subsequence Sum](./1881-closest-subsequence-sum)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **1956. [Maximum Element After Decreasing and Rearranging](./1956-maximum-element-after-decreasing-and-rearranging)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -5591,6 +5626,9 @@ Welcome to my LeetCode solutions repository!
 
 - **215. [Kth Largest Element in an Array](./215-kth-largest-element-in-an-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2162. [Partition Array Into Two Arrays to Minimize Sum Difference](./2162-partition-array-into-two-arrays-to-minimize-sum-difference)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **217. [Contains Duplicate](./217-contains-duplicate)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6530,7 +6568,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 82)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 84)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6601,6 +6639,9 @@ Welcome to my LeetCode solutions repository!
 - **18. [4Sum](./18-4sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **1881. [Closest Subsequence Sum](./1881-closest-subsequence-sum)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **189. [Rotate Array](./189-rotate-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -6615,6 +6656,9 @@ Welcome to my LeetCode solutions repository!
 
 - **202. [Happy Number](./202-happy-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2162. [Partition Array Into Two Arrays to Minimize Sum Difference](./2162-partition-array-into-two-arrays-to-minimize-sum-difference)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2265. [Partition Array According to Given Pivot](./2265-partition-array-according-to-given-pivot)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
