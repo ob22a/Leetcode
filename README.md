@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 647
+**Total Questions:** 648
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 297 |
-| <span style='color:orange'>Medium</span> | 301 |
+| <span style='color:orange'>Medium</span> | 302 |
 | <span style='color:red'>Hard</span> | 49 |
 
 ### Topics Overview
@@ -23,7 +23,7 @@ Welcome to my LeetCode solutions repository!
 | Topic | Number of Questions |
 |-------|---------------------|
 | [Array](#array) | 368 |
-| [Backtracking](#backtracking) | 29 |
+| [Backtracking](#backtracking) | 30 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 67 |
 | [Binary Search Tree](#binary-search-tree) | 13 |
@@ -74,7 +74,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 49 |
 | [Sorting](#sorting) | 88 |
 | [Stack](#stack) | 47 |
-| [String](#string) | 138 |
+| [String](#string) | 139 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Topological Sort](#topological-sort) | 1 |
@@ -390,7 +390,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 301)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 302)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -555,6 +555,7 @@ Welcome to my LeetCode solutions repository!
 - **3. [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters)**
 - **300. [Longest Increasing Subsequence](./300-longest-increasing-subsequence)**
 - **304. [Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable)**
+- **306. [Additive Number](./306-additive-number)**
 - **31. [Next Permutation](./31-next-permutation)**
 - **316. [Remove Duplicate Letters](./316-remove-duplicate-letters)**
 - **318. [Maximum Product of Word Lengths](./318-maximum-product-of-word-lengths)**
@@ -1861,7 +1862,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="backtracking"><strong>Backtracking</strong> (Total: 29)</summary>
+<summary id="backtracking"><strong>Backtracking</strong> (Total: 30)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -1895,6 +1896,9 @@ Welcome to my LeetCode solutions repository!
 
 - **257. [Binary Tree Paths](./257-binary-tree-paths)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **306. [Additive Number](./306-additive-number)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **37. [Sudoku Solver](./37-sudoku-solver)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5941,7 +5945,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 138)</summary>
+<summary id="string"><strong>String</strong> (Total: 139)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -6137,6 +6141,9 @@ Welcome to my LeetCode solutions repository!
 
 - **30. [Substring with Concatenation of All Words](./30-substring-with-concatenation-of-all-words)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **306. [Additive Number](./306-additive-number)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **316. [Remove Duplicate Letters](./316-remove-duplicate-letters)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
