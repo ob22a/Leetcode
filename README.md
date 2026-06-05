@@ -61,7 +61,7 @@ Welcome to my LeetCode solutions repository!
 | [Monotonic Stack](#monotonic-stack) | 17 |
 | [Number Theory](#number-theory) | 9 |
 | [Ordered Set](#ordered-set) | 6 |
-| [Prefix Sum](#prefix-sum) | 43 |
+| [Prefix Sum](#prefix-sum) | 44 |
 | [Queue](#queue) | 12 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
@@ -4902,7 +4902,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 43)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 44)</summary>
 
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5007,6 +5007,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3974. [XOR After Range Multiplication Queries I](./3974-xor-after-range-multiplication-queries-i)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **410. [Split Array Largest Sum](./410-split-array-largest-sum)**  
