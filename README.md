@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 648
+**Total Questions:** 649
 
 ### Difficulty Distribution
 
@@ -16,20 +16,20 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 297 |
 | <span style='color:orange'>Medium</span> | 302 |
-| <span style='color:red'>Hard</span> | 49 |
+| <span style='color:red'>Hard</span> | 50 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 368 |
+| [Array](#array) | 369 |
 | [Backtracking](#backtracking) | 30 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 67 |
 | [Binary Search Tree](#binary-search-tree) | 13 |
 | [Binary Tree](#binary-tree) | 43 |
-| [Bit Manipulation](#bit-manipulation) | 43 |
-| [Bitmask](#bitmask) | 4 |
+| [Bit Manipulation](#bit-manipulation) | 44 |
+| [Bitmask](#bitmask) | 5 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 46 |
 | [Bucket Sort](#bucket-sort) | 4 |
@@ -42,18 +42,18 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 25 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
-| [Dynamic Programming](#dynamic-programming) | 75 |
+| [Dynamic Programming](#dynamic-programming) | 76 |
 | [Enumeration](#enumeration) | 10 |
 | [Game Theory](#game-theory) | 5 |
 | [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 6 |
 | [Greedy](#greedy) | 43 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 129 |
+| [Hash Table](#hash-table) | 130 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 22 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 35 |
-| [Math](#math) | 111 |
+| [Math](#math) | 112 |
 | [Matrix](#matrix) | 50 |
 | [Memoization](#memoization) | 5 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -697,7 +697,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 49)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 50)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -744,6 +744,7 @@ Welcome to my LeetCode solutions repository!
 - **741. [Cherry Pickup](./741-cherry-pickup)**
 - **76. [Minimum Window Substring](./76-minimum-window-substring)**
 - **787. [Sliding Puzzle](./787-sliding-puzzle)**
+- **823. [Split Array With Same Average](./823-split-array-with-same-average)**
 - **84. [Largest Rectangle in Histogram](./84-largest-rectangle-in-histogram)**
 - **85. [Maximal Rectangle](./85-maximal-rectangle)**
 - **931. [Maximum Frequency Stack](./931-maximum-frequency-stack)**
@@ -753,7 +754,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 368)</summary>
+<summary id="array"><strong>Array</strong> (Total: 369)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1778,6 +1779,9 @@ Welcome to my LeetCode solutions repository!
 - **822. [Unique Morse Code Words](./822-unique-morse-code-words)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **823. [Split Array With Same Average](./823-split-array-with-same-average)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **84. [Largest Rectangle in Histogram](./84-largest-rectangle-in-histogram)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
@@ -2349,7 +2353,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 43)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 44)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2471,6 +2475,9 @@ Welcome to my LeetCode solutions repository!
 - **800. [Letter Case Permutation](./800-letter-case-permutation)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **823. [Split Array With Same Average](./823-split-array-with-same-average)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **861. [Flipping an Image](./861-flipping-an-image)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -2483,7 +2490,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bitmask"><strong>Bitmask</strong> (Total: 4)</summary>
+<summary id="bitmask"><strong>Bitmask</strong> (Total: 5)</summary>
 
 - **1418. [Fair Distribution of Cookies](./1418-fair-distribution-of-cookies)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2495,6 +2502,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2162. [Partition Array Into Two Arrays to Minimize Sum Difference](./2162-partition-array-into-two-arrays-to-minimize-sum-difference)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **823. [Split Array With Same Average](./823-split-array-with-same-average)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 </details>
@@ -3193,7 +3203,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 75)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 76)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3404,6 +3414,9 @@ Welcome to my LeetCode solutions repository!
 
 - **804. [Rotated Digits](./804-rotated-digits)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **823. [Split Array With Same Average](./823-split-array-with-same-average)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **85. [Maximal Rectangle](./85-maximal-rectangle)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3666,7 +3679,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 129)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 130)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4034,6 +4047,9 @@ Welcome to my LeetCode solutions repository!
 - **822. [Unique Morse Code Words](./822-unique-morse-code-words)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **823. [Split Array With Same Average](./823-split-array-with-same-average)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **896. [Smallest Subtree with all the Deepest Nodes](./896-smallest-subtree-with-all-the-deepest-nodes)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -4250,7 +4266,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 111)</summary>
+<summary id="math"><strong>Math</strong> (Total: 112)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4566,6 +4582,9 @@ Welcome to my LeetCode solutions repository!
 
 - **805. [Escape The Ghosts](./805-escape-the-ghosts)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **823. [Split Array With Same Average](./823-split-array-with-same-average)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **89. [Gray Code](./89-gray-code)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
