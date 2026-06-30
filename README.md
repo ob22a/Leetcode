@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 649
+**Total Questions:** 650
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 297 |
+| <span style='color:green'>Easy</span> | 298 |
 | <span style='color:orange'>Medium</span> | 302 |
 | <span style='color:red'>Hard</span> | 50 |
 
@@ -22,7 +22,7 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 369 |
+| [Array](#array) | 370 |
 | [Backtracking](#backtracking) | 30 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 67 |
@@ -74,7 +74,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 49 |
 | [Sorting](#sorting) | 88 |
 | [Stack](#stack) | 47 |
-| [String](#string) | 139 |
+| [String](#string) | 140 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Topological Sort](#topological-sort) | 1 |
@@ -88,7 +88,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 297)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 298)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -182,6 +182,7 @@ Welcome to my LeetCode solutions repository!
 - **205. [Isomorphic Strings](./205-isomorphic-strings)**
 - **2058. [Concatenation of Array](./2058-concatenation-of-array)**
 - **206. [Reverse Linked List](./206-reverse-linked-list)**
+- **2099. [Number of Strings That Appear as Substrings in Word](./2099-number-of-strings-that-appear-as-substrings-in-word)**
 - **21. [Merge Two Sorted Lists](./21-merge-two-sorted-lists)**
 - **2102. [Find the Middle Index in Array](./2102-find-the-middle-index-in-array)**
 - **2106. [Find Greatest Common Divisor of Array](./2106-find-greatest-common-divisor-of-array)**
@@ -754,7 +755,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 369)</summary>
+<summary id="array"><strong>Array</strong> (Total: 370)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1133,6 +1134,9 @@ Welcome to my LeetCode solutions repository!
 
 - **209. [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2099. [Number of Strings That Appear as Substrings in Word](./2099-number-of-strings-that-appear-as-substrings-in-word)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2102. [Find the Middle Index in Array](./2102-find-the-middle-index-in-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5967,7 +5971,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 139)</summary>
+<summary id="string"><strong>String</strong> (Total: 140)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -6085,6 +6089,9 @@ Welcome to my LeetCode solutions repository!
 
 - **208. [Implement Trie (Prefix Tree)](./208-implement-trie-prefix-tree)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2099. [Number of Strings That Appear as Substrings in Word](./2099-number-of-strings-that-appear-as-substrings-in-word)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2134. [Maximize the Confusion of an Exam](./2134-maximize-the-confusion-of-an-exam)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
