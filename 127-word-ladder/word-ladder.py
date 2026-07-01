@@ -43,7 +43,7 @@ class Solution:
             for word in next_words(w):
                 if word not in visited:
                     q.append((c+1,word))
-                    visited.add(w)
+                    visited.add(word)
             
         return 0
 
