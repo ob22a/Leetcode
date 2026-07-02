@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 650
+**Total Questions:** 651
 
 ### Difficulty Distribution
 
@@ -16,7 +16,7 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 298 |
 | <span style='color:orange'>Medium</span> | 302 |
-| <span style='color:red'>Hard</span> | 50 |
+| <span style='color:red'>Hard</span> | 51 |
 
 ### Topics Overview
 
@@ -31,7 +31,7 @@ Welcome to my LeetCode solutions repository!
 | [Bit Manipulation](#bit-manipulation) | 44 |
 | [Bitmask](#bitmask) | 5 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 46 |
+| [Breadth-First Search](#breadth-first-search) | 47 |
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Combinatorics](#combinatorics) | 2 |
 | [Counting](#counting) | 32 |
@@ -49,7 +49,7 @@ Welcome to my LeetCode solutions repository!
 | [Graph Theory](#graph-theory) | 6 |
 | [Greedy](#greedy) | 43 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 130 |
+| [Hash Table](#hash-table) | 131 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 22 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 35 |
@@ -74,7 +74,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 49 |
 | [Sorting](#sorting) | 88 |
 | [Stack](#stack) | 47 |
-| [String](#string) | 140 |
+| [String](#string) | 141 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Topological Sort](#topological-sort) | 1 |
@@ -698,7 +698,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 50)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 51)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -709,6 +709,7 @@ Welcome to my LeetCode solutions repository!
 - **1170. [Shortest Common Supersequence ](./1170-shortest-common-supersequence)**
 - **1197. [Parsing A Boolean Expression](./1197-parsing-a-boolean-expression)**
 - **123. [Best Time to Buy and Sell Stock III](./123-best-time-to-buy-and-sell-stock-iii)**
+- **127. [Word Ladder](./127-word-ladder)**
 - **132. [Palindrome Partitioning II](./132-palindrome-partitioning-ii)**
 - **135. [Candy](./135-candy)**
 - **1414. [Shortest Path in a Grid with Obstacles Elimination](./1414-shortest-path-in-a-grid-with-obstacles-elimination)**
@@ -2528,7 +2529,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 46)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 47)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2571,6 +2572,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **127. [Word Ladder](./127-word-ladder)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **130. [Surrounded Regions](./130-surrounded-regions)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3683,7 +3687,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 130)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 131)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3717,6 +3721,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1227. [Number of Equivalent Domino Pairs](./1227-number-of-equivalent-domino-pairs)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **127. [Word Ladder](./127-word-ladder)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **128. [Longest Consecutive Sequence](./128-longest-consecutive-sequence)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5971,7 +5978,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 140)</summary>
+<summary id="string"><strong>String</strong> (Total: 141)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -6008,6 +6015,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1250. [Longest Common Subsequence](./1250-longest-common-subsequence)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **127. [Word Ladder](./127-word-ladder)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **13. [Roman to Integer](./13-roman-to-integer)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
