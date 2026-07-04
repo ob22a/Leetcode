@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 651
+**Total Questions:** 652
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 298 |
-| <span style='color:orange'>Medium</span> | 302 |
+| <span style='color:orange'>Medium</span> | 303 |
 | <span style='color:red'>Hard</span> | 51 |
 
 ### Topics Overview
@@ -23,7 +23,7 @@ Welcome to my LeetCode solutions repository!
 | Topic | Number of Questions |
 |-------|---------------------|
 | [Array](#array) | 370 |
-| [Backtracking](#backtracking) | 30 |
+| [Backtracking](#backtracking) | 31 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 67 |
 | [Binary Search Tree](#binary-search-tree) | 13 |
@@ -74,7 +74,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 49 |
 | [Sorting](#sorting) | 88 |
 | [Stack](#stack) | 47 |
-| [String](#string) | 141 |
+| [String](#string) | 142 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Topological Sort](#topological-sort) | 1 |
@@ -391,7 +391,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 302)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 303)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -676,6 +676,7 @@ Welcome to my LeetCode solutions repository!
 - **838. [Design Linked List](./838-design-linked-list)**
 - **859. [Design Circular Deque](./859-design-circular-deque)**
 - **860. [Design Circular Queue](./860-design-circular-queue)**
+- **872. [Split Array into Fibonacci Sequence](./872-split-array-into-fibonacci-sequence)**
 - **875. [Longest Mountain in Array](./875-longest-mountain-in-array)**
 - **883. [Car Fleet](./883-car-fleet)**
 - **89. [Gray Code](./89-gray-code)**
@@ -1871,7 +1872,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="backtracking"><strong>Backtracking</strong> (Total: 30)</summary>
+<summary id="backtracking"><strong>Backtracking</strong> (Total: 31)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -1952,6 +1953,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **872. [Split Array into Fibonacci Sequence](./872-split-array-into-fibonacci-sequence)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **89. [Gray Code](./89-gray-code)**  
@@ -5978,7 +5982,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 141)</summary>
+<summary id="string"><strong>String</strong> (Total: 142)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -6387,6 +6391,9 @@ Welcome to my LeetCode solutions repository!
 
 - **841. [Shortest Distance to a Character](./841-shortest-distance-to-a-character)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **872. [Split Array into Fibonacci Sequence](./872-split-array-into-fibonacci-sequence)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **874. [Backspace String Compare](./874-backspace-string-compare)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
