@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 652
+**Total Questions:** 653
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 298 |
+| <span style='color:green'>Easy</span> | 299 |
 | <span style='color:orange'>Medium</span> | 303 |
 | <span style='color:red'>Hard</span> | 51 |
 
@@ -53,7 +53,7 @@ Welcome to my LeetCode solutions repository!
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 22 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 35 |
-| [Math](#math) | 112 |
+| [Math](#math) | 113 |
 | [Matrix](#matrix) | 50 |
 | [Memoization](#memoization) | 5 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -88,7 +88,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 298)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 299)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -301,6 +301,7 @@ Welcome to my LeetCode solutions repository!
 - **405. [Convert a Number to Hexadecimal](./405-convert-a-number-to-hexadecimal)**
 - **409. [Longest Palindrome](./409-longest-palindrome)**
 - **412. [Fizz Buzz](./412-fizz-buzz)**
+- **4135. [Concatenate Non-Zero Digits and Multiply by Sum I](./4135-concatenate-non-zero-digits-and-multiply-by-sum-i)**
 - **414. [Third Maximum Number](./414-third-maximum-number)**
 - **415. [Add Strings](./415-add-strings)**
 - **4216. [Weighted Word Mapping](./4216-weighted-word-mapping)**
@@ -4281,7 +4282,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 112)</summary>
+<summary id="math"><strong>Math</strong> (Total: 113)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4509,6 +4510,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **412. [Fizz Buzz](./412-fizz-buzz)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **4135. [Concatenate Non-Zero Digits and Multiply by Sum I](./4135-concatenate-non-zero-digits-and-multiply-by-sum-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **415. [Add Strings](./415-add-strings)**  
