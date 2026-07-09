@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 653
+**Total Questions:** 654
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 299 |
+| <span style='color:green'>Easy</span> | 300 |
 | <span style='color:orange'>Medium</span> | 303 |
 | <span style='color:red'>Hard</span> | 51 |
 
@@ -37,7 +37,7 @@ Welcome to my LeetCode solutions repository!
 | [Counting](#counting) | 32 |
 | [Counting Sort](#counting-sort) | 5 |
 | [Data Stream](#data-stream) | 6 |
-| [Database](#database) | 15 |
+| [Database](#database) | 16 |
 | [Depth-First Search](#depth-first-search) | 54 |
 | [Design](#design) | 25 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
@@ -88,7 +88,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 299)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 300)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -109,6 +109,7 @@ Welcome to my LeetCode solutions repository!
 - **1127. [Last Stone Weight](./1127-last-stone-weight)**
 - **1128. [Remove All Adjacent Duplicates In String](./1128-remove-all-adjacent-duplicates-in-string)**
 - **1168. [Duplicate Zeros](./1168-duplicate-zeros)**
+- **1179. [Game Play Analysis I](./1179-game-play-analysis-i)**
 - **118. [Pascal's Triangle](./118-pascals-triangle)**
 - **119. [Pascal's Triangle II](./119-pascals-triangle-ii)**
 - **1195. [Distribute Candies to People](./1195-distribute-candies-to-people)**
@@ -2852,7 +2853,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="database"><strong>Database</strong> (Total: 15)</summary>
+<summary id="database"><strong>Database</strong> (Total: 16)</summary>
+
+- **1179. [Game Play Analysis I](./1179-game-play-analysis-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1390. [Average Selling Price](./1390-average-selling-price)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
