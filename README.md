@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 654
+**Total Questions:** 655
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 300 |
-| <span style='color:orange'>Medium</span> | 303 |
+| <span style='color:orange'>Medium</span> | 304 |
 | <span style='color:red'>Hard</span> | 51 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 370 |
+| [Array](#array) | 371 |
 | [Backtracking](#backtracking) | 31 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 67 |
@@ -31,14 +31,14 @@ Welcome to my LeetCode solutions repository!
 | [Bit Manipulation](#bit-manipulation) | 44 |
 | [Bitmask](#bitmask) | 5 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 47 |
+| [Breadth-First Search](#breadth-first-search) | 48 |
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Combinatorics](#combinatorics) | 2 |
 | [Counting](#counting) | 32 |
 | [Counting Sort](#counting-sort) | 5 |
 | [Data Stream](#data-stream) | 6 |
 | [Database](#database) | 16 |
-| [Depth-First Search](#depth-first-search) | 54 |
+| [Depth-First Search](#depth-first-search) | 55 |
 | [Design](#design) | 25 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
@@ -54,7 +54,7 @@ Welcome to my LeetCode solutions repository!
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 35 |
 | [Math](#math) | 113 |
-| [Matrix](#matrix) | 50 |
+| [Matrix](#matrix) | 51 |
 | [Memoization](#memoization) | 5 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 3 |
@@ -81,7 +81,7 @@ Welcome to my LeetCode solutions repository!
 | [Tree](#tree) | 46 |
 | [Trie](#trie) | 6 |
 | [Two Pointers](#two-pointers) | 84 |
-| [Union-Find](#union-find) | 8 |
+| [Union-Find](#union-find) | 9 |
 
 ---
 
@@ -393,7 +393,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 303)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 304)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -407,6 +407,7 @@ Welcome to my LeetCode solutions repository!
 - **105. [Construct Binary Tree from Preorder and Inorder Traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal)**
 - **1056. [Capacity To Ship Packages Within D Days](./1056-capacity-to-ship-packages-within-d-days)**
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**
+- **1073. [Number of Enclaves](./1073-number-of-enclaves)**
 - **1080. [Camelcase Matching](./1080-camelcase-matching)**
 - **11. [Container With Most Water](./11-container-with-most-water)**
 - **1117. [As Far from Land as Possible](./1117-as-far-from-land-as-possible)**
@@ -759,7 +760,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 370)</summary>
+<summary id="array"><strong>Array</strong> (Total: 371)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -813,6 +814,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1073. [Number of Enclaves](./1073-number-of-enclaves)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **108. [Convert Sorted Array to Binary Search Tree](./108-convert-sorted-array-to-binary-search-tree)**  
@@ -2535,7 +2539,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 47)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 48)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2557,6 +2561,9 @@ Welcome to my LeetCode solutions repository!
 
 - **104. [Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1073. [Number of Enclaves](./1073-number-of-enclaves)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1106. [Escape a Large Maze](./1106-escape-a-large-maze)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2906,7 +2913,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 54)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 55)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2922,6 +2929,9 @@ Welcome to my LeetCode solutions repository!
 
 - **104. [Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1073. [Number of Enclaves](./1073-number-of-enclaves)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **110. [Balanced Binary Tree](./110-balanced-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4630,12 +4640,15 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 50)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 51)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1036. [Rotting Oranges](./1036-rotting-oranges)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1073. [Number of Enclaves](./1073-number-of-enclaves)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1117. [As Far from Land as Possible](./1117-as-far-from-land-as-possible)**  
@@ -6886,7 +6899,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="union-find"><strong>Union-Find</strong> (Total: 8)</summary>
+<summary id="union-find"><strong>Union-Find</strong> (Total: 9)</summary>
+
+- **1073. [Number of Enclaves](./1073-number-of-enclaves)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **128. [Longest Consecutive Sequence](./128-longest-consecutive-sequence)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
