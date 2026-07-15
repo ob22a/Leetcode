@@ -61,7 +61,7 @@ Welcome to my LeetCode solutions repository!
 | [Monotonic Stack](#monotonic-stack) | 17 |
 | [Number Theory](#number-theory) | 9 |
 | [Ordered Set](#ordered-set) | 6 |
-| [Prefix Sum](#prefix-sum) | 44 |
+| [Prefix Sum](#prefix-sum) | 45 |
 | [Queue](#queue) | 12 |
 | [Quickselect](#quickselect) | 2 |
 | [Radix Sort](#radix-sort) | 2 |
@@ -4957,7 +4957,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 44)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 45)</summary>
 
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5048,6 +5048,9 @@ Welcome to my LeetCode solutions repository!
 
 - **304. [Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3154. [Maximum Value of an Ordered Triplet I](./3154-maximum-value-of-an-ordered-triplet-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **3338. [Count Submatrices with Top-Left Element and Sum Less Than k](./3338-count-submatrices-with-top-left-element-and-sum-less-than-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
