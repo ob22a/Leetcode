@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 655
+**Total Questions:** 656
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 300 |
-| <span style='color:orange'>Medium</span> | 304 |
+| <span style='color:orange'>Medium</span> | 305 |
 | <span style='color:red'>Hard</span> | 51 |
 
 ### Topics Overview
@@ -31,14 +31,14 @@ Welcome to my LeetCode solutions repository!
 | [Bit Manipulation](#bit-manipulation) | 44 |
 | [Bitmask](#bitmask) | 5 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 48 |
+| [Breadth-First Search](#breadth-first-search) | 49 |
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Combinatorics](#combinatorics) | 2 |
 | [Counting](#counting) | 32 |
 | [Counting Sort](#counting-sort) | 5 |
 | [Data Stream](#data-stream) | 6 |
 | [Database](#database) | 16 |
-| [Depth-First Search](#depth-first-search) | 55 |
+| [Depth-First Search](#depth-first-search) | 56 |
 | [Design](#design) | 25 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
@@ -46,7 +46,7 @@ Welcome to my LeetCode solutions repository!
 | [Enumeration](#enumeration) | 10 |
 | [Game Theory](#game-theory) | 5 |
 | [Geometry](#geometry) | 2 |
-| [Graph Theory](#graph-theory) | 6 |
+| [Graph Theory](#graph-theory) | 7 |
 | [Greedy](#greedy) | 43 |
 | [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 131 |
@@ -77,7 +77,7 @@ Welcome to my LeetCode solutions repository!
 | [String](#string) | 142 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
-| [Topological Sort](#topological-sort) | 1 |
+| [Topological Sort](#topological-sort) | 2 |
 | [Tree](#tree) | 46 |
 | [Trie](#trie) | 6 |
 | [Two Pointers](#two-pointers) | 84 |
@@ -393,7 +393,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 304)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 305)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -676,6 +676,7 @@ Welcome to my LeetCode solutions repository!
 - **81. [Search in Rotated Sorted Array II](./81-search-in-rotated-sorted-array-ii)**
 - **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**
 - **82. [Remove Duplicates from Sorted List II](./82-remove-duplicates-from-sorted-list-ii)**
+- **820. [Find Eventual Safe States](./820-find-eventual-safe-states)**
 - **838. [Design Linked List](./838-design-linked-list)**
 - **859. [Design Circular Deque](./859-design-circular-deque)**
 - **860. [Design Circular Queue](./860-design-circular-queue)**
@@ -2539,7 +2540,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 48)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 49)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2680,6 +2681,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **820. [Find Eventual Safe States](./820-find-eventual-safe-states)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **896. [Smallest Subtree with all the Deepest Nodes](./896-smallest-subtree-with-all-the-deepest-nodes)**  
@@ -2913,7 +2917,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 55)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 56)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3066,6 +3070,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **820. [Find Eventual Safe States](./820-find-eventual-safe-states)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **896. [Smallest Subtree with all the Deepest Nodes](./896-smallest-subtree-with-all-the-deepest-nodes)**  
@@ -3529,7 +3536,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="graph-theory"><strong>Graph Theory</strong> (Total: 6)</summary>
+<summary id="graph-theory"><strong>Graph Theory</strong> (Total: 7)</summary>
 
 - **1916. [Find Center of Star Graph](./1916-find-center-of-star-graph)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3547,6 +3554,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **820. [Find Eventual Safe States](./820-find-eventual-safe-states)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
@@ -6471,9 +6481,12 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="topological-sort"><strong>Topological Sort</strong> (Total: 1)</summary>
+<summary id="topological-sort"><strong>Topological Sort</strong> (Total: 2)</summary>
 
 - **2090. [Number of Ways to Arrive at Destination](./2090-number-of-ways-to-arrive-at-destination)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **820. [Find Eventual Safe States](./820-find-eventual-safe-states)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
