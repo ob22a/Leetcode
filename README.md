@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 656
+**Total Questions:** 658
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 300 |
-| <span style='color:orange'>Medium</span> | 305 |
+| <span style='color:orange'>Medium</span> | 307 |
 | <span style='color:red'>Hard</span> | 51 |
 
 ### Topics Overview
@@ -31,14 +31,14 @@ Welcome to my LeetCode solutions repository!
 | [Bit Manipulation](#bit-manipulation) | 44 |
 | [Bitmask](#bitmask) | 5 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 49 |
+| [Breadth-First Search](#breadth-first-search) | 51 |
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Combinatorics](#combinatorics) | 2 |
 | [Counting](#counting) | 32 |
 | [Counting Sort](#counting-sort) | 5 |
 | [Data Stream](#data-stream) | 6 |
 | [Database](#database) | 16 |
-| [Depth-First Search](#depth-first-search) | 56 |
+| [Depth-First Search](#depth-first-search) | 58 |
 | [Design](#design) | 25 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
@@ -46,7 +46,7 @@ Welcome to my LeetCode solutions repository!
 | [Enumeration](#enumeration) | 10 |
 | [Game Theory](#game-theory) | 5 |
 | [Geometry](#geometry) | 2 |
-| [Graph Theory](#graph-theory) | 7 |
+| [Graph Theory](#graph-theory) | 9 |
 | [Greedy](#greedy) | 43 |
 | [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 131 |
@@ -77,7 +77,7 @@ Welcome to my LeetCode solutions repository!
 | [String](#string) | 142 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
-| [Topological Sort](#topological-sort) | 2 |
+| [Topological Sort](#topological-sort) | 4 |
 | [Tree](#tree) | 46 |
 | [Trie](#trie) | 6 |
 | [Two Pointers](#two-pointers) | 84 |
@@ -393,7 +393,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 305)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 307)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -495,9 +495,11 @@ Welcome to my LeetCode solutions repository!
 - **204. [Count Primes](./204-count-primes)**
 - **2047. [Find a Peak Element II](./2047-find-a-peak-element-ii)**
 - **2050. [Count Good Numbers](./2050-count-good-numbers)**
+- **207. [Course Schedule](./207-course-schedule)**
 - **208. [Implement Trie (Prefix Tree)](./208-implement-trie-prefix-tree)**
 - **209. [Minimum Size Subarray Sum](./209-minimum-size-subarray-sum)**
 - **2090. [Number of Ways to Arrive at Destination](./2090-number-of-ways-to-arrive-at-destination)**
+- **210. [Course Schedule II](./210-course-schedule-ii)**
 - **2103. [Find All Groups of Farmland](./2103-find-all-groups-of-farmland)**
 - **213. [House Robber II](./213-house-robber-ii)**
 - **2134. [Maximize the Confusion of an Exam](./2134-maximize-the-confusion-of-an-exam)**
@@ -2540,7 +2542,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 49)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 51)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2615,6 +2617,12 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2035. [Count Sub Islands](./2035-count-sub-islands)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **207. [Course Schedule](./207-course-schedule)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **210. [Course Schedule II](./210-course-schedule-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2103. [Find All Groups of Farmland](./2103-find-all-groups-of-farmland)**  
@@ -2917,7 +2925,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 56)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 58)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2983,6 +2991,12 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2035. [Count Sub Islands](./2035-count-sub-islands)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **207. [Course Schedule](./207-course-schedule)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **210. [Course Schedule II](./210-course-schedule-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2103. [Find All Groups of Farmland](./2103-find-all-groups-of-farmland)**  
@@ -3536,12 +3550,18 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="graph-theory"><strong>Graph Theory</strong> (Total: 7)</summary>
+<summary id="graph-theory"><strong>Graph Theory</strong> (Total: 9)</summary>
 
 - **1916. [Find Center of Star Graph](./1916-find-center-of-star-graph)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **207. [Course Schedule](./207-course-schedule)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **2090. [Number of Ways to Arrive at Destination](./2090-number-of-ways-to-arrive-at-destination)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **210. [Course Schedule II](./210-course-schedule-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**  
@@ -6481,9 +6501,15 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="topological-sort"><strong>Topological Sort</strong> (Total: 2)</summary>
+<summary id="topological-sort"><strong>Topological Sort</strong> (Total: 4)</summary>
+
+- **207. [Course Schedule](./207-course-schedule)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2090. [Number of Ways to Arrive at Destination](./2090-number-of-ways-to-arrive-at-destination)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **210. [Course Schedule II](./210-course-schedule-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **820. [Find Eventual Safe States](./820-find-eventual-safe-states)**  
