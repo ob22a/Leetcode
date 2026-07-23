@@ -27,8 +27,8 @@ class Solution:
         rank = [0]*n
 
         for i in range(n):
-            for j in range(n):
-                if i!=j and isConnected[i][j]:
+            for j in range(i+1,n):
+                if isConnected[i][j]:
                     self.union(i,j,rank,parents)
         
         for i in range(n):
