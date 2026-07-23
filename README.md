@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 663
+**Total Questions:** 664
 
 ### Difficulty Distribution
 
@@ -14,8 +14,8 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 300 |
-| <span style='color:orange'>Medium</span> | 311 |
+| <span style='color:green'>Easy</span> | 299 |
+| <span style='color:orange'>Medium</span> | 313 |
 | <span style='color:red'>Hard</span> | 52 |
 
 ### Topics Overview
@@ -42,11 +42,11 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 25 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
-| [Dynamic Programming](#dynamic-programming) | 77 |
+| [Dynamic Programming](#dynamic-programming) | 78 |
 | [Enumeration](#enumeration) | 10 |
 | [Game Theory](#game-theory) | 5 |
 | [Geometry](#geometry) | 2 |
-| [Graph Theory](#graph-theory) | 10 |
+| [Graph Theory](#graph-theory) | 11 |
 | [Greedy](#greedy) | 43 |
 | [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 133 |
@@ -69,7 +69,7 @@ Welcome to my LeetCode solutions repository!
 | [Recursion](#recursion) | 25 |
 | [Rolling Hash](#rolling-hash) | 2 |
 | [Segment Tree](#segment-tree) | 2 |
-| [Shortest Path](#shortest-path) | 4 |
+| [Shortest Path](#shortest-path) | 5 |
 | [Simulation](#simulation) | 50 |
 | [Sliding Window](#sliding-window) | 49 |
 | [Sorting](#sorting) | 89 |
@@ -88,7 +88,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 300)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 299)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -196,7 +196,6 @@ Welcome to my LeetCode solutions repository!
 - **219. [Contains Duplicate II](./219-contains-duplicate-ii)**
 - **2195. [Time Needed to Buy Tickets](./2195-time-needed-to-buy-tickets)**
 - **2210. [Find Target Indices After Sorting Array](./2210-find-target-indices-after-sorting-array)**
-- **222. [Count Complete Tree Nodes](./222-count-complete-tree-nodes)**
 - **225. [Implement Stack using Queues](./225-implement-stack-using-queues)**
 - **226. [Invert Binary Tree](./226-invert-binary-tree)**
 - **2277. [Count Equal and Divisible Pairs in an Array](./2277-count-equal-and-divisible-pairs-in-an-array)**
@@ -393,7 +392,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 311)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 313)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -447,6 +446,7 @@ Welcome to my LeetCode solutions repository!
 - **142. [Linked List Cycle II](./142-linked-list-cycle-ii)**
 - **1428. [Jump Game III](./1428-jump-game-iii)**
 - **143. [Reorder List](./143-reorder-list)**
+- **1456. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)**
 - **146. [LRU Cache](./146-lru-cache)**
 - **1477. [Product of the Last K Numbers](./1477-product-of-the-last-k-numbers)**
 - **148. [Sort List](./148-sort-list)**
@@ -513,6 +513,7 @@ Welcome to my LeetCode solutions repository!
 - **22. [Generate Parentheses](./22-generate-parentheses)**
 - **2205. [Find Good Days to Rob the Bank](./2205-find-good-days-to-rob-the-bank)**
 - **2211. [K Radius Subarray Averages](./2211-k-radius-subarray-averages)**
+- **222. [Count Complete Tree Nodes](./222-count-complete-tree-nodes)**
 - **2245. [Destroying Asteroids](./2245-destroying-asteroids)**
 - **2249. [Count the Hidden Sequences](./2249-count-the-hidden-sequences)**
 - **2261. [All Divisions With the Highest Score of a Binary Array](./2261-all-divisions-with-the-highest-score-of-a-binary-array)**
@@ -2079,7 +2080,7 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **222. [Count Complete Tree Nodes](./222-count-complete-tree-nodes)**  
-  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2294. [Minimum Time to Complete Trips](./2294-minimum-time-to-complete-trips)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2311,7 +2312,7 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **222. [Count Complete Tree Nodes](./222-count-complete-tree-nodes)**  
-  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **226. [Invert Binary Tree](./226-invert-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2436,7 +2437,7 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **222. [Count Complete Tree Nodes](./222-count-complete-tree-nodes)**  
-  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2308. [Divide Array Into Equal Pairs](./2308-divide-array-into-equal-pairs)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3289,7 +3290,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 77)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 78)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3361,6 +3362,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1418. [Fair Distribution of Cookies](./1418-fair-distribution-of-cookies)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1456. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1559. [Cherry Pickup II](./1559-cherry-pickup-ii)**  
@@ -3591,7 +3595,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="graph-theory"><strong>Graph Theory</strong> (Total: 10)</summary>
+<summary id="graph-theory"><strong>Graph Theory</strong> (Total: 11)</summary>
+
+- **1456. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1916. [Find Center of Star Graph](./1916-find-center-of-star-graph)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5362,7 +5369,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="shortest-path"><strong>Shortest Path</strong> (Total: 4)</summary>
+<summary id="shortest-path"><strong>Shortest Path</strong> (Total: 5)</summary>
+
+- **1456. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2090. [Number of Ways to Arrive at Destination](./2090-number-of-ways-to-arrive-at-destination)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -6646,7 +6656,7 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **222. [Count Complete Tree Nodes](./222-count-complete-tree-nodes)**  
-  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **226. [Invert Binary Tree](./226-invert-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
