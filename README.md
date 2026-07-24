@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 664
+**Total Questions:** 667
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 299 |
-| <span style='color:orange'>Medium</span> | 313 |
+| <span style='color:orange'>Medium</span> | 316 |
 | <span style='color:red'>Hard</span> | 52 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 374 |
+| [Array](#array) | 375 |
 | [Backtracking](#backtracking) | 32 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 68 |
@@ -31,14 +31,14 @@ Welcome to my LeetCode solutions repository!
 | [Bit Manipulation](#bit-manipulation) | 44 |
 | [Bitmask](#bitmask) | 5 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 55 |
+| [Breadth-First Search](#breadth-first-search) | 58 |
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Combinatorics](#combinatorics) | 2 |
 | [Counting](#counting) | 32 |
 | [Counting Sort](#counting-sort) | 5 |
 | [Data Stream](#data-stream) | 6 |
 | [Database](#database) | 16 |
-| [Depth-First Search](#depth-first-search) | 60 |
+| [Depth-First Search](#depth-first-search) | 63 |
 | [Design](#design) | 25 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
@@ -46,10 +46,10 @@ Welcome to my LeetCode solutions repository!
 | [Enumeration](#enumeration) | 10 |
 | [Game Theory](#game-theory) | 5 |
 | [Geometry](#geometry) | 2 |
-| [Graph Theory](#graph-theory) | 11 |
+| [Graph Theory](#graph-theory) | 13 |
 | [Greedy](#greedy) | 43 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 133 |
+| [Hash Table](#hash-table) | 134 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 24 |
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 35 |
@@ -72,16 +72,16 @@ Welcome to my LeetCode solutions repository!
 | [Shortest Path](#shortest-path) | 5 |
 | [Simulation](#simulation) | 50 |
 | [Sliding Window](#sliding-window) | 49 |
-| [Sorting](#sorting) | 89 |
+| [Sorting](#sorting) | 90 |
 | [Stack](#stack) | 47 |
-| [String](#string) | 144 |
+| [String](#string) | 145 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Topological Sort](#topological-sort) | 4 |
 | [Tree](#tree) | 46 |
 | [Trie](#trie) | 6 |
 | [Two Pointers](#two-pointers) | 84 |
-| [Union-Find](#union-find) | 10 |
+| [Union-Find](#union-find) | 13 |
 
 ---
 
@@ -392,7 +392,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 313)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 316)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -446,6 +446,7 @@ Welcome to my LeetCode solutions repository!
 - **142. [Linked List Cycle II](./142-linked-list-cycle-ii)**
 - **1428. [Jump Game III](./1428-jump-game-iii)**
 - **143. [Reorder List](./143-reorder-list)**
+- **1442. [Number of Operations to Make Network Connected](./1442-number-of-operations-to-make-network-connected)**
 - **1456. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)**
 - **146. [LRU Cache](./146-lru-cache)**
 - **1477. [Product of the Last K Numbers](./1477-product-of-the-last-k-numbers)**
@@ -633,6 +634,7 @@ Welcome to my LeetCode solutions repository!
 - **54. [Spiral Matrix](./54-spiral-matrix)**
 - **540. [Single Element in a Sorted Array](./540-single-element-in-a-sorted-array)**
 - **542. [01 Matrix](./542-01-matrix)**
+- **547. [Number of Provinces](./547-number-of-provinces)**
 - **55. [Jump Game](./55-jump-game)**
 - **556. [Next Greater Element III](./556-next-greater-element-iii)**
 - **56. [Merge Intervals](./56-merge-intervals)**
@@ -659,6 +661,7 @@ Welcome to my LeetCode solutions repository!
 - **71. [Simplify Path](./71-simplify-path)**
 - **713. [Subarray Product Less Than K](./713-subarray-product-less-than-k)**
 - **72. [Edit Distance](./72-edit-distance)**
+- **721. [Accounts Merge](./721-accounts-merge)**
 - **725. [Split Linked List in Parts](./725-split-linked-list-in-parts)**
 - **729. [My Calendar I](./729-my-calendar-i)**
 - **73. [Set Matrix Zeroes](./73-set-matrix-zeroes)**
@@ -769,7 +772,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 374)</summary>
+<summary id="array"><strong>Array</strong> (Total: 375)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1746,6 +1749,9 @@ Welcome to my LeetCode solutions repository!
 - **713. [Subarray Product Less Than K](./713-subarray-product-less-than-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **721. [Accounts Merge](./721-accounts-merge)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **724. [Find Pivot Index](./724-find-pivot-index)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -2563,7 +2569,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 55)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 58)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2631,6 +2637,9 @@ Welcome to my LeetCode solutions repository!
 - **1428. [Jump Game III](./1428-jump-game-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **1442. [Number of Operations to Make Network Connected](./1442-number-of-operations-to-make-network-connected)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **1663. [Detect Cycles in 2D Grid](./1663-detect-cycles-in-2d-grid)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -2691,6 +2700,9 @@ Welcome to my LeetCode solutions repository!
 - **542. [01 Matrix](./542-01-matrix)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **547. [Number of Provinces](./547-number-of-provinces)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **617. [Merge Two Binary Trees](./617-merge-two-binary-trees)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -2701,6 +2713,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **695. [Max Area of Island](./695-max-area-of-island)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **721. [Accounts Merge](./721-accounts-merge)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **733. [Flood Fill](./733-flood-fill)**  
@@ -2958,7 +2973,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 60)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 63)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3010,6 +3025,9 @@ Welcome to my LeetCode solutions repository!
 
 - **144. [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1442. [Number of Operations to Make Network Connected](./1442-number-of-operations-to-make-network-connected)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **145. [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3080,6 +3098,9 @@ Welcome to my LeetCode solutions repository!
 - **543. [Diameter of Binary Tree](./543-diameter-of-binary-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **547. [Number of Provinces](./547-number-of-provinces)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **563. [Binary Tree Tilt](./563-binary-tree-tilt)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -3096,6 +3117,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **695. [Max Area of Island](./695-max-area-of-island)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **721. [Accounts Merge](./721-accounts-merge)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **733. [Flood Fill](./733-flood-fill)**  
@@ -3595,7 +3619,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="graph-theory"><strong>Graph Theory</strong> (Total: 11)</summary>
+<summary id="graph-theory"><strong>Graph Theory</strong> (Total: 13)</summary>
+
+- **1442. [Number of Operations to Make Network Connected](./1442-number-of-operations-to-make-network-connected)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1456. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3619,6 +3646,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **3558. [Find a Safe Walk Through a Grid](./3558-find-a-safe-walk-through-a-grid)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **547. [Number of Provinces](./547-number-of-provinces)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **803. [Cheapest Flights Within K Stops](./803-cheapest-flights-within-k-stops)**  
@@ -3787,7 +3817,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 133)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 134)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4139,6 +4169,9 @@ Welcome to my LeetCode solutions repository!
 
 - **653. [Two Sum IV - Input is a BST](./653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **721. [Accounts Merge](./721-accounts-merge)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **73. [Set Matrix Zeroes](./73-set-matrix-zeroes)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5696,7 +5729,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 89)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 90)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5944,6 +5977,9 @@ Welcome to my LeetCode solutions repository!
 - **658. [Find K Closest Elements](./658-find-k-closest-elements)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **721. [Accounts Merge](./721-accounts-merge)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **75. [Sort Colors](./75-sort-colors)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -6114,7 +6150,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 144)</summary>
+<summary id="string"><strong>String</strong> (Total: 145)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -6498,6 +6534,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **72. [Edit Distance](./72-edit-distance)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **721. [Accounts Merge](./721-accounts-merge)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **742. [To Lower Case](./742-to-lower-case)**  
@@ -7025,7 +7064,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="union-find"><strong>Union-Find</strong> (Total: 10)</summary>
+<summary id="union-find"><strong>Union-Find</strong> (Total: 13)</summary>
 
 - **1073. [Number of Enclaves](./1073-number-of-enclaves)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -7037,6 +7076,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1380. [Number of Closed Islands](./1380-number-of-closed-islands)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1442. [Number of Operations to Make Network Connected](./1442-number-of-operations-to-make-network-connected)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1663. [Detect Cycles in 2D Grid](./1663-detect-cycles-in-2d-grid)**  
@@ -7054,7 +7096,13 @@ Welcome to my LeetCode solutions repository!
 - **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **547. [Number of Provinces](./547-number-of-provinces)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **695. [Max Area of Island](./695-max-area-of-island)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **721. [Accounts Merge](./721-accounts-merge)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
