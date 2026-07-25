@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 667
+**Total Questions:** 668
 
 ### Difficulty Distribution
 
@@ -16,13 +16,13 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 299 |
 | <span style='color:orange'>Medium</span> | 316 |
-| <span style='color:red'>Hard</span> | 52 |
+| <span style='color:red'>Hard</span> | 53 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 375 |
+| [Array](#array) | 376 |
 | [Backtracking](#backtracking) | 32 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 68 |
@@ -31,14 +31,14 @@ Welcome to my LeetCode solutions repository!
 | [Bit Manipulation](#bit-manipulation) | 44 |
 | [Bitmask](#bitmask) | 5 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 58 |
+| [Breadth-First Search](#breadth-first-search) | 59 |
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Combinatorics](#combinatorics) | 2 |
 | [Counting](#counting) | 32 |
 | [Counting Sort](#counting-sort) | 5 |
 | [Data Stream](#data-stream) | 6 |
 | [Database](#database) | 16 |
-| [Depth-First Search](#depth-first-search) | 63 |
+| [Depth-First Search](#depth-first-search) | 64 |
 | [Design](#design) | 25 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
@@ -54,7 +54,7 @@ Welcome to my LeetCode solutions repository!
 | [Interactive](#interactive) | 2 |
 | [Linked List](#linked-list) | 35 |
 | [Math](#math) | 113 |
-| [Matrix](#matrix) | 53 |
+| [Matrix](#matrix) | 54 |
 | [Memoization](#memoization) | 5 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Monotonic Queue](#monotonic-queue) | 3 |
@@ -81,7 +81,7 @@ Welcome to my LeetCode solutions repository!
 | [Tree](#tree) | 46 |
 | [Trie](#trie) | 6 |
 | [Two Pointers](#two-pointers) | 84 |
-| [Union-Find](#union-find) | 13 |
+| [Union-Find](#union-find) | 14 |
 
 ---
 
@@ -713,7 +713,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 52)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 53)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -765,6 +765,7 @@ Welcome to my LeetCode solutions repository!
 - **823. [Split Array With Same Average](./823-split-array-with-same-average)**
 - **84. [Largest Rectangle in Histogram](./84-largest-rectangle-in-histogram)**
 - **85. [Maximal Rectangle](./85-maximal-rectangle)**
+- **854. [Making A Large Island](./854-making-a-large-island)**
 - **931. [Maximum Frequency Stack](./931-maximum-frequency-stack)**
 - **977. [Distinct Subsequences II](./977-distinct-subsequences-ii)**
 </details>
@@ -772,7 +773,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 375)</summary>
+<summary id="array"><strong>Array</strong> (Total: 376)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1827,6 +1828,9 @@ Welcome to my LeetCode solutions repository!
 - **85. [Maximal Rectangle](./85-maximal-rectangle)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
+- **854. [Making A Large Island](./854-making-a-large-island)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **859. [Design Circular Deque](./859-design-circular-deque)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -2569,7 +2573,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 58)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 59)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2741,6 +2745,9 @@ Welcome to my LeetCode solutions repository!
 
 - **820. [Find Eventual Safe States](./820-find-eventual-safe-states)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **854. [Making A Large Island](./854-making-a-large-island)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **896. [Smallest Subtree with all the Deepest Nodes](./896-smallest-subtree-with-all-the-deepest-nodes)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2973,7 +2980,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 63)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 64)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3151,6 +3158,9 @@ Welcome to my LeetCode solutions repository!
 
 - **820. [Find Eventual Safe States](./820-find-eventual-safe-states)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **854. [Making A Large Island](./854-making-a-large-island)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **896. [Smallest Subtree with all the Deepest Nodes](./896-smallest-subtree-with-all-the-deepest-nodes)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4766,7 +4776,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 53)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 54)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -4916,6 +4926,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **85. [Maximal Rectangle](./85-maximal-rectangle)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **854. [Making A Large Island](./854-making-a-large-island)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **861. [Flipping an Image](./861-flipping-an-image)**  
@@ -7064,7 +7077,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="union-find"><strong>Union-Find</strong> (Total: 13)</summary>
+<summary id="union-find"><strong>Union-Find</strong> (Total: 14)</summary>
 
 - **1073. [Number of Enclaves](./1073-number-of-enclaves)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -7104,6 +7117,9 @@ Welcome to my LeetCode solutions repository!
 
 - **721. [Accounts Merge](./721-accounts-merge)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **854. [Making A Large Island](./854-making-a-large-island)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 </details>
 
