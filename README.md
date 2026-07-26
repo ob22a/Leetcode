@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 668
+**Total Questions:** 669
 
 ### Difficulty Distribution
 
@@ -15,14 +15,14 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 299 |
-| <span style='color:orange'>Medium</span> | 316 |
+| <span style='color:orange'>Medium</span> | 317 |
 | <span style='color:red'>Hard</span> | 53 |
 
 ### Topics Overview
 
 | Topic | Number of Questions |
 |-------|---------------------|
-| [Array](#array) | 376 |
+| [Array](#array) | 377 |
 | [Backtracking](#backtracking) | 32 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Search](#binary-search) | 68 |
@@ -46,7 +46,7 @@ Welcome to my LeetCode solutions repository!
 | [Enumeration](#enumeration) | 10 |
 | [Game Theory](#game-theory) | 5 |
 | [Geometry](#geometry) | 2 |
-| [Graph Theory](#graph-theory) | 13 |
+| [Graph Theory](#graph-theory) | 14 |
 | [Greedy](#greedy) | 43 |
 | [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 134 |
@@ -57,6 +57,7 @@ Welcome to my LeetCode solutions repository!
 | [Matrix](#matrix) | 54 |
 | [Memoization](#memoization) | 5 |
 | [Merge Sort](#merge-sort) | 3 |
+| [Minimum Spanning Tree](#minimum-spanning-tree) | 1 |
 | [Monotonic Queue](#monotonic-queue) | 3 |
 | [Monotonic Stack](#monotonic-stack) | 17 |
 | [Number Theory](#number-theory) | 9 |
@@ -81,7 +82,7 @@ Welcome to my LeetCode solutions repository!
 | [Tree](#tree) | 46 |
 | [Trie](#trie) | 6 |
 | [Two Pointers](#two-pointers) | 84 |
-| [Union-Find](#union-find) | 14 |
+| [Union-Find](#union-find) | 15 |
 
 ---
 
@@ -392,7 +393,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 316)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 317)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -472,6 +473,7 @@ Welcome to my LeetCode solutions repository!
 - **1675. [Magnetic Force Between Two Balls](./1675-magnetic-force-between-two-balls)**
 - **1683. [Maximum Number of Coins You Can Get](./1683-maximum-number-of-coins-you-can-get)**
 - **17. [Letter Combinations of a Phone Number](./17-letter-combinations-of-a-phone-number)**
+- **1706. [Min Cost to Connect All Points](./1706-min-cost-to-connect-all-points)**
 - **1753. [Path With Minimum Effort](./1753-path-with-minimum-effort)**
 - **176. [Second Highest Salary](./176-second-highest-salary)**
 - **177. [Nth Highest Salary](./177-nth-highest-salary)**
@@ -773,7 +775,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Topic
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 376)</summary>
+<summary id="array"><strong>Array</strong> (Total: 377)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1059,6 +1061,9 @@ Welcome to my LeetCode solutions repository!
 
 - **169. [Majority Element](./169-majority-element)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1706. [Min Cost to Connect All Points](./1706-min-cost-to-connect-all-points)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1720. [Crawler Log Folder](./1720-crawler-log-folder)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3629,12 +3634,15 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="graph-theory"><strong>Graph Theory</strong> (Total: 13)</summary>
+<summary id="graph-theory"><strong>Graph Theory</strong> (Total: 14)</summary>
 
 - **1442. [Number of Operations to Make Network Connected](./1442-number-of-operations-to-make-network-connected)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1456. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1706. [Min Cost to Connect All Points](./1706-min-cost-to-connect-all-points)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1916. [Find Center of Star Graph](./1916-find-center-of-star-graph)**  
@@ -4972,6 +4980,14 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **948. [Sort an Array](./948-sort-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="minimum-spanning-tree"><strong>Minimum Spanning Tree</strong> (Total: 1)</summary>
+
+- **1706. [Min Cost to Connect All Points](./1706-min-cost-to-connect-all-points)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
@@ -7077,7 +7093,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="union-find"><strong>Union-Find</strong> (Total: 14)</summary>
+<summary id="union-find"><strong>Union-Find</strong> (Total: 15)</summary>
 
 - **1073. [Number of Enclaves](./1073-number-of-enclaves)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -7095,6 +7111,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1663. [Detect Cycles in 2D Grid](./1663-detect-cycles-in-2d-grid)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1706. [Min Cost to Connect All Points](./1706-min-cost-to-connect-all-points)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1753. [Path With Minimum Effort](./1753-path-with-minimum-effort)**  
