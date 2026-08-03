@@ -22,55 +22,105 @@ Welcome to my LeetCode solutions repository!
 
 | Topic | Number of Questions |
 |-------|---------------------|
+| [0-1 BFS](#0-1-bfs) | 1 |
+| [0-1 Knapsack](#0-1-knapsack) | 2 |
+| [A* Search](#a*-search) | 1 |
+| [Algorithm X](#algorithm-x) | 3 |
 | [Array](#array) | 377 |
 | [Backtracking](#backtracking) | 32 |
+| [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
+| [Bidirectional Search](#bidirectional-search) | 5 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
+| [Binary Lifting](#binary-lifting) | 4 |
 | [Binary Search](#binary-search) | 68 |
 | [Binary Search Tree](#binary-search-tree) | 13 |
 | [Binary Tree](#binary-tree) | 43 |
 | [Bit Manipulation](#bit-manipulation) | 44 |
 | [Bitmask](#bitmask) | 5 |
+| [Borůvka's Algorithm](#borůvka's-algorithm) | 1 |
+| [Boyer–Moore Majority Vote Algorithm](#boyer–moore-majority-vote-algorithm) | 2 |
+| [Boyer–Moore String-Search Algorithm](#boyer–moore-string-search-algorithm) | 3 |
+| [Bracket Sequences](#bracket-sequences) | 4 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 59 |
+| [Bubble Sort](#bubble-sort) | 2 |
 | [Bucket Sort](#bucket-sort) | 4 |
+| [Bézout's Lemma](#bézout's-lemma) | 1 |
+| [Cartesian Tree](#cartesian-tree) | 3 |
 | [Combinatorics](#combinatorics) | 2 |
+| [Complete Knapsack](#complete-knapsack) | 2 |
 | [Counting](#counting) | 32 |
 | [Counting Sort](#counting-sort) | 5 |
+| [DP on Trees](#dp-on-trees) | 4 |
+| [Dancing Links](#dancing-links) | 1 |
 | [Data Stream](#data-stream) | 6 |
 | [Database](#database) | 16 |
 | [Depth-First Search](#depth-first-search) | 64 |
 | [Design](#design) | 25 |
+| [Dijkstra's Algorithm](#dijkstra's-algorithm) | 4 |
+| [Directed Acyclic Graph](#directed-acyclic-graph) | 2 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
 | [Dynamic Programming](#dynamic-programming) | 78 |
 | [Enumeration](#enumeration) | 10 |
+| [Euclidean Algorithm](#euclidean-algorithm) | 4 |
+| [Euler's Theorem](#euler's-theorem) | 1 |
+| [Euler's Totient Function](#euler's-totient-function) | 1 |
+| [Extended Euclidean Algorithm](#extended-euclidean-algorithm) | 1 |
+| [Floyd's Cycle Finding Algorithm](#floyd's-cycle-finding-algorithm) | 5 |
+| [Floyd–Warshall Algorithm](#floyd–warshall-algorithm) | 1 |
 | [Game Theory](#game-theory) | 5 |
 | [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 14 |
+| [Greatest Common Divisor](#greatest-common-divisor) | 4 |
 | [Greedy](#greedy) | 43 |
+| [Hamiltonian Path](#hamiltonian-path) | 1 |
 | [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 134 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 24 |
+| [Heuristic Search](#heuristic-search) | 1 |
+| [Impartial Game](#impartial-game) | 2 |
 | [Interactive](#interactive) | 2 |
+| [Knapsack Problem](#knapsack-problem) | 4 |
+| [Knuth–Morris–Pratt Algorithm](#knuth–morris–pratt-algorithm) | 3 |
+| [Kosaraju's Algorithm](#kosaraju's-algorithm) | 1 |
+| [Kruskal's Algorithm](#kruskal's-algorithm) | 1 |
 | [Linked List](#linked-list) | 35 |
+| [Longest Common Subsequence](#longest-common-subsequence) | 3 |
+| [Longest Increasing Subsequence](#longest-increasing-subsequence) | 3 |
+| [Lowest Common Ancestor](#lowest-common-ancestor) | 4 |
+| [Manacher](#manacher) | 1 |
 | [Math](#math) | 113 |
 | [Matrix](#matrix) | 54 |
+| [Meet in the Middle](#meet-in-the-middle) | 3 |
 | [Memoization](#memoization) | 5 |
 | [Merge Sort](#merge-sort) | 3 |
+| [Minimax](#minimax) | 3 |
 | [Minimum Spanning Tree](#minimum-spanning-tree) | 1 |
 | [Monotonic Queue](#monotonic-queue) | 3 |
 | [Monotonic Stack](#monotonic-stack) | 17 |
+| [Newton's Method](#newton's-method) | 1 |
+| [Nim Game](#nim-game) | 1 |
 | [Number Theory](#number-theory) | 9 |
 | [Ordered Set](#ordered-set) | 6 |
+| [Pigeonhole Principle](#pigeonhole-principle) | 3 |
+| [Polygons](#polygons) | 2 |
 | [Prefix Sum](#prefix-sum) | 45 |
+| [Prim's Algorithm](#prim's-algorithm) | 1 |
+| [Primality Test](#primality-test) | 2 |
+| [Prime Factorization](#prime-factorization) | 2 |
+| [Prime Number Sieve](#prime-number-sieve) | 2 |
 | [Queue](#queue) | 12 |
 | [Quickselect](#quickselect) | 2 |
+| [Quicksort](#quicksort) | 4 |
 | [Radix Sort](#radix-sort) | 2 |
 | [Randomized](#randomized) | 1 |
+| [Range Minimum/Maximum Query](#range-minimum/maximum-query) | 2 |
 | [Recursion](#recursion) | 25 |
 | [Rolling Hash](#rolling-hash) | 2 |
 | [Segment Tree](#segment-tree) | 2 |
 | [Shortest Path](#shortest-path) | 5 |
+| [Sieve Theory](#sieve-theory) | 3 |
 | [Simulation](#simulation) | 50 |
 | [Sliding Window](#sliding-window) | 49 |
 | [Sorting](#sorting) | 90 |
@@ -78,11 +128,16 @@ Welcome to my LeetCode solutions repository!
 | [String](#string) | 145 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
+| [Tarjan's SCC Algorithm](#tarjan's-scc-algorithm) | 1 |
+| [Timsort](#timsort) | 1 |
 | [Topological Sort](#topological-sort) | 4 |
+| [Tournament Sort](#tournament-sort) | 1 |
 | [Tree](#tree) | 46 |
 | [Trie](#trie) | 6 |
 | [Two Pointers](#two-pointers) | 84 |
 | [Union-Find](#union-find) | 15 |
+| [Z Algorithm](#z-algorithm) | 4 |
+| [Zero-Sum Game](#zero-sum-game) | 2 |
 
 ---
 
@@ -773,6 +828,47 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 ## 📚 Problems by Topic
+
+<details>
+<summary id="0-1-bfs"><strong>0-1 BFS</strong> (Total: 1)</summary>
+
+- **2375. [Minimum Obstacle Removal to Reach Corner](./2375-minimum-obstacle-removal-to-reach-corner)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+</details>
+
+<details>
+<summary id="0-1-knapsack"><strong>0-1 Knapsack</strong> (Total: 2)</summary>
+
+- **416. [Partition Equal Subset Sum](./416-partition-equal-subset-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **494. [Target Sum](./494-target-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="a*-search"><strong>A* Search</strong> (Total: 1)</summary>
+
+- **787. [Sliding Puzzle](./787-sliding-puzzle)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+</details>
+
+<details>
+<summary id="algorithm-x"><strong>Algorithm X</strong> (Total: 3)</summary>
+
+- **37. [Sudoku Solver](./37-sudoku-solver)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **51. [N-Queens](./51-n-queens)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **52. [N-Queens II](./52-n-queens-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+</details>
 
 <details>
 <summary id="array"><strong>Array</strong> (Total: 377)</summary>
@@ -2012,9 +2108,54 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
+<summary id="bellman–ford-algorithm"><strong>Bellman–Ford Algorithm</strong> (Total: 1)</summary>
+
+- **1456. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="bidirectional-search"><strong>Bidirectional Search</strong> (Total: 5)</summary>
+
+- **1106. [Escape a Large Maze](./1106-escape-a-large-maze)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **126. [Word Ladder II](./126-word-ladder-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **127. [Word Ladder](./127-word-ladder)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **753. [Open the Lock](./753-open-the-lock)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **787. [Sliding Puzzle](./787-sliding-puzzle)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+</details>
+
+<details>
 <summary id="binary-indexed-tree"><strong>Binary Indexed Tree</strong> (Total: 1)</summary>
 
 - **673. [Number of Longest Increasing Subsequence](./673-number-of-longest-increasing-subsequence)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="binary-lifting"><strong>Binary Lifting</strong> (Total: 4)</summary>
+
+- **1218. [Lowest Common Ancestor of Deepest Leaves](./1218-lowest-common-ancestor-of-deepest-leaves)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **235. [Lowest Common Ancestor of a Binary Search Tree](./235-lowest-common-ancestor-of-a-binary-search-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **236. [Lowest Common Ancestor of a Binary Tree](./236-lowest-common-ancestor-of-a-binary-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **896. [Smallest Subtree with all the Deepest Nodes](./896-smallest-subtree-with-all-the-deepest-nodes)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
@@ -2564,6 +2705,56 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
+<summary id="borůvka's-algorithm"><strong>Borůvka's Algorithm</strong> (Total: 1)</summary>
+
+- **1706. [Min Cost to Connect All Points](./1706-min-cost-to-connect-all-points)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="boyer–moore-majority-vote-algorithm"><strong>Boyer–Moore Majority Vote Algorithm</strong> (Total: 2)</summary>
+
+- **169. [Majority Element](./169-majority-element)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **229. [Majority Element II](./229-majority-element-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="boyer–moore-string-search-algorithm"><strong>Boyer–Moore String-Search Algorithm</strong> (Total: 3)</summary>
+
+- **187. [Repeated DNA Sequences](./187-repeated-dna-sequences)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **28. [Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **686. [Repeated String Match](./686-repeated-string-match)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="bracket-sequences"><strong>Bracket Sequences</strong> (Total: 4)</summary>
+
+- **20. [Valid Parentheses](./20-valid-parentheses)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **22. [Generate Parentheses](./22-generate-parentheses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **241. [Different Ways to Add Parentheses](./241-different-ways-to-add-parentheses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **32. [Longest Valid Parentheses](./32-longest-valid-parentheses)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+</details>
+
+<details>
 <summary id="brainteaser"><strong>Brainteaser</strong> (Total: 3)</summary>
 
 - **1086. [Divisor Game](./1086-divisor-game)**  
@@ -2760,6 +2951,17 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
+<summary id="bubble-sort"><strong>Bubble Sort</strong> (Total: 2)</summary>
+
+- **1970. [Sorting the Sentence](./1970-sorting-the-sentence)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **75. [Sort Colors](./75-sort-colors)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
 <summary id="bucket-sort"><strong>Bucket Sort</strong> (Total: 4)</summary>
 
 - **164. [Maximum Gap](./164-maximum-gap)**  
@@ -2777,12 +2979,45 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
+<summary id="bézout's-lemma"><strong>Bézout's Lemma</strong> (Total: 1)</summary>
+
+- **365. [Water and Jug Problem](./365-water-and-jug-problem)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="cartesian-tree"><strong>Cartesian Tree</strong> (Total: 3)</summary>
+
+- **1228. [Minimum Cost Tree From Leaf Values](./1228-minimum-cost-tree-from-leaf-values)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1918. [Maximum Score of a Good Subarray](./1918-maximum-score-of-a-good-subarray)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **654. [Maximum Binary Tree](./654-maximum-binary-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
 <summary id="combinatorics"><strong>Combinatorics</strong> (Total: 2)</summary>
 
 - **1993. [Sum of All Subset XOR Totals](./1993-sum-of-all-subset-xor-totals)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **62. [Unique Paths](./62-unique-paths)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="complete-knapsack"><strong>Complete Knapsack</strong> (Total: 2)</summary>
+
+- **322. [Coin Change](./322-coin-change)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **518. [Coin Change II](./518-coin-change-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
@@ -2905,6 +3140,31 @@ Welcome to my LeetCode solutions repository!
 
 - **948. [Sort an Array](./948-sort-an-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="dp-on-trees"><strong>DP on Trees</strong> (Total: 4)</summary>
+
+- **1218. [Lowest Common Ancestor of Deepest Leaves](./1218-lowest-common-ancestor-of-deepest-leaves)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **543. [Diameter of Binary Tree](./543-diameter-of-binary-tree)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **563. [Binary Tree Tilt](./563-binary-tree-tilt)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **896. [Smallest Subtree with all the Deepest Nodes](./896-smallest-subtree-with-all-the-deepest-nodes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="dancing-links"><strong>Dancing Links</strong> (Total: 1)</summary>
+
+- **37. [Sudoku Solver](./37-sudoku-solver)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 </details>
 
@@ -3262,6 +3522,34 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
+<summary id="dijkstra's-algorithm"><strong>Dijkstra's Algorithm</strong> (Total: 4)</summary>
+
+- **1456. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1753. [Path With Minimum Effort](./1753-path-with-minimum-effort)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2090. [Number of Ways to Arrive at Destination](./2090-number-of-ways-to-arrive-at-destination)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2375. [Minimum Obstacle Removal to Reach Corner](./2375-minimum-obstacle-removal-to-reach-corner)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+</details>
+
+<details>
+<summary id="directed-acyclic-graph"><strong>Directed Acyclic Graph</strong> (Total: 2)</summary>
+
+- **207. [Course Schedule](./207-course-schedule)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **813. [All Paths From Source to Target](./813-all-paths-from-source-to-target)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
 <summary id="divide-and-conquer"><strong>Divide and Conquer</strong> (Total: 16)</summary>
 
 - **105. [Construct Binary Tree from Preorder and Inorder Traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal)**  
@@ -3603,6 +3891,75 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
+<summary id="euclidean-algorithm"><strong>Euclidean Algorithm</strong> (Total: 4)</summary>
+
+- **2106. [Find Greatest Common Divisor of Array](./2106-find-greatest-common-divisor-of-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **365. [Water and Jug Problem](./365-water-and-jug-problem)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **950. [X of a Kind in a Deck of Cards](./950-x-of-a-kind-in-a-deck-of-cards)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="euler's-theorem"><strong>Euler's Theorem</strong> (Total: 1)</summary>
+
+- **372. [Super Pow](./372-super-pow)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="euler's-totient-function"><strong>Euler's Totient Function</strong> (Total: 1)</summary>
+
+- **372. [Super Pow](./372-super-pow)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="extended-euclidean-algorithm"><strong>Extended Euclidean Algorithm</strong> (Total: 1)</summary>
+
+- **365. [Water and Jug Problem](./365-water-and-jug-problem)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="floyd's-cycle-finding-algorithm"><strong>Floyd's Cycle Finding Algorithm</strong> (Total: 5)</summary>
+
+- **141. [Linked List Cycle](./141-linked-list-cycle)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **142. [Linked List Cycle II](./142-linked-list-cycle-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **202. [Happy Number](./202-happy-number)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **287. [Find the Duplicate Number](./287-find-the-duplicate-number)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **457. [Circular Array Loop](./457-circular-array-loop)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="floyd–warshall-algorithm"><strong>Floyd–Warshall Algorithm</strong> (Total: 1)</summary>
+
+- **1456. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
 <summary id="game-theory"><strong>Game Theory</strong> (Total: 5)</summary>
 
 - **1086. [Divisor Game](./1086-divisor-game)**  
@@ -3677,6 +4034,23 @@ Welcome to my LeetCode solutions repository!
 
 - **820. [Find Eventual Safe States](./820-find-eventual-safe-states)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="greatest-common-divisor"><strong>Greatest Common Divisor</strong> (Total: 4)</summary>
+
+- **2106. [Find Greatest Common Divisor of Array](./2106-find-greatest-common-divisor-of-array)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **365. [Water and Jug Problem](./365-water-and-jug-problem)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **950. [X of a Kind in a Deck of Cards](./950-x-of-a-kind-in-a-deck-of-cards)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 </details>
 
@@ -3811,6 +4185,14 @@ Welcome to my LeetCode solutions repository!
 
 - **917. [Boats to Save People](./917-boats-to-save-people)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="hamiltonian-path"><strong>Hamiltonian Path</strong> (Total: 1)</summary>
+
+- **1022. [Unique Paths III](./1022-unique-paths-iii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 </details>
 
@@ -4319,6 +4701,25 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
+<summary id="heuristic-search"><strong>Heuristic Search</strong> (Total: 1)</summary>
+
+- **787. [Sliding Puzzle](./787-sliding-puzzle)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+</details>
+
+<details>
+<summary id="impartial-game"><strong>Impartial Game</strong> (Total: 2)</summary>
+
+- **1086. [Divisor Game](./1086-divisor-game)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **292. [Nim Game](./292-nim-game)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
 <summary id="interactive"><strong>Interactive</strong> (Total: 2)</summary>
 
 - **278. [First Bad Version](./278-first-bad-version)**  
@@ -4326,6 +4727,53 @@ Welcome to my LeetCode solutions repository!
 
 - **374. [Guess Number Higher or Lower](./374-guess-number-higher-or-lower)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="knapsack-problem"><strong>Knapsack Problem</strong> (Total: 4)</summary>
+
+- **322. [Coin Change](./322-coin-change)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **416. [Partition Equal Subset Sum](./416-partition-equal-subset-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **494. [Target Sum](./494-target-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **518. [Coin Change II](./518-coin-change-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="knuth–morris–pratt-algorithm"><strong>Knuth–Morris–Pratt Algorithm</strong> (Total: 3)</summary>
+
+- **28. [Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **459. [Repeated Substring Pattern](./459-repeated-substring-pattern)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **686. [Repeated String Match](./686-repeated-string-match)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="kosaraju's-algorithm"><strong>Kosaraju's Algorithm</strong> (Total: 1)</summary>
+
+- **820. [Find Eventual Safe States](./820-find-eventual-safe-states)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="kruskal's-algorithm"><strong>Kruskal's Algorithm</strong> (Total: 1)</summary>
+
+- **1706. [Min Cost to Connect All Points](./1706-min-cost-to-connect-all-points)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
 
@@ -4435,6 +4883,59 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **92. [Reverse Linked List II](./92-reverse-linked-list-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="longest-common-subsequence"><strong>Longest Common Subsequence</strong> (Total: 3)</summary>
+
+- **1170. [Shortest Common Supersequence ](./1170-shortest-common-supersequence)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **1250. [Longest Common Subsequence](./1250-longest-common-subsequence)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **583. [Delete Operation for Two Strings](./583-delete-operation-for-two-strings)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="longest-increasing-subsequence"><strong>Longest Increasing Subsequence</strong> (Total: 3)</summary>
+
+- **300. [Longest Increasing Subsequence](./300-longest-increasing-subsequence)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **673. [Number of Longest Increasing Subsequence](./673-number-of-longest-increasing-subsequence)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **981. [Delete Columns to Make Sorted](./981-delete-columns-to-make-sorted)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="lowest-common-ancestor"><strong>Lowest Common Ancestor</strong> (Total: 4)</summary>
+
+- **1218. [Lowest Common Ancestor of Deepest Leaves](./1218-lowest-common-ancestor-of-deepest-leaves)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **235. [Lowest Common Ancestor of a Binary Search Tree](./235-lowest-common-ancestor-of-a-binary-search-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **236. [Lowest Common Ancestor of a Binary Tree](./236-lowest-common-ancestor-of-a-binary-tree)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **896. [Smallest Subtree with all the Deepest Nodes](./896-smallest-subtree-with-all-the-deepest-nodes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="manacher"><strong>Manacher</strong> (Total: 1)</summary>
+
+- **5. [Longest Palindromic Substring](./5-longest-palindromic-substring)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
@@ -4951,6 +5452,20 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
+<summary id="meet-in-the-middle"><strong>Meet in the Middle</strong> (Total: 3)</summary>
+
+- **1881. [Closest Subsequence Sum](./1881-closest-subsequence-sum)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **2162. [Partition Array Into Two Arrays to Minimize Sum Difference](./2162-partition-array-into-two-arrays-to-minimize-sum-difference)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **823. [Split Array With Same Average](./823-split-array-with-same-average)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+</details>
+
+<details>
 <summary id="memoization"><strong>Memoization</strong> (Total: 5)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
@@ -4980,6 +5495,20 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **948. [Sort an Array](./948-sort-an-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="minimax"><strong>Minimax</strong> (Total: 3)</summary>
+
+- **292. [Nim Game](./292-nim-game)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **486. [Predict the Winner](./486-predict-the-winner)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **909. [Stone Game](./909-stone-game)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
@@ -5063,6 +5592,22 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
+<summary id="newton's-method"><strong>Newton's Method</strong> (Total: 1)</summary>
+
+- **69. [Sqrt(x)](./69-sqrtx)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="nim-game"><strong>Nim Game</strong> (Total: 1)</summary>
+
+- **292. [Nim Game](./292-nim-game)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
 <summary id="number-theory"><strong>Number Theory</strong> (Total: 9)</summary>
 
 - **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**  
@@ -5114,6 +5659,31 @@ Welcome to my LeetCode solutions repository!
 
 - **931. [Maximum Frequency Stack](./931-maximum-frequency-stack)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+</details>
+
+<details>
+<summary id="pigeonhole-principle"><strong>Pigeonhole Principle</strong> (Total: 3)</summary>
+
+- **164. [Maximum Gap](./164-maximum-gap)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **287. [Find the Duplicate Number](./287-find-the-duplicate-number)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **523. [Continuous Subarray Sum](./523-continuous-subarray-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="polygons"><strong>Polygons</strong> (Total: 2)</summary>
+
+- **1018. [Largest Perimeter Triangle](./1018-largest-perimeter-triangle)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3321. [Type of Triangle](./3321-type-of-triangle)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 </details>
 
@@ -5258,6 +5828,47 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
+<summary id="prim's-algorithm"><strong>Prim's Algorithm</strong> (Total: 1)</summary>
+
+- **1706. [Min Cost to Connect All Points](./1706-min-cost-to-connect-all-points)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="primality-test"><strong>Primality Test</strong> (Total: 2)</summary>
+
+- **204. [Count Primes](./204-count-primes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="prime-factorization"><strong>Prime Factorization</strong> (Total: 2)</summary>
+
+- **1284. [Four Divisors](./1284-four-divisors)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="prime-number-sieve"><strong>Prime Number Sieve</strong> (Total: 2)</summary>
+
+- **204. [Count Primes](./204-count-primes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
 <summary id="queue"><strong>Queue</strong> (Total: 12)</summary>
 
 - **1549. [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)**  
@@ -5310,6 +5921,23 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
+<summary id="quicksort"><strong>Quicksort</strong> (Total: 4)</summary>
+
+- **1018. [Largest Perimeter Triangle](./1018-largest-perimeter-triangle)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **455. [Assign Cookies](./455-assign-cookies)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **56. [Merge Intervals](./56-merge-intervals)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **75. [Sort Colors](./75-sort-colors)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
 <summary id="radix-sort"><strong>Radix Sort</strong> (Total: 2)</summary>
 
 - **164. [Maximum Gap](./164-maximum-gap)**  
@@ -5325,6 +5953,17 @@ Welcome to my LeetCode solutions repository!
 
 - **912. [Random Pick with Weight](./912-random-pick-with-weight)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="range-minimum/maximum-query"><strong>Range Minimum/Maximum Query</strong> (Total: 2)</summary>
+
+- **239. [Sliding Window Maximum](./239-sliding-window-maximum)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **84. [Largest Rectangle in Histogram](./84-largest-rectangle-in-histogram)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 </details>
 
@@ -5446,6 +6085,20 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **803. [Cheapest Flights Within K Stops](./803-cheapest-flights-within-k-stops)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="sieve-theory"><strong>Sieve Theory</strong> (Total: 3)</summary>
+
+- **1284. [Four Divisors](./1284-four-divisors)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **204. [Count Primes](./204-count-primes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
@@ -6653,6 +7306,22 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
+<summary id="tarjan's-scc-algorithm"><strong>Tarjan's SCC Algorithm</strong> (Total: 1)</summary>
+
+- **820. [Find Eventual Safe States](./820-find-eventual-safe-states)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="timsort"><strong>Timsort</strong> (Total: 1)</summary>
+
+- **917. [Boats to Save People](./917-boats-to-save-people)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
 <summary id="topological-sort"><strong>Topological Sort</strong> (Total: 4)</summary>
 
 - **207. [Course Schedule](./207-course-schedule)**  
@@ -6666,6 +7335,14 @@ Welcome to my LeetCode solutions repository!
 
 - **820. [Find Eventual Safe States](./820-find-eventual-safe-states)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="tournament-sort"><strong>Tournament Sort</strong> (Total: 1)</summary>
+
+- **23. [Merge k Sorted Lists](./23-merge-k-sorted-lists)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 </details>
 
@@ -7139,6 +7816,34 @@ Welcome to my LeetCode solutions repository!
 
 - **854. [Making A Large Island](./854-making-a-large-island)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+</details>
+
+<details>
+<summary id="z-algorithm"><strong>Z Algorithm</strong> (Total: 4)</summary>
+
+- **187. [Repeated DNA Sequences](./187-repeated-dna-sequences)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **28. [Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **459. [Repeated Substring Pattern](./459-repeated-substring-pattern)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **686. [Repeated String Match](./686-repeated-string-match)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+</details>
+
+<details>
+<summary id="zero-sum-game"><strong>Zero-Sum Game</strong> (Total: 2)</summary>
+
+- **486. [Predict the Winner](./486-predict-the-winner)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **909. [Stone Game](./909-stone-game)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
 
