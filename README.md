@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 669
+**Total Questions:** 670
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 299 |
-| <span style='color:orange'>Medium</span> | 317 |
+| <span style='color:orange'>Medium</span> | 318 |
 | <span style='color:red'>Hard</span> | 53 |
 
 ### Topics Overview
@@ -69,11 +69,11 @@ Welcome to my LeetCode solutions repository!
 | [Extended Euclidean Algorithm](#extended-euclidean-algorithm) | 1 |
 | [Floyd's Cycle Finding Algorithm](#floyd's-cycle-finding-algorithm) | 5 |
 | [Floyd–Warshall Algorithm](#floyd–warshall-algorithm) | 1 |
-| [Game Theory](#game-theory) | 5 |
+| [Game Theory](#game-theory) | 6 |
 | [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 14 |
 | [Greatest Common Divisor](#greatest-common-divisor) | 4 |
-| [Greedy](#greedy) | 43 |
+| [Greedy](#greedy) | 44 |
 | [Hamiltonian Path](#hamiltonian-path) | 1 |
 | [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 134 |
@@ -90,7 +90,7 @@ Welcome to my LeetCode solutions repository!
 | [Longest Increasing Subsequence](#longest-increasing-subsequence) | 3 |
 | [Lowest Common Ancestor](#lowest-common-ancestor) | 4 |
 | [Manacher](#manacher) | 1 |
-| [Math](#math) | 113 |
+| [Math](#math) | 114 |
 | [Matrix](#matrix) | 54 |
 | [Meet in the Middle](#meet-in-the-middle) | 3 |
 | [Memoization](#memoization) | 5 |
@@ -125,7 +125,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 49 |
 | [Sorting](#sorting) | 90 |
 | [Stack](#stack) | 47 |
-| [String](#string) | 145 |
+| [String](#string) | 146 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tarjan's SCC Algorithm](#tarjan's-scc-algorithm) | 1 |
@@ -448,7 +448,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 317)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 318)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -553,6 +553,7 @@ Welcome to my LeetCode solutions repository!
 - **201. [Bitwise AND of Numbers Range](./201-bitwise-and-of-numbers-range)**
 - **2016. [Reduction Operations to Make the Array Elements Equal](./2016-reduction-operations-to-make-the-array-elements-equal)**
 - **2035. [Count Sub Islands](./2035-count-sub-islands)**
+- **2039. [Sum Game](./2039-sum-game)**
 - **204. [Count Primes](./204-count-primes)**
 - **2047. [Find a Peak Element II](./2047-find-a-peak-element-ii)**
 - **2050. [Count Good Numbers](./2050-count-good-numbers)**
@@ -3960,12 +3961,15 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="game-theory"><strong>Game Theory</strong> (Total: 5)</summary>
+<summary id="game-theory"><strong>Game Theory</strong> (Total: 6)</summary>
 
 - **1086. [Divisor Game](./1086-divisor-game)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1683. [Maximum Number of Coins You Can Get](./1683-maximum-number-of-coins-you-can-get)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2039. [Sum Game](./2039-sum-game)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **292. [Nim Game](./292-nim-game)**  
@@ -4055,7 +4059,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 43)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 44)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4103,6 +4107,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1956. [Maximum Element After Decreasing and Rearranging](./1956-maximum-element-after-decreasing-and-rearranging)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2039. [Sum Game](./2039-sum-game)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2148. [Minimum Number of Moves to Seat Everyone](./2148-minimum-number-of-moves-to-seat-everyone)**  
@@ -4941,7 +4948,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 113)</summary>
+<summary id="math"><strong>Math</strong> (Total: 114)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5029,6 +5036,9 @@ Welcome to my LeetCode solutions repository!
 
 - **202. [Happy Number](./202-happy-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2039. [Sum Game](./2039-sum-game)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **204. [Count Primes](./204-count-primes)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -6832,7 +6842,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 145)</summary>
+<summary id="string"><strong>String</strong> (Total: 146)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -6953,6 +6963,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2010. [Check if Word Equals Summation of Two Words](./2010-check-if-word-equals-summation-of-two-words)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2039. [Sum Game](./2039-sum-game)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **205. [Isomorphic Strings](./205-isomorphic-strings)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
