@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 670
+**Total Questions:** 671
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 299 |
-| <span style='color:orange'>Medium</span> | 318 |
+| <span style='color:orange'>Medium</span> | 319 |
 | <span style='color:red'>Hard</span> | 53 |
 
 ### Topics Overview
@@ -26,7 +26,7 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 377 |
+| [Array](#array) | 378 |
 | [Backtracking](#backtracking) | 32 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
@@ -105,7 +105,7 @@ Welcome to my LeetCode solutions repository!
 | [Ordered Set](#ordered-set) | 6 |
 | [Pigeonhole Principle](#pigeonhole-principle) | 3 |
 | [Polygons](#polygons) | 2 |
-| [Prefix Sum](#prefix-sum) | 45 |
+| [Prefix Sum](#prefix-sum) | 46 |
 | [Prim's Algorithm](#prim's-algorithm) | 1 |
 | [Primality Test](#primality-test) | 2 |
 | [Prime Factorization](#prime-factorization) | 2 |
@@ -448,7 +448,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 318)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 319)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -659,6 +659,7 @@ Welcome to my LeetCode solutions repository!
 - **402. [Remove K Digits](./402-remove-k-digits)**
 - **416. [Partition Equal Subset Sum](./416-partition-equal-subset-sum)**
 - **424. [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)**
+- **4285. [Smallest Stable Index II](./4285-smallest-stable-index-ii)**
 - **43. [Multiply Strings](./43-multiply-strings)**
 - **436. [Find Right Interval](./436-find-right-interval)**
 - **438. [Find All Anagrams in a String](./438-find-all-anagrams-in-a-string)**
@@ -872,7 +873,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 377)</summary>
+<summary id="array"><strong>Array</strong> (Total: 378)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1677,6 +1678,9 @@ Welcome to my LeetCode solutions repository!
 
 - **4216. [Weighted Word Mapping](./4216-weighted-word-mapping)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **4285. [Smallest Stable Index II](./4285-smallest-stable-index-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **436. [Find Right Interval](./436-find-right-interval)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5698,7 +5702,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 45)</summary>
+<summary id="prefix-sum"><strong>Prefix Sum</strong> (Total: 46)</summary>
 
 - **1016. [Subarray Sums Divisible by K](./1016-subarray-sums-divisible-by-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5813,6 +5817,9 @@ Welcome to my LeetCode solutions repository!
 
 - **410. [Split Array Largest Sum](./410-split-array-largest-sum)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **4285. [Smallest Stable Index II](./4285-smallest-stable-index-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **523. [Continuous Subarray Sum](./523-continuous-subarray-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
