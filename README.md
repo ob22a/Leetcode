@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 671
+**Total Questions:** 672
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 299 |
-| <span style='color:orange'>Medium</span> | 319 |
+| <span style='color:orange'>Medium</span> | 320 |
 | <span style='color:red'>Hard</span> | 53 |
 
 ### Topics Overview
@@ -42,7 +42,7 @@ Welcome to my LeetCode solutions repository!
 | [Boyer–Moore String-Search Algorithm](#boyer–moore-string-search-algorithm) | 3 |
 | [Bracket Sequences](#bracket-sequences) | 4 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 59 |
+| [Breadth-First Search](#breadth-first-search) | 60 |
 | [Bubble Sort](#bubble-sort) | 2 |
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Bézout's Lemma](#bézout's-lemma) | 1 |
@@ -55,7 +55,7 @@ Welcome to my LeetCode solutions repository!
 | [Dancing Links](#dancing-links) | 1 |
 | [Data Stream](#data-stream) | 6 |
 | [Database](#database) | 16 |
-| [Depth-First Search](#depth-first-search) | 64 |
+| [Depth-First Search](#depth-first-search) | 65 |
 | [Design](#design) | 25 |
 | [Dijkstra's Algorithm](#dijkstra's-algorithm) | 4 |
 | [Directed Acyclic Graph](#directed-acyclic-graph) | 2 |
@@ -71,7 +71,7 @@ Welcome to my LeetCode solutions repository!
 | [Floyd–Warshall Algorithm](#floyd–warshall-algorithm) | 1 |
 | [Game Theory](#game-theory) | 6 |
 | [Geometry](#geometry) | 2 |
-| [Graph Theory](#graph-theory) | 14 |
+| [Graph Theory](#graph-theory) | 15 |
 | [Greatest Common Divisor](#greatest-common-divisor) | 4 |
 | [Greedy](#greedy) | 44 |
 | [Hamiltonian Path](#hamiltonian-path) | 1 |
@@ -135,7 +135,7 @@ Welcome to my LeetCode solutions repository!
 | [Tree](#tree) | 46 |
 | [Trie](#trie) | 6 |
 | [Two Pointers](#two-pointers) | 84 |
-| [Union-Find](#union-find) | 15 |
+| [Union-Find](#union-find) | 16 |
 | [Z Algorithm](#z-algorithm) | 4 |
 | [Zero-Sum Game](#zero-sum-game) | 2 |
 
@@ -448,7 +448,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 319)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 320)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -618,6 +618,7 @@ Welcome to my LeetCode solutions repository!
 - **275. [H-Index II](./275-h-index-ii)**
 - **2751. [Sliding Subarray Beauty](./2751-sliding-subarray-beauty)**
 - **2786. [Find the Longest Semi-Repetitive Substring](./2786-find-the-longest-semi-repetitive-substring)**
+- **2793. [Count the Number of Complete Components](./2793-count-the-number-of-complete-components)**
 - **287. [Find the Duplicate Number](./287-find-the-duplicate-number)**
 - **2871. [Double a Number Represented as a Linked List](./2871-double-a-number-represented-as-a-linked-list)**
 - **299. [Bulls and Cows](./299-bulls-and-cows)**
@@ -2774,7 +2775,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 59)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 60)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2880,6 +2881,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2375. [Minimum Obstacle Removal to Reach Corner](./2375-minimum-obstacle-removal-to-reach-corner)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **2793. [Count the Number of Complete Components](./2793-count-the-number-of-complete-components)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **322. [Coin Change](./322-coin-change)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3250,7 +3254,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 64)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 65)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3350,6 +3354,9 @@ Welcome to my LeetCode solutions repository!
 
 - **257. [Binary Tree Paths](./257-binary-tree-paths)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2793. [Count the Number of Complete Components](./2793-count-the-number-of-complete-components)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **365. [Water and Jug Problem](./365-water-and-jug-problem)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3999,7 +4006,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="graph-theory"><strong>Graph Theory</strong> (Total: 14)</summary>
+<summary id="graph-theory"><strong>Graph Theory</strong> (Total: 15)</summary>
 
 - **1442. [Number of Operations to Make Network Connected](./1442-number-of-operations-to-make-network-connected)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4027,6 +4034,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2375. [Minimum Obstacle Removal to Reach Corner](./2375-minimum-obstacle-removal-to-reach-corner)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **2793. [Count the Number of Complete Components](./2793-count-the-number-of-complete-components)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3558. [Find a Safe Walk Through a Grid](./3558-find-a-safe-walk-through-a-grid)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -7790,7 +7800,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="union-find"><strong>Union-Find</strong> (Total: 15)</summary>
+<summary id="union-find"><strong>Union-Find</strong> (Total: 16)</summary>
 
 - **1073. [Number of Enclaves](./1073-number-of-enclaves)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -7824,6 +7834,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2793. [Count the Number of Complete Components](./2793-count-the-number-of-complete-components)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **547. [Number of Provinces](./547-number-of-provinces)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
