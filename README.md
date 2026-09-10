@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 672
+**Total Questions:** 673
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 299 |
-| <span style='color:orange'>Medium</span> | 320 |
+| <span style='color:orange'>Medium</span> | 321 |
 | <span style='color:red'>Hard</span> | 53 |
 
 ### Topics Overview
@@ -90,7 +90,7 @@ Welcome to my LeetCode solutions repository!
 | [Longest Increasing Subsequence](#longest-increasing-subsequence) | 3 |
 | [Lowest Common Ancestor](#lowest-common-ancestor) | 4 |
 | [Manacher](#manacher) | 1 |
-| [Math](#math) | 114 |
+| [Math](#math) | 115 |
 | [Matrix](#matrix) | 54 |
 | [Meet in the Middle](#meet-in-the-middle) | 3 |
 | [Memoization](#memoization) | 5 |
@@ -448,7 +448,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 320)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 321)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -660,6 +660,7 @@ Welcome to my LeetCode solutions repository!
 - **402. [Remove K Digits](./402-remove-k-digits)**
 - **416. [Partition Equal Subset Sum](./416-partition-equal-subset-sum)**
 - **424. [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)**
+- **4248. [Count Commas in Range II](./4248-count-commas-in-range-ii)**
 - **4285. [Smallest Stable Index II](./4285-smallest-stable-index-ii)**
 - **43. [Multiply Strings](./43-multiply-strings)**
 - **436. [Find Right Interval](./436-find-right-interval)**
@@ -4962,7 +4963,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 114)</summary>
+<summary id="math"><strong>Math</strong> (Total: 115)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5200,6 +5201,9 @@ Welcome to my LeetCode solutions repository!
 
 - **415. [Add Strings](./415-add-strings)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **4248. [Count Commas in Range II](./4248-count-commas-in-range-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **43. [Multiply Strings](./43-multiply-strings)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
