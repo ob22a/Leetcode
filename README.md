@@ -134,7 +134,7 @@ Welcome to my LeetCode solutions repository!
 | [Tournament Sort](#tournament-sort) | 1 |
 | [Tree](#tree) | 46 |
 | [Trie](#trie) | 6 |
-| [Two Pointers](#two-pointers) | 84 |
+| [Two Pointers](#two-pointers) | 85 |
 | [Union-Find](#union-find) | 16 |
 | [Z Algorithm](#z-algorithm) | 4 |
 | [Zero-Sum Game](#zero-sum-game) | 2 |
@@ -7547,7 +7547,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 84)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 85)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -7686,6 +7686,9 @@ Welcome to my LeetCode solutions repository!
 
 - **31. [Next Permutation](./31-next-permutation)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3347. [Distribute Elements Into Two Arrays I](./3347-distribute-elements-into-two-arrays-i)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **344. [Reverse String](./344-reverse-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
