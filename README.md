@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 673
+**Total Questions:** 674
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 299 |
-| <span style='color:orange'>Medium</span> | 321 |
+| <span style='color:orange'>Medium</span> | 322 |
 | <span style='color:red'>Hard</span> | 53 |
 
 ### Topics Overview
@@ -26,7 +26,7 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 378 |
+| [Array](#array) | 379 |
 | [Backtracking](#backtracking) | 32 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
@@ -42,7 +42,7 @@ Welcome to my LeetCode solutions repository!
 | [Boyer–Moore String-Search Algorithm](#boyer–moore-string-search-algorithm) | 3 |
 | [Bracket Sequences](#bracket-sequences) | 4 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 60 |
+| [Breadth-First Search](#breadth-first-search) | 61 |
 | [Bubble Sort](#bubble-sort) | 2 |
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Bézout's Lemma](#bézout's-lemma) | 1 |
@@ -55,7 +55,7 @@ Welcome to my LeetCode solutions repository!
 | [Dancing Links](#dancing-links) | 1 |
 | [Data Stream](#data-stream) | 6 |
 | [Database](#database) | 16 |
-| [Depth-First Search](#depth-first-search) | 65 |
+| [Depth-First Search](#depth-first-search) | 66 |
 | [Design](#design) | 25 |
 | [Dijkstra's Algorithm](#dijkstra's-algorithm) | 4 |
 | [Directed Acyclic Graph](#directed-acyclic-graph) | 2 |
@@ -91,7 +91,7 @@ Welcome to my LeetCode solutions repository!
 | [Lowest Common Ancestor](#lowest-common-ancestor) | 4 |
 | [Manacher](#manacher) | 1 |
 | [Math](#math) | 115 |
-| [Matrix](#matrix) | 54 |
+| [Matrix](#matrix) | 55 |
 | [Meet in the Middle](#meet-in-the-middle) | 3 |
 | [Memoization](#memoization) | 5 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -135,7 +135,7 @@ Welcome to my LeetCode solutions repository!
 | [Tree](#tree) | 46 |
 | [Trie](#trie) | 6 |
 | [Two Pointers](#two-pointers) | 85 |
-| [Union-Find](#union-find) | 16 |
+| [Union-Find](#union-find) | 17 |
 | [Z Algorithm](#z-algorithm) | 4 |
 | [Zero-Sum Game](#zero-sum-game) | 2 |
 
@@ -448,7 +448,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 321)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 322)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -510,6 +510,7 @@ Welcome to my LeetCode solutions repository!
 - **1497. [Design a Stack With Increment Operation](./1497-design-a-stack-with-increment-operation)**
 - **15. [3Sum](./15-3sum)**
 - **150. [Evaluate Reverse Polish Notation](./150-evaluate-reverse-polish-notation)**
+- **1507. [Check if There is a Valid Path in a Grid](./1507-check-if-there-is-a-valid-path-in-a-grid)**
 - **153. [Find Minimum in Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array)**
 - **1538. [Maximum Points You Can Obtain from Cards](./1538-maximum-points-you-can-obtain-from-cards)**
 - **1549. [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)**
@@ -875,7 +876,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 378)</summary>
+<summary id="array"><strong>Array</strong> (Total: 379)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1079,6 +1080,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **150. [Evaluate Reverse Polish Notation](./150-evaluate-reverse-polish-notation)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1507. [Check if There is a Valid Path in a Grid](./1507-check-if-there-is-a-valid-path-in-a-grid)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1510. [Find Lucky Integer in an Array](./1510-find-lucky-integer-in-an-array)**  
@@ -2776,7 +2780,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 60)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 61)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2845,6 +2849,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1442. [Number of Operations to Make Network Connected](./1442-number-of-operations-to-make-network-connected)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1507. [Check if There is a Valid Path in a Grid](./1507-check-if-there-is-a-valid-path-in-a-grid)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1663. [Detect Cycles in 2D Grid](./1663-detect-cycles-in-2d-grid)**  
@@ -3255,7 +3262,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 65)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 66)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3313,6 +3320,9 @@ Welcome to my LeetCode solutions repository!
 
 - **145. [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1507. [Check if There is a Valid Path in a Grid](./1507-check-if-there-is-a-valid-path-in-a-grid)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1663. [Detect Cycles in 2D Grid](./1663-detect-cycles-in-2d-grid)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5313,7 +5323,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 54)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 55)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5344,6 +5354,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1414. [Shortest Path in a Grid with Obstacles Elimination](./1414-shortest-path-in-a-grid-with-obstacles-elimination)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **1507. [Check if There is a Valid Path in a Grid](./1507-check-if-there-is-a-valid-path-in-a-grid)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1559. [Cherry Pickup II](./1559-cherry-pickup-ii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -7807,7 +7820,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="union-find"><strong>Union-Find</strong> (Total: 16)</summary>
+<summary id="union-find"><strong>Union-Find</strong> (Total: 17)</summary>
 
 - **1073. [Number of Enclaves](./1073-number-of-enclaves)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -7822,6 +7835,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1442. [Number of Operations to Make Network Connected](./1442-number-of-operations-to-make-network-connected)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1507. [Check if There is a Valid Path in a Grid](./1507-check-if-there-is-a-valid-path-in-a-grid)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1663. [Detect Cycles in 2D Grid](./1663-detect-cycles-in-2d-grid)**  
