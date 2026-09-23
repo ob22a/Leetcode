@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 674
+**Total Questions:** 675
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 299 |
-| <span style='color:orange'>Medium</span> | 322 |
+| <span style='color:orange'>Medium</span> | 323 |
 | <span style='color:red'>Hard</span> | 53 |
 
 ### Topics Overview
@@ -26,7 +26,7 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 379 |
+| [Array](#array) | 380 |
 | [Backtracking](#backtracking) | 32 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
@@ -42,20 +42,20 @@ Welcome to my LeetCode solutions repository!
 | [Boyer–Moore String-Search Algorithm](#boyer–moore-string-search-algorithm) | 3 |
 | [Bracket Sequences](#bracket-sequences) | 4 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 61 |
+| [Breadth-First Search](#breadth-first-search) | 62 |
 | [Bubble Sort](#bubble-sort) | 2 |
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Bézout's Lemma](#bézout's-lemma) | 1 |
 | [Cartesian Tree](#cartesian-tree) | 3 |
 | [Combinatorics](#combinatorics) | 2 |
 | [Complete Knapsack](#complete-knapsack) | 2 |
-| [Counting](#counting) | 32 |
+| [Counting](#counting) | 33 |
 | [Counting Sort](#counting-sort) | 5 |
 | [DP on Trees](#dp-on-trees) | 4 |
 | [Dancing Links](#dancing-links) | 1 |
 | [Data Stream](#data-stream) | 6 |
 | [Database](#database) | 16 |
-| [Depth-First Search](#depth-first-search) | 66 |
+| [Depth-First Search](#depth-first-search) | 67 |
 | [Design](#design) | 25 |
 | [Dijkstra's Algorithm](#dijkstra's-algorithm) | 4 |
 | [Directed Acyclic Graph](#directed-acyclic-graph) | 2 |
@@ -91,7 +91,7 @@ Welcome to my LeetCode solutions repository!
 | [Lowest Common Ancestor](#lowest-common-ancestor) | 4 |
 | [Manacher](#manacher) | 1 |
 | [Math](#math) | 115 |
-| [Matrix](#matrix) | 55 |
+| [Matrix](#matrix) | 56 |
 | [Meet in the Middle](#meet-in-the-middle) | 3 |
 | [Memoization](#memoization) | 5 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -135,7 +135,7 @@ Welcome to my LeetCode solutions repository!
 | [Tree](#tree) | 46 |
 | [Trie](#trie) | 6 |
 | [Two Pointers](#two-pointers) | 85 |
-| [Union-Find](#union-find) | 17 |
+| [Union-Find](#union-find) | 18 |
 | [Z Algorithm](#z-algorithm) | 4 |
 | [Zero-Sum Game](#zero-sum-game) | 2 |
 
@@ -448,7 +448,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 322)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 323)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -496,6 +496,7 @@ Welcome to my LeetCode solutions repository!
 - **1370. [Count Number of Nice Subarrays](./1370-count-number-of-nice-subarrays)**
 - **138. [Copy List with Random Pointer](./138-copy-list-with-random-pointer)**
 - **1380. [Number of Closed Islands](./1380-number-of-closed-islands)**
+- **1396. [Count Servers that Communicate](./1396-count-servers-that-communicate)**
 - **1402. [Count Square Submatrices with All Ones](./1402-count-square-submatrices-with-all-ones)**
 - **1408. [Find the Smallest Divisor Given a Threshold](./1408-find-the-smallest-divisor-given-a-threshold)**
 - **1418. [Fair Distribution of Cookies](./1418-fair-distribution-of-cookies)**
@@ -876,7 +877,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 379)</summary>
+<summary id="array"><strong>Array</strong> (Total: 380)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1045,6 +1046,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1392. [Find the Difference of Two Arrays](./1392-find-the-difference-of-two-arrays)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1396. [Count Servers that Communicate](./1396-count-servers-that-communicate)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **14. [Longest Common Prefix](./14-longest-common-prefix)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2780,7 +2784,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 61)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 62)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2840,6 +2844,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1380. [Number of Closed Islands](./1380-number-of-closed-islands)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1396. [Count Servers that Communicate](./1396-count-servers-that-communicate)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1414. [Shortest Path in a Grid with Obstacles Elimination](./1414-shortest-path-in-a-grid-with-obstacles-elimination)**  
@@ -3040,7 +3047,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="counting"><strong>Counting</strong> (Total: 32)</summary>
+<summary id="counting"><strong>Counting</strong> (Total: 33)</summary>
 
 - **1034. [Subarrays with K Different Integers](./1034-subarrays-with-k-different-integers)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3049,6 +3056,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1354. [Find Players With Zero or One Losses](./1354-find-players-with-zero-or-one-losses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1396. [Count Servers that Communicate](./1396-count-servers-that-communicate)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1500. [Count Largest Group](./1500-count-largest-group)**  
@@ -3262,7 +3272,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 66)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 67)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3307,6 +3317,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1380. [Number of Closed Islands](./1380-number-of-closed-islands)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1396. [Count Servers that Communicate](./1396-count-servers-that-communicate)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1428. [Jump Game III](./1428-jump-game-iii)**  
@@ -5323,7 +5336,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 55)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 56)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5347,6 +5360,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1380. [Number of Closed Islands](./1380-number-of-closed-islands)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1396. [Count Servers that Communicate](./1396-count-servers-that-communicate)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1402. [Count Square Submatrices with All Ones](./1402-count-square-submatrices-with-all-ones)**  
@@ -7820,7 +7836,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="union-find"><strong>Union-Find</strong> (Total: 17)</summary>
+<summary id="union-find"><strong>Union-Find</strong> (Total: 18)</summary>
 
 - **1073. [Number of Enclaves](./1073-number-of-enclaves)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -7832,6 +7848,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1380. [Number of Closed Islands](./1380-number-of-closed-islands)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1396. [Count Servers that Communicate](./1396-count-servers-that-communicate)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1442. [Number of Operations to Make Network Connected](./1442-number-of-operations-to-make-network-connected)**  
