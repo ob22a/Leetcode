@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 675
+**Total Questions:** 676
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 299 |
-| <span style='color:orange'>Medium</span> | 323 |
+| <span style='color:orange'>Medium</span> | 324 |
 | <span style='color:red'>Hard</span> | 53 |
 
 ### Topics Overview
@@ -76,7 +76,7 @@ Welcome to my LeetCode solutions repository!
 | [Greedy](#greedy) | 44 |
 | [Hamiltonian Path](#hamiltonian-path) | 1 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 134 |
+| [Hash Table](#hash-table) | 135 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 24 |
 | [Heuristic Search](#heuristic-search) | 1 |
 | [Impartial Game](#impartial-game) | 2 |
@@ -90,7 +90,7 @@ Welcome to my LeetCode solutions repository!
 | [Longest Increasing Subsequence](#longest-increasing-subsequence) | 3 |
 | [Lowest Common Ancestor](#lowest-common-ancestor) | 4 |
 | [Manacher](#manacher) | 1 |
-| [Math](#math) | 115 |
+| [Math](#math) | 116 |
 | [Matrix](#matrix) | 56 |
 | [Meet in the Middle](#meet-in-the-middle) | 3 |
 | [Memoization](#memoization) | 5 |
@@ -101,7 +101,7 @@ Welcome to my LeetCode solutions repository!
 | [Monotonic Stack](#monotonic-stack) | 17 |
 | [Newton's Method](#newton's-method) | 1 |
 | [Nim Game](#nim-game) | 1 |
-| [Number Theory](#number-theory) | 9 |
+| [Number Theory](#number-theory) | 10 |
 | [Ordered Set](#ordered-set) | 6 |
 | [Pigeonhole Principle](#pigeonhole-principle) | 3 |
 | [Polygons](#polygons) | 2 |
@@ -123,9 +123,9 @@ Welcome to my LeetCode solutions repository!
 | [Sieve Theory](#sieve-theory) | 3 |
 | [Simulation](#simulation) | 50 |
 | [Sliding Window](#sliding-window) | 49 |
-| [Sorting](#sorting) | 90 |
+| [Sorting](#sorting) | 91 |
 | [Stack](#stack) | 47 |
-| [String](#string) | 146 |
+| [String](#string) | 147 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tarjan's SCC Algorithm](#tarjan's-scc-algorithm) | 1 |
@@ -448,7 +448,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 323)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 324)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -652,6 +652,7 @@ Welcome to my LeetCode solutions repository!
 - **372. [Super Pow](./372-super-pow)**
 - **378. [Kth Smallest Element in a Sorted Matrix](./378-kth-smallest-element-in-a-sorted-matrix)**
 - **38. [Count and Say](./38-count-and-say)**
+- **3815. [Sum of Largest Prime Substrings](./3815-sum-of-largest-prime-substrings)**
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**
 - **386. [Lexicographical Numbers](./386-lexicographical-numbers)**
 - **39. [Combination Sum](./39-combination-sum)**
@@ -4262,7 +4263,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 134)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 135)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4533,6 +4534,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3753. [Maximum Difference Between Even and Odd Frequency I](./3753-maximum-difference-between-even-and-odd-frequency-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3815. [Sum of Largest Prime Substrings](./3815-sum-of-largest-prime-substrings)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **383. [Ransom Note](./383-ransom-note)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4986,7 +4990,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 115)</summary>
+<summary id="math"><strong>Math</strong> (Total: 116)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5208,6 +5212,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **372. [Super Pow](./372-super-pow)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3815. [Sum of Largest Prime Substrings](./3815-sum-of-largest-prime-substrings)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **400. [Nth Digit](./400-nth-digit)**  
@@ -5665,7 +5672,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="number-theory"><strong>Number Theory</strong> (Total: 9)</summary>
+<summary id="number-theory"><strong>Number Theory</strong> (Total: 10)</summary>
 
 - **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5689,6 +5696,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3815. [Sum of Largest Prime Substrings](./3815-sum-of-largest-prime-substrings)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **950. [X of a Kind in a Deck of Cards](./950-x-of-a-kind-in-a-deck-of-cards)**  
@@ -6471,7 +6481,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 90)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 91)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6660,6 +6670,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **378. [Kth Smallest Element in a Sorted Matrix](./378-kth-smallest-element-in-a-sorted-matrix)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3815. [Sum of Largest Prime Substrings](./3815-sum-of-largest-prime-substrings)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3871. [Minimum Deletions for At Most K Distinct Characters](./3871-minimum-deletions-for-at-most-k-distinct-characters)**  
@@ -6892,7 +6905,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 146)</summary>
+<summary id="string"><strong>String</strong> (Total: 147)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -7157,6 +7170,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3811. [Reverse Degree of a String](./3811-reverse-degree-of-a-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3815. [Sum of Largest Prime Substrings](./3815-sum-of-largest-prime-substrings)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **383. [Ransom Note](./383-ransom-note)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
