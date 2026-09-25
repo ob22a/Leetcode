@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 676
+**Total Questions:** 678
 
 ### Difficulty Distribution
 
@@ -14,8 +14,8 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 299 |
-| <span style='color:orange'>Medium</span> | 324 |
+| <span style='color:green'>Easy</span> | 300 |
+| <span style='color:orange'>Medium</span> | 325 |
 | <span style='color:red'>Hard</span> | 53 |
 
 ### Topics Overview
@@ -26,7 +26,7 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 380 |
+| [Array](#array) | 381 |
 | [Backtracking](#backtracking) | 32 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
@@ -34,7 +34,7 @@ Welcome to my LeetCode solutions repository!
 | [Binary Lifting](#binary-lifting) | 4 |
 | [Binary Search](#binary-search) | 68 |
 | [Binary Search Tree](#binary-search-tree) | 13 |
-| [Binary Tree](#binary-tree) | 43 |
+| [Binary Tree](#binary-tree) | 44 |
 | [Bit Manipulation](#bit-manipulation) | 44 |
 | [Bitmask](#bitmask) | 5 |
 | [Borůvka's Algorithm](#borůvka's-algorithm) | 1 |
@@ -42,7 +42,7 @@ Welcome to my LeetCode solutions repository!
 | [Boyer–Moore String-Search Algorithm](#boyer–moore-string-search-algorithm) | 3 |
 | [Bracket Sequences](#bracket-sequences) | 4 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 62 |
+| [Breadth-First Search](#breadth-first-search) | 63 |
 | [Bubble Sort](#bubble-sort) | 2 |
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Bézout's Lemma](#bézout's-lemma) | 1 |
@@ -55,7 +55,7 @@ Welcome to my LeetCode solutions repository!
 | [Dancing Links](#dancing-links) | 1 |
 | [Data Stream](#data-stream) | 6 |
 | [Database](#database) | 16 |
-| [Depth-First Search](#depth-first-search) | 67 |
+| [Depth-First Search](#depth-first-search) | 68 |
 | [Design](#design) | 25 |
 | [Dijkstra's Algorithm](#dijkstra's-algorithm) | 4 |
 | [Directed Acyclic Graph](#directed-acyclic-graph) | 2 |
@@ -71,7 +71,7 @@ Welcome to my LeetCode solutions repository!
 | [Floyd–Warshall Algorithm](#floyd–warshall-algorithm) | 1 |
 | [Game Theory](#game-theory) | 6 |
 | [Geometry](#geometry) | 2 |
-| [Graph Theory](#graph-theory) | 15 |
+| [Graph Theory](#graph-theory) | 16 |
 | [Greatest Common Divisor](#greatest-common-divisor) | 4 |
 | [Greedy](#greedy) | 44 |
 | [Hamiltonian Path](#hamiltonian-path) | 1 |
@@ -90,7 +90,7 @@ Welcome to my LeetCode solutions repository!
 | [Longest Increasing Subsequence](#longest-increasing-subsequence) | 3 |
 | [Lowest Common Ancestor](#lowest-common-ancestor) | 4 |
 | [Manacher](#manacher) | 1 |
-| [Math](#math) | 116 |
+| [Math](#math) | 117 |
 | [Matrix](#matrix) | 56 |
 | [Meet in the Middle](#meet-in-the-middle) | 3 |
 | [Memoization](#memoization) | 5 |
@@ -132,10 +132,10 @@ Welcome to my LeetCode solutions repository!
 | [Timsort](#timsort) | 1 |
 | [Topological Sort](#topological-sort) | 4 |
 | [Tournament Sort](#tournament-sort) | 1 |
-| [Tree](#tree) | 46 |
+| [Tree](#tree) | 47 |
 | [Trie](#trie) | 6 |
 | [Two Pointers](#two-pointers) | 85 |
-| [Union-Find](#union-find) | 18 |
+| [Union-Find](#union-find) | 19 |
 | [Z Algorithm](#z-algorithm) | 4 |
 | [Zero-Sum Game](#zero-sum-game) | 2 |
 
@@ -144,7 +144,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 299)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 300)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -346,6 +346,7 @@ Welcome to my LeetCode solutions repository!
 - **3778. [Transform Array by Parity](./3778-transform-array-by-parity)**
 - **3811. [Reverse Degree of a String](./3811-reverse-degree-of-a-string)**
 - **383. [Ransom Note](./383-ransom-note)**
+- **3869. [Smallest Index With Digit Sum Equal to Index](./3869-smallest-index-with-digit-sum-equal-to-index)**
 - **387. [First Unique Character in a String](./387-first-unique-character-in-a-string)**
 - **3871. [Minimum Deletions for At Most K Distinct Characters](./3871-minimum-deletions-for-at-most-k-distinct-characters)**
 - **3872. [Find Most Frequent Vowel and Consonant](./3872-find-most-frequent-vowel-and-consonant)**
@@ -448,7 +449,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 324)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 325)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -481,6 +482,7 @@ Welcome to my LeetCode solutions repository!
 - **1250. [Longest Common Subsequence](./1250-longest-common-subsequence)**
 - **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**
 - **1272. [Invalid Transactions](./1272-invalid-transactions)**
+- **1275. [Validate Binary Tree Nodes](./1275-validate-binary-tree-nodes)**
 - **128. [Longest Consecutive Sequence](./128-longest-consecutive-sequence)**
 - **1284. [Four Divisors](./1284-four-divisors)**
 - **130. [Surrounded Regions](./130-surrounded-regions)**
@@ -878,7 +880,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 380)</summary>
+<summary id="array"><strong>Array</strong> (Total: 381)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1657,6 +1659,9 @@ Welcome to my LeetCode solutions repository!
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **3869. [Smallest Index With Digit Sum Equal to Index](./3869-smallest-index-with-digit-sum-equal-to-index)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **39. [Combination Sum](./39-combination-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
@@ -2430,7 +2435,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-tree"><strong>Binary Tree</strong> (Total: 43)</summary>
+<summary id="binary-tree"><strong>Binary Tree</strong> (Total: 44)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2472,6 +2477,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1275. [Validate Binary Tree Nodes](./1275-validate-binary-tree-nodes)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **144. [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal)**  
@@ -2785,7 +2793,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 62)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 63)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2840,6 +2848,9 @@ Welcome to my LeetCode solutions repository!
 
 - **127. [Word Ladder](./127-word-ladder)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **1275. [Validate Binary Tree Nodes](./1275-validate-binary-tree-nodes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **130. [Surrounded Regions](./130-surrounded-regions)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3273,7 +3284,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 67)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 68)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3312,6 +3323,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1275. [Validate Binary Tree Nodes](./1275-validate-binary-tree-nodes)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **130. [Surrounded Regions](./130-surrounded-regions)**  
@@ -4031,7 +4045,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="graph-theory"><strong>Graph Theory</strong> (Total: 15)</summary>
+<summary id="graph-theory"><strong>Graph Theory</strong> (Total: 16)</summary>
+
+- **1275. [Validate Binary Tree Nodes](./1275-validate-binary-tree-nodes)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1442. [Number of Operations to Make Network Connected](./1442-number-of-operations-to-make-network-connected)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4990,7 +5007,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 116)</summary>
+<summary id="math"><strong>Math</strong> (Total: 117)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5216,6 +5233,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3815. [Sum of Largest Prime Substrings](./3815-sum-of-largest-prime-substrings)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3869. [Smallest Index With Digit Sum Equal to Index](./3869-smallest-index-with-digit-sum-equal-to-index)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **400. [Nth Digit](./400-nth-digit)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -7426,7 +7446,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="tree"><strong>Tree</strong> (Total: 46)</summary>
+<summary id="tree"><strong>Tree</strong> (Total: 47)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -7468,6 +7488,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1254. [Deepest Leaves Sum](./1254-deepest-leaves-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1275. [Validate Binary Tree Nodes](./1275-validate-binary-tree-nodes)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **144. [Binary Tree Preorder Traversal](./144-binary-tree-preorder-traversal)**  
@@ -7852,9 +7875,12 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="union-find"><strong>Union-Find</strong> (Total: 18)</summary>
+<summary id="union-find"><strong>Union-Find</strong> (Total: 19)</summary>
 
 - **1073. [Number of Enclaves](./1073-number-of-enclaves)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1275. [Validate Binary Tree Nodes](./1275-validate-binary-tree-nodes)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **128. [Longest Consecutive Sequence](./128-longest-consecutive-sequence)**  
