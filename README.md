@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 678
+**Total Questions:** 679
 
 ### Difficulty Distribution
 
@@ -16,7 +16,7 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 300 |
 | <span style='color:orange'>Medium</span> | 325 |
-| <span style='color:red'>Hard</span> | 53 |
+| <span style='color:red'>Hard</span> | 54 |
 
 ### Topics Overview
 
@@ -27,7 +27,7 @@ Welcome to my LeetCode solutions repository!
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
 | [Array](#array) | 381 |
-| [Backtracking](#backtracking) | 32 |
+| [Backtracking](#backtracking) | 33 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
@@ -42,7 +42,7 @@ Welcome to my LeetCode solutions repository!
 | [Boyer–Moore String-Search Algorithm](#boyer–moore-string-search-algorithm) | 3 |
 | [Bracket Sequences](#bracket-sequences) | 4 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 63 |
+| [Breadth-First Search](#breadth-first-search) | 64 |
 | [Bubble Sort](#bubble-sort) | 2 |
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Bézout's Lemma](#bézout's-lemma) | 1 |
@@ -76,7 +76,7 @@ Welcome to my LeetCode solutions repository!
 | [Greedy](#greedy) | 44 |
 | [Hamiltonian Path](#hamiltonian-path) | 1 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 135 |
+| [Hash Table](#hash-table) | 136 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 24 |
 | [Heuristic Search](#heuristic-search) | 1 |
 | [Impartial Game](#impartial-game) | 2 |
@@ -123,9 +123,9 @@ Welcome to my LeetCode solutions repository!
 | [Sieve Theory](#sieve-theory) | 3 |
 | [Simulation](#simulation) | 50 |
 | [Sliding Window](#sliding-window) | 49 |
-| [Sorting](#sorting) | 91 |
-| [Stack](#stack) | 47 |
-| [String](#string) | 147 |
+| [Sorting](#sorting) | 92 |
+| [Stack](#stack) | 48 |
+| [String](#string) | 148 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tarjan's SCC Algorithm](#tarjan's-scc-algorithm) | 1 |
@@ -779,7 +779,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 53)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 54)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -788,6 +788,7 @@ Welcome to my LeetCode solutions repository!
 - **1106. [Escape a Large Maze](./1106-escape-a-large-maze)**
 - **115. [Distinct Subsequences](./115-distinct-subsequences)**
 - **1170. [Shortest Common Supersequence ](./1170-shortest-common-supersequence)**
+- **1188. [Brace Expansion II](./1188-brace-expansion-ii)**
 - **1197. [Parsing A Boolean Expression](./1197-parsing-a-boolean-expression)**
 - **123. [Best Time to Buy and Sell Stock III](./123-best-time-to-buy-and-sell-stock-iii)**
 - **126. [Word Ladder II](./126-word-ladder-ii)**
@@ -2028,9 +2029,12 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="backtracking"><strong>Backtracking</strong> (Total: 32)</summary>
+<summary id="backtracking"><strong>Backtracking</strong> (Total: 33)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **1188. [Brace Expansion II](./1188-brace-expansion-ii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **126. [Word Ladder II](./126-word-ladder-ii)**  
@@ -2793,7 +2797,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 63)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 64)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2836,6 +2840,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1171. [Shortest Path in Binary Matrix](./1171-shortest-path-in-binary-matrix)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1188. [Brace Expansion II](./1188-brace-expansion-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1218. [Lowest Common Ancestor of Deepest Leaves](./1218-lowest-common-ancestor-of-deepest-leaves)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4280,7 +4287,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 135)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 136)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4305,6 +4312,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1129. [Longest String Chain](./1129-longest-string-chain)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1188. [Brace Expansion II](./1188-brace-expansion-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **12. [Integer to Roman](./12-integer-to-roman)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -6501,7 +6511,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 91)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 92)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6517,6 +6527,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1129. [Longest String Chain](./1129-longest-string-chain)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1188. [Brace Expansion II](./1188-brace-expansion-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1210. [Mean of Array After Removing Some Elements](./1210-mean-of-array-after-removing-some-elements)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6779,7 +6792,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="stack"><strong>Stack</strong> (Total: 47)</summary>
+<summary id="stack"><strong>Stack</strong> (Total: 48)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -6792,6 +6805,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1159. [Smallest Subsequence of Distinct Characters](./1159-smallest-subsequence-of-distinct-characters)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1188. [Brace Expansion II](./1188-brace-expansion-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1197. [Parsing A Boolean Expression](./1197-parsing-a-boolean-expression)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -6925,7 +6941,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 147)</summary>
+<summary id="string"><strong>String</strong> (Total: 148)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -6949,6 +6965,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1170. [Shortest Common Supersequence ](./1170-shortest-common-supersequence)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **1188. [Brace Expansion II](./1188-brace-expansion-ii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1197. [Parsing A Boolean Expression](./1197-parsing-a-boolean-expression)**  
