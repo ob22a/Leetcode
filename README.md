@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 679
+**Total Questions:** 681
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 300 |
-| <span style='color:orange'>Medium</span> | 325 |
+| <span style='color:orange'>Medium</span> | 327 |
 | <span style='color:red'>Hard</span> | 54 |
 
 ### Topics Overview
@@ -26,7 +26,7 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 381 |
+| [Array](#array) | 382 |
 | [Backtracking](#backtracking) | 33 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
@@ -40,7 +40,7 @@ Welcome to my LeetCode solutions repository!
 | [Borůvka's Algorithm](#borůvka's-algorithm) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](#boyer–moore-majority-vote-algorithm) | 2 |
 | [Boyer–Moore String-Search Algorithm](#boyer–moore-string-search-algorithm) | 3 |
-| [Bracket Sequences](#bracket-sequences) | 4 |
+| [Bracket Sequences](#bracket-sequences) | 5 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 64 |
 | [Bubble Sort](#bubble-sort) | 2 |
@@ -76,7 +76,7 @@ Welcome to my LeetCode solutions repository!
 | [Greedy](#greedy) | 44 |
 | [Hamiltonian Path](#hamiltonian-path) | 1 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 136 |
+| [Hash Table](#hash-table) | 137 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 24 |
 | [Heuristic Search](#heuristic-search) | 1 |
 | [Impartial Game](#impartial-game) | 2 |
@@ -124,8 +124,8 @@ Welcome to my LeetCode solutions repository!
 | [Simulation](#simulation) | 50 |
 | [Sliding Window](#sliding-window) | 49 |
 | [Sorting](#sorting) | 92 |
-| [Stack](#stack) | 48 |
-| [String](#string) | 148 |
+| [Stack](#stack) | 49 |
+| [String](#string) | 150 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tarjan's SCC Algorithm](#tarjan's-scc-algorithm) | 1 |
@@ -449,7 +449,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 325)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 327)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -485,6 +485,7 @@ Welcome to my LeetCode solutions repository!
 - **1275. [Validate Binary Tree Nodes](./1275-validate-binary-tree-nodes)**
 - **128. [Longest Consecutive Sequence](./128-longest-consecutive-sequence)**
 - **1284. [Four Divisors](./1284-four-divisors)**
+- **1298. [Reverse Substrings Between Each Pair of Parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses)**
 - **130. [Surrounded Regions](./130-surrounded-regions)**
 - **1304. [Longest Happy String](./1304-longest-happy-string)**
 - **131. [Palindrome Partitioning](./131-palindrome-partitioning)**
@@ -546,6 +547,7 @@ Welcome to my LeetCode solutions repository!
 - **1876. [Map of Highest Peak](./1876-map-of-highest-peak)**
 - **189. [Rotate Array](./189-rotate-array)**
 - **19. [Remove Nth Node From End of List](./19-remove-nth-node-from-end-of-list)**
+- **1934. [Evaluate the Bracket Pairs of a String](./1934-evaluate-the-bracket-pairs-of-a-string)**
 - **1951. [Find the Winner of the Circular Game](./1951-find-the-winner-of-the-circular-game)**
 - **1956. [Maximum Element After Decreasing and Rearranging](./1956-maximum-element-after-decreasing-and-rearranging)**
 - **1976. [Splitting a String Into Descending Consecutive Values](./1976-splitting-a-string-into-descending-consecutive-values)**
@@ -881,7 +883,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 381)</summary>
+<summary id="array"><strong>Array</strong> (Total: 382)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1239,6 +1241,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1918. [Maximum Score of a Good Subarray](./1918-maximum-score-of-a-good-subarray)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **1934. [Evaluate the Bracket Pairs of a String](./1934-evaluate-the-bracket-pairs-of-a-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1951. [Find the Winner of the Circular Game](./1951-find-the-winner-of-the-circular-game)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2766,7 +2771,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bracket-sequences"><strong>Bracket Sequences</strong> (Total: 4)</summary>
+<summary id="bracket-sequences"><strong>Bracket Sequences</strong> (Total: 5)</summary>
+
+- **1298. [Reverse Substrings Between Each Pair of Parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **20. [Valid Parentheses](./20-valid-parentheses)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4287,7 +4295,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 136)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 137)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4411,6 +4419,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1915. [Check if One String Swap Can Make Strings Equal](./1915-check-if-one-string-swap-can-make-strings-equal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1934. [Evaluate the Bracket Pairs of a String](./1934-evaluate-the-bracket-pairs-of-a-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2005. [Check if All the Integers in a Range Are Covered](./2005-check-if-all-the-integers-in-a-range-are-covered)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6792,7 +6803,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="stack"><strong>Stack</strong> (Total: 48)</summary>
+<summary id="stack"><strong>Stack</strong> (Total: 49)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -6813,6 +6824,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1228. [Minimum Cost Tree From Leaf Values](./1228-minimum-cost-tree-from-leaf-values)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1298. [Reverse Substrings Between Each Pair of Parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1320. [Remove All Adjacent Duplicates in String II](./1320-remove-all-adjacent-duplicates-in-string-ii)**  
@@ -6941,7 +6955,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 148)</summary>
+<summary id="string"><strong>String</strong> (Total: 150)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -6989,6 +7003,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1272. [Invalid Transactions](./1272-invalid-transactions)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1298. [Reverse Substrings Between Each Pair of Parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **13. [Roman to Integer](./13-roman-to-integer)**  
@@ -7053,6 +7070,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1920. [Determine Color of a Chessboard Square](./1920-determine-color-of-a-chessboard-square)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1934. [Evaluate the Bracket Pairs of a String](./1934-evaluate-the-bracket-pairs-of-a-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1970. [Sorting the Sentence](./1970-sorting-the-sentence)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
