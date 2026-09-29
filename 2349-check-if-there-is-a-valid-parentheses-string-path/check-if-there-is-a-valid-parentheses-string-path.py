@@ -37,7 +37,7 @@ class Solution:
                 if i==m-1 and j==n-1:
                     continue 
 
-                for k in range(m-i+n-j-1):
+                for k in range(m-i+n-j-1,-1,-1):
                     if i<m-1:
                         change = 1 if grid[i+1][j]=="(" else -1
                         new_k = k+change
