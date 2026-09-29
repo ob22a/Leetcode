@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 681
+**Total Questions:** 682
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 300 |
+| <span style='color:green'>Easy</span> | 301 |
 | <span style='color:orange'>Medium</span> | 327 |
 | <span style='color:red'>Hard</span> | 54 |
 
@@ -40,7 +40,7 @@ Welcome to my LeetCode solutions repository!
 | [Borůvka's Algorithm](#borůvka's-algorithm) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](#boyer–moore-majority-vote-algorithm) | 2 |
 | [Boyer–Moore String-Search Algorithm](#boyer–moore-string-search-algorithm) | 3 |
-| [Bracket Sequences](#bracket-sequences) | 5 |
+| [Bracket Sequences](#bracket-sequences) | 6 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 64 |
 | [Bubble Sort](#bubble-sort) | 2 |
@@ -124,8 +124,8 @@ Welcome to my LeetCode solutions repository!
 | [Simulation](#simulation) | 50 |
 | [Sliding Window](#sliding-window) | 49 |
 | [Sorting](#sorting) | 92 |
-| [Stack](#stack) | 49 |
-| [String](#string) | 150 |
+| [Stack](#stack) | 50 |
+| [String](#string) | 151 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tarjan's SCC Algorithm](#tarjan's-scc-algorithm) | 1 |
@@ -144,7 +144,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 300)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 301)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -205,6 +205,7 @@ Welcome to my LeetCode solutions repository!
 - **1708. [Design Parking System](./1708-design-parking-system)**
 - **171. [Excel Sheet Column Number](./171-excel-sheet-column-number)**
 - **1720. [Crawler Log Folder](./1720-crawler-log-folder)**
+- **1737. [Maximum Nesting Depth of the Parentheses](./1737-maximum-nesting-depth-of-the-parentheses)**
 - **1741. [Sort Array by Increasing Frequency](./1741-sort-array-by-increasing-frequency)**
 - **1742. [Widest Vertical Area Between Two Points Containing No Points](./1742-widest-vertical-area-between-two-points-containing-no-points)**
 - **175. [Combine Two Tables](./175-combine-two-tables)**
@@ -2771,10 +2772,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bracket-sequences"><strong>Bracket Sequences</strong> (Total: 5)</summary>
+<summary id="bracket-sequences"><strong>Bracket Sequences</strong> (Total: 6)</summary>
 
 - **1298. [Reverse Substrings Between Each Pair of Parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1737. [Maximum Nesting Depth of the Parentheses](./1737-maximum-nesting-depth-of-the-parentheses)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **20. [Valid Parentheses](./20-valid-parentheses)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6803,7 +6807,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="stack"><strong>Stack</strong> (Total: 49)</summary>
+<summary id="stack"><strong>Stack</strong> (Total: 50)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -6854,6 +6858,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1720. [Crawler Log Folder](./1720-crawler-log-folder)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1737. [Maximum Nesting Depth of the Parentheses](./1737-maximum-nesting-depth-of-the-parentheses)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1918. [Maximum Score of a Good Subarray](./1918-maximum-score-of-a-good-subarray)**  
@@ -6955,7 +6962,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 150)</summary>
+<summary id="string"><strong>String</strong> (Total: 151)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -7051,6 +7058,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1720. [Crawler Log Folder](./1720-crawler-log-folder)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1737. [Maximum Nesting Depth of the Parentheses](./1737-maximum-nesting-depth-of-the-parentheses)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1781. [Check If Two String Arrays are Equivalent](./1781-check-if-two-string-arrays-are-equivalent)**  
