@@ -4,22 +4,24 @@ class Solution:
         # if we are at the end they should be equal
 
         m,n=len(grid),len(grid[0])
+        if (m+n-1)%2 == 1 or grid[0][0]==')' or grid[m-1][n-1]=='(':
+            return False
 
-        # def f(balance,i,j):
-        #     if balance<0:
+        # def f(k,i,j):
+        #     if k<0:
         #         return False
 
         #     if i==m-1 and j==n-1:
-        #         return balance==0
+        #         return k==0
 
         #     if i<m-1:
         #         change = 1 if grid[i+1][j]=="(" else -1
-        #         if f(balance+change,i+1,j):
+        #         if f(k+change,i+1,j):
         #             return True
 
         #     if j<n-1:
         #         change = 1 if grid[i][j+1]=="(" else -1
-        #         if (balance+change,i,j+1):
+        #         if (k+change,i,j+1):
         #             return True
             
         #     return False
@@ -35,22 +37,22 @@ class Solution:
                 if i==m-1 and j==n-1:
                     continue 
 
-                for balance in range(m+n):
+                for k in range(m-i+n-j-1):
                     if i<m-1:
                         change = 1 if grid[i+1][j]=="(" else -1
-                        new_balance = balance+change
+                        new_k = k+change
 
-                        if 0 <=new_balance<m+n:
-                            if dp[i+1][j][new_balance]:
-                                dp[i][j][balance] = True
+                        if 0 <=new_k<m+n:
+                            if dp[i+1][j][new_k]:
+                                dp[i][j][k] = True
 
                     if j<n-1:
                         change = 1 if grid[i][j+1]=="(" else -1
-                        new_balance = balance+change
+                        new_k = k+change
 
-                        if 0<=new_balance<m+n:
-                            if dp[i][j+1][new_balance]:
-                                dp[i][j][balance] = True
+                        if 0<=new_k<m+n:
+                            if dp[i][j+1][new_k]:
+                                dp[i][j][k] = True
         
-        start_balance = 1 if grid[0][0]=="(" else -1
-        return dp[0][0][start_balance]
+        start_k = 1 if grid[0][0]=="(" else -1
+        return dp[0][0][start_k]
