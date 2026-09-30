@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 682
+**Total Questions:** 683
 
 ### Difficulty Distribution
 
@@ -16,7 +16,7 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 301 |
 | <span style='color:orange'>Medium</span> | 327 |
-| <span style='color:red'>Hard</span> | 54 |
+| <span style='color:red'>Hard</span> | 55 |
 
 ### Topics Overview
 
@@ -26,7 +26,7 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 382 |
+| [Array](#array) | 383 |
 | [Backtracking](#backtracking) | 33 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
@@ -40,7 +40,7 @@ Welcome to my LeetCode solutions repository!
 | [Borůvka's Algorithm](#borůvka's-algorithm) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](#boyer–moore-majority-vote-algorithm) | 2 |
 | [Boyer–Moore String-Search Algorithm](#boyer–moore-string-search-algorithm) | 3 |
-| [Bracket Sequences](#bracket-sequences) | 6 |
+| [Bracket Sequences](#bracket-sequences) | 7 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 64 |
 | [Bubble Sort](#bubble-sort) | 2 |
@@ -61,7 +61,7 @@ Welcome to my LeetCode solutions repository!
 | [Directed Acyclic Graph](#directed-acyclic-graph) | 2 |
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
-| [Dynamic Programming](#dynamic-programming) | 78 |
+| [Dynamic Programming](#dynamic-programming) | 79 |
 | [Enumeration](#enumeration) | 10 |
 | [Euclidean Algorithm](#euclidean-algorithm) | 4 |
 | [Euler's Theorem](#euler's-theorem) | 1 |
@@ -91,7 +91,7 @@ Welcome to my LeetCode solutions repository!
 | [Lowest Common Ancestor](#lowest-common-ancestor) | 4 |
 | [Manacher](#manacher) | 1 |
 | [Math](#math) | 117 |
-| [Matrix](#matrix) | 56 |
+| [Matrix](#matrix) | 57 |
 | [Meet in the Middle](#meet-in-the-middle) | 3 |
 | [Memoization](#memoization) | 5 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -782,7 +782,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 54)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 55)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -811,6 +811,7 @@ Welcome to my LeetCode solutions repository!
 - **2162. [Partition Array Into Two Arrays to Minimize Sum Difference](./2162-partition-array-into-two-arrays-to-minimize-sum-difference)**
 - **224. [Basic Calculator](./224-basic-calculator)**
 - **23. [Merge k Sorted Lists](./23-merge-k-sorted-lists)**
+- **2349. [ Check if There Is a Valid Parentheses String Path](./2349-check-if-there-is-a-valid-parentheses-string-path)**
 - **2375. [Minimum Obstacle Removal to Reach Corner](./2375-minimum-obstacle-removal-to-reach-corner)**
 - **239. [Sliding Window Maximum](./239-sliding-window-maximum)**
 - **2394. [Count Subarrays With Score Less Than K](./2394-count-subarrays-with-score-less-than-k)**
@@ -884,7 +885,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 382)</summary>
+<summary id="array"><strong>Array</strong> (Total: 383)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1386,6 +1387,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2343. [Count Unguarded Cells in the Grid](./2343-count-unguarded-cells-in-the-grid)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2349. [ Check if There Is a Valid Parentheses String Path](./2349-check-if-there-is-a-valid-parentheses-string-path)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2350. [Find Closest Number to Zero](./2350-find-closest-number-to-zero)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2772,7 +2776,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bracket-sequences"><strong>Bracket Sequences</strong> (Total: 6)</summary>
+<summary id="bracket-sequences"><strong>Bracket Sequences</strong> (Total: 7)</summary>
 
 - **1298. [Reverse Substrings Between Each Pair of Parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2785,6 +2789,9 @@ Welcome to my LeetCode solutions repository!
 
 - **22. [Generate Parentheses](./22-generate-parentheses)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2349. [ Check if There Is a Valid Parentheses String Path](./2349-check-if-there-is-a-valid-parentheses-string-path)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **241. [Different Ways to Add Parentheses](./241-different-ways-to-add-parentheses)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3687,7 +3694,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 78)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 79)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3799,6 +3806,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2205. [Find Good Days to Rob the Bank](./2205-find-good-days-to-rob-the-bank)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2349. [ Check if There Is a Valid Parentheses String Path](./2349-check-if-there-is-a-valid-parentheses-string-path)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **241. [Different Ways to Add Parentheses](./241-different-ways-to-add-parentheses)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5388,7 +5398,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 56)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 57)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5458,6 +5468,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2343. [Count Unguarded Cells in the Grid](./2343-count-unguarded-cells-in-the-grid)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2349. [ Check if There Is a Valid Parentheses String Path](./2349-check-if-there-is-a-valid-parentheses-string-path)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2375. [Minimum Obstacle Removal to Reach Corner](./2375-minimum-obstacle-removal-to-reach-corner)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
