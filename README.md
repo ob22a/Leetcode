@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 683
+**Total Questions:** 684
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 301 |
-| <span style='color:orange'>Medium</span> | 327 |
+| <span style='color:orange'>Medium</span> | 328 |
 | <span style='color:red'>Hard</span> | 55 |
 
 ### Topics Overview
@@ -40,7 +40,7 @@ Welcome to my LeetCode solutions repository!
 | [Borůvka's Algorithm](#borůvka's-algorithm) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](#boyer–moore-majority-vote-algorithm) | 2 |
 | [Boyer–Moore String-Search Algorithm](#boyer–moore-string-search-algorithm) | 3 |
-| [Bracket Sequences](#bracket-sequences) | 7 |
+| [Bracket Sequences](#bracket-sequences) | 8 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 64 |
 | [Bubble Sort](#bubble-sort) | 2 |
@@ -124,8 +124,8 @@ Welcome to my LeetCode solutions repository!
 | [Simulation](#simulation) | 50 |
 | [Sliding Window](#sliding-window) | 49 |
 | [Sorting](#sorting) | 92 |
-| [Stack](#stack) | 50 |
-| [String](#string) | 151 |
+| [Stack](#stack) | 51 |
+| [String](#string) | 152 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tarjan's SCC Algorithm](#tarjan's-scc-algorithm) | 1 |
@@ -450,7 +450,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 327)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 328)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -476,6 +476,7 @@ Welcome to my LeetCode solutions repository!
 - **12. [Integer to Roman](./12-integer-to-roman)**
 - **120. [Triangle](./120-triangle)**
 - **1206. [Corporate Flight Bookings](./1206-corporate-flight-bookings)**
+- **1208. [Maximum Nesting Depth of Two Valid Parentheses Strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings)**
 - **1218. [Lowest Common Ancestor of Deepest Leaves](./1218-lowest-common-ancestor-of-deepest-leaves)**
 - **122. [Best Time to Buy and Sell Stock II](./122-best-time-to-buy-and-sell-stock-ii)**
 - **1228. [Minimum Cost Tree From Leaf Values](./1228-minimum-cost-tree-from-leaf-values)**
@@ -2776,7 +2777,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bracket-sequences"><strong>Bracket Sequences</strong> (Total: 7)</summary>
+<summary id="bracket-sequences"><strong>Bracket Sequences</strong> (Total: 8)</summary>
+
+- **1208. [Maximum Nesting Depth of Two Valid Parentheses Strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1298. [Reverse Substrings Between Each Pair of Parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -6820,7 +6824,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="stack"><strong>Stack</strong> (Total: 50)</summary>
+<summary id="stack"><strong>Stack</strong> (Total: 51)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -6839,6 +6843,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1197. [Parsing A Boolean Expression](./1197-parsing-a-boolean-expression)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **1208. [Maximum Nesting Depth of Two Valid Parentheses Strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1228. [Minimum Cost Tree From Leaf Values](./1228-minimum-cost-tree-from-leaf-values)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -6975,7 +6982,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 151)</summary>
+<summary id="string"><strong>String</strong> (Total: 152)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -7008,6 +7015,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **12. [Integer to Roman](./12-integer-to-roman)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1208. [Maximum Nesting Depth of Two Valid Parentheses Strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **125. [Valid Palindrome](./125-valid-palindrome)**  
