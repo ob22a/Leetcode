@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 684
+**Total Questions:** 685
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 301 |
+| <span style='color:green'>Easy</span> | 302 |
 | <span style='color:orange'>Medium</span> | 328 |
 | <span style='color:red'>Hard</span> | 55 |
 
@@ -90,7 +90,7 @@ Welcome to my LeetCode solutions repository!
 | [Longest Increasing Subsequence](#longest-increasing-subsequence) | 3 |
 | [Lowest Common Ancestor](#lowest-common-ancestor) | 4 |
 | [Manacher](#manacher) | 1 |
-| [Math](#math) | 117 |
+| [Math](#math) | 118 |
 | [Matrix](#matrix) | 57 |
 | [Meet in the Middle](#meet-in-the-middle) | 3 |
 | [Memoization](#memoization) | 5 |
@@ -144,7 +144,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 301)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 302)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -174,6 +174,7 @@ Welcome to my LeetCode solutions repository!
 - **1227. [Number of Equivalent Domino Pairs](./1227-number-of-equivalent-domino-pairs)**
 - **1236. [N-th Tribonacci Number](./1236-n-th-tribonacci-number)**
 - **125. [Valid Palindrome](./125-valid-palindrome)**
+- **1289. [Day of the Week](./1289-day-of-the-week)**
 - **13. [Roman to Integer](./13-roman-to-integer)**
 - **1329. [Minimum Cost to Move Chips to The Same Position](./1329-minimum-cost-to-move-chips-to-the-same-position)**
 - **1349. [Check If It Is a Straight Line](./1349-check-if-it-is-a-straight-line)**
@@ -5046,7 +5047,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 117)</summary>
+<summary id="math"><strong>Math</strong> (Total: 118)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5071,6 +5072,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1284. [Four Divisors](./1284-four-divisors)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1289. [Day of the Week](./1289-day-of-the-week)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **13. [Roman to Integer](./13-roman-to-integer)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
