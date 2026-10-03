@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 685
+**Total Questions:** 686
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 302 |
-| <span style='color:orange'>Medium</span> | 328 |
+| <span style='color:orange'>Medium</span> | 329 |
 | <span style='color:red'>Hard</span> | 55 |
 
 ### Topics Overview
@@ -26,7 +26,7 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 383 |
+| [Array](#array) | 384 |
 | [Backtracking](#backtracking) | 33 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
@@ -73,7 +73,7 @@ Welcome to my LeetCode solutions repository!
 | [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 16 |
 | [Greatest Common Divisor](#greatest-common-divisor) | 4 |
-| [Greedy](#greedy) | 44 |
+| [Greedy](#greedy) | 45 |
 | [Hamiltonian Path](#hamiltonian-path) | 1 |
 | [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 137 |
@@ -451,7 +451,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 328)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 329)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -496,6 +496,7 @@ Welcome to my LeetCode solutions repository!
 - **1321. [Get Equal Substrings Within Budget](./1321-get-equal-substrings-within-budget)**
 - **1330. [Longest Arithmetic Subsequence of Given Difference](./1330-longest-arithmetic-subsequence-of-given-difference)**
 - **134. [Gas Station](./134-gas-station)**
+- **1346. [Maximize the Topmost Element After K Moves](./1346-maximize-the-topmost-element-after-k-moves)**
 - **1351. [Replace the Substring for Balanced String](./1351-replace-the-substring-for-balanced-string)**
 - **1354. [Find Players With Zero or One Losses](./1354-find-players-with-zero-or-one-losses)**
 - **137. [Single Number II](./137-single-number-ii)**
@@ -887,7 +888,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 383)</summary>
+<summary id="array"><strong>Array</strong> (Total: 384)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1028,6 +1029,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **134. [Gas Station](./134-gas-station)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1346. [Maximize the Topmost Element After K Moves](./1346-maximize-the-topmost-element-after-k-moves)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1349. [Check If It Is a Straight Line](./1349-check-if-it-is-a-straight-line)**  
@@ -4149,7 +4153,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 44)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 45)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4179,6 +4183,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **134. [Gas Station](./134-gas-station)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1346. [Maximize the Topmost Element After K Moves](./1346-maximize-the-topmost-element-after-k-moves)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **135. [Candy](./135-candy)**  
