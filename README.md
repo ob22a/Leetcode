@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 686
+**Total Questions:** 687
 
 ### Difficulty Distribution
 
@@ -16,7 +16,7 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 302 |
 | <span style='color:orange'>Medium</span> | 329 |
-| <span style='color:red'>Hard</span> | 55 |
+| <span style='color:red'>Hard</span> | 56 |
 
 ### Topics Overview
 
@@ -26,7 +26,7 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 384 |
+| [Array](#array) | 385 |
 | [Backtracking](#backtracking) | 33 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
@@ -63,7 +63,7 @@ Welcome to my LeetCode solutions repository!
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
 | [Dynamic Programming](#dynamic-programming) | 79 |
 | [Enumeration](#enumeration) | 10 |
-| [Euclidean Algorithm](#euclidean-algorithm) | 4 |
+| [Euclidean Algorithm](#euclidean-algorithm) | 5 |
 | [Euler's Theorem](#euler's-theorem) | 1 |
 | [Euler's Totient Function](#euler's-totient-function) | 1 |
 | [Extended Euclidean Algorithm](#extended-euclidean-algorithm) | 1 |
@@ -72,7 +72,7 @@ Welcome to my LeetCode solutions repository!
 | [Game Theory](#game-theory) | 6 |
 | [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 16 |
-| [Greatest Common Divisor](#greatest-common-divisor) | 4 |
+| [Greatest Common Divisor](#greatest-common-divisor) | 5 |
 | [Greedy](#greedy) | 45 |
 | [Hamiltonian Path](#hamiltonian-path) | 1 |
 | [Hash Function](#hash-function) | 5 |
@@ -90,7 +90,7 @@ Welcome to my LeetCode solutions repository!
 | [Longest Increasing Subsequence](#longest-increasing-subsequence) | 3 |
 | [Lowest Common Ancestor](#lowest-common-ancestor) | 4 |
 | [Manacher](#manacher) | 1 |
-| [Math](#math) | 118 |
+| [Math](#math) | 119 |
 | [Matrix](#matrix) | 57 |
 | [Meet in the Middle](#meet-in-the-middle) | 3 |
 | [Memoization](#memoization) | 5 |
@@ -101,14 +101,14 @@ Welcome to my LeetCode solutions repository!
 | [Monotonic Stack](#monotonic-stack) | 17 |
 | [Newton's Method](#newton's-method) | 1 |
 | [Nim Game](#nim-game) | 1 |
-| [Number Theory](#number-theory) | 10 |
+| [Number Theory](#number-theory) | 11 |
 | [Ordered Set](#ordered-set) | 6 |
 | [Pigeonhole Principle](#pigeonhole-principle) | 3 |
 | [Polygons](#polygons) | 2 |
 | [Prefix Sum](#prefix-sum) | 46 |
 | [Prim's Algorithm](#prim's-algorithm) | 1 |
 | [Primality Test](#primality-test) | 2 |
-| [Prime Factorization](#prime-factorization) | 2 |
+| [Prime Factorization](#prime-factorization) | 3 |
 | [Prime Number Sieve](#prime-number-sieve) | 2 |
 | [Queue](#queue) | 12 |
 | [Quickselect](#quickselect) | 2 |
@@ -123,7 +123,7 @@ Welcome to my LeetCode solutions repository!
 | [Sieve Theory](#sieve-theory) | 3 |
 | [Simulation](#simulation) | 50 |
 | [Sliding Window](#sliding-window) | 49 |
-| [Sorting](#sorting) | 92 |
+| [Sorting](#sorting) | 93 |
 | [Stack](#stack) | 51 |
 | [String](#string) | 152 |
 | [String Matching](#string-matching) | 7 |
@@ -135,7 +135,7 @@ Welcome to my LeetCode solutions repository!
 | [Tree](#tree) | 47 |
 | [Trie](#trie) | 6 |
 | [Two Pointers](#two-pointers) | 85 |
-| [Union-Find](#union-find) | 19 |
+| [Union-Find](#union-find) | 20 |
 | [Z Algorithm](#z-algorithm) | 4 |
 | [Zero-Sum Game](#zero-sum-game) | 2 |
 
@@ -785,7 +785,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 55)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 56)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -811,6 +811,7 @@ Welcome to my LeetCode solutions repository!
 - **1918. [Maximum Score of a Good Subarray](./1918-maximum-score-of-a-good-subarray)**
 - **2109. [Find Array Given Subset Sums](./2109-find-array-given-subset-sums)**
 - **2119. [Minimum Number of Operations to Make Array Continuous](./2119-minimum-number-of-operations-to-make-array-continuous)**
+- **2125. [GCD Sort of an Array](./2125-gcd-sort-of-an-array)**
 - **2162. [Partition Array Into Two Arrays to Minimize Sum Difference](./2162-partition-array-into-two-arrays-to-minimize-sum-difference)**
 - **224. [Basic Calculator](./224-basic-calculator)**
 - **23. [Merge k Sorted Lists](./23-merge-k-sorted-lists)**
@@ -888,7 +889,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 384)</summary>
+<summary id="array"><strong>Array</strong> (Total: 385)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1311,6 +1312,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2119. [Minimum Number of Operations to Make Array Continuous](./2119-minimum-number-of-operations-to-make-array-continuous)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **2125. [GCD Sort of an Array](./2125-gcd-sort-of-an-array)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **213. [House Robber II](./213-house-robber-ii)**  
@@ -3980,10 +3984,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="euclidean-algorithm"><strong>Euclidean Algorithm</strong> (Total: 4)</summary>
+<summary id="euclidean-algorithm"><strong>Euclidean Algorithm</strong> (Total: 5)</summary>
 
 - **2106. [Find Greatest Common Divisor of Array](./2106-find-greatest-common-divisor-of-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2125. [GCD Sort of an Array](./2125-gcd-sort-of-an-array)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4136,10 +4143,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greatest-common-divisor"><strong>Greatest Common Divisor</strong> (Total: 4)</summary>
+<summary id="greatest-common-divisor"><strong>Greatest Common Divisor</strong> (Total: 5)</summary>
 
 - **2106. [Find Greatest Common Divisor of Array](./2106-find-greatest-common-divisor-of-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2125. [GCD Sort of an Array](./2125-gcd-sort-of-an-array)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5054,7 +5064,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 118)</summary>
+<summary id="math"><strong>Math</strong> (Total: 119)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5157,6 +5167,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2106. [Find Greatest Common Divisor of Array](./2106-find-greatest-common-divisor-of-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2125. [GCD Sort of an Array](./2125-gcd-sort-of-an-array)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **224. [Basic Calculator](./224-basic-calculator)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5745,7 +5758,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="number-theory"><strong>Number Theory</strong> (Total: 10)</summary>
+<summary id="number-theory"><strong>Number Theory</strong> (Total: 11)</summary>
 
 - **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5755,6 +5768,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2106. [Find Greatest Common Divisor of Array](./2106-find-greatest-common-divisor-of-array)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2125. [GCD Sort of an Array](./2125-gcd-sort-of-an-array)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2491. [Smallest Even Multiple](./2491-smallest-even-multiple)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5990,10 +6006,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="prime-factorization"><strong>Prime Factorization</strong> (Total: 2)</summary>
+<summary id="prime-factorization"><strong>Prime Factorization</strong> (Total: 3)</summary>
 
 - **1284. [Four Divisors](./1284-four-divisors)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2125. [GCD Sort of an Array](./2125-gcd-sort-of-an-array)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2609. [Distinct Prime Factors of Product of Array](./2609-distinct-prime-factors-of-product-of-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -6554,7 +6573,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 92)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 93)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6653,6 +6672,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2109. [Find Array Given Subset Sums](./2109-find-array-given-subset-sums)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **2125. [GCD Sort of an Array](./2125-gcd-sort-of-an-array)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2148. [Minimum Number of Moves to Seat Everyone](./2148-minimum-number-of-moves-to-seat-everyone)**  
@@ -7958,7 +7980,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="union-find"><strong>Union-Find</strong> (Total: 19)</summary>
+<summary id="union-find"><strong>Union-Find</strong> (Total: 20)</summary>
 
 - **1073. [Number of Enclaves](./1073-number-of-enclaves)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -8001,6 +8023,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2121. [Find if Path Exists in Graph](./2121-find-if-path-exists-in-graph)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2125. [GCD Sort of an Array](./2125-gcd-sort-of-an-array)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2793. [Count the Number of Complete Components](./2793-count-the-number-of-complete-components)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
