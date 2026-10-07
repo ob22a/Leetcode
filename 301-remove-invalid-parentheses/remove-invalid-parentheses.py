@@ -1,43 +1,45 @@
 class Solution:
     def removeInvalidParentheses(self, s: str) -> list[str]:
-        # we can ignore letters
-        # claim: we can just remove the first time we get in consistency and then that will be the smallest and then collect all the answers by backtracking
-
-        min_removal = 0
-        open = 0
+        def is_valid(s):
+            open=0
+            for ch in s:
+                if ch=="(":
+                    open+=1
+                elif ch==")":
+                    if open==0:
+                        return False
+                    open-=1
+            return open==0
+        
+        left,right = 0,0
 
         for c in s:
             if c=="(":
-                open+=1
+                left+=1
             elif c==")":
-                if open==0:
-                    min_removal+=1
+                if left>0:
+                    left-=1
                 else:
-                    open-=1
+                    right+=1
         
-        min_removal+=open
-
-        sol = []
+        sol=[]
         n=len(s)
         
-
-        def rec(idx,ans,removal,cost):
-            if removal<0 or cost<0:
-                return
-
-            if idx==n:
-                if cost==0 and removal==0:
+        def rec(idx,left,right,ans):
+            if left==0 and right==0:
+                ans+=s[idx:]
+                if is_valid(ans):
                     sol.append(ans)
                 return
             
-            if s[idx]!="(" and s[idx]!=")":
-                rec(idx+1,ans+s[idx],removal,cost)
+            if idx==n:
                 return
             
-            cst_at_idx = 1 if s[idx]=="(" else -1
+            if s[idx]=="(" and left>0: rec(idx+1,left-1,right,ans)
+            if s[idx]==")" and right>0: rec(idx+1,left,right-1,ans)
 
-            rec(idx+1,ans,removal-1,cost)
-            rec(idx+1,ans+s[idx],removal,cost+cst_at_idx)
+            rec(idx+1,left,right,ans+s[idx])
         
-        rec(0,"",min_removal,0)
+        rec(0,left,right,"")
+        
         return list(set(sol))
