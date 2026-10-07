@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 689
+**Total Questions:** 690
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 302 |
-| <span style='color:orange'>Medium</span> | 331 |
+| <span style='color:orange'>Medium</span> | 332 |
 | <span style='color:red'>Hard</span> | 56 |
 
 ### Topics Overview
@@ -40,7 +40,7 @@ Welcome to my LeetCode solutions repository!
 | [Borůvka's Algorithm](#borůvka's-algorithm) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](#boyer–moore-majority-vote-algorithm) | 2 |
 | [Boyer–Moore String-Search Algorithm](#boyer–moore-string-search-algorithm) | 3 |
-| [Bracket Sequences](#bracket-sequences) | 10 |
+| [Bracket Sequences](#bracket-sequences) | 11 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 64 |
 | [Bubble Sort](#bubble-sort) | 2 |
@@ -73,7 +73,7 @@ Welcome to my LeetCode solutions repository!
 | [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 16 |
 | [Greatest Common Divisor](#greatest-common-divisor) | 5 |
-| [Greedy](#greedy) | 46 |
+| [Greedy](#greedy) | 47 |
 | [Hamiltonian Path](#hamiltonian-path) | 1 |
 | [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 137 |
@@ -124,8 +124,8 @@ Welcome to my LeetCode solutions repository!
 | [Simulation](#simulation) | 50 |
 | [Sliding Window](#sliding-window) | 49 |
 | [Sorting](#sorting) | 93 |
-| [Stack](#stack) | 53 |
-| [String](#string) | 154 |
+| [Stack](#stack) | 54 |
+| [String](#string) | 155 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tarjan's SCC Algorithm](#tarjan's-scc-algorithm) | 1 |
@@ -451,7 +451,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 331)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 332)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -782,6 +782,7 @@ Welcome to my LeetCode solutions repository!
 - **937. [Online Stock Span](./937-online-stock-span)**
 - **940. [Fruit Into Baskets](./940-fruit-into-baskets)**
 - **948. [Sort an Array](./948-sort-an-array)**
+- **957. [Minimum Add to Make Parentheses Valid](./957-minimum-add-to-make-parentheses-valid)**
 - **966. [Binary Subarrays With Sum](./966-binary-subarrays-with-sum)**
 - **98. [Validate Binary Search Tree](./98-validate-binary-search-tree)**
 </details>
@@ -2788,7 +2789,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bracket-sequences"><strong>Bracket Sequences</strong> (Total: 10)</summary>
+<summary id="bracket-sequences"><strong>Bracket Sequences</strong> (Total: 11)</summary>
 
 - **1208. [Maximum Nesting Depth of Two Valid Parentheses Strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2818,6 +2819,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **886. [Score of Parentheses](./886-score-of-parentheses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **957. [Minimum Add to Make Parentheses Valid](./957-minimum-add-to-make-parentheses-valid)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
@@ -4174,7 +4178,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 46)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 47)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4312,6 +4316,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **917. [Boats to Save People](./917-boats-to-save-people)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **957. [Minimum Add to Make Parentheses Valid](./957-minimum-add-to-make-parentheses-valid)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
@@ -6871,7 +6878,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="stack"><strong>Stack</strong> (Total: 53)</summary>
+<summary id="stack"><strong>Stack</strong> (Total: 54)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -7032,10 +7039,13 @@ Welcome to my LeetCode solutions repository!
 - **94. [Binary Tree Inorder Traversal](./94-binary-tree-inorder-traversal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **957. [Minimum Add to Make Parentheses Valid](./957-minimum-add-to-make-parentheses-valid)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 154)</summary>
+<summary id="string"><strong>String</strong> (Total: 155)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -7488,6 +7498,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **93. [Restore IP Addresses](./93-restore-ip-addresses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **957. [Minimum Add to Make Parentheses Valid](./957-minimum-add-to-make-parentheses-valid)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **961. [Long Pressed Name](./961-long-pressed-name)**  
