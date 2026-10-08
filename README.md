@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 690
+**Total Questions:** 691
 
 ### Difficulty Distribution
 
@@ -16,7 +16,7 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 302 |
 | <span style='color:orange'>Medium</span> | 332 |
-| <span style='color:red'>Hard</span> | 56 |
+| <span style='color:red'>Hard</span> | 57 |
 
 ### Topics Overview
 
@@ -27,7 +27,7 @@ Welcome to my LeetCode solutions repository!
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
 | [Array](#array) | 385 |
-| [Backtracking](#backtracking) | 33 |
+| [Backtracking](#backtracking) | 34 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
@@ -42,7 +42,7 @@ Welcome to my LeetCode solutions repository!
 | [Boyer–Moore String-Search Algorithm](#boyer–moore-string-search-algorithm) | 3 |
 | [Bracket Sequences](#bracket-sequences) | 11 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 64 |
+| [Breadth-First Search](#breadth-first-search) | 65 |
 | [Bubble Sort](#bubble-sort) | 2 |
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Bézout's Lemma](#bézout's-lemma) | 1 |
@@ -125,7 +125,7 @@ Welcome to my LeetCode solutions repository!
 | [Sliding Window](#sliding-window) | 49 |
 | [Sorting](#sorting) | 93 |
 | [Stack](#stack) | 54 |
-| [String](#string) | 155 |
+| [String](#string) | 156 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tarjan's SCC Algorithm](#tarjan's-scc-algorithm) | 1 |
@@ -788,7 +788,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 56)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 57)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -825,6 +825,7 @@ Welcome to my LeetCode solutions repository!
 - **25. [Reverse Nodes in k-Group](./25-reverse-nodes-in-k-group)**
 - **2527. [Count Subarrays With Fixed Bounds](./2527-count-subarrays-with-fixed-bounds)**
 - **30. [Substring with Concatenation of All Words](./30-substring-with-concatenation-of-all-words)**
+- **301. [Remove Invalid Parentheses](./301-remove-invalid-parentheses)**
 - **312. [Burst Balloons](./312-burst-balloons)**
 - **32. [Longest Valid Parentheses](./32-longest-valid-parentheses)**
 - **37. [Sudoku Solver](./37-sudoku-solver)**
@@ -2052,7 +2053,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="backtracking"><strong>Backtracking</strong> (Total: 33)</summary>
+<summary id="backtracking"><strong>Backtracking</strong> (Total: 34)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2092,6 +2093,9 @@ Welcome to my LeetCode solutions repository!
 
 - **257. [Binary Tree Paths](./257-binary-tree-paths)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **301. [Remove Invalid Parentheses](./301-remove-invalid-parentheses)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **306. [Additive Number](./306-additive-number)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2841,7 +2845,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 64)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 65)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2962,6 +2966,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2793. [Count the Number of Complete Components](./2793-count-the-number-of-complete-components)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **301. [Remove Invalid Parentheses](./301-remove-invalid-parentheses)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **322. [Coin Change](./322-coin-change)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -7045,7 +7052,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 155)</summary>
+<summary id="string"><strong>String</strong> (Total: 156)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -7270,6 +7277,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **30. [Substring with Concatenation of All Words](./30-substring-with-concatenation-of-all-words)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **301. [Remove Invalid Parentheses](./301-remove-invalid-parentheses)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **306. [Additive Number](./306-additive-number)**  
