@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 691
+**Total Questions:** 692
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 302 |
+| <span style='color:green'>Easy</span> | 303 |
 | <span style='color:orange'>Medium</span> | 332 |
 | <span style='color:red'>Hard</span> | 57 |
 
@@ -40,7 +40,7 @@ Welcome to my LeetCode solutions repository!
 | [Borůvka's Algorithm](#borůvka's-algorithm) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](#boyer–moore-majority-vote-algorithm) | 2 |
 | [Boyer–Moore String-Search Algorithm](#boyer–moore-string-search-algorithm) | 3 |
-| [Bracket Sequences](#bracket-sequences) | 11 |
+| [Bracket Sequences](#bracket-sequences) | 12 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 65 |
 | [Bubble Sort](#bubble-sort) | 2 |
@@ -124,8 +124,8 @@ Welcome to my LeetCode solutions repository!
 | [Simulation](#simulation) | 50 |
 | [Sliding Window](#sliding-window) | 49 |
 | [Sorting](#sorting) | 93 |
-| [Stack](#stack) | 54 |
-| [String](#string) | 156 |
+| [Stack](#stack) | 55 |
+| [String](#string) | 157 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tarjan's SCC Algorithm](#tarjan's-scc-algorithm) | 1 |
@@ -144,7 +144,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 302)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 303)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -157,6 +157,7 @@ Welcome to my LeetCode solutions repository!
 - **1035. [Cousins in Binary Tree](./1035-cousins-in-binary-tree)**
 - **104. [Maximum Depth of Binary Tree](./104-maximum-depth-of-binary-tree)**
 - **1044. [Find Common Characters](./1044-find-common-characters)**
+- **1078. [Remove Outermost Parentheses](./1078-remove-outermost-parentheses)**
 - **108. [Convert Sorted Array to Binary Search Tree](./108-convert-sorted-array-to-binary-search-tree)**
 - **1086. [Divisor Game](./1086-divisor-game)**
 - **110. [Balanced Binary Tree](./110-balanced-binary-tree)**
@@ -2793,7 +2794,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bracket-sequences"><strong>Bracket Sequences</strong> (Total: 11)</summary>
+<summary id="bracket-sequences"><strong>Bracket Sequences</strong> (Total: 12)</summary>
+
+- **1078. [Remove Outermost Parentheses](./1078-remove-outermost-parentheses)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1208. [Maximum Nesting Depth of Two Valid Parentheses Strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -6885,13 +6889,16 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="stack"><strong>Stack</strong> (Total: 54)</summary>
+<summary id="stack"><strong>Stack</strong> (Total: 55)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1072. [Next Greater Node In Linked List](./1072-next-greater-node-in-linked-list)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1078. [Remove Outermost Parentheses](./1078-remove-outermost-parentheses)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1128. [Remove All Adjacent Duplicates In String](./1128-remove-all-adjacent-duplicates-in-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -7052,12 +7059,15 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 156)</summary>
+<summary id="string"><strong>String</strong> (Total: 157)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1044. [Find Common Characters](./1044-find-common-characters)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1078. [Remove Outermost Parentheses](./1078-remove-outermost-parentheses)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1080. [Camelcase Matching](./1080-camelcase-matching)**  
