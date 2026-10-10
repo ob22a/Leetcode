@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 692
+**Total Questions:** 693
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 303 |
-| <span style='color:orange'>Medium</span> | 332 |
+| <span style='color:orange'>Medium</span> | 333 |
 | <span style='color:red'>Hard</span> | 57 |
 
 ### Topics Overview
@@ -40,7 +40,7 @@ Welcome to my LeetCode solutions repository!
 | [Borůvka's Algorithm](#borůvka's-algorithm) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](#boyer–moore-majority-vote-algorithm) | 2 |
 | [Boyer–Moore String-Search Algorithm](#boyer–moore-string-search-algorithm) | 3 |
-| [Bracket Sequences](#bracket-sequences) | 12 |
+| [Bracket Sequences](#bracket-sequences) | 13 |
 | [Brainteaser](#brainteaser) | 3 |
 | [Breadth-First Search](#breadth-first-search) | 65 |
 | [Bubble Sort](#bubble-sort) | 2 |
@@ -73,7 +73,7 @@ Welcome to my LeetCode solutions repository!
 | [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 16 |
 | [Greatest Common Divisor](#greatest-common-divisor) | 5 |
-| [Greedy](#greedy) | 47 |
+| [Greedy](#greedy) | 48 |
 | [Hamiltonian Path](#hamiltonian-path) | 1 |
 | [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 137 |
@@ -124,8 +124,8 @@ Welcome to my LeetCode solutions repository!
 | [Simulation](#simulation) | 50 |
 | [Sliding Window](#sliding-window) | 49 |
 | [Sorting](#sorting) | 93 |
-| [Stack](#stack) | 55 |
-| [String](#string) | 157 |
+| [Stack](#stack) | 56 |
+| [String](#string) | 158 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tarjan's SCC Algorithm](#tarjan's-scc-algorithm) | 1 |
@@ -452,7 +452,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 332)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 333)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -533,6 +533,7 @@ Welcome to my LeetCode solutions repository!
 - **162. [Find Peak Element](./162-find-peak-element)**
 - **1621. [Number of Subsequences That Satisfy the Given Sum Condition](./1621-number-of-subsequences-that-satisfy-the-given-sum-condition)**
 - **164. [Maximum Gap](./164-maximum-gap)**
+- **1648. [Minimum Insertions to Balance a Parentheses String](./1648-minimum-insertions-to-balance-a-parentheses-string)**
 - **1663. [Detect Cycles in 2D Grid](./1663-detect-cycles-in-2d-grid)**
 - **167. [Two Sum II - Input Array Is Sorted](./167-two-sum-ii-input-array-is-sorted)**
 - **1675. [Magnetic Force Between Two Balls](./1675-magnetic-force-between-two-balls)**
@@ -2794,7 +2795,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bracket-sequences"><strong>Bracket Sequences</strong> (Total: 12)</summary>
+<summary id="bracket-sequences"><strong>Bracket Sequences</strong> (Total: 13)</summary>
 
 - **1078. [Remove Outermost Parentheses](./1078-remove-outermost-parentheses)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2803,6 +2804,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1298. [Reverse Substrings Between Each Pair of Parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1648. [Minimum Insertions to Balance a Parentheses String](./1648-minimum-insertions-to-balance-a-parentheses-string)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1737. [Maximum Nesting Depth of the Parentheses](./1737-maximum-nesting-depth-of-the-parentheses)**  
@@ -4189,7 +4193,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 47)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 48)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4232,6 +4236,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1519. [Minimum Subsequence in Non-Increasing Order](./1519-minimum-subsequence-in-non-increasing-order)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1648. [Minimum Insertions to Balance a Parentheses String](./1648-minimum-insertions-to-balance-a-parentheses-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1683. [Maximum Number of Coins You Can Get](./1683-maximum-number-of-coins-you-can-get)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -6889,7 +6896,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="stack"><strong>Stack</strong> (Total: 55)</summary>
+<summary id="stack"><strong>Stack</strong> (Total: 56)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -6943,6 +6950,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1582. [Design Browser History](./1582-design-browser-history)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1648. [Minimum Insertions to Balance a Parentheses String](./1648-minimum-insertions-to-balance-a-parentheses-string)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1720. [Crawler Log Folder](./1720-crawler-log-folder)**  
@@ -7059,7 +7069,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 157)</summary>
+<summary id="string"><strong>String</strong> (Total: 158)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -7146,6 +7156,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1567. [Maximum Number of Vowels in a Substring of Given Length](./1567-maximum-number-of-vowels-in-a-substring-of-given-length)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1648. [Minimum Insertions to Balance a Parentheses String](./1648-minimum-insertions-to-balance-a-parentheses-string)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1651. [Shuffle String](./1651-shuffle-string)**  
