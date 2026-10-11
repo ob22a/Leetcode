@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 693
+**Total Questions:** 694
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 303 |
-| <span style='color:orange'>Medium</span> | 333 |
+| <span style='color:orange'>Medium</span> | 334 |
 | <span style='color:red'>Hard</span> | 57 |
 
 ### Topics Overview
@@ -26,13 +26,13 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 385 |
+| [Array](#array) | 386 |
 | [Backtracking](#backtracking) | 34 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 1 |
 | [Binary Lifting](#binary-lifting) | 4 |
-| [Binary Search](#binary-search) | 68 |
+| [Binary Search](#binary-search) | 69 |
 | [Binary Search Tree](#binary-search-tree) | 13 |
 | [Binary Tree](#binary-tree) | 44 |
 | [Bit Manipulation](#bit-manipulation) | 44 |
@@ -73,11 +73,11 @@ Welcome to my LeetCode solutions repository!
 | [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 16 |
 | [Greatest Common Divisor](#greatest-common-divisor) | 5 |
-| [Greedy](#greedy) | 48 |
+| [Greedy](#greedy) | 49 |
 | [Hamiltonian Path](#hamiltonian-path) | 1 |
 | [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 137 |
-| [Heap (Priority Queue)](#heap-(priority-queue)) | 24 |
+| [Heap (Priority Queue)](#heap-(priority-queue)) | 25 |
 | [Heuristic Search](#heuristic-search) | 1 |
 | [Impartial Game](#impartial-game) | 2 |
 | [Interactive](#interactive) | 2 |
@@ -123,7 +123,7 @@ Welcome to my LeetCode solutions repository!
 | [Sieve Theory](#sieve-theory) | 3 |
 | [Simulation](#simulation) | 50 |
 | [Sliding Window](#sliding-window) | 49 |
-| [Sorting](#sorting) | 93 |
+| [Sorting](#sorting) | 94 |
 | [Stack](#stack) | 56 |
 | [String](#string) | 158 |
 | [String Matching](#string-matching) | 7 |
@@ -452,7 +452,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 333)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 334)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -604,6 +604,7 @@ Welcome to my LeetCode solutions repository!
 - **24. [Swap Nodes in Pairs](./24-swap-nodes-in-pairs)**
 - **240. [Search a 2D Matrix II](./240-search-a-2d-matrix-ii)**
 - **241. [Different Ways to Add Parentheses](./241-different-ways-to-add-parentheses)**
+- **2418. [Minimum Sum of Squared Difference](./2418-minimum-sum-of-squared-difference)**
 - **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**
 - **2465. [Shifting Letters II](./2465-shifting-letters-ii)**
 - **2470. [Removing Stars From a String](./2470-removing-stars-from-a-string)**
@@ -895,7 +896,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 385)</summary>
+<summary id="array"><strong>Array</strong> (Total: 386)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1426,6 +1427,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **240. [Search a 2D Matrix II](./240-search-a-2d-matrix-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2418. [Minimum Sum of Squared Difference](./2418-minimum-sum-of-squared-difference)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**  
@@ -2215,7 +2219,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search"><strong>Binary Search</strong> (Total: 68)</summary>
+<summary id="binary-search"><strong>Binary Search</strong> (Total: 69)</summary>
 
 - **1046. [Max Consecutive Ones III](./1046-max-consecutive-ones-iii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2299,6 +2303,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **240. [Search a 2D Matrix II](./240-search-a-2d-matrix-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2418. [Minimum Sum of Squared Difference](./2418-minimum-sum-of-squared-difference)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2530. [Minimize Maximum of Array](./2530-minimize-maximum-of-array)**  
@@ -4193,7 +4200,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 48)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 49)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4256,6 +4263,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2245. [Destroying Asteroids](./2245-destroying-asteroids)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2418. [Minimum Sum of Squared Difference](./2418-minimum-sum-of-squared-difference)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2436. [Make Array Zero by Subtracting Equal Amounts](./2436-make-array-zero-by-subtracting-equal-amounts)**  
@@ -4786,7 +4796,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="heap-(priority-queue)"><strong>Heap (Priority Queue)</strong> (Total: 24)</summary>
+<summary id="heap-(priority-queue)"><strong>Heap (Priority Queue)</strong> (Total: 25)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4814,6 +4824,9 @@ Welcome to my LeetCode solutions repository!
 
 - **239. [Sliding Window Maximum](./239-sliding-window-maximum)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **2418. [Minimum Sum of Squared Difference](./2418-minimum-sum-of-squared-difference)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **2429. [Design a Food Rating System](./2429-design-a-food-rating-system)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -6612,7 +6625,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 93)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 94)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6742,6 +6755,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2331. [Intersection of Multiple Arrays](./2331-intersection-of-multiple-arrays)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2418. [Minimum Sum of Squared Difference](./2418-minimum-sum-of-squared-difference)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **242. [Valid Anagram](./242-valid-anagram)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
