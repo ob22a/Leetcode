@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 694
+**Total Questions:** 695
 
 ### Difficulty Distribution
 
@@ -14,7 +14,7 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 303 |
+| <span style='color:green'>Easy</span> | 304 |
 | <span style='color:orange'>Medium</span> | 334 |
 | <span style='color:red'>Hard</span> | 57 |
 
@@ -26,7 +26,7 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 386 |
+| [Array](#array) | 387 |
 | [Backtracking](#backtracking) | 34 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
@@ -62,7 +62,7 @@ Welcome to my LeetCode solutions repository!
 | [Divide and Conquer](#divide-and-conquer) | 16 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
 | [Dynamic Programming](#dynamic-programming) | 80 |
-| [Enumeration](#enumeration) | 10 |
+| [Enumeration](#enumeration) | 11 |
 | [Euclidean Algorithm](#euclidean-algorithm) | 5 |
 | [Euler's Theorem](#euler's-theorem) | 1 |
 | [Euler's Totient Function](#euler's-totient-function) | 1 |
@@ -144,7 +144,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 303)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 304)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -302,6 +302,7 @@ Welcome to my LeetCode solutions repository!
 - **2812. [Find the Maximum Achievable Number](./2812-find-the-maximum-achievable-number)**
 - **283. [Move Zeroes](./283-move-zeroes)**
 - **2836. [Neither Minimum nor Maximum](./2836-neither-minimum-nor-maximum)**
+- **2844. [Sum of Squares of Special Elements ](./2844-sum-of-squares-of-special-elements)**
 - **2876. [Number of Employees Who Met the Target](./2876-number-of-employees-who-met-the-target)**
 - **290. [Word Pattern](./290-word-pattern)**
 - **2917. [Count Pairs Whose Sum is Less than Target](./2917-count-pairs-whose-sum-is-less-than-target)**
@@ -896,7 +897,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 386)</summary>
+<summary id="array"><strong>Array</strong> (Total: 387)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1544,6 +1545,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2836. [Neither Minimum nor Maximum](./2836-neither-minimum-nor-maximum)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **2844. [Sum of Squares of Special Elements ](./2844-sum-of-squares-of-special-elements)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **287. [Find the Duplicate Number](./287-find-the-duplicate-number)**  
@@ -3986,7 +3990,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="enumeration"><strong>Enumeration</strong> (Total: 10)</summary>
+<summary id="enumeration"><strong>Enumeration</strong> (Total: 11)</summary>
 
 - **1656. [Count Good Triplets](./1656-count-good-triplets)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4005,6 +4009,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2351. [Number of Ways to Buy Pens and Pencils](./2351-number-of-ways-to-buy-pens-and-pencils)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **2844. [Sum of Squares of Special Elements ](./2844-sum-of-squares-of-special-elements)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **2998. [  Count Symmetric Integers](./2998-count-symmetric-integers)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
