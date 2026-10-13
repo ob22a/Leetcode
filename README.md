@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 695
+**Total Questions:** 696
 
 ### Difficulty Distribution
 
@@ -16,7 +16,7 @@ Welcome to my LeetCode solutions repository!
 |------------|-------|
 | <span style='color:green'>Easy</span> | 304 |
 | <span style='color:orange'>Medium</span> | 334 |
-| <span style='color:red'>Hard</span> | 57 |
+| <span style='color:red'>Hard</span> | 58 |
 
 ### Topics Overview
 
@@ -26,7 +26,7 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 387 |
+| [Array](#array) | 388 |
 | [Backtracking](#backtracking) | 34 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
@@ -35,7 +35,7 @@ Welcome to my LeetCode solutions repository!
 | [Binary Search](#binary-search) | 69 |
 | [Binary Search Tree](#binary-search-tree) | 13 |
 | [Binary Tree](#binary-tree) | 44 |
-| [Bit Manipulation](#bit-manipulation) | 44 |
+| [Bit Manipulation](#bit-manipulation) | 45 |
 | [Bitmask](#bitmask) | 5 |
 | [Borůvka's Algorithm](#borůvka's-algorithm) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](#boyer–moore-majority-vote-algorithm) | 2 |
@@ -73,10 +73,10 @@ Welcome to my LeetCode solutions repository!
 | [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 16 |
 | [Greatest Common Divisor](#greatest-common-divisor) | 5 |
-| [Greedy](#greedy) | 49 |
+| [Greedy](#greedy) | 50 |
 | [Hamiltonian Path](#hamiltonian-path) | 1 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 137 |
+| [Hash Table](#hash-table) | 138 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 25 |
 | [Heuristic Search](#heuristic-search) | 1 |
 | [Impartial Game](#impartial-game) | 2 |
@@ -792,7 +792,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 57)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 58)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -831,6 +831,7 @@ Welcome to my LeetCode solutions repository!
 - **30. [Substring with Concatenation of All Words](./30-substring-with-concatenation-of-all-words)**
 - **301. [Remove Invalid Parentheses](./301-remove-invalid-parentheses)**
 - **312. [Burst Balloons](./312-burst-balloons)**
+- **3153. [Apply Operations on Array to Maximize Sum of Squares](./3153-apply-operations-on-array-to-maximize-sum-of-squares)**
 - **32. [Longest Valid Parentheses](./32-longest-valid-parentheses)**
 - **37. [Sudoku Solver](./37-sudoku-solver)**
 - **3761. [Maximum Difference Between Even and Odd Frequency II](./3761-maximum-difference-between-even-and-odd-frequency-ii)**
@@ -897,7 +898,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 387)</summary>
+<summary id="array"><strong>Array</strong> (Total: 388)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1575,6 +1576,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **312. [Burst Balloons](./312-burst-balloons)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **3153. [Apply Operations on Array to Maximize Sum of Squares](./3153-apply-operations-on-array-to-maximize-sum-of-squares)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **3154. [Maximum Value of an Ordered Triplet I](./3154-maximum-value-of-an-ordered-triplet-i)**  
@@ -2616,7 +2620,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 44)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 45)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2686,6 +2690,9 @@ Welcome to my LeetCode solutions repository!
 
 - **287. [Find the Duplicate Number](./287-find-the-duplicate-number)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3153. [Apply Operations on Array to Maximize Sum of Squares](./3153-apply-operations-on-array-to-maximize-sum-of-squares)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **318. [Maximum Product of Word Lengths](./318-maximum-product-of-word-lengths)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4207,7 +4214,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 49)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 50)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4295,6 +4302,9 @@ Welcome to my LeetCode solutions repository!
 
 - **2650. [Split With Minimum Sum](./2650-split-with-minimum-sum)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3153. [Apply Operations on Array to Maximize Sum of Squares](./3153-apply-operations-on-array-to-maximize-sum-of-squares)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **316. [Remove Duplicate Letters](./316-remove-duplicate-letters)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4387,7 +4397,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 137)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 138)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4622,6 +4632,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3034. [Points That Intersect With Cars](./3034-points-that-intersect-with-cars)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3153. [Apply Operations on Array to Maximize Sum of Squares](./3153-apply-operations-on-array-to-maximize-sum-of-squares)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **3193. [Maximum Strong Pair XOR I](./3193-maximum-strong-pair-xor-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
