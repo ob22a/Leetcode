@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 696
+**Total Questions:** 697
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 304 |
-| <span style='color:orange'>Medium</span> | 334 |
+| <span style='color:orange'>Medium</span> | 335 |
 | <span style='color:red'>Hard</span> | 58 |
 
 ### Topics Overview
@@ -26,7 +26,7 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 388 |
+| [Array](#array) | 389 |
 | [Backtracking](#backtracking) | 34 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
@@ -73,7 +73,7 @@ Welcome to my LeetCode solutions repository!
 | [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 16 |
 | [Greatest Common Divisor](#greatest-common-divisor) | 5 |
-| [Greedy](#greedy) | 50 |
+| [Greedy](#greedy) | 51 |
 | [Hamiltonian Path](#hamiltonian-path) | 1 |
 | [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 138 |
@@ -123,7 +123,7 @@ Welcome to my LeetCode solutions repository!
 | [Sieve Theory](#sieve-theory) | 3 |
 | [Simulation](#simulation) | 50 |
 | [Sliding Window](#sliding-window) | 49 |
-| [Sorting](#sorting) | 94 |
+| [Sorting](#sorting) | 95 |
 | [Stack](#stack) | 56 |
 | [String](#string) | 158 |
 | [String Matching](#string-matching) | 7 |
@@ -453,7 +453,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 334)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 335)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -673,6 +673,7 @@ Welcome to my LeetCode solutions repository!
 - **40. [Combination Sum II](./40-combination-sum-ii)**
 - **400. [Nth Digit](./400-nth-digit)**
 - **402. [Remove K Digits](./402-remove-k-digits)**
+- **4078. [Maximum Alternating Sum of Squares](./4078-maximum-alternating-sum-of-squares)**
 - **416. [Partition Equal Subset Sum](./416-partition-equal-subset-sum)**
 - **424. [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)**
 - **4248. [Count Commas in Range II](./4248-count-commas-in-range-ii)**
@@ -898,7 +899,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 388)</summary>
+<summary id="array"><strong>Array</strong> (Total: 389)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1714,6 +1715,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **40. [Combination Sum II](./40-combination-sum-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **4078. [Maximum Alternating Sum of Squares](./4078-maximum-alternating-sum-of-squares)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **41. [First Missing Positive](./41-first-missing-positive)**  
@@ -4214,7 +4218,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 50)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 51)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4313,6 +4317,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **402. [Remove K Digits](./402-remove-k-digits)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **4078. [Maximum Alternating Sum of Squares](./4078-maximum-alternating-sum-of-squares)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **409. [Longest Palindrome](./409-longest-palindrome)**  
@@ -6645,7 +6652,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 94)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 95)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6853,6 +6860,9 @@ Welcome to my LeetCode solutions repository!
 
 - **389. [Find the Difference](./389-find-the-difference)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **4078. [Maximum Alternating Sum of Squares](./4078-maximum-alternating-sum-of-squares)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **414. [Third Maximum Number](./414-third-maximum-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
