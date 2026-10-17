@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 699
+**Total Questions:** 701
 
 ### Difficulty Distribution
 
@@ -15,8 +15,8 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 305 |
-| <span style='color:orange'>Medium</span> | 336 |
-| <span style='color:red'>Hard</span> | 58 |
+| <span style='color:orange'>Medium</span> | 337 |
+| <span style='color:red'>Hard</span> | 59 |
 
 ### Topics Overview
 
@@ -26,11 +26,11 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 390 |
+| [Array](#array) | 392 |
 | [Backtracking](#backtracking) | 34 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
-| [Binary Indexed Tree](#binary-indexed-tree) | 2 |
+| [Binary Indexed Tree](#binary-indexed-tree) | 4 |
 | [Binary Lifting](#binary-lifting) | 4 |
 | [Binary Search](#binary-search) | 69 |
 | [Binary Search Tree](#binary-search-tree) | 13 |
@@ -56,10 +56,10 @@ Welcome to my LeetCode solutions repository!
 | [Data Stream](#data-stream) | 6 |
 | [Database](#database) | 16 |
 | [Depth-First Search](#depth-first-search) | 68 |
-| [Design](#design) | 25 |
+| [Design](#design) | 26 |
 | [Dijkstra's Algorithm](#dijkstra's-algorithm) | 4 |
 | [Directed Acyclic Graph](#directed-acyclic-graph) | 2 |
-| [Divide and Conquer](#divide-and-conquer) | 16 |
+| [Divide and Conquer](#divide-and-conquer) | 17 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
 | [Dynamic Programming](#dynamic-programming) | 80 |
 | [Enumeration](#enumeration) | 11 |
@@ -76,7 +76,7 @@ Welcome to my LeetCode solutions repository!
 | [Greedy](#greedy) | 52 |
 | [Hamiltonian Path](#hamiltonian-path) | 1 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 139 |
+| [Hash Table](#hash-table) | 140 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 25 |
 | [Heuristic Search](#heuristic-search) | 1 |
 | [Impartial Game](#impartial-game) | 2 |
@@ -118,12 +118,13 @@ Welcome to my LeetCode solutions repository!
 | [Range Minimum/Maximum Query](#range-minimum/maximum-query) | 2 |
 | [Recursion](#recursion) | 25 |
 | [Rolling Hash](#rolling-hash) | 2 |
-| [Segment Tree](#segment-tree) | 3 |
+| [Segment Tree](#segment-tree) | 5 |
 | [Shortest Path](#shortest-path) | 5 |
 | [Sieve Theory](#sieve-theory) | 3 |
 | [Simulation](#simulation) | 50 |
 | [Sliding Window](#sliding-window) | 49 |
 | [Sorting](#sorting) | 95 |
+| [Sqrt Decomposition](#sqrt-decomposition) | 1 |
 | [Stack](#stack) | 56 |
 | [String](#string) | 158 |
 | [String Matching](#string-matching) | 7 |
@@ -454,7 +455,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 336)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 337)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -641,6 +642,7 @@ Welcome to my LeetCode solutions repository!
 - **300. [Longest Increasing Subsequence](./300-longest-increasing-subsequence)**
 - **304. [Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable)**
 - **306. [Additive Number](./306-additive-number)**
+- **307. [Range Sum Query - Mutable](./307-range-sum-query-mutable)**
 - **31. [Next Permutation](./31-next-permutation)**
 - **316. [Remove Duplicate Letters](./316-remove-duplicate-letters)**
 - **318. [Maximum Product of Word Lengths](./318-maximum-product-of-word-lengths)**
@@ -795,7 +797,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 58)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 59)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -834,6 +836,7 @@ Welcome to my LeetCode solutions repository!
 - **30. [Substring with Concatenation of All Words](./30-substring-with-concatenation-of-all-words)**
 - **301. [Remove Invalid Parentheses](./301-remove-invalid-parentheses)**
 - **312. [Burst Balloons](./312-burst-balloons)**
+- **3139. [Subarrays Distinct Element Sum of Squares II](./3139-subarrays-distinct-element-sum-of-squares-ii)**
 - **3153. [Apply Operations on Array to Maximize Sum of Squares](./3153-apply-operations-on-array-to-maximize-sum-of-squares)**
 - **32. [Longest Valid Parentheses](./32-longest-valid-parentheses)**
 - **37. [Sudoku Solver](./37-sudoku-solver)**
@@ -901,7 +904,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 390)</summary>
+<summary id="array"><strong>Array</strong> (Total: 392)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1575,10 +1578,16 @@ Welcome to my LeetCode solutions repository!
 - **304. [Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **307. [Range Sum Query - Mutable](./307-range-sum-query-mutable)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
 - **31. [Next Permutation](./31-next-permutation)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **312. [Burst Balloons](./312-burst-balloons)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **3139. [Subarrays Distinct Element Sum of Squares II](./3139-subarrays-distinct-element-sum-of-squares-ii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **3153. [Apply Operations on Array to Maximize Sum of Squares](./3153-apply-operations-on-array-to-maximize-sum-of-squares)**  
@@ -2211,7 +2220,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-indexed-tree"><strong>Binary Indexed Tree</strong> (Total: 2)</summary>
+<summary id="binary-indexed-tree"><strong>Binary Indexed Tree</strong> (Total: 4)</summary>
+
+- **307. [Range Sum Query - Mutable](./307-range-sum-query-mutable)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3139. [Subarrays Distinct Element Sum of Squares II](./3139-subarrays-distinct-element-sum-of-squares-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **3163. [Subarrays Distinct Element Sum of Squares I](./3163-subarrays-distinct-element-sum-of-squares-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3589,7 +3604,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="design"><strong>Design</strong> (Total: 25)</summary>
+<summary id="design"><strong>Design</strong> (Total: 26)</summary>
 
 - **146. [LRU Cache](./146-lru-cache)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3631,6 +3646,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **304. [Range Sum Query 2D - Immutable](./304-range-sum-query-2d-immutable)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **307. [Range Sum Query - Mutable](./307-range-sum-query-mutable)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **355. [Design Twitter](./355-design-twitter)**  
@@ -3697,7 +3715,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="divide-and-conquer"><strong>Divide and Conquer</strong> (Total: 16)</summary>
+<summary id="divide-and-conquer"><strong>Divide and Conquer</strong> (Total: 17)</summary>
 
 - **105. [Construct Binary Tree from Preorder and Inorder Traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3727,6 +3745,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **240. [Search a 2D Matrix II](./240-search-a-2d-matrix-ii)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **307. [Range Sum Query - Mutable](./307-range-sum-query-mutable)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **347. [Top K Frequent Elements](./347-top-k-frequent-elements)**  
@@ -4415,7 +4436,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 139)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 140)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4650,6 +4671,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3034. [Points That Intersect With Cars](./3034-points-that-intersect-with-cars)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3139. [Subarrays Distinct Element Sum of Squares II](./3139-subarrays-distinct-element-sum-of-squares-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **3153. [Apply Operations on Array to Maximize Sum of Squares](./3153-apply-operations-on-array-to-maximize-sum-of-squares)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -6317,7 +6341,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="segment-tree"><strong>Segment Tree</strong> (Total: 3)</summary>
+<summary id="segment-tree"><strong>Segment Tree</strong> (Total: 5)</summary>
+
+- **307. [Range Sum Query - Mutable](./307-range-sum-query-mutable)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3139. [Subarrays Distinct Element Sum of Squares II](./3139-subarrays-distinct-element-sum-of-squares-ii)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **3163. [Subarrays Distinct Element Sum of Squares I](./3163-subarrays-distinct-element-sum-of-squares-i)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6958,6 +6988,14 @@ Welcome to my LeetCode solutions repository!
 
 - **958. [Sort Array By Parity II](./958-sort-array-by-parity-ii)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+</details>
+
+<details>
+<summary id="sqrt-decomposition"><strong>Sqrt Decomposition</strong> (Total: 1)</summary>
+
+- **307. [Range Sum Query - Mutable](./307-range-sum-query-mutable)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 </details>
 
