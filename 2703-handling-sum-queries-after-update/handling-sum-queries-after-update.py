@@ -29,15 +29,15 @@ class Solution:
                 tree[node]=rng-tree[node]
 
                 if l!=r:
-                    lazy[left_node] = ~lazy[left_node]
-                    lazy[right_node]= ~lazy[right_node] 
+                    lazy[left_node] = not lazy[left_node]
+                    lazy[right_node]= not lazy[right_node] 
             
             if start<=l and end>=r:
                 tree[node] = rng-tree[node]
 
                 if l!=r:
-                    lazy[left_node] = ~lazy[left_node]
-                    lazy[right_node]= ~lazy[right_node]   
+                    lazy[left_node] = not lazy[left_node]
+                    lazy[right_node]= not lazy[right_node]   
 
                 return 
             
@@ -51,8 +51,6 @@ class Solution:
         build(0,n-1,0)
         total = sum(nums2)
         sol = []
-
-        print(tree)
 
         for q,l,r in queries:
             if q==1: update(l,r,0,n-1,0)
