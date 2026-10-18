@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 701
+**Total Questions:** 703
 
 ### Difficulty Distribution
 
@@ -15,8 +15,8 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 305 |
-| <span style='color:orange'>Medium</span> | 337 |
-| <span style='color:red'>Hard</span> | 59 |
+| <span style='color:orange'>Medium</span> | 338 |
+| <span style='color:red'>Hard</span> | 60 |
 
 ### Topics Overview
 
@@ -26,7 +26,7 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 392 |
+| [Array](#array) | 394 |
 | [Backtracking](#backtracking) | 34 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
@@ -76,7 +76,7 @@ Welcome to my LeetCode solutions repository!
 | [Greedy](#greedy) | 52 |
 | [Hamiltonian Path](#hamiltonian-path) | 1 |
 | [Hash Function](#hash-function) | 5 |
-| [Hash Table](#hash-table) | 140 |
+| [Hash Table](#hash-table) | 141 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 25 |
 | [Heuristic Search](#heuristic-search) | 1 |
 | [Impartial Game](#impartial-game) | 2 |
@@ -118,12 +118,12 @@ Welcome to my LeetCode solutions repository!
 | [Range Minimum/Maximum Query](#range-minimum/maximum-query) | 2 |
 | [Recursion](#recursion) | 25 |
 | [Rolling Hash](#rolling-hash) | 2 |
-| [Segment Tree](#segment-tree) | 5 |
+| [Segment Tree](#segment-tree) | 6 |
 | [Shortest Path](#shortest-path) | 5 |
 | [Sieve Theory](#sieve-theory) | 3 |
 | [Simulation](#simulation) | 50 |
 | [Sliding Window](#sliding-window) | 49 |
-| [Sorting](#sorting) | 95 |
+| [Sorting](#sorting) | 96 |
 | [Sqrt Decomposition](#sqrt-decomposition) | 1 |
 | [Stack](#stack) | 56 |
 | [String](#string) | 158 |
@@ -455,7 +455,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 337)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 338)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -668,6 +668,7 @@ Welcome to my LeetCode solutions repository!
 - **378. [Kth Smallest Element in a Sorted Matrix](./378-kth-smallest-element-in-a-sorted-matrix)**
 - **38. [Count and Say](./38-count-and-say)**
 - **3815. [Sum of Largest Prime Substrings](./3815-sum-of-largest-prime-substrings)**
+- **3847. [Minimum Swaps to Sort by Digit Sum](./3847-minimum-swaps-to-sort-by-digit-sum)**
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**
 - **386. [Lexicographical Numbers](./386-lexicographical-numbers)**
 - **39. [Combination Sum](./39-combination-sum)**
@@ -797,7 +798,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 59)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 60)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -833,6 +834,7 @@ Welcome to my LeetCode solutions repository!
 - **2394. [Count Subarrays With Score Less Than K](./2394-count-subarrays-with-score-less-than-k)**
 - **25. [Reverse Nodes in k-Group](./25-reverse-nodes-in-k-group)**
 - **2527. [Count Subarrays With Fixed Bounds](./2527-count-subarrays-with-fixed-bounds)**
+- **2703. [Handling Sum Queries After Update](./2703-handling-sum-queries-after-update)**
 - **30. [Substring with Concatenation of All Words](./30-substring-with-concatenation-of-all-words)**
 - **301. [Remove Invalid Parentheses](./301-remove-invalid-parentheses)**
 - **312. [Burst Balloons](./312-burst-balloons)**
@@ -904,7 +906,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 392)</summary>
+<summary id="array"><strong>Array</strong> (Total: 394)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1527,6 +1529,9 @@ Welcome to my LeetCode solutions repository!
 - **27. [Remove Element](./27-remove-element)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **2703. [Handling Sum Queries After Update](./2703-handling-sum-queries-after-update)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
 - **2714. [Left and Right Sum Differences](./2714-left-and-right-sum-differences)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -1708,6 +1713,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **378. [Kth Smallest Element in a Sorted Matrix](./378-kth-smallest-element-in-a-sorted-matrix)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3847. [Minimum Swaps to Sort by Digit Sum](./3847-minimum-swaps-to-sort-by-digit-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**  
@@ -4436,7 +4444,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-table"><strong>Hash Table</strong> (Total: 140)</summary>
+<summary id="hash-table"><strong>Hash Table</strong> (Total: 141)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4728,6 +4736,9 @@ Welcome to my LeetCode solutions repository!
 
 - **383. [Ransom Note](./383-ransom-note)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3847. [Minimum Swaps to Sort by Digit Sum](./3847-minimum-swaps-to-sort-by-digit-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **387. [First Unique Character in a String](./387-first-unique-character-in-a-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6341,7 +6352,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="segment-tree"><strong>Segment Tree</strong> (Total: 5)</summary>
+<summary id="segment-tree"><strong>Segment Tree</strong> (Total: 6)</summary>
+
+- **2703. [Handling Sum Queries After Update](./2703-handling-sum-queries-after-update)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **307. [Range Sum Query - Mutable](./307-range-sum-query-mutable)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -6702,7 +6716,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 95)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 96)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6903,6 +6917,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3815. [Sum of Largest Prime Substrings](./3815-sum-of-largest-prime-substrings)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3847. [Minimum Swaps to Sort by Digit Sum](./3847-minimum-swaps-to-sort-by-digit-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3871. [Minimum Deletions for At Most K Distinct Characters](./3871-minimum-deletions-for-at-most-k-distinct-characters)**  
