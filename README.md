@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 703
+**Total Questions:** 705
 
 ### Difficulty Distribution
 
@@ -14,9 +14,9 @@ Welcome to my LeetCode solutions repository!
 
 | Difficulty | Count |
 |------------|-------|
-| <span style='color:green'>Easy</span> | 305 |
+| <span style='color:green'>Easy</span> | 306 |
 | <span style='color:orange'>Medium</span> | 338 |
-| <span style='color:red'>Hard</span> | 60 |
+| <span style='color:red'>Hard</span> | 61 |
 
 ### Topics Overview
 
@@ -26,15 +26,15 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 394 |
+| [Array](#array) | 396 |
 | [Backtracking](#backtracking) | 34 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
 | [Binary Indexed Tree](#binary-indexed-tree) | 4 |
 | [Binary Lifting](#binary-lifting) | 4 |
 | [Binary Search](#binary-search) | 69 |
-| [Binary Search Tree](#binary-search-tree) | 13 |
-| [Binary Tree](#binary-tree) | 44 |
+| [Binary Search Tree](#binary-search-tree) | 14 |
+| [Binary Tree](#binary-tree) | 45 |
 | [Bit Manipulation](#bit-manipulation) | 45 |
 | [Bitmask](#bitmask) | 5 |
 | [Borůvka's Algorithm](#borůvka's-algorithm) | 1 |
@@ -47,7 +47,7 @@ Welcome to my LeetCode solutions repository!
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Bézout's Lemma](#bézout's-lemma) | 1 |
 | [Cartesian Tree](#cartesian-tree) | 3 |
-| [Combinatorics](#combinatorics) | 2 |
+| [Combinatorics](#combinatorics) | 3 |
 | [Complete Knapsack](#complete-knapsack) | 2 |
 | [Counting](#counting) | 33 |
 | [Counting Sort](#counting-sort) | 5 |
@@ -59,21 +59,22 @@ Welcome to my LeetCode solutions repository!
 | [Design](#design) | 26 |
 | [Dijkstra's Algorithm](#dijkstra's-algorithm) | 4 |
 | [Directed Acyclic Graph](#directed-acyclic-graph) | 2 |
-| [Divide and Conquer](#divide-and-conquer) | 17 |
+| [Divide and Conquer](#divide-and-conquer) | 18 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
-| [Dynamic Programming](#dynamic-programming) | 80 |
+| [Dynamic Programming](#dynamic-programming) | 81 |
 | [Enumeration](#enumeration) | 11 |
 | [Euclidean Algorithm](#euclidean-algorithm) | 5 |
 | [Euler's Theorem](#euler's-theorem) | 1 |
 | [Euler's Totient Function](#euler's-totient-function) | 1 |
 | [Extended Euclidean Algorithm](#extended-euclidean-algorithm) | 1 |
+| [Fermat's Little Theorem](#fermat's-little-theorem) | 1 |
 | [Floyd's Cycle Finding Algorithm](#floyd's-cycle-finding-algorithm) | 5 |
 | [Floyd–Warshall Algorithm](#floyd–warshall-algorithm) | 1 |
 | [Game Theory](#game-theory) | 6 |
 | [Geometry](#geometry) | 2 |
 | [Graph Theory](#graph-theory) | 16 |
 | [Greatest Common Divisor](#greatest-common-divisor) | 5 |
-| [Greedy](#greedy) | 52 |
+| [Greedy](#greedy) | 53 |
 | [Hamiltonian Path](#hamiltonian-path) | 1 |
 | [Hash Function](#hash-function) | 5 |
 | [Hash Table](#hash-table) | 141 |
@@ -90,10 +91,10 @@ Welcome to my LeetCode solutions repository!
 | [Longest Increasing Subsequence](#longest-increasing-subsequence) | 3 |
 | [Lowest Common Ancestor](#lowest-common-ancestor) | 4 |
 | [Manacher](#manacher) | 1 |
-| [Math](#math) | 120 |
+| [Math](#math) | 121 |
 | [Matrix](#matrix) | 57 |
 | [Meet in the Middle](#meet-in-the-middle) | 3 |
-| [Memoization](#memoization) | 5 |
+| [Memoization](#memoization) | 6 |
 | [Merge Sort](#merge-sort) | 3 |
 | [Minimax](#minimax) | 3 |
 | [Minimum Spanning Tree](#minimum-spanning-tree) | 1 |
@@ -126,17 +127,17 @@ Welcome to my LeetCode solutions repository!
 | [Sorting](#sorting) | 96 |
 | [Sqrt Decomposition](#sqrt-decomposition) | 1 |
 | [Stack](#stack) | 56 |
-| [String](#string) | 158 |
+| [String](#string) | 159 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tarjan's SCC Algorithm](#tarjan's-scc-algorithm) | 1 |
 | [Timsort](#timsort) | 1 |
 | [Topological Sort](#topological-sort) | 4 |
 | [Tournament Sort](#tournament-sort) | 1 |
-| [Tree](#tree) | 47 |
+| [Tree](#tree) | 48 |
 | [Trie](#trie) | 6 |
-| [Two Pointers](#two-pointers) | 85 |
-| [Union-Find](#union-find) | 20 |
+| [Two Pointers](#two-pointers) | 86 |
+| [Union-Find](#union-find) | 21 |
 | [Z Algorithm](#z-algorithm) | 4 |
 | [Zero-Sum Game](#zero-sum-game) | 2 |
 
@@ -145,7 +146,7 @@ Welcome to my LeetCode solutions repository!
 ## 📚 Problems by Difficulty
 
 <details>
-<summary id="easy"><strong>Easy</strong> (Total: 305)</summary>
+<summary id="easy"><strong>Easy</strong> (Total: 306)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**
@@ -451,6 +452,7 @@ Welcome to my LeetCode solutions repository!
 - **961. [Long Pressed Name](./961-long-pressed-name)**
 - **969. [Number of Recent Calls](./969-number-of-recent-calls)**
 - **975. [Range Sum of BST](./975-range-sum-of-bst)**
+- **979. [DI String Match](./979-di-string-match)**
 - **981. [Delete Columns to Make Sorted](./981-delete-columns-to-make-sorted)**
 </details>
 
@@ -798,7 +800,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 60)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 61)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -818,6 +820,7 @@ Welcome to my LeetCode solutions repository!
 - **154. [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii)**
 - **1559. [Cherry Pickup II](./1559-cherry-pickup-ii)**
 - **1669. [Minimum Cost to Cut a Stick](./1669-minimum-cost-to-cut-a-stick)**
+- **1692. [Number of Ways to Reorder Array to Get Same BST](./1692-number-of-ways-to-reorder-array-to-get-same-bst)**
 - **188. [Best Time to Buy and Sell Stock IV](./188-best-time-to-buy-and-sell-stock-iv)**
 - **1881. [Closest Subsequence Sum](./1881-closest-subsequence-sum)**
 - **1906. [Maximize Score After N Operations](./1906-maximize-score-after-n-operations)**
@@ -906,7 +909,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 394)</summary>
+<summary id="array"><strong>Array</strong> (Total: 396)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1201,6 +1204,9 @@ Welcome to my LeetCode solutions repository!
 
 - **169. [Majority Element](./169-majority-element)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1692. [Number of Ways to Reorder Array to Get Same BST](./1692-number-of-ways-to-reorder-array-to-get-same-bst)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1706. [Min Cost to Connect All Points](./1706-min-cost-to-connect-all-points)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2087,6 +2093,9 @@ Welcome to my LeetCode solutions repository!
 - **966. [Binary Subarrays With Sum](./966-binary-subarrays-with-sum)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
+- **979. [DI String Match](./979-di-string-match)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **981. [Delete Columns to Make Sorted](./981-delete-columns-to-make-sorted)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -2474,13 +2483,16 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-search-tree"><strong>Binary Search Tree</strong> (Total: 13)</summary>
+<summary id="binary-search-tree"><strong>Binary Search Tree</strong> (Total: 14)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **108. [Convert Sorted Array to Binary Search Tree](./108-convert-sorted-array-to-binary-search-tree)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1692. [Number of Ways to Reorder Array to Get Same BST](./1692-number-of-ways-to-reorder-array-to-get-same-bst)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **235. [Lowest Common Ancestor of a Binary Search Tree](./235-lowest-common-ancestor-of-a-binary-search-tree)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -2518,7 +2530,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="binary-tree"><strong>Binary Tree</strong> (Total: 44)</summary>
+<summary id="binary-tree"><strong>Binary Tree</strong> (Total: 45)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2570,6 +2582,9 @@ Welcome to my LeetCode solutions repository!
 
 - **145. [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1692. [Number of Ways to Reorder Array to Get Same BST](./1692-number-of-ways-to-reorder-array-to-get-same-bst)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **199. [Binary Tree Right Side View](./199-binary-tree-right-side-view)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3156,7 +3171,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="combinatorics"><strong>Combinatorics</strong> (Total: 2)</summary>
+<summary id="combinatorics"><strong>Combinatorics</strong> (Total: 3)</summary>
+
+- **1692. [Number of Ways to Reorder Array to Get Same BST](./1692-number-of-ways-to-reorder-array-to-get-same-bst)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1993. [Sum of All Subset XOR Totals](./1993-sum-of-all-subset-xor-totals)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3723,7 +3741,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="divide-and-conquer"><strong>Divide and Conquer</strong> (Total: 17)</summary>
+<summary id="divide-and-conquer"><strong>Divide and Conquer</strong> (Total: 18)</summary>
 
 - **105. [Construct Binary Tree from Preorder and Inorder Traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -3736,6 +3754,9 @@ Welcome to my LeetCode solutions repository!
 
 - **169. [Majority Element](./169-majority-element)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1692. [Number of Ways to Reorder Array to Get Same BST](./1692-number-of-ways-to-reorder-array-to-get-same-bst)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1873. [Longest Nice Substring](./1873-longest-nice-substring)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3793,7 +3814,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 80)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 81)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3877,6 +3898,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **1669. [Minimum Cost to Cut a Stick](./1669-minimum-cost-to-cut-a-stick)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **1692. [Number of Ways to Reorder Array to Get Same BST](./1692-number-of-ways-to-reorder-array-to-get-same-bst)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **188. [Best Time to Buy and Sell Stock IV](./188-best-time-to-buy-and-sell-stock-iv)**  
@@ -4120,6 +4144,14 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
+<summary id="fermat's-little-theorem"><strong>Fermat's Little Theorem</strong> (Total: 1)</summary>
+
+- **1692. [Number of Ways to Reorder Array to Get Same BST](./1692-number-of-ways-to-reorder-array-to-get-same-bst)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+</details>
+
+<details>
 <summary id="floyd's-cycle-finding-algorithm"><strong>Floyd's Cycle Finding Algorithm</strong> (Total: 5)</summary>
 
 - **141. [Linked List Cycle](./141-linked-list-cycle)**  
@@ -4255,7 +4287,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="greedy"><strong>Greedy</strong> (Total: 52)</summary>
+<summary id="greedy"><strong>Greedy</strong> (Total: 53)</summary>
 
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4412,6 +4444,9 @@ Welcome to my LeetCode solutions repository!
 
 - **957. [Minimum Add to Make Parentheses Valid](./957-minimum-add-to-make-parentheses-valid)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **979. [DI String Match](./979-di-string-match)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 </details>
 
@@ -5192,7 +5227,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 120)</summary>
+<summary id="math"><strong>Math</strong> (Total: 121)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5253,6 +5288,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1683. [Maximum Number of Coins You Can Get](./1683-maximum-number-of-coins-you-can-get)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1692. [Number of Ways to Reorder Array to Get Same BST](./1692-number-of-ways-to-reorder-array-to-get-same-bst)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **171. [Excel Sheet Column Number](./171-excel-sheet-column-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5747,13 +5785,16 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="memoization"><strong>Memoization</strong> (Total: 5)</summary>
+<summary id="memoization"><strong>Memoization</strong> (Total: 6)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **1236. [N-th Tribonacci Number](./1236-n-th-tribonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1692. [Number of Ways to Reorder Array to Get Same BST](./1692-number-of-ways-to-reorder-array-to-get-same-bst)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **241. [Different Ways to Add Parentheses](./241-different-ways-to-add-parentheses)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -7190,7 +7231,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 158)</summary>
+<summary id="string"><strong>String</strong> (Total: 159)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -7663,6 +7704,9 @@ Welcome to my LeetCode solutions repository!
 - **977. [Distinct Subsequences II](./977-distinct-subsequences-ii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
+- **979. [DI String Match](./979-di-string-match)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 - **981. [Delete Columns to Make Sorted](./981-delete-columns-to-make-sorted)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
@@ -7744,7 +7788,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="tree"><strong>Tree</strong> (Total: 47)</summary>
+<summary id="tree"><strong>Tree</strong> (Total: 48)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -7796,6 +7840,9 @@ Welcome to my LeetCode solutions repository!
 
 - **145. [Binary Tree Postorder Traversal](./145-binary-tree-postorder-traversal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1692. [Number of Ways to Reorder Array to Get Same BST](./1692-number-of-ways-to-reorder-array-to-get-same-bst)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **199. [Binary Tree Right Side View](./199-binary-tree-right-side-view)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -7913,7 +7960,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 85)</summary>
+<summary id="two-pointers"><strong>Two Pointers</strong> (Total: 86)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -8170,10 +8217,13 @@ Welcome to my LeetCode solutions repository!
 - **961. [Long Pressed Name](./961-long-pressed-name)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
+- **979. [DI String Match](./979-di-string-match)**  
+  _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
 </details>
 
 <details>
-<summary id="union-find"><strong>Union-Find</strong> (Total: 20)</summary>
+<summary id="union-find"><strong>Union-Find</strong> (Total: 21)</summary>
 
 - **1073. [Number of Enclaves](./1073-number-of-enclaves)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -8201,6 +8251,9 @@ Welcome to my LeetCode solutions repository!
 
 - **1663. [Detect Cycles in 2D Grid](./1663-detect-cycles-in-2d-grid)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1692. [Number of Ways to Reorder Array to Get Same BST](./1692-number-of-ways-to-reorder-array-to-get-same-bst)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1706. [Min Cost to Connect All Points](./1706-min-cost-to-connect-all-points)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
