@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 705
+**Total Questions:** 707
 
 ### Difficulty Distribution
 
@@ -15,8 +15,8 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 306 |
-| <span style='color:orange'>Medium</span> | 338 |
-| <span style='color:red'>Hard</span> | 61 |
+| <span style='color:orange'>Medium</span> | 339 |
+| <span style='color:red'>Hard</span> | 62 |
 
 ### Topics Overview
 
@@ -26,7 +26,7 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 396 |
+| [Array](#array) | 397 |
 | [Backtracking](#backtracking) | 34 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
@@ -62,7 +62,7 @@ Welcome to my LeetCode solutions repository!
 | [Divide and Conquer](#divide-and-conquer) | 18 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
 | [Dynamic Programming](#dynamic-programming) | 81 |
-| [Enumeration](#enumeration) | 11 |
+| [Enumeration](#enumeration) | 12 |
 | [Euclidean Algorithm](#euclidean-algorithm) | 5 |
 | [Euler's Theorem](#euler's-theorem) | 1 |
 | [Euler's Totient Function](#euler's-totient-function) | 1 |
@@ -91,7 +91,7 @@ Welcome to my LeetCode solutions repository!
 | [Longest Increasing Subsequence](#longest-increasing-subsequence) | 3 |
 | [Lowest Common Ancestor](#lowest-common-ancestor) | 4 |
 | [Manacher](#manacher) | 1 |
-| [Math](#math) | 121 |
+| [Math](#math) | 122 |
 | [Matrix](#matrix) | 57 |
 | [Meet in the Middle](#meet-in-the-middle) | 3 |
 | [Memoization](#memoization) | 6 |
@@ -124,10 +124,10 @@ Welcome to my LeetCode solutions repository!
 | [Sieve Theory](#sieve-theory) | 3 |
 | [Simulation](#simulation) | 50 |
 | [Sliding Window](#sliding-window) | 49 |
-| [Sorting](#sorting) | 96 |
+| [Sorting](#sorting) | 97 |
 | [Sqrt Decomposition](#sqrt-decomposition) | 1 |
 | [Stack](#stack) | 56 |
-| [String](#string) | 159 |
+| [String](#string) | 160 |
 | [String Matching](#string-matching) | 7 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tarjan's SCC Algorithm](#tarjan's-scc-algorithm) | 1 |
@@ -457,7 +457,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 338)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 339)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -682,6 +682,7 @@ Welcome to my LeetCode solutions repository!
 - **4078. [Maximum Alternating Sum of Squares](./4078-maximum-alternating-sum-of-squares)**
 - **4084. [Maximize Sum of Squares of Digits](./4084-maximize-sum-of-squares-of-digits)**
 - **416. [Partition Equal Subset Sum](./416-partition-equal-subset-sum)**
+- **4220. [Minimum Operations to Sort a String](./4220-minimum-operations-to-sort-a-string)**
 - **424. [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)**
 - **4248. [Count Commas in Range II](./4248-count-commas-in-range-ii)**
 - **4285. [Smallest Stable Index II](./4285-smallest-stable-index-ii)**
@@ -800,7 +801,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 61)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 62)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -850,6 +851,7 @@ Welcome to my LeetCode solutions repository!
 - **41. [First Missing Positive](./41-first-missing-positive)**
 - **410. [Split Array Largest Sum](./410-split-array-largest-sum)**
 - **42. [Trapping Rain Water](./42-trapping-rain-water)**
+- **4257. [Sum of Sortable Integers](./4257-sum-of-sortable-integers)**
 - **44. [Wildcard Matching](./44-wildcard-matching)**
 - **51. [N-Queens](./51-n-queens)**
 - **52. [N-Queens II](./52-n-queens-ii)**
@@ -909,7 +911,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 396)</summary>
+<summary id="array"><strong>Array</strong> (Total: 397)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1765,6 +1767,9 @@ Welcome to my LeetCode solutions repository!
 
 - **4216. [Weighted Word Mapping](./4216-weighted-word-mapping)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **4257. [Sum of Sortable Integers](./4257-sum-of-sortable-integers)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **4285. [Smallest Stable Index II](./4285-smallest-stable-index-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -4062,7 +4067,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="enumeration"><strong>Enumeration</strong> (Total: 11)</summary>
+<summary id="enumeration"><strong>Enumeration</strong> (Total: 12)</summary>
 
 - **1656. [Count Good Triplets](./1656-count-good-triplets)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4093,6 +4098,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **4257. [Sum of Sortable Integers](./4257-sum-of-sortable-integers)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **875. [Longest Mountain in Array](./875-longest-mountain-in-array)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5227,7 +5235,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="math"><strong>Math</strong> (Total: 121)</summary>
+<summary id="math"><strong>Math</strong> (Total: 122)</summary>
 
 - **1013. [Fibonacci Number](./1013-fibonacci-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -5486,6 +5494,9 @@ Welcome to my LeetCode solutions repository!
 
 - **4248. [Count Commas in Range II](./4248-count-commas-in-range-ii)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **4257. [Sum of Sortable Integers](./4257-sum-of-sortable-integers)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **43. [Multiply Strings](./43-multiply-strings)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -6757,7 +6768,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="sorting"><strong>Sorting</strong> (Total: 96)</summary>
+<summary id="sorting"><strong>Sorting</strong> (Total: 97)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6974,6 +6985,9 @@ Welcome to my LeetCode solutions repository!
 
 - **414. [Third Maximum Number](./414-third-maximum-number)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **4257. [Sum of Sortable Integers](./4257-sum-of-sortable-integers)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **436. [Find Right Interval](./436-find-right-interval)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -7231,7 +7245,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 159)</summary>
+<summary id="string"><strong>String</strong> (Total: 160)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -7562,6 +7576,9 @@ Welcome to my LeetCode solutions repository!
 
 - **4216. [Weighted Word Mapping](./4216-weighted-word-mapping)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **4220. [Minimum Operations to Sort a String](./4220-minimum-operations-to-sort-a-string)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **424. [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
