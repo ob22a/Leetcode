@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 707
+**Total Questions:** 708
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 306 |
-| <span style='color:orange'>Medium</span> | 339 |
+| <span style='color:orange'>Medium</span> | 340 |
 | <span style='color:red'>Hard</span> | 62 |
 
 ### Topics Overview
@@ -26,7 +26,7 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 397 |
+| [Array](#array) | 398 |
 | [Backtracking](#backtracking) | 34 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
@@ -457,7 +457,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 339)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 340)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -682,6 +682,7 @@ Welcome to my LeetCode solutions repository!
 - **4078. [Maximum Alternating Sum of Squares](./4078-maximum-alternating-sum-of-squares)**
 - **4084. [Maximize Sum of Squares of Digits](./4084-maximize-sum-of-squares-of-digits)**
 - **416. [Partition Equal Subset Sum](./416-partition-equal-subset-sum)**
+- **4184. [Minimum Operations to Sort a Permutation](./4184-minimum-operations-to-sort-a-permutation)**
 - **4220. [Minimum Operations to Sort a String](./4220-minimum-operations-to-sort-a-string)**
 - **424. [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)**
 - **4248. [Count Commas in Range II](./4248-count-commas-in-range-ii)**
@@ -911,7 +912,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 397)</summary>
+<summary id="array"><strong>Array</strong> (Total: 398)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1760,6 +1761,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **416. [Partition Equal Subset Sum](./416-partition-equal-subset-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **4184. [Minimum Operations to Sort a Permutation](./4184-minimum-operations-to-sort-a-permutation)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **42. [Trapping Rain Water](./42-trapping-rain-water)**  
