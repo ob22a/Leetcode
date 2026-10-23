@@ -3,53 +3,64 @@ class Solution:
         MOD = 10**9 + 7
         n = len(nums)
 
-        sums = [0] * (4 * n)
-        squares = [0] * (4 * n)
-        lazy = [0] * (4 * n)
+        sums = [0] * (4*n)
+        squares = [0] * (4*n)
+        lazy = [0] * (4*n)
 
-        def apply(node, length, x):
-            squares[node] = (squares[node] + 2 * x * sums[node] + length * x * x) % MOD
+        """
+        T' = T + lx and S' = S + 2Sx + kx^2 , where 
+        l is the length or range
+        x is the number of update 
+        T is total unique numbers 
+        S sum of square of Ts
 
-            sums[node] = (sums[node] + length * x) % MOD
-            lazy[node] += x
+        x is usually 1 be we don't just assume that and ignore it in lazy propagation it could accumulate
+        """
 
-        def push(node, left, right):
-            if lazy[node] == 0 or left == right:
+        def update(node,left,right,start,end):
+            left_node = 2*node+1
+            right_node = 2*node+2
+
+            length = right-left+1
+            mid = (right+left)//2
+
+            if lazy[node]:
+                squares[node] += 2*sums[node]*lazy[node] + length*lazy[node]**2
+                sums[node]+=length*lazy[node]
+
+                if left!=right:
+                    lazy[left_node]+=lazy[node]
+                    lazy[right_node]+=lazy[node]
+                
+                lazy[node]=0
+            
+            if start<=left and right<=end:
+                squares[node]=(squares[node] + 2*sums[node] + length)%MOD
+                sums[node] = (sums[node] + length)%MOD
+
+                if left!=right:
+                    lazy[left_node]+=1
+                    lazy[right_node]+=1
+                
                 return
-
-            mid = (left + right) // 2
-            x = lazy[node]
-
-            apply(node * 2, mid - left + 1, x)
-            apply(node * 2 + 1, right - mid, x)
-
-            lazy[node] = 0
-
-        def update(node, left, right, ql, qr):
-            if ql <= left and right <= qr:
-                apply(node, right - left + 1, 1)
+            
+            elif end<left or start>right:
                 return
-
-            push(node, left, right)
-            mid = (left + right) // 2
-
-            if ql <= mid:
-                update(node * 2, left, mid, ql, qr)
-
-            if qr > mid:
-                update(node * 2 + 1, mid + 1, right, ql, qr)
-
-            sums[node] = (sums[node * 2] + sums[node * 2 + 1]) % MOD
-            squares[node] = (squares[node * 2] + squares[node * 2 + 1]) % MOD
-
+            else:
+                update(left_node,left,mid,start,end)
+                update(right_node,mid+1,right,start,end)
+            
+            sums[node]=(sums[left_node]+sums[right_node])%MOD
+            squares[node]=(squares[left_node]+squares[right_node])%MOD
+            
         last = {}
         ans = 0
 
         for r, x in enumerate(nums):
             p = last.get(x, -1)
-            update(1, 0, n - 1, p + 1, r)
+            update(0, 0, n - 1, p + 1, r)
 
-            ans = (ans + squares[1]) % MOD
+            ans = (ans + squares[0]) % MOD
             last[x] = r
 
         return ans
