@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 708
+**Total Questions:** 710
 
 ### Difficulty Distribution
 
@@ -15,8 +15,8 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 306 |
-| <span style='color:orange'>Medium</span> | 340 |
-| <span style='color:red'>Hard</span> | 62 |
+| <span style='color:orange'>Medium</span> | 341 |
+| <span style='color:red'>Hard</span> | 63 |
 
 ### Topics Overview
 
@@ -26,7 +26,7 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 398 |
+| [Array](#array) | 399 |
 | [Backtracking](#backtracking) | 34 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
@@ -35,7 +35,7 @@ Welcome to my LeetCode solutions repository!
 | [Binary Search](#binary-search) | 69 |
 | [Binary Search Tree](#binary-search-tree) | 14 |
 | [Binary Tree](#binary-tree) | 45 |
-| [Bit Manipulation](#bit-manipulation) | 45 |
+| [Bit Manipulation](#bit-manipulation) | 46 |
 | [Bitmask](#bitmask) | 5 |
 | [Borůvka's Algorithm](#borůvka's-algorithm) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](#boyer–moore-majority-vote-algorithm) | 2 |
@@ -76,14 +76,14 @@ Welcome to my LeetCode solutions repository!
 | [Greatest Common Divisor](#greatest-common-divisor) | 5 |
 | [Greedy](#greedy) | 53 |
 | [Hamiltonian Path](#hamiltonian-path) | 1 |
-| [Hash Function](#hash-function) | 5 |
+| [Hash Function](#hash-function) | 6 |
 | [Hash Table](#hash-table) | 141 |
 | [Heap (Priority Queue)](#heap-(priority-queue)) | 25 |
 | [Heuristic Search](#heuristic-search) | 1 |
 | [Impartial Game](#impartial-game) | 2 |
 | [Interactive](#interactive) | 2 |
 | [Knapsack Problem](#knapsack-problem) | 4 |
-| [Knuth–Morris–Pratt Algorithm](#knuth–morris–pratt-algorithm) | 3 |
+| [Knuth–Morris–Pratt Algorithm](#knuth–morris–pratt-algorithm) | 4 |
 | [Kosaraju's Algorithm](#kosaraju's-algorithm) | 1 |
 | [Kruskal's Algorithm](#kruskal's-algorithm) | 1 |
 | [Linked List](#linked-list) | 35 |
@@ -118,7 +118,7 @@ Welcome to my LeetCode solutions repository!
 | [Randomized](#randomized) | 1 |
 | [Range Minimum/Maximum Query](#range-minimum/maximum-query) | 2 |
 | [Recursion](#recursion) | 25 |
-| [Rolling Hash](#rolling-hash) | 2 |
+| [Rolling Hash](#rolling-hash) | 3 |
 | [Segment Tree](#segment-tree) | 6 |
 | [Shortest Path](#shortest-path) | 5 |
 | [Sieve Theory](#sieve-theory) | 3 |
@@ -127,8 +127,8 @@ Welcome to my LeetCode solutions repository!
 | [Sorting](#sorting) | 97 |
 | [Sqrt Decomposition](#sqrt-decomposition) | 1 |
 | [Stack](#stack) | 56 |
-| [String](#string) | 160 |
-| [String Matching](#string-matching) | 7 |
+| [String](#string) | 161 |
+| [String Matching](#string-matching) | 8 |
 | [Sweep Line](#sweep-line) | 1 |
 | [Tarjan's SCC Algorithm](#tarjan's-scc-algorithm) | 1 |
 | [Timsort](#timsort) | 1 |
@@ -138,7 +138,7 @@ Welcome to my LeetCode solutions repository!
 | [Trie](#trie) | 6 |
 | [Two Pointers](#two-pointers) | 86 |
 | [Union-Find](#union-find) | 21 |
-| [Z Algorithm](#z-algorithm) | 4 |
+| [Z Algorithm](#z-algorithm) | 5 |
 | [Zero-Sum Game](#zero-sum-game) | 2 |
 
 ---
@@ -457,7 +457,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 340)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 341)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -675,6 +675,7 @@ Welcome to my LeetCode solutions repository!
 - **386. [Lexicographical Numbers](./386-lexicographical-numbers)**
 - **39. [Combination Sum](./39-combination-sum)**
 - **394. [Decode String](./394-decode-string)**
+- **3950. [Maximum K to Sort a Permutation](./3950-maximum-k-to-sort-a-permutation)**
 - **3974. [XOR After Range Multiplication Queries I](./3974-xor-after-range-multiplication-queries-i)**
 - **40. [Combination Sum II](./40-combination-sum-ii)**
 - **400. [Nth Digit](./400-nth-digit)**
@@ -802,7 +803,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hard"><strong>Hard</strong> (Total: 62)</summary>
+<summary id="hard"><strong>Hard</strong> (Total: 63)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**
@@ -819,6 +820,7 @@ Welcome to my LeetCode solutions repository!
 - **132. [Palindrome Partitioning II](./132-palindrome-partitioning-ii)**
 - **135. [Candy](./135-candy)**
 - **1414. [Shortest Path in a Grid with Obstacles Elimination](./1414-shortest-path-in-a-grid-with-obstacles-elimination)**
+- **1508. [Longest Happy Prefix](./1508-longest-happy-prefix)**
 - **154. [Find Minimum in Rotated Sorted Array II](./154-find-minimum-in-rotated-sorted-array-ii)**
 - **1559. [Cherry Pickup II](./1559-cherry-pickup-ii)**
 - **1669. [Minimum Cost to Cut a Stick](./1669-minimum-cost-to-cut-a-stick)**
@@ -912,7 +914,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 398)</summary>
+<summary id="array"><strong>Array</strong> (Total: 399)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1734,6 +1736,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **39. [Combination Sum](./39-combination-sum)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3950. [Maximum K to Sort a Permutation](./3950-maximum-k-to-sort-a-permutation)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3973. [Flip Square Submatrix Vertically](./3973-flip-square-submatrix-vertically)**  
@@ -2679,7 +2684,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 45)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 46)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2779,6 +2784,9 @@ Welcome to my LeetCode solutions repository!
 
 - **389. [Find the Difference](./389-find-the-difference)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **3950. [Maximum K to Sort a Permutation](./3950-maximum-k-to-sort-a-permutation)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **401. [Binary Watch](./401-binary-watch)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -4471,7 +4479,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="hash-function"><strong>Hash Function</strong> (Total: 5)</summary>
+<summary id="hash-function"><strong>Hash Function</strong> (Total: 6)</summary>
+
+- **1508. [Longest Happy Prefix](./1508-longest-happy-prefix)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **187. [Repeated DNA Sequences](./187-repeated-dna-sequences)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -5046,7 +5057,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="knuth–morris–pratt-algorithm"><strong>Knuth–Morris–Pratt Algorithm</strong> (Total: 3)</summary>
+<summary id="knuth–morris–pratt-algorithm"><strong>Knuth–Morris–Pratt Algorithm</strong> (Total: 4)</summary>
+
+- **1508. [Longest Happy Prefix](./1508-longest-happy-prefix)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **28. [Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -6397,7 +6411,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="rolling-hash"><strong>Rolling Hash</strong> (Total: 2)</summary>
+<summary id="rolling-hash"><strong>Rolling Hash</strong> (Total: 3)</summary>
+
+- **1508. [Longest Happy Prefix](./1508-longest-happy-prefix)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **187. [Repeated DNA Sequences](./187-repeated-dna-sequences)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -7249,7 +7266,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string"><strong>String</strong> (Total: 160)</summary>
+<summary id="string"><strong>String</strong> (Total: 161)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -7334,6 +7351,9 @@ Welcome to my LeetCode solutions repository!
 
 - **14. [Longest Common Prefix](./14-longest-common-prefix)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **1508. [Longest Happy Prefix](./1508-longest-happy-prefix)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **1567. [Maximum Number of Vowels in a Substring of Given Length](./1567-maximum-number-of-vowels-in-a-substring-of-given-length)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -7734,10 +7754,13 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="string-matching"><strong>String Matching</strong> (Total: 7)</summary>
+<summary id="string-matching"><strong>String Matching</strong> (Total: 8)</summary>
 
 - **1080. [Camelcase Matching](./1080-camelcase-matching)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **1508. [Longest Happy Prefix](./1508-longest-happy-prefix)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **28. [Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -8312,7 +8335,10 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="z-algorithm"><strong>Z Algorithm</strong> (Total: 4)</summary>
+<summary id="z-algorithm"><strong>Z Algorithm</strong> (Total: 5)</summary>
+
+- **1508. [Longest Happy Prefix](./1508-longest-happy-prefix)**  
+  _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **187. [Repeated DNA Sequences](./187-repeated-dna-sequences)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
