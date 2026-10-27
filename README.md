@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 710
+**Total Questions:** 711
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 306 |
-| <span style='color:orange'>Medium</span> | 341 |
+| <span style='color:orange'>Medium</span> | 342 |
 | <span style='color:red'>Hard</span> | 63 |
 
 ### Topics Overview
@@ -26,7 +26,7 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 399 |
+| [Array](#array) | 400 |
 | [Backtracking](#backtracking) | 34 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
@@ -42,7 +42,7 @@ Welcome to my LeetCode solutions repository!
 | [Boyer–Moore String-Search Algorithm](#boyer–moore-string-search-algorithm) | 3 |
 | [Bracket Sequences](#bracket-sequences) | 13 |
 | [Brainteaser](#brainteaser) | 3 |
-| [Breadth-First Search](#breadth-first-search) | 65 |
+| [Breadth-First Search](#breadth-first-search) | 66 |
 | [Bubble Sort](#bubble-sort) | 2 |
 | [Bucket Sort](#bucket-sort) | 4 |
 | [Bézout's Lemma](#bézout's-lemma) | 1 |
@@ -55,7 +55,7 @@ Welcome to my LeetCode solutions repository!
 | [Dancing Links](#dancing-links) | 1 |
 | [Data Stream](#data-stream) | 6 |
 | [Database](#database) | 16 |
-| [Depth-First Search](#depth-first-search) | 68 |
+| [Depth-First Search](#depth-first-search) | 69 |
 | [Design](#design) | 26 |
 | [Dijkstra's Algorithm](#dijkstra's-algorithm) | 4 |
 | [Directed Acyclic Graph](#directed-acyclic-graph) | 2 |
@@ -92,7 +92,7 @@ Welcome to my LeetCode solutions repository!
 | [Lowest Common Ancestor](#lowest-common-ancestor) | 4 |
 | [Manacher](#manacher) | 1 |
 | [Math](#math) | 122 |
-| [Matrix](#matrix) | 57 |
+| [Matrix](#matrix) | 58 |
 | [Meet in the Middle](#meet-in-the-middle) | 3 |
 | [Memoization](#memoization) | 6 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -137,7 +137,7 @@ Welcome to my LeetCode solutions repository!
 | [Tree](#tree) | 48 |
 | [Trie](#trie) | 6 |
 | [Two Pointers](#two-pointers) | 86 |
-| [Union-Find](#union-find) | 21 |
+| [Union-Find](#union-find) | 22 |
 | [Z Algorithm](#z-algorithm) | 5 |
 | [Zero-Sum Game](#zero-sum-game) | 2 |
 
@@ -457,7 +457,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 341)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 342)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -670,6 +670,7 @@ Welcome to my LeetCode solutions repository!
 - **378. [Kth Smallest Element in a Sorted Matrix](./378-kth-smallest-element-in-a-sorted-matrix)**
 - **38. [Count and Say](./38-count-and-say)**
 - **3815. [Sum of Largest Prime Substrings](./3815-sum-of-largest-prime-substrings)**
+- **3823. [Count Islands With Total Value Divisible by K](./3823-count-islands-with-total-value-divisible-by-k)**
 - **3847. [Minimum Swaps to Sort by Digit Sum](./3847-minimum-swaps-to-sort-by-digit-sum)**
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**
 - **386. [Lexicographical Numbers](./386-lexicographical-numbers)**
@@ -914,7 +915,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 399)</summary>
+<summary id="array"><strong>Array</strong> (Total: 400)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1724,6 +1725,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
 
 - **378. [Kth Smallest Element in a Sorted Matrix](./378-kth-smallest-element-in-a-sorted-matrix)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3823. [Count Islands With Total Value Divisible by K](./3823-count-islands-with-total-value-divisible-by-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3847. [Minimum Swaps to Sort by Digit Sum](./3847-minimum-swaps-to-sort-by-digit-sum)**  
@@ -2938,7 +2942,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 65)</summary>
+<summary id="breadth-first-search"><strong>Breadth-First Search</strong> (Total: 66)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3070,6 +3074,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **365. [Water and Jug Problem](./365-water-and-jug-problem)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3823. [Count Islands With Total Value Divisible by K](./3823-count-islands-with-total-value-divisible-by-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **404. [Sum of Left Leaves](./404-sum-of-left-leaves)**  
@@ -3438,7 +3445,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 68)</summary>
+<summary id="depth-first-search"><strong>Depth-First Search</strong> (Total: 69)</summary>
 
 - **653. [Two Sum IV - Input is a BST](./0653-two-sum-iv-input-is-a-bst)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3552,6 +3559,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **365. [Water and Jug Problem](./365-water-and-jug-problem)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3823. [Count Islands With Total Value Divisible by K](./3823-count-islands-with-total-value-divisible-by-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **386. [Lexicographical Numbers](./386-lexicographical-numbers)**  
@@ -5624,7 +5634,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 57)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 58)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5723,6 +5733,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **378. [Kth Smallest Element in a Sorted Matrix](./378-kth-smallest-element-in-a-sorted-matrix)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3823. [Count Islands With Total Value Divisible by K](./3823-count-islands-with-total-value-divisible-by-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **3849. [Equal Sum Grid Partition I](./3849-equal-sum-grid-partition-i)**  
@@ -8267,7 +8280,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="union-find"><strong>Union-Find</strong> (Total: 21)</summary>
+<summary id="union-find"><strong>Union-Find</strong> (Total: 22)</summary>
 
 - **1073. [Number of Enclaves](./1073-number-of-enclaves)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
@@ -8318,6 +8331,9 @@ Welcome to my LeetCode solutions repository!
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
 
 - **2793. [Count the Number of Complete Components](./2793-count-the-number-of-complete-components)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
+
+- **3823. [Count Islands With Total Value Divisible by K](./3823-count-islands-with-total-value-divisible-by-k)**  
   _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **547. [Number of Provinces](./547-number-of-provinces)**  
