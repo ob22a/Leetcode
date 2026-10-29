@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository!
 
 ## 🎯 Statistics
 
-**Total Questions:** 711
+**Total Questions:** 712
 
 ### Difficulty Distribution
 
@@ -15,7 +15,7 @@ Welcome to my LeetCode solutions repository!
 | Difficulty | Count |
 |------------|-------|
 | <span style='color:green'>Easy</span> | 306 |
-| <span style='color:orange'>Medium</span> | 342 |
+| <span style='color:orange'>Medium</span> | 343 |
 | <span style='color:red'>Hard</span> | 63 |
 
 ### Topics Overview
@@ -26,7 +26,7 @@ Welcome to my LeetCode solutions repository!
 | [0-1 Knapsack](#0-1-knapsack) | 2 |
 | [A* Search](#a*-search) | 1 |
 | [Algorithm X](#algorithm-x) | 3 |
-| [Array](#array) | 400 |
+| [Array](#array) | 401 |
 | [Backtracking](#backtracking) | 34 |
 | [Bellman–Ford Algorithm](#bellman–ford-algorithm) | 1 |
 | [Bidirectional Search](#bidirectional-search) | 5 |
@@ -35,7 +35,7 @@ Welcome to my LeetCode solutions repository!
 | [Binary Search](#binary-search) | 69 |
 | [Binary Search Tree](#binary-search-tree) | 14 |
 | [Binary Tree](#binary-tree) | 45 |
-| [Bit Manipulation](#bit-manipulation) | 46 |
+| [Bit Manipulation](#bit-manipulation) | 47 |
 | [Bitmask](#bitmask) | 5 |
 | [Borůvka's Algorithm](#borůvka's-algorithm) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](#boyer–moore-majority-vote-algorithm) | 2 |
@@ -61,7 +61,7 @@ Welcome to my LeetCode solutions repository!
 | [Directed Acyclic Graph](#directed-acyclic-graph) | 2 |
 | [Divide and Conquer](#divide-and-conquer) | 18 |
 | [Doubly-Linked List](#doubly-linked-list) | 3 |
-| [Dynamic Programming](#dynamic-programming) | 81 |
+| [Dynamic Programming](#dynamic-programming) | 82 |
 | [Enumeration](#enumeration) | 12 |
 | [Euclidean Algorithm](#euclidean-algorithm) | 5 |
 | [Euler's Theorem](#euler's-theorem) | 1 |
@@ -92,7 +92,7 @@ Welcome to my LeetCode solutions repository!
 | [Lowest Common Ancestor](#lowest-common-ancestor) | 4 |
 | [Manacher](#manacher) | 1 |
 | [Math](#math) | 122 |
-| [Matrix](#matrix) | 58 |
+| [Matrix](#matrix) | 59 |
 | [Meet in the Middle](#meet-in-the-middle) | 3 |
 | [Memoization](#memoization) | 6 |
 | [Merge Sort](#merge-sort) | 3 |
@@ -457,7 +457,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="medium"><strong>Medium</strong> (Total: 342)</summary>
+<summary id="medium"><strong>Medium</strong> (Total: 343)</summary>
 
 - **1002. [Maximum Width Ramp](./1002-maximum-width-ramp)**
 - **1009. [Pancake Sorting](./1009-pancake-sorting)**
@@ -685,6 +685,7 @@ Welcome to my LeetCode solutions repository!
 - **4084. [Maximize Sum of Squares of Digits](./4084-maximize-sum-of-squares-of-digits)**
 - **416. [Partition Equal Subset Sum](./416-partition-equal-subset-sum)**
 - **4184. [Minimum Operations to Sort a Permutation](./4184-minimum-operations-to-sort-a-permutation)**
+- **4205. [Minimum XOR Path in a Grid](./4205-minimum-xor-path-in-a-grid)**
 - **4220. [Minimum Operations to Sort a String](./4220-minimum-operations-to-sort-a-string)**
 - **424. [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)**
 - **4248. [Count Commas in Range II](./4248-count-commas-in-range-ii)**
@@ -915,7 +916,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="array"><strong>Array</strong> (Total: 400)</summary>
+<summary id="array"><strong>Array</strong> (Total: 401)</summary>
 
 - **506. [Relative Ranks](./0506-relative-ranks)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -1777,6 +1778,9 @@ Welcome to my LeetCode solutions repository!
 
 - **42. [Trapping Rain Water](./42-trapping-rain-water)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **4205. [Minimum XOR Path in a Grid](./4205-minimum-xor-path-in-a-grid)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **4216. [Weighted Word Mapping](./4216-weighted-word-mapping)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -2688,7 +2692,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 46)</summary>
+<summary id="bit-manipulation"><strong>Bit Manipulation</strong> (Total: 47)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -2797,6 +2801,9 @@ Welcome to my LeetCode solutions repository!
 
 - **405. [Convert a Number to Hexadecimal](./405-convert-a-number-to-hexadecimal)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **4205. [Minimum XOR Path in a Grid](./4205-minimum-xor-path-in-a-grid)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **461. [Hamming Distance](./461-hamming-distance)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
@@ -3841,7 +3848,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 81)</summary>
+<summary id="dynamic-programming"><strong>Dynamic Programming</strong> (Total: 82)</summary>
 
 - **10. [Regular Expression Matching](./10-regular-expression-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -3998,6 +4005,9 @@ Welcome to my LeetCode solutions repository!
 
 - **42. [Trapping Rain Water](./42-trapping-rain-water)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
+
+- **4205. [Minimum XOR Path in a Grid](./4205-minimum-xor-path-in-a-grid)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **44. [Wildcard Matching](./44-wildcard-matching)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5634,7 +5644,7 @@ Welcome to my LeetCode solutions repository!
 </details>
 
 <details>
-<summary id="matrix"><strong>Matrix</strong> (Total: 58)</summary>
+<summary id="matrix"><strong>Matrix</strong> (Total: 59)</summary>
 
 - **1022. [Unique Paths III](./1022-unique-paths-iii)**  
   _Difficulty:_ <span style="color:red"><strong>Hard</strong></span>  
@@ -5743,6 +5753,9 @@ Welcome to my LeetCode solutions repository!
 
 - **3973. [Flip Square Submatrix Vertically](./3973-flip-square-submatrix-vertically)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
+
+- **4205. [Minimum XOR Path in a Grid](./4205-minimum-xor-path-in-a-grid)**  
+  _Difficulty:_ <span style="color:orange"><strong>Medium</strong></span>  
 
 - **463. [Island Perimeter](./463-island-perimeter)**  
   _Difficulty:_ <span style="color:green"><strong>Easy</strong></span>  
